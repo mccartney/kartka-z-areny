@@ -1,7 +1,7 @@
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,30/03/2022 19:58
+,,30/03/2022 22:38
 PRZEDMIOT,Brakuje,Priorytet
 duże baniaki z wodą (eden),18 szt.,1. Pilnie potrzebne
 winogrona,9 kg,1. Pilnie potrzebne
@@ -18,7 +18,7 @@ nożyczki do paznokci/ obcinacze,34 szt.,1. Pilnie potrzebne
 dezodoranty męskie/damskie travel size,70 szt.,1. Pilnie potrzebne
 płyn micelar małe małe opak 50-100ml,50 szt.,1. Pilnie potrzebne
 bielizna męska (majtki/koszulki) nowe,35 szt.,1. Pilnie potrzebne
-sudocrem 30ml,20 szt.,1. Pilnie potrzebne
+sudocrem 30ml,10 szt.,1. Pilnie potrzebne
 smartfony używane ,5 szt.,1. Pilnie potrzebne
 worki na smieci160L,94 opak.,1. Pilnie potrzebne
 notatnik z długopisem zestaw,35 szt.,1. Pilnie potrzebne
@@ -31,8 +31,6 @@ bluza z kapturem,7 szt,1. Pilnie potrzebne
 kurtki WIOSENNE,15 szt,1. Pilnie potrzebne
 ładowarki USB-C,15 szt,1. Pilnie potrzebne
 zmywaki-gąbki,20 szt,1. Pilnie potrzebne
-małe poduszki,100 szt,1. Pilnie potrzebne
-duże poduszki,20 ,1. Pilnie potrzebne
 jogurt pitny różne rodzaje,34 szt.,2. Potrzebne
 "woda w małych butelkach, w tym z dziubkiem",170 szt.,2. Potrzebne
 soczki małe z rurką,50 szt.,2. Potrzebne
@@ -105,6 +103,8 @@ skarpetki damskie,-3 szt,3. Mamy wystarczająco
 szczoteczki do zębów + pasta 3 gr,0 szt.,3. Mamy wystarczająco
 karma dla kotów,0 kg,3. Mamy wystarczająco
 kawa mielona 500g,0 szt,3. Mamy wystarczająco
+małe poduszki,0 szt,3. Mamy wystarczająco
+duże poduszki,0 ,3. Mamy wystarczająco
 mleko 1L,-10 szt.,4. Mamy nadmiar
 kefir/jogurt naturalny pitny,-5 szt.,4. Mamy nadmiar
 herbata czarna,-11 szt.,4. Mamy nadmiar
