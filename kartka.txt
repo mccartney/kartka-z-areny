@@ -1,7 +1,7 @@
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,30/03/2022 17:58
+,,30/03/2022 18:06
 PRZEDMIOT,Brakuje,Priorytet
 duże baniaki z wodą (eden),18 szt.,1. Pilnie potrzebne
 chleb tostowy,7 szt.,1. Pilnie potrzebne
@@ -22,6 +22,7 @@ nożyczki do paznokci/ obcinacze,40 szt.,1. Pilnie potrzebne
 dezodoranty męskie/damskie travel size,70 szt.,1. Pilnie potrzebne
 płyn micelar małe małe opak 50-100ml,50 szt.,1. Pilnie potrzebne
 "bielizna damska (majtki/ koszulki) - różne rozmiary, w tym duże",60 szt.,1. Pilnie potrzebne
+bielizna męska (majtki/koszulki) nowe,35 szt.,1. Pilnie potrzebne
 sudocrem 30ml,20 szt.,1. Pilnie potrzebne
 smartfony używane ,5 szt.,1. Pilnie potrzebne
 worki na smieci160L,95 opak.,1. Pilnie potrzebne
@@ -53,11 +54,9 @@ worki na śmieci 240L-400L,5 opak.,2. Potrzebne
 kosmetyczki małe nowe/używane w st. bdb.,10 szt.,2. Potrzebne
 maszynki jednorazowe do golenia damskie,30 szt.,2. Potrzebne
 powerbanki i ładowarki,20 szt.,2. Potrzebne
-pilniki do paznokci,30 szt.,2. Potrzebne
-gumki do włosów / spinki typu wsuwki,6 szt.,2. Potrzebne
+pilniki do paznokci,10 szt.,2. Potrzebne
 pomadki do ust/wazelina,20 szt.,2. Potrzebne
 szampony 150-500ml,41 szt.,2. Potrzebne
-bielizna męska (majtki/koszulki) nowe,25 szt.,2. Potrzebne
 leginsy damskie ,10 szt.,2. Potrzebne
 rajstopy damskie  - różne rozmiary,20 szt.,2. Potrzebne
 worki na smieci 60L,16 opak.,2. Potrzebne
@@ -131,6 +130,7 @@ miski papierowe do wydawania ciepłych posiłków,-5620 szt,4. Mamy nadmiar
 torby miękkie podróżne nowe/ stan bdb.,-5 szt.,4. Mamy nadmiar
 ręczniki duże kąpielowe,-150 szt.,4. Mamy nadmiar
 koce dodatkowe,-5 szt.,4. Mamy nadmiar
+gumki do włosów / spinki typu wsuwki,-10 szt.,4. Mamy nadmiar
 stopery do uszu/opaski na oczy,-6000 szt.,4. Mamy nadmiar
 maseczki jednorazowe,-1000 szt.,4. Mamy nadmiar
 balsamy do ciała travel size 20-50ml,-400 szt.,4. Mamy nadmiar
