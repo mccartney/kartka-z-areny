@@ -1,0 +1,25 @@
+name: cron-snapshot
+
+on:
+  schedule:
+    - cron:  '6 * * * *'
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Download
+        run: wget -O kartka.txt "https://docs.google.com/spreadsheets/d/1I66y4Jtntt3vz96yAkHluUTY4bfQvqjcGBGyZIYZ0Fc/export?format=csv&gid=0"
+        
+      - name: Commit
+        run: |
+          git config --global user.name 'mccartney'
+          git config --global user.email 'mccartney@users.noreply.github.com'
+          git commit -am "Cron snapshot"
+          git push
