@@ -1,7 +1,7 @@
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,30/03/2022 19:08
+,,30/03/2022 19:58
 PRZEDMIOT,Brakuje,Priorytet
 duże baniaki z wodą (eden),18 szt.,1. Pilnie potrzebne
 winogrona,9 kg,1. Pilnie potrzebne
@@ -31,6 +31,8 @@ bluza z kapturem,7 szt,1. Pilnie potrzebne
 kurtki WIOSENNE,15 szt,1. Pilnie potrzebne
 ładowarki USB-C,15 szt,1. Pilnie potrzebne
 zmywaki-gąbki,20 szt,1. Pilnie potrzebne
+małe poduszki,100 szt,1. Pilnie potrzebne
+duże poduszki,20 ,1. Pilnie potrzebne
 jogurt pitny różne rodzaje,34 szt.,2. Potrzebne
 "woda w małych butelkach, w tym z dziubkiem",170 szt.,2. Potrzebne
 soczki małe z rurką,50 szt.,2. Potrzebne
@@ -53,12 +55,11 @@ powerbanki i ładowarki,20 szt.,2. Potrzebne
 pilniki do paznokci,10 szt.,2. Potrzebne
 pomadki do ust/wazelina,20 szt.,2. Potrzebne
 szampony 150-500ml,41 szt.,2. Potrzebne
-"bielizna damska (majtki/ koszulki) - różne rozmiary, w tym duże",31 szt.,2. Potrzebne
-leginsy damskie ,10 szt.,2. Potrzebne
+"bielizna damska (majtki/ koszulki) - różne rozmiary, w tym duże",13 szt.,2. Potrzebne
+leginsy damskie ,4 szt.,2. Potrzebne
 rajstopy damskie  - różne rozmiary,20 szt.,2. Potrzebne
 worki na smieci 60L,30 opak.,2. Potrzebne
 baterie paluszki AA,15 ,2. Potrzebne
-skarpetki damskie,45 szt,2. Potrzebne
 odżywki do włosów travel size 30-50ml,20 szt.,2. Potrzebne
 kabanosy małe opakowania,0 szt.,3. Mamy wystarczająco
 wędlina/kiełbasa krojona paczkowana,-1 szt.,3. Mamy wystarczająco
@@ -83,7 +84,6 @@ podpaski/tampony/- różny poziom chłonności ,0 szt.,3. Mamy wystarczająco
 kremy nawilżające do twarzy 15-30ml,0 szt.,3. Mamy wystarczająco
 płyn do higieny intymnej małe 20-50ml,0 szt.,3. Mamy wystarczająco
 klapki jednorazowe p. prysznic,0 par.,3. Mamy wystarczająco
-bielizna dziecięca (majtki/koszulki) nowe,0 szt.,3. Mamy wystarczająco
 krem/ puder do pupy dla dzieci,0 szt.,3. Mamy wystarczająco
 butelki dla dzieci,-1 szt.,3. Mamy wystarczająco
 worki na śmieci 120L,0 opak.,3. Mamy wystarczająco
@@ -100,6 +100,7 @@ płyn antybakteryjny 5L,0 szt.,3. Mamy wystarczająco
 klapki wielorazowe Męskie różne rozm. 41-46,0 par.,3. Mamy wystarczająco
 klapki wielorazowe Dzieci różne rozm. 23-35,-4 par.,3. Mamy wystarczająco
 waciki do demakijażu,0 opak.,3. Mamy wystarczająco
+skarpetki damskie,-3 szt,3. Mamy wystarczająco
 żel pod prysznic 35  ml,0 szt.,3. Mamy wystarczająco
 szczoteczki do zębów + pasta 3 gr,0 szt.,3. Mamy wystarczająco
 karma dla kotów,0 kg,3. Mamy wystarczająco
@@ -130,13 +131,14 @@ miski papierowe do wydawania ciepłych posiłków,-5620 szt,4. Mamy nadmiar
 torby miękkie podróżne nowe/ stan bdb.,-5 szt.,4. Mamy nadmiar
 ręczniki duże kąpielowe,-150 szt.,4. Mamy nadmiar
 koce dodatkowe,-5 szt.,4. Mamy nadmiar
-gumki do włosów / spinki typu wsuwki,-10 szt.,4. Mamy nadmiar
+gumki do włosów / spinki typu wsuwki,-16 szt.,4. Mamy nadmiar
 stopery do uszu/opaski na oczy,-6000 szt.,4. Mamy nadmiar
 maseczki jednorazowe,-1000 szt.,4. Mamy nadmiar
 balsamy do ciała travel size 20-50ml,-400 szt.,4. Mamy nadmiar
 kremy do rąk małe 30ml,-152 szt.,4. Mamy nadmiar
 mydło w kostce,-120 szt.,4. Mamy nadmiar
 maszynki jednorazowe do golenia męskie,-20 szt.,4. Mamy nadmiar
+bielizna dziecięca (majtki/koszulki) nowe,-16 szt.,4. Mamy nadmiar
 szczoteczki do zębów dla dzieci,-159 szt.,4. Mamy nadmiar
 pasty do zębów dla dzieci,-41 szt.,4. Mamy nadmiar
 chusteczki mokre dla dzieci,-5000 szt.,4. Mamy nadmiar
