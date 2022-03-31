@@ -1,7 +1,7 @@
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,31/03/2022 20:29
+,,31/03/2022 22:03
 PRZEDMIOT,Brakuje,Priorytet
 duże baniaki z wodą (eden),18 szt.,1. Pilnie potrzebne
 pomidory,11 kg,1. Pilnie potrzebne
@@ -66,7 +66,6 @@ drożdżówki/pączki/ maślane bułki,0 szt,3. Mamy wystarczająco
 talerzyki plastikowe małe,0 szt,3. Mamy wystarczająco
 kubeczki do ciepłych napojów plastikowe/papierowe,0 szt,3. Mamy wystarczająco
 pojemniki dwu i trójdzielne do wydawania ciepłych posiłków,0 szt,3. Mamy wystarczająco
-Oshee,0 szt,3. Mamy wystarczająco
 owsianka błyskawiczna kg (lub 20 porcjowanych),0 szt,3. Mamy wystarczająco
 sałata,0 szt,3. Mamy wystarczająco
 kosmetyczki małe nowe/używane w st. bdb.,0 szt.,3. Mamy wystarczająco
