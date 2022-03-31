@@ -1,7 +1,7 @@
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,31/03/2022 19:57
+,,31/03/2022 20:29
 PRZEDMIOT,Brakuje,Priorytet
 duże baniaki z wodą (eden),18 szt.,1. Pilnie potrzebne
 pomidory,11 kg,1. Pilnie potrzebne
@@ -9,14 +9,13 @@ lusterka małe ,9 szt.,1. Pilnie potrzebne
 szczotki do włosów /grzebienie,27 szt.,1. Pilnie potrzebne
 żel do mycia twarzy  50-100ml,80 szt.,1. Pilnie potrzebne
 płyn micelar małe małe opak 50-100ml,45 szt.,1. Pilnie potrzebne
-bielizna męska (majtki/koszulki) nowe,35 szt.,1. Pilnie potrzebne
 smartfony używane ,5 szt.,1. Pilnie potrzebne
 worki na smieci160L,93 opak.,1. Pilnie potrzebne
 szampon do włosów travel size 30-50ml,82 szt.,1. Pilnie potrzebne
 sznurowadła ,10 szt.,1. Pilnie potrzebne
-zmywacz do paznokci,10 szt.,1. Pilnie potrzebne
 cukierki,10 szt,1. Pilnie potrzebne
 ładowarki USB-C,15 szt,1. Pilnie potrzebne
+proszek do prania,3 kg,1. Pilnie potrzebne
 "woda w małych butelkach, w tym z dziubkiem",50 szt.,2. Potrzebne
 winogrona,4 kg,2. Potrzebne
 ogórki kiszone w wiaderkach małych,1 szt,2. Potrzebne
@@ -24,12 +23,13 @@ batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),50 szt.,
 worki na śmieci 240L-400L,7 opak.,2. Potrzebne
 plecaki duże,4 szt.,2. Potrzebne
 "biustonosze różne rozmiary nowe, st. idealny",25 szt.,2. Potrzebne
-maszynki jednorazowe do golenia damskie,30 szt.,2. Potrzebne
+maszynki jednorazowe do golenia damskie,20 szt.,2. Potrzebne
 powerbanki i ładowarki,20 szt.,2. Potrzebne
 pilniki do paznokci,10 szt.,2. Potrzebne
-pomadki do ust/wazelina,20 szt.,2. Potrzebne
+pomadki do ust/wazelina,10 szt.,2. Potrzebne
 szampony 150-500ml,41 szt.,2. Potrzebne
 "bielizna damska (majtki/ koszulki) - różne rozmiary, w tym duże",12 szt.,2. Potrzebne
+bielizna męska (majtki/koszulki) nowe,16 szt.,2. Potrzebne
 leginsy damskie ,4 szt.,2. Potrzebne
 rajstopy damskie  - różne rozmiary,20 szt.,2. Potrzebne
 notatnik z długopisem zestaw,15 szt.,2. Potrzebne
@@ -37,7 +37,6 @@ baterie paluszki AA,15 ,2. Potrzebne
 Walizki na kółkach nowe/ stan bdb.,5 szt,2. Potrzebne
 odżywki do włosów travel size 30-50ml,20 szt.,2. Potrzebne
 kurtki WIOSENNE,4 szt,2. Potrzebne
-zmywaki-gąbki,10 szt,2. Potrzebne
 kefir/jogurt naturalny pitny,0 szt.,3. Mamy wystarczająco
 jogurt pitny różne rodzaje,0 szt.,3. Mamy wystarczająco
 soczki małe z rurką,0 szt.,3. Mamy wystarczająco
@@ -101,13 +100,15 @@ klapki wielorazowe Męskie różne rozm. 41-46,0 par.,3. Mamy wystarczająco
 klapki wielorazowe Dzieci różne rozm. 23-35,-4 par.,3. Mamy wystarczająco
 waciki do demakijażu,0 opak.,3. Mamy wystarczająco
 skarpetki damskie,-3 szt,3. Mamy wystarczająco
+zmywacz do paznokci,0 szt.,3. Mamy wystarczająco
 żel pod prysznic 35  ml,0 szt.,3. Mamy wystarczająco
 szczoteczki do zębów + pasta 3 gr,0 szt.,3. Mamy wystarczająco
 karma dla kotów,0 kg,3. Mamy wystarczająco
 kawa mielona 500g,0 szt,3. Mamy wystarczająco
+zmywaki-gąbki,0 szt,3. Mamy wystarczająco
 małe poduszki,0 szt,3. Mamy wystarczająco
 duże poduszki,0 szt,3. Mamy wystarczająco
-nożyczki do paznokci,0 sz,3. Mamy wystarczająco
+nożyczki do paznokci,0 szt,3. Mamy wystarczająco
 mleko 1L,-20 szt.,4. Mamy nadmiar
 herbata czarna,-10 szt.,4. Mamy nadmiar
 "herbata melisa i inne zioła (np. mięta, rumianek), herbata zielon",-10 szt.,4. Mamy nadmiar
