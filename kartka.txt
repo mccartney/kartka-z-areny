@@ -1,7 +1,7 @@
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,31/03/2022 12:15
+,,31/03/2022 15:47
 PRZEDMIOT,Brakuje,Priorytet
 duże baniaki z wodą (eden),18 szt.,1. Pilnie potrzebne
 pomidory,11 kg,1. Pilnie potrzebne
@@ -9,7 +9,6 @@ sałata,8 szt,1. Pilnie potrzebne
 lusterka małe ,10 szt.,1. Pilnie potrzebne
 "biustonosze różne rozmiary nowe, st. idealny",35 szt.,1. Pilnie potrzebne
 szczotki do włosów /grzebienie,40 szt.,1. Pilnie potrzebne
-nożyczki do paznokci/ obcinacze,34 szt.,1. Pilnie potrzebne
 żel do mycia twarzy  50-100ml,80 szt.,1. Pilnie potrzebne
 dezodoranty męskie/damskie travel size,70 szt.,1. Pilnie potrzebne
 płyn micelar małe małe opak 50-100ml,50 szt.,1. Pilnie potrzebne
@@ -109,7 +108,8 @@ szczoteczki do zębów + pasta 3 gr,0 szt.,3. Mamy wystarczająco
 karma dla kotów,0 kg,3. Mamy wystarczająco
 kawa mielona 500g,0 szt,3. Mamy wystarczająco
 małe poduszki,0 szt,3. Mamy wystarczająco
-duże poduszki,0 ,3. Mamy wystarczająco
+duże poduszki,0 szt,3. Mamy wystarczająco
+nożyczki do paznokci,0 sz,3. Mamy wystarczająco
 mleko 1L,-20 szt.,4. Mamy nadmiar
 herbata czarna,-10 szt.,4. Mamy nadmiar
 "herbata melisa i inne zioła (np. mięta, rumianek), herbata zielon",-10 szt.,4. Mamy nadmiar
@@ -133,6 +133,7 @@ ręczniki duże kąpielowe,-150 szt.,4. Mamy nadmiar
 koce dodatkowe,-5 szt.,4. Mamy nadmiar
 gumki do włosów / spinki typu wsuwki,-16 szt.,4. Mamy nadmiar
 stopery do uszu/opaski na oczy,-6000 szt.,4. Mamy nadmiar
+obcinacze do paznokci,-26 szt.,4. Mamy nadmiar
 maseczki jednorazowe,-1000 szt.,4. Mamy nadmiar
 balsamy do ciała travel size 20-50ml,-400 szt.,4. Mamy nadmiar
 kremy do rąk małe 30ml,-152 szt.,4. Mamy nadmiar
