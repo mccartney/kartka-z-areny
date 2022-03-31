@@ -1,15 +1,11 @@
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,30/03/2022 22:38
+,,31/03/2022 10:23
 PRZEDMIOT,Brakuje,Priorytet
 duże baniaki z wodą (eden),18 szt.,1. Pilnie potrzebne
-winogrona,9 kg,1. Pilnie potrzebne
-papryka czerwona,6 kg,1. Pilnie potrzebne
-marchewki gotowe do zjedzenia w opakowaniach,20 szt,1. Pilnie potrzebne
-drożdżówki/pączki/ maślane bułki,20 szt,1. Pilnie potrzebne
-owsianka błyskawiczna kg (lub 20 porcjowanych),20 szt,1. Pilnie potrzebne
-sałata,9 szt,1. Pilnie potrzebne
+pomidory,11 kg,1. Pilnie potrzebne
+sałata,8 szt,1. Pilnie potrzebne
 lusterka małe ,10 szt.,1. Pilnie potrzebne
 "biustonosze różne rozmiary nowe, st. idealny",35 szt.,1. Pilnie potrzebne
 szczotki do włosów /grzebienie,40 szt.,1. Pilnie potrzebne
@@ -31,21 +27,11 @@ bluza z kapturem,7 szt,1. Pilnie potrzebne
 kurtki WIOSENNE,15 szt,1. Pilnie potrzebne
 ładowarki USB-C,15 szt,1. Pilnie potrzebne
 zmywaki-gąbki,20 szt,1. Pilnie potrzebne
-jogurt pitny różne rodzaje,34 szt.,2. Potrzebne
-"woda w małych butelkach, w tym z dziubkiem",170 szt.,2. Potrzebne
-soczki małe z rurką,50 szt.,2. Potrzebne
-soczki małe z dziubkiem,20 szt,2. Potrzebne
-soki owocowe litrowe,6 szt.,2. Potrzebne
-chleb krojony (nie tostowy!),2 szt.,2. Potrzebne
+"woda w małych butelkach, w tym z dziubkiem",50 szt.,2. Potrzebne
 chleb tostowy,5 szt.,2. Potrzebne
-parówki małe opakowania,20 szt.,2. Potrzebne
-banany,2 kg,2. Potrzebne
-ogórki świeże,12 szt,2. Potrzebne
-pomidory,6 kg,2. Potrzebne
+winogrona,4 kg,2. Potrzebne
 ogórki kiszone w wiaderkach małych,1 szt,2. Potrzebne
-cukier 1 kg,10 kg,2. Potrzebne
-żelki w małych opakowaniach/guma rozpuszczalna,12 szt,2. Potrzebne
-batoniki rózne rodzaje,24 szt.,2. Potrzebne
+batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),50 szt.,2. Potrzebne
 worki na śmieci 240L-400L,7 opak.,2. Potrzebne
 plecaki duże,4 szt.,2. Potrzebne
 maszynki jednorazowe do golenia damskie,30 szt.,2. Potrzebne
@@ -59,18 +45,37 @@ rajstopy damskie  - różne rozmiary,20 szt.,2. Potrzebne
 worki na smieci 60L,30 opak.,2. Potrzebne
 baterie paluszki AA,15 ,2. Potrzebne
 odżywki do włosów travel size 30-50ml,20 szt.,2. Potrzebne
+kefir/jogurt naturalny pitny,0 szt.,3. Mamy wystarczająco
+jogurt pitny różne rodzaje,0 szt.,3. Mamy wystarczająco
+soczki małe z rurką,0 szt.,3. Mamy wystarczająco
+soczki małe z dziubkiem,0 szt,3. Mamy wystarczająco
+soki owocowe litrowe,0 szt.,3. Mamy wystarczająco
+herbata owocowa różne rodzaje,0 szt,3. Mamy wystarczająco
+kawa rozpuszczalna+inka,0 szt.,3. Mamy wystarczająco
+kawa mielona 250g,0 szt.,3. Mamy wystarczająco
+kakao rozpuszczalne + czekolada rozpuszczalna,0 szt.,3. Mamy wystarczająco
+chleb krojony (nie tostowy!),0 szt.,3. Mamy wystarczająco
 kabanosy małe opakowania,0 szt.,3. Mamy wystarczająco
-wędlina/kiełbasa krojona paczkowana,-1 szt.,3. Mamy wystarczająco
+parówki małe opakowania,0 szt.,3. Mamy wystarczająco
+wędlina/kiełbasa krojona paczkowana,0 szt.,3. Mamy wystarczająco
 ser żółty krojony paczkowany,0 szt,3. Mamy wystarczająco
 jabłka,0 kg,3. Mamy wystarczająco
+banany,0 kg,3. Mamy wystarczająco
+ogórki świeże,0 szt,3. Mamy wystarczająco
+papryka czerwona,0 kg,3. Mamy wystarczająco
+marchewki gotowe do zjedzenia w opakowaniach,0 szt,3. Mamy wystarczająco
 "płatki śnaidaniowe, owsiane, różne rodzaje",0 szt,3. Mamy wystarczająco
 dżem,0 szt,3. Mamy wystarczająco
+cukier 1 kg,0 kg,3. Mamy wystarczająco
 ketchup łagodny,0 sz,3. Mamy wystarczająco
 musztarda,0 szt,3. Mamy wystarczająco
+żelki w małych opakowaniach/guma rozpuszczalna (mikroporcje pakowane oddzielnie),0 szt,3. Mamy wystarczająco
+drożdżówki/pączki/ maślane bułki,0 szt,3. Mamy wystarczająco
 talerzyki plastikowe małe,0 szt,3. Mamy wystarczająco
 kubeczki do ciepłych napojów plastikowe/papierowe,0 szt,3. Mamy wystarczająco
 pojemniki dwu i trójdzielne do wydawania ciepłych posiłków,0 szt,3. Mamy wystarczająco
 Oshee,0 szt,3. Mamy wystarczająco
+owsianka błyskawiczna kg (lub 20 porcjowanych),0 szt,3. Mamy wystarczająco
 kosmetyczki małe nowe/używane w st. bdb.,0 szt.,3. Mamy wystarczająco
 wielorazowe torby na zakupy,0 szt.,3. Mamy wystarczająco
 baterie paluszki AAA,0 szt.,3. Mamy wystarczająco
@@ -105,14 +110,9 @@ karma dla kotów,0 kg,3. Mamy wystarczająco
 kawa mielona 500g,0 szt,3. Mamy wystarczająco
 małe poduszki,0 szt,3. Mamy wystarczająco
 duże poduszki,0 ,3. Mamy wystarczająco
-mleko 1L,-10 szt.,4. Mamy nadmiar
-kefir/jogurt naturalny pitny,-5 szt.,4. Mamy nadmiar
-herbata czarna,-11 szt.,4. Mamy nadmiar
-"herbata melisa i inne zioła (np. mięta, rumianek), herbata zielon",-11 szt.,4. Mamy nadmiar
-herbata owocowa różne rodzaje,-10 szt,4. Mamy nadmiar
-kawa rozpuszczalna+inka,-6 szt.,4. Mamy nadmiar
-kawa mielona 250g,-2 szt.,4. Mamy nadmiar
-kakao rozpuszczalne + czekolada rozpuszczalna,-2 szt.,4. Mamy nadmiar
+mleko 1L,-20 szt.,4. Mamy nadmiar
+herbata czarna,-10 szt.,4. Mamy nadmiar
+"herbata melisa i inne zioła (np. mięta, rumianek), herbata zielon",-10 szt.,4. Mamy nadmiar
 słoiczki dla dzieci- obiadki różne,-80 szt,4. Mamy nadmiar
 słoiczki dla dzieci- deserki różne,-30 szt,4. Mamy nadmiar
 tubki owocowe różne (nielodówkowe),-30 szt,4. Mamy nadmiar
