@@ -1,7 +1,7 @@
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,31/03/2022 10:23
+,,31/03/2022 12:15
 PRZEDMIOT,Brakuje,Priorytet
 duże baniaki z wodą (eden),18 szt.,1. Pilnie potrzebne
 pomidory,11 kg,1. Pilnie potrzebne
@@ -17,7 +17,6 @@ bielizna męska (majtki/koszulki) nowe,35 szt.,1. Pilnie potrzebne
 sudocrem 30ml,10 szt.,1. Pilnie potrzebne
 smartfony używane ,5 szt.,1. Pilnie potrzebne
 worki na smieci160L,94 opak.,1. Pilnie potrzebne
-notatnik z długopisem zestaw,35 szt.,1. Pilnie potrzebne
 Walizki na kółkach nowe/ stan bdb.,11 szt,1. Pilnie potrzebne
 szampon do włosów travel size 30-50ml,82 szt.,1. Pilnie potrzebne
 sznurowadła ,10 szt.,1. Pilnie potrzebne
@@ -43,6 +42,7 @@ szampony 150-500ml,41 szt.,2. Potrzebne
 leginsy damskie ,4 szt.,2. Potrzebne
 rajstopy damskie  - różne rozmiary,20 szt.,2. Potrzebne
 worki na smieci 60L,30 opak.,2. Potrzebne
+notatnik z długopisem zestaw,15 szt.,2. Potrzebne
 baterie paluszki AA,15 ,2. Potrzebne
 odżywki do włosów travel size 30-50ml,20 szt.,2. Potrzebne
 kefir/jogurt naturalny pitny,0 szt.,3. Mamy wystarczająco
