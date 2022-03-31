@@ -1,32 +1,28 @@
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,31/03/2022 15:47
+,,31/03/2022 18:02
 PRZEDMIOT,Brakuje,Priorytet
 duże baniaki z wodą (eden),18 szt.,1. Pilnie potrzebne
 pomidory,11 kg,1. Pilnie potrzebne
-sałata,8 szt,1. Pilnie potrzebne
 lusterka małe ,10 szt.,1. Pilnie potrzebne
-"biustonosze różne rozmiary nowe, st. idealny",35 szt.,1. Pilnie potrzebne
+"biustonosze różne rozmiary nowe, st. idealny",27 szt.,1. Pilnie potrzebne
 szczotki do włosów /grzebienie,40 szt.,1. Pilnie potrzebne
 żel do mycia twarzy  50-100ml,80 szt.,1. Pilnie potrzebne
-dezodoranty męskie/damskie travel size,70 szt.,1. Pilnie potrzebne
 płyn micelar małe małe opak 50-100ml,50 szt.,1. Pilnie potrzebne
 bielizna męska (majtki/koszulki) nowe,35 szt.,1. Pilnie potrzebne
-sudocrem 30ml,10 szt.,1. Pilnie potrzebne
 smartfony używane ,5 szt.,1. Pilnie potrzebne
 worki na smieci160L,94 opak.,1. Pilnie potrzebne
-Walizki na kółkach nowe/ stan bdb.,11 szt,1. Pilnie potrzebne
+Walizki na kółkach nowe/ stan bdb.,10 szt,1. Pilnie potrzebne
 szampon do włosów travel size 30-50ml,82 szt.,1. Pilnie potrzebne
 sznurowadła ,10 szt.,1. Pilnie potrzebne
 zmywacz do paznokci,10 szt.,1. Pilnie potrzebne
 cukierki,10 szt,1. Pilnie potrzebne
-bluza z kapturem,7 szt,1. Pilnie potrzebne
+bluza z kapturem,6 szt,1. Pilnie potrzebne
 kurtki WIOSENNE,15 szt,1. Pilnie potrzebne
 ładowarki USB-C,15 szt,1. Pilnie potrzebne
 zmywaki-gąbki,20 szt,1. Pilnie potrzebne
 "woda w małych butelkach, w tym z dziubkiem",50 szt.,2. Potrzebne
-chleb tostowy,5 szt.,2. Potrzebne
 winogrona,4 kg,2. Potrzebne
 ogórki kiszone w wiaderkach małych,1 szt,2. Potrzebne
 batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),50 szt.,2. Potrzebne
@@ -37,10 +33,9 @@ powerbanki i ładowarki,20 szt.,2. Potrzebne
 pilniki do paznokci,10 szt.,2. Potrzebne
 pomadki do ust/wazelina,20 szt.,2. Potrzebne
 szampony 150-500ml,41 szt.,2. Potrzebne
-"bielizna damska (majtki/ koszulki) - różne rozmiary, w tym duże",13 szt.,2. Potrzebne
+"bielizna damska (majtki/ koszulki) - różne rozmiary, w tym duże",12 szt.,2. Potrzebne
 leginsy damskie ,4 szt.,2. Potrzebne
 rajstopy damskie  - różne rozmiary,20 szt.,2. Potrzebne
-worki na smieci 60L,30 opak.,2. Potrzebne
 notatnik z długopisem zestaw,15 szt.,2. Potrzebne
 baterie paluszki AA,15 ,2. Potrzebne
 odżywki do włosów travel size 30-50ml,20 szt.,2. Potrzebne
@@ -54,6 +49,7 @@ kawa rozpuszczalna+inka,0 szt.,3. Mamy wystarczająco
 kawa mielona 250g,0 szt.,3. Mamy wystarczająco
 kakao rozpuszczalne + czekolada rozpuszczalna,0 szt.,3. Mamy wystarczająco
 chleb krojony (nie tostowy!),0 szt.,3. Mamy wystarczająco
+chleb tostowy,0 szt.,3. Mamy wystarczająco
 kabanosy małe opakowania,0 szt.,3. Mamy wystarczająco
 parówki małe opakowania,0 szt.,3. Mamy wystarczająco
 wędlina/kiełbasa krojona paczkowana,0 szt.,3. Mamy wystarczająco
@@ -68,13 +64,13 @@ dżem,0 szt,3. Mamy wystarczająco
 cukier 1 kg,0 kg,3. Mamy wystarczająco
 ketchup łagodny,0 sz,3. Mamy wystarczająco
 musztarda,0 szt,3. Mamy wystarczająco
-żelki w małych opakowaniach/guma rozpuszczalna (mikroporcje pakowane oddzielnie),0 szt,3. Mamy wystarczająco
 drożdżówki/pączki/ maślane bułki,0 szt,3. Mamy wystarczająco
 talerzyki plastikowe małe,0 szt,3. Mamy wystarczająco
 kubeczki do ciepłych napojów plastikowe/papierowe,0 szt,3. Mamy wystarczająco
 pojemniki dwu i trójdzielne do wydawania ciepłych posiłków,0 szt,3. Mamy wystarczająco
 Oshee,0 szt,3. Mamy wystarczająco
 owsianka błyskawiczna kg (lub 20 porcjowanych),0 szt,3. Mamy wystarczająco
+sałata,0 szt,3. Mamy wystarczająco
 kosmetyczki małe nowe/używane w st. bdb.,0 szt.,3. Mamy wystarczająco
 wielorazowe torby na zakupy,0 szt.,3. Mamy wystarczająco
 baterie paluszki AAA,0 szt.,3. Mamy wystarczająco
@@ -84,12 +80,15 @@ przewijaki,0 szt.,3. Mamy wystarczająco
 gąbki do mycia ,-5 szt.,3. Mamy wystarczająco
 podpaski/tampony/- różny poziom chłonności ,0 szt.,3. Mamy wystarczająco
 kremy nawilżające do twarzy 15-30ml,0 szt.,3. Mamy wystarczająco
+dezodoranty męskie/damskie travel size,-2 szt.,3. Mamy wystarczająco
 płyn do higieny intymnej małe 20-50ml,0 szt.,3. Mamy wystarczająco
 klapki jednorazowe p. prysznic,0 par.,3. Mamy wystarczająco
+sudocrem 30ml,0 szt.,3. Mamy wystarczająco
 krem/ puder do pupy dla dzieci,0 szt.,3. Mamy wystarczająco
 butelki dla dzieci,-1 szt.,3. Mamy wystarczająco
 worki na śmieci 120L,0 opak.,3. Mamy wystarczająco
 worki na smieci 35L,0 opak.,3. Mamy wystarczająco
+worki na smieci 60L,0 opak.,3. Mamy wystarczająco
 chusteczki do demakijażu,0 szt.,3. Mamy wystarczająco
 podkładki dla dzieci/ dorosłych Seni,0 szt.,3. Mamy wystarczająco
 pieluchomajtki dla dorosłych M-L ,0 szt.,3. Mamy wystarczająco
@@ -119,6 +118,7 @@ tubki owocowe różne (nielodówkowe),-30 szt,4. Mamy nadmiar
 kaszki dla dzieci/kleiki do samodzielnego przygotowania,-30 szt,4. Mamy nadmiar
 "sól 0,5 kg",-1 szt,4. Mamy nadmiar
 pieprz mała torebka,-2 szt,4. Mamy nadmiar
+żelki w małych opakowaniach/guma rozpuszczalna (mikroporcje pakowane oddzielnie),-17 szt,4. Mamy nadmiar
 talerzyki plastikowe duże,-2750 szt,4. Mamy nadmiar
 widelce plastikowe,-2200 szt,4. Mamy nadmiar
 łyżki duże plastikowe,-7250 szt,4. Mamy nadmiar
