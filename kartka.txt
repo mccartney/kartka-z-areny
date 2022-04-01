@@ -1,17 +1,24 @@
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,01/04/2022 16:28
+,,01/04/2022 18:14
 PRZEDMIOT,Brakuje,Priorytet
 kubeczki do ciepłych napojów plastikowe/papierowe,450 szt,1. Pilnie potrzebne
+powerbanki i ładowarki,20 szt.,1. Pilnie potrzebne
 smartfony używane ,5 szt.,1. Pilnie potrzebne
-ładowarki USB-C,15 szt,1. Pilnie potrzebne
+"piżamy/koszule nocne S,M,L nowe",10 szt.,1. Pilnie potrzebne
+zmywaki-gąbki,30 szt,1. Pilnie potrzebne
+T-shirt dziecko lat 14-15,10 szt,1. Pilnie potrzebne
+T-schirt damski M,10 szt,1. Pilnie potrzebne
+T-schirt damski L,10 szt,1. Pilnie potrzebne
+T-schirt damski XL,10 szt,1. Pilnie potrzebne
+T-schirt męski M,10 szt,1. Pilnie potrzebne
 winogrona,2 kg,2. Potrzebne
 plecaki duże,3 szt.,2. Potrzebne
-powerbanki i ładowarki,14 szt.,2. Potrzebne
 żel do mycia twarzy  50-100ml,10 szt.,2. Potrzebne
 płyn micelar małe małe opak 50-100ml,14 szt.,2. Potrzebne
 "bielizna damska (majtki/ koszulki) - różne rozmiary, w tym duże",6 szt.,2. Potrzebne
+leginsy damskie ,10 szt.,2. Potrzebne
 rajstopy damskie  - różne rozmiary,2 szt.,2. Potrzebne
 notatnik z długopisem zestaw,13 szt.,2. Potrzebne
 odżywki do włosów travel size 30-50ml,6 szt.,2. Potrzebne
@@ -60,7 +67,6 @@ szampony 150-500ml,-9 szt.,3. Mamy wystarczająco
 płyn do higieny intymnej małe 20-50ml,0 szt.,3. Mamy wystarczająco
 klapki jednorazowe p. prysznic,0 par.,3. Mamy wystarczająco
 bielizna męska (majtki/koszulki) nowe,0 szt.,3. Mamy wystarczająco
-leginsy damskie ,0 szt.,3. Mamy wystarczająco
 sudocrem 30ml,-1 szt.,3. Mamy wystarczająco
 krem/ puder do pupy dla dzieci,0 szt.,3. Mamy wystarczająco
 worki na śmieci 120L,-5 opak.,3. Mamy wystarczająco
@@ -84,7 +90,7 @@ zmywacz do paznokci,0 szt.,3. Mamy wystarczająco
 żel pod prysznic 35  ml,0 szt.,3. Mamy wystarczająco
 szczoteczki do zębów + pasta 3 gr,0 szt.,3. Mamy wystarczająco
 karma dla kotów,0 kg,3. Mamy wystarczająco
-zmywaki-gąbki,0 szt,3. Mamy wystarczająco
+ładowarki USB-C,0 szt,3. Mamy wystarczająco
 małe poduszki,0 szt,3. Mamy wystarczająco
 duże poduszki,0 szt,3. Mamy wystarczająco
 nożyczki do paznokci,0 szt,3. Mamy wystarczająco
