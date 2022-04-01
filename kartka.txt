@@ -1,14 +1,14 @@
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,01/04/2022 15:09
+,,01/04/2022 16:01
 PRZEDMIOT,Brakuje,Priorytet
 kubeczki do ciepłych napojów plastikowe/papierowe,450 szt,1. Pilnie potrzebne
-powerbanki i ładowarki,20 szt.,1. Pilnie potrzebne
 smartfony używane ,5 szt.,1. Pilnie potrzebne
 ładowarki USB-C,15 szt,1. Pilnie potrzebne
 winogrona,2 kg,2. Potrzebne
 plecaki duże,3 szt.,2. Potrzebne
+powerbanki i ładowarki,14 szt.,2. Potrzebne
 żel do mycia twarzy  50-100ml,10 szt.,2. Potrzebne
 płyn micelar małe małe opak 50-100ml,14 szt.,2. Potrzebne
 "bielizna damska (majtki/ koszulki) - różne rozmiary, w tym duże",6 szt.,2. Potrzebne
@@ -64,7 +64,7 @@ klapki jednorazowe p. prysznic,0 par.,3. Mamy wystarczająco
 leginsy damskie ,0 szt.,3. Mamy wystarczająco
 sudocrem 30ml,-1 szt.,3. Mamy wystarczająco
 krem/ puder do pupy dla dzieci,0 szt.,3. Mamy wystarczająco
-worki na śmieci 120L,0 opak.,3. Mamy wystarczająco
+worki na śmieci 120L,-5 opak.,3. Mamy wystarczająco
 worki na smieci 35L,0 opak.,3. Mamy wystarczająco
 worki na smieci 60L,0 opak.,3. Mamy wystarczająco
 chusteczki do demakijażu,0 szt.,3. Mamy wystarczająco
@@ -78,7 +78,7 @@ papier toaletowy szary /rolki do dyspenserów łaz.,0 szt.,3. Mamy wystarczając
 płyn antybakteryjny 5L,0 szt.,3. Mamy wystarczająco
 klapki wielorazowe Męskie różne rozm. 41-46,0 par.,3. Mamy wystarczająco
 klapki wielorazowe Dzieci różne rozm. 23-35,-4 par.,3. Mamy wystarczająco
-waciki do demakijażu,0 opak.,3. Mamy wystarczająco
+waciki do demakijażu,-8 opak.,3. Mamy wystarczająco
 baterie paluszki AA,-1 ,3. Mamy wystarczająco
 Walizki na kółkach nowe/ stan bdb.,0 szt,3. Mamy wystarczająco
 zmywacz do paznokci,0 szt.,3. Mamy wystarczająco
@@ -141,10 +141,10 @@ chusteczki mokre dla dzieci,-5000 szt.,4. Mamy nadmiar
 "pampersy dziecięce/pieluchomajtki, rozm. 0-6 ",-1905 szt.,4. Mamy nadmiar
 butelki dla dzieci,-7 szt.,4. Mamy nadmiar
 worki na smieci160L,-3 opak.,4. Mamy nadmiar
-pasty do zębów dla dorosłych (duże opak.),-228 szt.,4. Mamy nadmiar
+pasty do zębów dla dorosłych (duże opak.),-232 szt.,4. Mamy nadmiar
 ręczniki papierowe/rolka,-722 szt.,4. Mamy nadmiar
 nocnik dla dzieci,-20 szt.,4. Mamy nadmiar
-płyn do czyszczenia toalety Ace /Domestos 750ml,-120 szt.,4. Mamy nadmiar
+płyn do czyszczenia toalety Ace /Domestos 750ml,-124 szt.,4. Mamy nadmiar
 "sciereczki bawełniane jednoraz. rolka ( mag.  ""Recepcja"")",-1190 szt.,4. Mamy nadmiar
 mydło w płynie 500ml,-187 szt.,4. Mamy nadmiar
 chusteczki d/ hig int. małe opak,-5 opak.,4. Mamy nadmiar
