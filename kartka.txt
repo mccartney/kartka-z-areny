@@ -1,7 +1,7 @@
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,01/04/2022 16:01
+,,01/04/2022 16:28
 PRZEDMIOT,Brakuje,Priorytet
 kubeczki do ciepłych napojów plastikowe/papierowe,450 szt,1. Pilnie potrzebne
 smartfony używane ,5 szt.,1. Pilnie potrzebne
@@ -12,12 +12,11 @@ powerbanki i ładowarki,14 szt.,2. Potrzebne
 żel do mycia twarzy  50-100ml,10 szt.,2. Potrzebne
 płyn micelar małe małe opak 50-100ml,14 szt.,2. Potrzebne
 "bielizna damska (majtki/ koszulki) - różne rozmiary, w tym duże",6 szt.,2. Potrzebne
-bielizna męska (majtki/koszulki) nowe,16 szt.,2. Potrzebne
 rajstopy damskie  - różne rozmiary,2 szt.,2. Potrzebne
 notatnik z długopisem zestaw,13 szt.,2. Potrzebne
 odżywki do włosów travel size 30-50ml,6 szt.,2. Potrzebne
 szampon do włosów travel size 30-50ml,12 szt.,2. Potrzebne
-kurtki WIOSENNE,4 szt,2. Potrzebne
+kurtki WIOSENNE,1 szt,2. Potrzebne
 kefir/jogurt naturalny pitny,0 szt.,3. Mamy wystarczająco
 jogurt pitny różne rodzaje,0 szt.,3. Mamy wystarczająco
 soczki małe z rurką,0 szt.,3. Mamy wystarczająco
@@ -51,7 +50,6 @@ kawa mielona 500g,0 szt,3. Mamy wystarczająco
 lusterka małe ,-1 szt.,3. Mamy wystarczająco
 kosmetyczki małe nowe/używane w st. bdb.,0 szt.,3. Mamy wystarczająco
 wielorazowe torby na zakupy,0 szt.,3. Mamy wystarczająco
-baterie paluszki AAA,-30 szt.,3. Mamy wystarczająco
 klapki wielorazowe Damskie różne rozm. 36-41,-5 par.,3. Mamy wystarczająco
 patyczki do uszu ,0 opak.,3. Mamy wystarczająco
 przewijaki,0 szt.,3. Mamy wystarczająco
@@ -61,6 +59,7 @@ dezodoranty męskie/damskie travel size,-7 szt.,3. Mamy wystarczająco
 szampony 150-500ml,-9 szt.,3. Mamy wystarczająco
 płyn do higieny intymnej małe 20-50ml,0 szt.,3. Mamy wystarczająco
 klapki jednorazowe p. prysznic,0 par.,3. Mamy wystarczająco
+bielizna męska (majtki/koszulki) nowe,0 szt.,3. Mamy wystarczająco
 leginsy damskie ,0 szt.,3. Mamy wystarczająco
 sudocrem 30ml,-1 szt.,3. Mamy wystarczająco
 krem/ puder do pupy dla dzieci,0 szt.,3. Mamy wystarczająco
@@ -118,10 +117,11 @@ miseczki plastikowe (nie do ciepłych posiłków),-156 szt,4. Mamy nadmiar
 miski papierowe do wydawania ciepłych posiłków,-5620 szt,4. Mamy nadmiar
 torby miękkie podróżne nowe/ stan bdb.,-6 szt.,4. Mamy nadmiar
 worki na śmieci 240L-400L,-10 opak.,4. Mamy nadmiar
-"biustonosze różne rozmiary nowe, 75 B-90 D",-25 szt.,4. Mamy nadmiar
+"biustonosze różne rozmiary nowe, 75 B-90 D",-28 szt.,4. Mamy nadmiar
 maszynki jednorazowe do golenia damskie,-34 szt.,4. Mamy nadmiar
 ręczniki duże kąpielowe,-150 szt.,4. Mamy nadmiar
 koce dodatkowe,-5 szt.,4. Mamy nadmiar
+baterie paluszki AAA,-66 szt.,4. Mamy nadmiar
 pilniki do paznokci,-30 szt.,4. Mamy nadmiar
 szczotki do włosów /grzebienie,-24 szt.,4. Mamy nadmiar
 gumki do włosów / spinki typu wsuwki,-16 szt.,4. Mamy nadmiar
@@ -140,7 +140,7 @@ pasty do zębów dla dzieci,-41 szt.,4. Mamy nadmiar
 chusteczki mokre dla dzieci,-5000 szt.,4. Mamy nadmiar
 "pampersy dziecięce/pieluchomajtki, rozm. 0-6 ",-1905 szt.,4. Mamy nadmiar
 butelki dla dzieci,-7 szt.,4. Mamy nadmiar
-worki na smieci160L,-3 opak.,4. Mamy nadmiar
+worki na smieci160L,-7 opak.,4. Mamy nadmiar
 pasty do zębów dla dorosłych (duże opak.),-232 szt.,4. Mamy nadmiar
 ręczniki papierowe/rolka,-722 szt.,4. Mamy nadmiar
 nocnik dla dzieci,-20 szt.,4. Mamy nadmiar
