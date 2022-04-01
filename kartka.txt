@@ -1,20 +1,19 @@
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,01/04/2022 18:27
+,,01/04/2022 20:07
 PRZEDMIOT,Brakuje,Priorytet
 kubeczki do ciepłych napojów plastikowe/papierowe,450 szt,1. Pilnie potrzebne
 powerbanki i ładowarki,20 szt.,1. Pilnie potrzebne
 smartfony używane ,5 szt.,1. Pilnie potrzebne
 "piżamy/koszule nocne S,M,L nowe",10 szt.,1. Pilnie potrzebne
-zmywaki-gąbki,30 szt,1. Pilnie potrzebne
 T-shirt dziecko lat 14-15,10 szt,1. Pilnie potrzebne
-T-schirt damski M,10 szt,1. Pilnie potrzebne
-T-schirt damski L,10 szt,1. Pilnie potrzebne
-T-schirt damski XL,10 szt,1. Pilnie potrzebne
-T-schirt męski M,10 szt,1. Pilnie potrzebne
-T-schirt męski L,10 szt,1. Pilnie potrzebne
-T-schirt męski XL,10 szt,1. Pilnie potrzebne
+T-shirt damski M,10 szt,1. Pilnie potrzebne
+T-shirt damski L,10 szt,1. Pilnie potrzebne
+T-shirt damski XL,10 szt,1. Pilnie potrzebne
+T-shirt męski M,10 szt,1. Pilnie potrzebne
+T-shirt męski L,10 szt,1. Pilnie potrzebne
+T-shirt męski XL,10 szt,1. Pilnie potrzebne
 bluzy sportowe wiosenne,5 szt,1. Pilnie potrzebne
 pasta do butów,3 szt,1. Pilnie potrzebne
 dresy damskie M,5 szt,1. Pilnie potrzebne
@@ -22,6 +21,7 @@ dresy damskie L,5 szt,1. Pilnie potrzebne
 dresy damskie XL,5 szt,1. Pilnie potrzebne
 piżama damska ,10 szt,1. Pilnie potrzebne
 bluza sportowa wiosenna,1 szt,1. Pilnie potrzebne
+filtry do ekspresu do kawy,20 szt,1. Pilnie potrzebne
 winogrona,2 kg,2. Potrzebne
 plecaki duże,3 szt.,2. Potrzebne
 żel do mycia twarzy  50-100ml,10 szt.,2. Potrzebne
@@ -29,10 +29,12 @@ płyn micelar małe małe opak 50-100ml,14 szt.,2. Potrzebne
 "bielizna damska (majtki/ koszulki) - różne rozmiary, w tym duże",6 szt.,2. Potrzebne
 leginsy damskie ,10 szt.,2. Potrzebne
 rajstopy damskie  - różne rozmiary,2 szt.,2. Potrzebne
+worki na smieci160L,5 opak.,2. Potrzebne
 notatnik z długopisem zestaw,13 szt.,2. Potrzebne
 odżywki do włosów travel size 30-50ml,6 szt.,2. Potrzebne
 szampon do włosów travel size 30-50ml,12 szt.,2. Potrzebne
 kurtki WIOSENNE,1 szt,2. Potrzebne
+zmywaki-gąbki,10 szt,2. Potrzebne
 kefir/jogurt naturalny pitny,0 szt.,3. Mamy wystarczająco
 jogurt pitny różne rodzaje,0 szt.,3. Mamy wystarczająco
 soczki małe z rurką,0 szt.,3. Mamy wystarczająco
@@ -155,7 +157,6 @@ pasty do zębów dla dzieci,-41 szt.,4. Mamy nadmiar
 chusteczki mokre dla dzieci,-5000 szt.,4. Mamy nadmiar
 "pampersy dziecięce/pieluchomajtki, rozm. 0-6 ",-1905 szt.,4. Mamy nadmiar
 butelki dla dzieci,-7 szt.,4. Mamy nadmiar
-worki na smieci160L,-7 opak.,4. Mamy nadmiar
 pasty do zębów dla dorosłych (duże opak.),-232 szt.,4. Mamy nadmiar
 ręczniki papierowe/rolka,-722 szt.,4. Mamy nadmiar
 nocnik dla dzieci,-20 szt.,4. Mamy nadmiar
