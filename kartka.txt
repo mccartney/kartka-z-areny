@@ -1,37 +1,35 @@
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,01/04/2022 08:13
+,,01/04/2022 09:11
 PRZEDMIOT,Brakuje,Priorytet
 duże baniaki z wodą (eden),7 szt.,1. Pilnie potrzebne
-chleb tostowy,7 szt.,1. Pilnie potrzebne
+mandarynki,3 kg,1. Pilnie potrzebne
 pomidory,6 kg,1. Pilnie potrzebne
 Nutella lub inny krem czekoladowy,5 szt,1. Pilnie potrzebne
 masło orzechowe,3 szt,1. Pilnie potrzebne
 lusterka małe ,9 szt.,1. Pilnie potrzebne
 powerbanki i ładowarki,30 szt.,1. Pilnie potrzebne
 szczotki do włosów /grzebienie,27 szt.,1. Pilnie potrzebne
-żel do mycia twarzy  50-100ml,80 szt.,1. Pilnie potrzebne
+żel do mycia twarzy  50-100ml,50 szt.,1. Pilnie potrzebne
 płyn micelar małe małe opak 50-100ml,45 szt.,1. Pilnie potrzebne
 smartfony używane ,5 szt.,1. Pilnie potrzebne
 szampon do włosów travel size 30-50ml,82 szt.,1. Pilnie potrzebne
-sznurowadła ,10 szt.,1. Pilnie potrzebne
 ładowarki USB-C,15 szt,1. Pilnie potrzebne
-banany,5 kg,2. Potrzebne
+chleb tostowy,4 szt.,2. Potrzebne
+banany,2 kg,2. Potrzebne
 winogrona,4 kg,2. Potrzebne
 papryka czerwona,2 kg,2. Potrzebne
 batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),50 szt.,2. Potrzebne
 kubeczki do ciepłych napojów plastikowe/papierowe,200 szt,2. Potrzebne
 plecaki duże,4 szt.,2. Potrzebne
 maszynki jednorazowe do golenia damskie,20 szt.,2. Potrzebne
-pomadki do ust/wazelina,10 szt.,2. Potrzebne
 "bielizna damska (majtki/ koszulki) - różne rozmiary, w tym duże",12 szt.,2. Potrzebne
 bielizna męska (majtki/koszulki) nowe,16 szt.,2. Potrzebne
-leginsy damskie ,4 szt.,2. Potrzebne
 rajstopy damskie  - różne rozmiary,20 szt.,2. Potrzebne
 notatnik z długopisem zestaw,15 szt.,2. Potrzebne
 baterie paluszki AA,15 ,2. Potrzebne
-Walizki na kółkach nowe/ stan bdb.,5 szt,2. Potrzebne
+Walizki na kółkach nowe/ stan bdb.,4 szt,2. Potrzebne
 odżywki do włosów travel size 30-50ml,20 szt.,2. Potrzebne
 kurtki WIOSENNE,4 szt,2. Potrzebne
 kefir/jogurt naturalny pitny,0 szt.,3. Mamy wystarczająco
@@ -68,11 +66,11 @@ patyczki do uszu ,0 opak.,3. Mamy wystarczająco
 przewijaki,0 szt.,3. Mamy wystarczająco
 gąbki do mycia ,-5 szt.,3. Mamy wystarczająco
 podpaski/tampony/- różny poziom chłonności ,0 szt.,3. Mamy wystarczająco
-kremy nawilżające do twarzy 15-30ml,0 szt.,3. Mamy wystarczająco
 dezodoranty męskie/damskie travel size,-2 szt.,3. Mamy wystarczająco
 szampony 150-500ml,-9 szt.,3. Mamy wystarczająco
 płyn do higieny intymnej małe 20-50ml,0 szt.,3. Mamy wystarczająco
 klapki jednorazowe p. prysznic,0 par.,3. Mamy wystarczająco
+leginsy damskie ,0 szt.,3. Mamy wystarczająco
 sudocrem 30ml,0 szt.,3. Mamy wystarczająco
 krem/ puder do pupy dla dzieci,0 szt.,3. Mamy wystarczająco
 butelki dla dzieci,-1 szt.,3. Mamy wystarczająco
@@ -92,6 +90,7 @@ płyn antybakteryjny 5L,0 szt.,3. Mamy wystarczająco
 klapki wielorazowe Męskie różne rozm. 41-46,0 par.,3. Mamy wystarczająco
 klapki wielorazowe Dzieci różne rozm. 23-35,-4 par.,3. Mamy wystarczająco
 waciki do demakijażu,0 opak.,3. Mamy wystarczająco
+sznurowadła ,0 szt.,3. Mamy wystarczająco
 zmywacz do paznokci,0 szt.,3. Mamy wystarczająco
 żel pod prysznic 35  ml,0 szt.,3. Mamy wystarczająco
 szczoteczki do zębów + pasta 3 gr,0 szt.,3. Mamy wystarczająco
@@ -129,11 +128,13 @@ worki na śmieci 240L-400L,-10 opak.,4. Mamy nadmiar
 "biustonosze różne rozmiary nowe, 75 B-90 D",-25 szt.,4. Mamy nadmiar
 ręczniki duże kąpielowe,-150 szt.,4. Mamy nadmiar
 koce dodatkowe,-5 szt.,4. Mamy nadmiar
-pilniki do paznokci,-40 szt.,4. Mamy nadmiar
+pilniki do paznokci,-30 szt.,4. Mamy nadmiar
 gumki do włosów / spinki typu wsuwki,-16 szt.,4. Mamy nadmiar
-stopery do uszu/opaski na oczy,-6000 szt.,4. Mamy nadmiar
+stopery do uszu/opaski na oczy,-6500 szt.,4. Mamy nadmiar
 obcinacze do paznokci,-26 szt.,4. Mamy nadmiar
-maseczki jednorazowe,-1000 szt.,4. Mamy nadmiar
+maseczki jednorazowe,-4000 szt.,4. Mamy nadmiar
+pomadki do ust/wazelina,-20 szt.,4. Mamy nadmiar
+kremy nawilżające do twarzy 15-30ml,-30 szt.,4. Mamy nadmiar
 balsamy do ciała travel size 20-50ml,-400 szt.,4. Mamy nadmiar
 kremy do rąk małe 30ml,-152 szt.,4. Mamy nadmiar
 mydło w kostce,-120 szt.,4. Mamy nadmiar
