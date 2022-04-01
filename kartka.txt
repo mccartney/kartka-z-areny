@@ -1,21 +1,20 @@
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,01/04/2022 14:12
+,,01/04/2022 15:09
 PRZEDMIOT,Brakuje,Priorytet
 kubeczki do ciepłych napojów plastikowe/papierowe,450 szt,1. Pilnie potrzebne
 powerbanki i ładowarki,20 szt.,1. Pilnie potrzebne
 smartfony używane ,5 szt.,1. Pilnie potrzebne
 ładowarki USB-C,15 szt,1. Pilnie potrzebne
-winogrona,4 kg,2. Potrzebne
-pomidory,3 kg,2. Potrzebne
+winogrona,2 kg,2. Potrzebne
 plecaki duże,3 szt.,2. Potrzebne
 żel do mycia twarzy  50-100ml,10 szt.,2. Potrzebne
 płyn micelar małe małe opak 50-100ml,14 szt.,2. Potrzebne
 "bielizna damska (majtki/ koszulki) - różne rozmiary, w tym duże",6 szt.,2. Potrzebne
 bielizna męska (majtki/koszulki) nowe,16 szt.,2. Potrzebne
 rajstopy damskie  - różne rozmiary,2 szt.,2. Potrzebne
-notatnik z długopisem zestaw,15 szt.,2. Potrzebne
+notatnik z długopisem zestaw,13 szt.,2. Potrzebne
 odżywki do włosów travel size 30-50ml,6 szt.,2. Potrzebne
 szampon do włosów travel size 30-50ml,12 szt.,2. Potrzebne
 kurtki WIOSENNE,4 szt,2. Potrzebne
@@ -35,6 +34,7 @@ wędlina/kiełbasa krojona paczkowana,0 szt.,3. Mamy wystarczająco
 ser żółty krojony paczkowany,-1 szt,3. Mamy wystarczająco
 mandarynki,0 kg,3. Mamy wystarczająco
 ogórki świeże,0 szt,3. Mamy wystarczająco
+pomidory,0 kg,3. Mamy wystarczająco
 papryka czerwona,0 kg,3. Mamy wystarczająco
 marchewki gotowe do zjedzenia w opakowaniach,0 szt,3. Mamy wystarczająco
 "płatki śnaidaniowe, owsiane, różne rodzaje",0 szt,3. Mamy wystarczająco
@@ -55,7 +55,6 @@ baterie paluszki AAA,-30 szt.,3. Mamy wystarczająco
 klapki wielorazowe Damskie różne rozm. 36-41,-5 par.,3. Mamy wystarczająco
 patyczki do uszu ,0 opak.,3. Mamy wystarczająco
 przewijaki,0 szt.,3. Mamy wystarczająco
-szczotki do włosów /grzebienie,-8 szt.,3. Mamy wystarczająco
 gąbki do mycia ,-5 szt.,3. Mamy wystarczająco
 podpaski/tampony/- różny poziom chłonności ,0 szt.,3. Mamy wystarczająco
 dezodoranty męskie/damskie travel size,-7 szt.,3. Mamy wystarczająco
@@ -124,6 +123,7 @@ maszynki jednorazowe do golenia damskie,-34 szt.,4. Mamy nadmiar
 ręczniki duże kąpielowe,-150 szt.,4. Mamy nadmiar
 koce dodatkowe,-5 szt.,4. Mamy nadmiar
 pilniki do paznokci,-30 szt.,4. Mamy nadmiar
+szczotki do włosów /grzebienie,-24 szt.,4. Mamy nadmiar
 gumki do włosów / spinki typu wsuwki,-16 szt.,4. Mamy nadmiar
 stopery do uszu/opaski na oczy,-6500 szt.,4. Mamy nadmiar
 obcinacze do paznokci,-32 szt.,4. Mamy nadmiar
