@@ -1,24 +1,23 @@
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,01/04/2022 10:42
+,,01/04/2022 11:52
 PRZEDMIOT,Brakuje,Priorytet
 duże baniaki z wodą (eden),7 szt.,1. Pilnie potrzebne
 pomidory,6 kg,1. Pilnie potrzebne
+kubeczki do ciepłych napojów plastikowe/papierowe,450 szt,1. Pilnie potrzebne
 powerbanki i ładowarki,20 szt.,1. Pilnie potrzebne
-żel do mycia twarzy  50-100ml,50 szt.,1. Pilnie potrzebne
-płyn micelar małe małe opak 50-100ml,45 szt.,1. Pilnie potrzebne
+żel do mycia twarzy  50-100ml,45 szt.,1. Pilnie potrzebne
+płyn micelar małe małe opak 50-100ml,40 szt.,1. Pilnie potrzebne
 smartfony używane ,5 szt.,1. Pilnie potrzebne
 ładowarki USB-C,15 szt,1. Pilnie potrzebne
-banany,2 kg,2. Potrzebne
 winogrona,4 kg,2. Potrzebne
-papryka czerwona,2 kg,2. Potrzebne
-kubeczki do ciepłych napojów plastikowe/papierowe,182 szt,2. Potrzebne
+papryka czerwona,1 kg,2. Potrzebne
 plecaki duże,4 szt.,2. Potrzebne
 szczotki do włosów /grzebienie,3 szt.,2. Potrzebne
 "bielizna damska (majtki/ koszulki) - różne rozmiary, w tym duże",6 szt.,2. Potrzebne
 bielizna męska (majtki/koszulki) nowe,16 szt.,2. Potrzebne
-rajstopy damskie  - różne rozmiary,14 szt.,2. Potrzebne
+rajstopy damskie  - różne rozmiary,2 szt.,2. Potrzebne
 notatnik z długopisem zestaw,15 szt.,2. Potrzebne
 baterie paluszki AA,15 ,2. Potrzebne
 Walizki na kółkach nowe/ stan bdb.,4 szt,2. Potrzebne
@@ -35,11 +34,10 @@ kawa rozpuszczalna+inka,0 szt.,3. Mamy wystarczająco
 kawa mielona 250g,0 szt.,3. Mamy wystarczająco
 kakao rozpuszczalne + czekolada rozpuszczalna,0 szt.,3. Mamy wystarczająco
 chleb krojony (nie tostowy!),0 szt.,3. Mamy wystarczająco
-chleb tostowy,0 szt.,3. Mamy wystarczająco
 kabanosy małe opakowania,0 szt.,3. Mamy wystarczająco
 parówki małe opakowania,0 szt.,3. Mamy wystarczająco
 wędlina/kiełbasa krojona paczkowana,0 szt.,3. Mamy wystarczająco
-ser żółty krojony paczkowany,0 szt,3. Mamy wystarczająco
+ser żółty krojony paczkowany,-1 szt,3. Mamy wystarczająco
 mandarynki,0 kg,3. Mamy wystarczająco
 ogórki świeże,0 szt,3. Mamy wystarczająco
 marchewki gotowe do zjedzenia w opakowaniach,0 szt,3. Mamy wystarczająco
@@ -54,8 +52,6 @@ pojemniki dwu i trójdzielne do wydawania ciepłych posiłków,0 szt,3. Mamy wys
 owsianka błyskawiczna kg (lub 20 porcjowanych),0 szt,3. Mamy wystarczająco
 sałata,0 szt,3. Mamy wystarczająco
 kawa mielona 500g,0 szt,3. Mamy wystarczająco
-Nutella lub inny krem czekoladowy,0 szt,3. Mamy wystarczająco
-masło orzechowe,0 szt,3. Mamy wystarczająco
 lusterka małe ,-1 szt.,3. Mamy wystarczająco
 kosmetyczki małe nowe/używane w st. bdb.,0 szt.,3. Mamy wystarczająco
 wielorazowe torby na zakupy,0 szt.,3. Mamy wystarczająco
@@ -100,7 +96,9 @@ mleko 1L,-20 szt.,4. Mamy nadmiar
 "woda w małych butelkach, w tym z dziubkiem",-50 szt.,4. Mamy nadmiar
 herbata czarna,-10 szt.,4. Mamy nadmiar
 "herbata melisa i inne zioła (np. mięta, rumianek), herbata zielon",-10 szt.,4. Mamy nadmiar
+chleb tostowy,-5 szt.,4. Mamy nadmiar
 jabłka,-5 kg,4. Mamy nadmiar
+banany,-2 kg,4. Mamy nadmiar
 ogórki kiszone w wiaderkach małych,-3 szt,4. Mamy nadmiar
 słoiczki dla dzieci- obiadki różne,-80 szt,4. Mamy nadmiar
 słoiczki dla dzieci- deserki różne,-30 szt,4. Mamy nadmiar
@@ -122,7 +120,7 @@ miski papierowe do wydawania ciepłych posiłków,-5620 szt,4. Mamy nadmiar
 torby miękkie podróżne nowe/ stan bdb.,-5 szt.,4. Mamy nadmiar
 worki na śmieci 240L-400L,-10 opak.,4. Mamy nadmiar
 "biustonosze różne rozmiary nowe, 75 B-90 D",-25 szt.,4. Mamy nadmiar
-maszynki jednorazowe do golenia damskie,-20 szt.,4. Mamy nadmiar
+maszynki jednorazowe do golenia damskie,-34 szt.,4. Mamy nadmiar
 ręczniki duże kąpielowe,-150 szt.,4. Mamy nadmiar
 koce dodatkowe,-5 szt.,4. Mamy nadmiar
 pilniki do paznokci,-30 szt.,4. Mamy nadmiar
@@ -151,7 +149,7 @@ płyn do czyszczenia toalety Ace /Domestos 750ml,-120 szt.,4. Mamy nadmiar
 mydło w płynie 500ml,-187 szt.,4. Mamy nadmiar
 chusteczki d/ hig int. małe opak,-5 opak.,4. Mamy nadmiar
 Pluszaki Aviva nowe,-20 opak.,4. Mamy nadmiar
-skarpetki damskie,-118 szt,4. Mamy nadmiar
+skarpetki damskie,-218 szt,4. Mamy nadmiar
 sznurowadła ,-4 szt.,4. Mamy nadmiar
 bluza z kapturem,-4 szt,4. Mamy nadmiar
 proszek do prania,-4 kg,4. Mamy nadmiar
