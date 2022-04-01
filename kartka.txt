@@ -1,7 +1,7 @@
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,01/04/2022 20:07
+,,01/04/2022 20:36
 PRZEDMIOT,Brakuje,Priorytet
 kubeczki do ciepłych napojów plastikowe/papierowe,450 szt,1. Pilnie potrzebne
 powerbanki i ładowarki,20 szt.,1. Pilnie potrzebne
@@ -22,6 +22,10 @@ dresy damskie XL,5 szt,1. Pilnie potrzebne
 piżama damska ,10 szt,1. Pilnie potrzebne
 bluza sportowa wiosenna,1 szt,1. Pilnie potrzebne
 filtry do ekspresu do kawy,20 szt,1. Pilnie potrzebne
+pensety,5 szt,1. Pilnie potrzebne
+słuchawki do uszu,5 szt,1. Pilnie potrzebne
+"leginsy damskie L, XL",5 szt,1. Pilnie potrzebne
+buty sportowe 43-44,1 szt,1. Pilnie potrzebne
 winogrona,2 kg,2. Potrzebne
 plecaki duże,3 szt.,2. Potrzebne
 żel do mycia twarzy  50-100ml,10 szt.,2. Potrzebne
@@ -30,7 +34,7 @@ płyn micelar małe małe opak 50-100ml,14 szt.,2. Potrzebne
 leginsy damskie ,10 szt.,2. Potrzebne
 rajstopy damskie  - różne rozmiary,2 szt.,2. Potrzebne
 worki na smieci160L,5 opak.,2. Potrzebne
-notatnik z długopisem zestaw,13 szt.,2. Potrzebne
+notatnik z długopisem zestaw,10 szt.,2. Potrzebne
 odżywki do włosów travel size 30-50ml,6 szt.,2. Potrzebne
 szampon do włosów travel size 30-50ml,12 szt.,2. Potrzebne
 kurtki WIOSENNE,1 szt,2. Potrzebne
@@ -66,7 +70,7 @@ owsianka błyskawiczna kg (lub 20 porcjowanych),0 szt,3. Mamy wystarczająco
 sałata,0 szt,3. Mamy wystarczająco
 kawa mielona 500g,0 szt,3. Mamy wystarczająco
 lusterka małe ,-1 szt.,3. Mamy wystarczająco
-kosmetyczki małe nowe/używane w st. bdb.,0 szt.,3. Mamy wystarczająco
+kosmetyczki małe nowe/używane w st. bdb.,-3 szt.,3. Mamy wystarczająco
 wielorazowe torby na zakupy,0 szt.,3. Mamy wystarczająco
 klapki wielorazowe Damskie różne rozm. 36-41,-5 par.,3. Mamy wystarczająco
 patyczki do uszu ,0 opak.,3. Mamy wystarczająco
