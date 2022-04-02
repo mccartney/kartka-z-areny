@@ -1,9 +1,11 @@
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,02/04/2022 18:05
+,,02/04/2022 18:19
 PRZEDMIOT,Brakuje,Priorytet
+"woda w małych butelkach, w tym z dziubkiem",100 szt.,1. Pilnie potrzebne
 winogrona,9 kg,1. Pilnie potrzebne
+pomidory,6 kg,1. Pilnie potrzebne
 kubeczki do ciepłych napojów plastikowe/papierowe/styropianowe,378 szt,1. Pilnie potrzebne
 tacki papierowe jednorazowe,70 szt,1. Pilnie potrzebne
 powerbanki i ładowarki,20 szt.,1. Pilnie potrzebne
@@ -16,6 +18,7 @@ dresy damskie L,5 szt,1. Pilnie potrzebne
 dresy damskie XL,5 szt,1. Pilnie potrzebne
 filtry do ekspresu do kawy,15 szt,1. Pilnie potrzebne
 buty sportowe 43-44,1 szt,1. Pilnie potrzebne
+buty męskie 45,1 szt,1. Pilnie potrzebne
 sałata,5 szt,2. Potrzebne
 plecaki duże,3 szt.,2. Potrzebne
 żel do mycia twarzy  50-100ml,10 szt.,2. Potrzebne
@@ -42,7 +45,6 @@ parówki małe opakowania,0 szt.,3. Mamy wystarczająco
 ser żółty krojony paczkowany,-1 szt,3. Mamy wystarczająco
 mandarynki,0 kg,3. Mamy wystarczająco
 ogórki świeże,0 szt,3. Mamy wystarczająco
-pomidory,0 kg,3. Mamy wystarczająco
 papryka czerwona,0 kg,3. Mamy wystarczająco
 marchewki gotowe do zjedzenia w opakowaniach,0 szt,3. Mamy wystarczająco
 "płatki śnaidaniowe, owsiane, różne rodzaje",0 szt,3. Mamy wystarczająco
@@ -99,7 +101,6 @@ dresy damskie S,0 szt,3. Mamy wystarczająco
 mleko 1L,-20 szt.,4. Mamy nadmiar
 kefir/jogurt naturalny pitny,-21 szt.,4. Mamy nadmiar
 jogurt pitny różne rodzaje,-12 szt.,4. Mamy nadmiar
-"woda w małych butelkach, w tym z dziubkiem",-50 szt.,4. Mamy nadmiar
 duże baniaki z wodą (eden),-13 szt.,4. Mamy nadmiar
 soczki małe z rurką,-200 szt.,4. Mamy nadmiar
 herbata czarna,-10 szt.,4. Mamy nadmiar
