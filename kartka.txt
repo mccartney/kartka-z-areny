@@ -1,16 +1,13 @@
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,02/04/2022 09:40
+,,02/04/2022 12:11
 PRZEDMIOT,Brakuje,Priorytet
 kubeczki do ciepłych napojów plastikowe/papierowe/styropianowe,450 szt,1. Pilnie potrzebne
 powerbanki i ładowarki,20 szt.,1. Pilnie potrzebne
 smartfony używane ,5 szt.,1. Pilnie potrzebne
 "piżamy/koszule nocne S,M,L nowe",10 szt.,1. Pilnie potrzebne
-T-shirt dziecko lat 14-15,10 szt,1. Pilnie potrzebne
-T-shirt damski M,10 szt,1. Pilnie potrzebne
-T-shirt damski L,10 szt,1. Pilnie potrzebne
-T-shirt damski XL,10 szt,1. Pilnie potrzebne
+T-shirt dziecko lat 14-15,8 szt,1. Pilnie potrzebne
 T-shirt męski M,10 szt,1. Pilnie potrzebne
 T-shirt męski L,10 szt,1. Pilnie potrzebne
 T-shirt męski XL,10 szt,1. Pilnie potrzebne
@@ -35,11 +32,9 @@ rajstopy damskie  - różne rozmiary,2 szt.,2. Potrzebne
 worki na smieci160L,5 opak.,2. Potrzebne
 notatnik z długopisem zestaw,10 szt.,2. Potrzebne
 odżywki do włosów travel size 30-50ml,6 szt.,2. Potrzebne
-szampon do włosów travel size 30-50ml,12 szt.,2. Potrzebne
 kurtki WIOSENNE,1 szt,2. Potrzebne
 kefir/jogurt naturalny pitny,0 szt.,3. Mamy wystarczająco
 jogurt pitny różne rodzaje,0 szt.,3. Mamy wystarczająco
-soczki małe z rurką,0 szt.,3. Mamy wystarczająco
 soczki małe z dziubkiem,0 szt,3. Mamy wystarczająco
 soki owocowe litrowe,0 szt.,3. Mamy wystarczająco
 herbata owocowa różne rodzaje,0 szt,3. Mamy wystarczająco
@@ -68,6 +63,7 @@ pojemniki dwu i trójdzielne do wydawania ciepłych posiłków,0 szt,3. Mamy wys
 owsianka błyskawiczna kg (lub 20 porcjowanych),0 szt,3. Mamy wystarczająco
 sałata,0 szt,3. Mamy wystarczająco
 kawa mielona 500g,0 szt,3. Mamy wystarczająco
+majonez,0 szt,3. Mamy wystarczająco
 lusterka małe ,-1 szt.,3. Mamy wystarczająco
 kosmetyczki małe nowe/używane w st. bdb.,-3 szt.,3. Mamy wystarczająco
 wielorazowe torby na zakupy,0 szt.,3. Mamy wystarczająco
@@ -109,9 +105,13 @@ małe poduszki,0 szt,3. Mamy wystarczająco
 duże poduszki,0 szt,3. Mamy wystarczająco
 nożyczki do paznokci,0 szt,3. Mamy wystarczająco
 wkładki laktacyjne,-1 szt,3. Mamy wystarczająco
+T-shirt damski M,0 szt,3. Mamy wystarczająco
+T-shirt damski L,0 szt,3. Mamy wystarczająco
+T-shirt damski XL,0 szt,3. Mamy wystarczająco
 mleko 1L,-20 szt.,4. Mamy nadmiar
 "woda w małych butelkach, w tym z dziubkiem",-50 szt.,4. Mamy nadmiar
 duże baniaki z wodą (eden),-13 szt.,4. Mamy nadmiar
+soczki małe z rurką,-200 szt.,4. Mamy nadmiar
 herbata czarna,-10 szt.,4. Mamy nadmiar
 "herbata melisa i inne zioła (np. mięta, rumianek), herbata zielon",-10 szt.,4. Mamy nadmiar
 chleb tostowy,-5 szt.,4. Mamy nadmiar
@@ -169,8 +169,9 @@ mydło w płynie 500ml,-187 szt.,4. Mamy nadmiar
 chusteczki d/ hig int. małe opak,-5 opak.,4. Mamy nadmiar
 Pluszaki Aviva nowe,-20 opak.,4. Mamy nadmiar
 skarpetki damskie,-238 szt,4. Mamy nadmiar
+szampon do włosów travel size 30-50ml,-100 szt.,4. Mamy nadmiar
 sznurowadła ,-4 szt.,4. Mamy nadmiar
-bluza z kapturem,-4 szt,4. Mamy nadmiar
+bluza z kapturem,-7 szt,4. Mamy nadmiar
 zmywaki-gąbki,-10 szt,4. Mamy nadmiar
 proszek do prania,-4 kg,4. Mamy nadmiar
 sportowy biustonosz damski - Bielizna,-15 szt.,4. Mamy nadmiar
