@@ -1,19 +1,20 @@
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,02/04/2022 13:51
+,,02/04/2022 14:55
 PRZEDMIOT,Brakuje,Priorytet
 kefir/jogurt naturalny pitny,10 szt.,1. Pilnie potrzebne
-wędlina/kiełbasa krojona paczkowana,10 szt.,1. Pilnie potrzebne
+winogrona,10 kg,1. Pilnie potrzebne
+ogórki świeże,23 szt,1. Pilnie potrzebne
 kubeczki do ciepłych napojów plastikowe/papierowe/styropianowe,390 szt,1. Pilnie potrzebne
 tacki papierowe jednorazowe,80 szt,1. Pilnie potrzebne
 powerbanki i ładowarki,20 szt.,1. Pilnie potrzebne
 smartfony używane ,5 szt.,1. Pilnie potrzebne
-"piżamy/koszule nocne S,M,L nowe",10 szt.,1. Pilnie potrzebne
+"piżamy/koszule nocne S,M,L, XL, XXL nowe",7 szt.,1. Pilnie potrzebne
 Walizki na kółkach nowe/ stan bdb. / DUŻE,5 szt,1. Pilnie potrzebne
 T-shirt dziecko lat 14-15,8 szt,1. Pilnie potrzebne
 T-shirt męski M,10 szt,1. Pilnie potrzebne
-T-shirt męski L,10 szt,1. Pilnie potrzebne
+T-shirt męski L,8 szt,1. Pilnie potrzebne
 T-shirt męski XL,10 szt,1. Pilnie potrzebne
 bluzy sportowe wiosenne,5 szt,1. Pilnie potrzebne
 dresy damskie M,5 szt,1. Pilnie potrzebne
@@ -21,10 +22,13 @@ dresy damskie L,5 szt,1. Pilnie potrzebne
 dresy damskie XL,5 szt,1. Pilnie potrzebne
 filtry do ekspresu do kawy,15 szt,1. Pilnie potrzebne
 buty sportowe 43-44,1 szt,1. Pilnie potrzebne
+jogurt pitny różne rodzaje,20 szt.,2. Potrzebne
+wędlina/kiełbasa krojona paczkowana,6 szt.,2. Potrzebne
+pomidory,1 kg,2. Potrzebne
+sałata,5 szt,2. Potrzebne
 plecaki duże,3 szt.,2. Potrzebne
 żel do mycia twarzy  50-100ml,10 szt.,2. Potrzebne
 płyn micelar małe małe opak 50-100ml,8 szt.,2. Potrzebne
-"bielizna damska (majtki/ koszulki) - różne rozmiary, w tym duże",6 szt.,2. Potrzebne
 "leginsy damskie M, L, XL",10 szt.,2. Potrzebne
 rajstopy damskie  - różne rozmiary,2 szt.,2. Potrzebne
 worki na smieci160L,5 opak.,2. Potrzebne
@@ -32,7 +36,6 @@ notatnik z długopisem zestaw,10 szt.,2. Potrzebne
 odżywki do włosów travel size 30-50ml,6 szt.,2. Potrzebne
 kurtki WIOSENNE,1 szt,2. Potrzebne
 Walizki na kółkach nowe/ stan bdb. / MAŁE,3 szt,2. Potrzebne
-jogurt pitny różne rodzaje,0 szt.,3. Mamy wystarczająco
 soczki małe z dziubkiem,0 szt,3. Mamy wystarczająco
 soki owocowe litrowe,0 szt.,3. Mamy wystarczająco
 herbata owocowa różne rodzaje,0 szt,3. Mamy wystarczająco
@@ -44,9 +47,6 @@ kabanosy małe opakowania,0 szt.,3. Mamy wystarczająco
 parówki małe opakowania,0 szt.,3. Mamy wystarczająco
 ser żółty krojony paczkowany,-1 szt,3. Mamy wystarczająco
 mandarynki,0 kg,3. Mamy wystarczająco
-winogrona,0 kg,3. Mamy wystarczająco
-ogórki świeże,0 szt,3. Mamy wystarczająco
-pomidory,0 kg,3. Mamy wystarczająco
 papryka czerwona,0 kg,3. Mamy wystarczająco
 marchewki gotowe do zjedzenia w opakowaniach,0 szt,3. Mamy wystarczająco
 "płatki śnaidaniowe, owsiane, różne rodzaje",0 szt,3. Mamy wystarczająco
@@ -58,7 +58,6 @@ batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),0 szt.,3
 talerzyki plastikowe małe,0 szt,3. Mamy wystarczająco
 pojemniki dwu i trójdzielne do wydawania ciepłych posiłków,0 szt,3. Mamy wystarczająco
 owsianka błyskawiczna kg (lub 20 porcjowanych),0 szt,3. Mamy wystarczająco
-sałata,0 szt,3. Mamy wystarczająco
 kawa mielona 500g,0 szt,3. Mamy wystarczająco
 majonez,0 szt,3. Mamy wystarczająco
 lusterka małe ,-1 szt.,3. Mamy wystarczająco
@@ -73,6 +72,7 @@ dezodoranty męskie/damskie travel size,-7 szt.,3. Mamy wystarczająco
 szampony 150-500ml,-9 szt.,3. Mamy wystarczająco
 płyn do higieny intymnej małe 20-50ml,0 szt.,3. Mamy wystarczająco
 klapki jednorazowe p. prysznic,0 par.,3. Mamy wystarczająco
+"bielizna damska (majtki/ koszulki) - różne rozmiary, w tym duże",-6 szt.,3. Mamy wystarczająco
 bielizna męska (majtki/koszulki) nowe,0 szt.,3. Mamy wystarczająco
 sudocrem 30ml,-1 szt.,3. Mamy wystarczająco
 krem/ puder do pupy dla dzieci,0 szt.,3. Mamy wystarczająco
@@ -104,6 +104,7 @@ wkładki laktacyjne,-1 szt,3. Mamy wystarczająco
 T-shirt damski L,0 szt,3. Mamy wystarczająco
 T-shirt damski XL,0 szt,3. Mamy wystarczająco
 pasta do butów,0 szt,3. Mamy wystarczająco
+dresy damskie S,0 szt,3. Mamy wystarczająco
 mleko 1L,-20 szt.,4. Mamy nadmiar
 "woda w małych butelkach, w tym z dziubkiem",-50 szt.,4. Mamy nadmiar
 duże baniaki z wodą (eden),-13 szt.,4. Mamy nadmiar
