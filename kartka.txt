@@ -1,9 +1,9 @@
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,02/04/2022 12:11
+,,02/04/2022 12:19
 PRZEDMIOT,Brakuje,Priorytet
-kubeczki do ciepłych napojów plastikowe/papierowe/styropianowe,450 szt,1. Pilnie potrzebne
+kubeczki do ciepłych napojów plastikowe/papierowe/styropianowe,402 szt,1. Pilnie potrzebne
 powerbanki i ładowarki,20 szt.,1. Pilnie potrzebne
 smartfony używane ,5 szt.,1. Pilnie potrzebne
 "piżamy/koszule nocne S,M,L nowe",10 szt.,1. Pilnie potrzebne
@@ -18,9 +18,7 @@ dresy damskie L,5 szt,1. Pilnie potrzebne
 dresy damskie XL,5 szt,1. Pilnie potrzebne
 piżama damska ,10 szt,1. Pilnie potrzebne
 bluza sportowa wiosenna,1 szt,1. Pilnie potrzebne
-filtry do ekspresu do kawy,20 szt,1. Pilnie potrzebne
-pensety,5 szt,1. Pilnie potrzebne
-słuchawki do uszu,5 szt,1. Pilnie potrzebne
+filtry do ekspresu do kawy,15 szt,1. Pilnie potrzebne
 "leginsy damskie L, XL",5 szt,1. Pilnie potrzebne
 buty sportowe 43-44,1 szt,1. Pilnie potrzebne
 plecaki duże,3 szt.,2. Potrzebne
@@ -175,3 +173,5 @@ bluza z kapturem,-7 szt,4. Mamy nadmiar
 zmywaki-gąbki,-10 szt,4. Mamy nadmiar
 proszek do prania,-4 kg,4. Mamy nadmiar
 sportowy biustonosz damski - Bielizna,-15 szt.,4. Mamy nadmiar
+pensety,-3 szt,4. Mamy nadmiar
+słuchawki do uszu,-11 szt,4. Mamy nadmiar
