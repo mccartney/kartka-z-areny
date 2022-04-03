@@ -1,9 +1,10 @@
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,03/04/2022 12:04
+,,03/04/2022 13:13
 PRZEDMIOT,Brakuje,Priorytet
 "woda w małych butelkach, w tym z dziubkiem",100 szt.,1. Pilnie potrzebne
+chleb tostowy,4 szt.,1. Pilnie potrzebne
 winogrona,9 kg,1. Pilnie potrzebne
 pomidory,6 kg,1. Pilnie potrzebne
 kubeczki do ciepłych napojów plastikowe/papierowe/styropianowe,378 szt,1. Pilnie potrzebne
@@ -19,6 +20,7 @@ dresy damskie XL,5 szt,1. Pilnie potrzebne
 filtry do ekspresu do kawy,15 szt,1. Pilnie potrzebne
 buty sportowe 43-44,1 szt,1. Pilnie potrzebne
 buty męskie 45,1 szt,1. Pilnie potrzebne
+chleb krojony (nie tostowy!),2 szt.,2. Potrzebne
 sałata,5 szt,2. Potrzebne
 plecaki duże,3 szt.,2. Potrzebne
 żel do mycia twarzy  50-100ml,10 szt.,2. Potrzebne
@@ -39,7 +41,6 @@ herbata owocowa różne rodzaje,0 szt,3. Mamy wystarczająco
 kawa rozpuszczalna+inka,0 szt.,3. Mamy wystarczająco
 kawa mielona 250g,0 szt.,3. Mamy wystarczająco
 kakao rozpuszczalne + czekolada rozpuszczalna,0 szt.,3. Mamy wystarczająco
-chleb krojony (nie tostowy!),0 szt.,3. Mamy wystarczająco
 kabanosy małe opakowania,0 szt.,3. Mamy wystarczająco
 parówki małe opakowania,0 szt.,3. Mamy wystarczająco
 ser żółty krojony paczkowany,-1 szt,3. Mamy wystarczająco
@@ -105,7 +106,6 @@ duże baniaki z wodą (eden),-13 szt.,4. Mamy nadmiar
 soczki małe z rurką,-200 szt.,4. Mamy nadmiar
 herbata czarna,-10 szt.,4. Mamy nadmiar
 "herbata melisa i inne zioła (np. mięta, rumianek), herbata zielon",-10 szt.,4. Mamy nadmiar
-chleb tostowy,-5 szt.,4. Mamy nadmiar
 wędlina/kiełbasa krojona paczkowana,-11 szt.,4. Mamy nadmiar
 jabłka,-5 kg,4. Mamy nadmiar
 banany,-2 kg,4. Mamy nadmiar
