@@ -1,7 +1,7 @@
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,02/04/2022 18:19
+,,03/04/2022 09:57
 PRZEDMIOT,Brakuje,Priorytet
 "woda w małych butelkach, w tym z dziubkiem",100 szt.,1. Pilnie potrzebne
 winogrona,9 kg,1. Pilnie potrzebne
@@ -12,7 +12,7 @@ powerbanki i ładowarki,20 szt.,1. Pilnie potrzebne
 smartfony używane ,5 szt.,1. Pilnie potrzebne
 Walizki na kółkach nowe/ stan bdb. / DUŻE,5 szt,1. Pilnie potrzebne
 T-shirt dziecko lat 14-15,8 szt,1. Pilnie potrzebne
-bluzy sportowe wiosenne,5 szt,1. Pilnie potrzebne
+bluzy sportowe wiosenne,3 szt,1. Pilnie potrzebne
 dresy damskie M,5 szt,1. Pilnie potrzebne
 dresy damskie L,5 szt,1. Pilnie potrzebne
 dresy damskie XL,5 szt,1. Pilnie potrzebne
@@ -174,5 +174,5 @@ zmywaki-gąbki,-40 szt,4. Mamy nadmiar
 proszek do prania,-4 kg,4. Mamy nadmiar
 sportowy biustonosz damski - Bielizna,-16 szt.,4. Mamy nadmiar
 T-shirt damski M,-5 szt,4. Mamy nadmiar
-pensety,-3 szt,4. Mamy nadmiar
+pęsety,-3 szt,4. Mamy nadmiar
 słuchawki do uszu,-11 szt,4. Mamy nadmiar
