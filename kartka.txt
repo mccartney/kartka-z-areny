@@ -1,15 +1,14 @@
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,03/04/2022 14:12
+,,03/04/2022 15:11
 PRZEDMIOT,Brakuje,Priorytet
 "woda w małych butelkach, w tym z dziubkiem",100 szt.,1. Pilnie potrzebne
 chleb tostowy,4 szt.,1. Pilnie potrzebne
-winogrona,10 kg,1. Pilnie potrzebne
-pomidory,6 kg,1. Pilnie potrzebne
 kubeczki do ciepłych napojów plastikowe/papierowe/styropianowe,378 szt,1. Pilnie potrzebne
 tacki papierowe jednorazowe,70 szt,1. Pilnie potrzebne
 rękawice grube wielorazowe,10 szt.,1. Pilnie potrzebne
+Powerbanki,7 szt.,1. Pilnie potrzebne
 ,50 szt.,1. Pilnie potrzebne
 dresy damskie M,10 szt.,1. Pilnie potrzebne
 worki na śmieci 240L-400L,78 opak.,1. Pilnie potrzebne
@@ -22,7 +21,7 @@ słuchawki do uszu,33 szt.,1. Pilnie potrzebne
 Walizki na kółkach nowe/ stan bdb. / MAŁE,95 opak.,1. Pilnie potrzebne
 płyn antybakteryjny 5L,90 opak.,1. Pilnie potrzebne
 wielorazowe torby na zakupy,194 szt,1. Pilnie potrzebne
-smartfony używane ,100 szt,1. Pilnie potrzebne
+smartfony używane ,94 szt,1. Pilnie potrzebne
 T-shirt damski M,1220 szt.,1. Pilnie potrzebne
 ,4 szt.,1. Pilnie potrzebne
 T-shirt dziecko lat 14-15,8 szt,1. Pilnie potrzebne
@@ -30,6 +29,9 @@ bluzy sportowe wiosenne,3 szt,1. Pilnie potrzebne
 wkładki laktacyjne,11 szt,1. Pilnie potrzebne
 chleb krojony (nie tostowy!),2 szt.,2. Potrzebne
 parówki małe opakowania,10 szt.,2. Potrzebne
+banany,2 kg,2. Potrzebne
+winogrona,3 kg,2. Potrzebne
+pomidory,2 kg,2. Potrzebne
 sałata,5 szt,2. Potrzebne
 Walizki na kółkach nowe/ stan bdb. / DUŻE,5 szt.,2. Potrzebne
 T-shirt damski L,5 szt.,2. Potrzebne
@@ -40,6 +42,7 @@ szampony 150-500ml,39 szt.,2. Potrzebne
 zmywacz do paznokci,5 opak.,2. Potrzebne
 T-shirt męski M,5 szt,2. Potrzebne
 T-shirt męski L,3 szt,2. Potrzebne
+ładowarki,5 szt,2. Potrzebne
 soczki małe z dziubkiem,0 szt,3. Mamy wystarczająco
 soki owocowe litrowe,0 szt.,3. Mamy wystarczająco
 herbata owocowa różne rodzaje,0 szt,3. Mamy wystarczająco
@@ -49,7 +52,6 @@ kakao rozpuszczalne + czekolada rozpuszczalna,0 szt.,3. Mamy wystarczająco
 kabanosy małe opakowania,0 szt.,3. Mamy wystarczająco
 ser żółty krojony paczkowany,-1 szt,3. Mamy wystarczająco
 mandarynki,0 kg,3. Mamy wystarczająco
-ogórki świeże,0 szt,3. Mamy wystarczająco
 papryka czerwona,0 kg,3. Mamy wystarczająco
 marchewki gotowe do zjedzenia w opakowaniach,0 szt,3. Mamy wystarczająco
 "płatki śnaidaniowe, owsiane, różne rodzaje",0 szt,3. Mamy wystarczająco
@@ -62,7 +64,6 @@ talerzyki plastikowe małe,0 szt,3. Mamy wystarczająco
 pojemniki dwu i trójdzielne do wydawania ciepłych posiłków,0 szt,3. Mamy wystarczająco
 owsianka błyskawiczna kg (lub 20 porcjowanych),0 szt,3. Mamy wystarczająco
 kawa mielona 500g,0 szt,3. Mamy wystarczająco
-majonez,0 szt,3. Mamy wystarczająco
 worki na smieci 35L,0 szt.,3. Mamy wystarczająco
 krem/ puder do pupy dla dzieci,0 szt.,3. Mamy wystarczająco
 klapki wielorazowe Męskie różne rozm. 41-46,0 par.,3. Mamy wystarczająco
@@ -84,7 +85,7 @@ herbata czarna,-10 szt.,4. Mamy nadmiar
 "herbata melisa i inne zioła (np. mięta, rumianek), herbata zielon",-10 szt.,4. Mamy nadmiar
 wędlina/kiełbasa krojona paczkowana,-11 szt.,4. Mamy nadmiar
 jabłka,-5 kg,4. Mamy nadmiar
-banany,-2 kg,4. Mamy nadmiar
+ogórki świeże,-20 szt,4. Mamy nadmiar
 ogórki kiszone w wiaderkach małych,-3 szt,4. Mamy nadmiar
 słoiczki dla dzieci- obiadki różne,-80 szt,4. Mamy nadmiar
 słoiczki dla dzieci- deserki różne,-30 szt,4. Mamy nadmiar
@@ -103,6 +104,7 @@ talerze głebokie plastikowe do wydawania ciepłych posiłków,-7637 szt,4. Mamy
 kubeczki do zimnych napojów plastikowe,-4130 szt,4. Mamy nadmiar
 miseczki plastikowe (nie do ciepłych posiłków),-156 szt,4. Mamy nadmiar
 miski papierowe do wydawania ciepłych posiłków,-5620 szt,4. Mamy nadmiar
+majonez,-5 szt,4. Mamy nadmiar
 zmywaki-gąbki,-60 opak.,4. Mamy nadmiar
 małe poduszki,-90 szt.,4. Mamy nadmiar
 kremy do rąk małe 30ml,-132 szt.,4. Mamy nadmiar
