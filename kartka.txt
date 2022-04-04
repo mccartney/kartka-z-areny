@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,04/04/2022 10:12
+,,04/04/2022 10:56
 PRZEDMIOT,Brakuje,Priorytet
 chleb tostowy,7 szt.,1. Pilnie potrzebne
 parówki małe opakowania,20 szt.,1. Pilnie potrzebne
@@ -32,12 +32,17 @@ T-shirt męski M,1 szt,2. Potrzebne
 T-shirt damski XL,5 szt,2. Potrzebne
 T-shirt męski XL,1 szt,2. Potrzebne
 opakowania rękawiczek lateksowych m,4 szt,2. Potrzebne
+mleko roślinne różne rodzaje,0 szt,3. Mamy wystarczająco
+jogurty wegańskie różne rodzaje,0 sz,3. Mamy wystarczająco
 herbata owocowa różne rodzaje,0 szt,3. Mamy wystarczająco
 kawa rozpuszczalna+inka,0 szt.,3. Mamy wystarczająco
-kawa mielona ,0 szt.,3. Mamy wystarczająco
+kawa mielona 250 gram,0 szt.,3. Mamy wystarczająco
 kakao rozpuszczalne + czekolada rozpuszczalna,0 szt.,3. Mamy wystarczająco
 chleb krojony (nie tostowy!),-1 szt.,3. Mamy wystarczająco
 kabanosy małe opakowania,0 szt.,3. Mamy wystarczająco
+hummus,0 szt,3. Mamy wystarczająco
+parówki/kabanosy wegańskie,0 szt,3. Mamy wystarczająco
+pasty kanapkowe wegańskie- różne rodzaje,0 szt,3. Mamy wystarczająco
 banany,0 kg,3. Mamy wystarczająco
 mandarynki,0 kg,3. Mamy wystarczająco
 pomidory,0 kg,3. Mamy wystarczająco
@@ -129,7 +134,7 @@ szampon do włosów travel size 30-50ml,-100 szt.,4. Mamy nadmiar
 maszynki jednorazowe do golenia męskie,-88 szt.,4. Mamy nadmiar
 balsamy do ciała travel size 20-50ml,-60 szt.,4. Mamy nadmiar
 szczoteczki do zębów dla dzieci,-149 szt.,4. Mamy nadmiar
-podpaski/tampony/- różny poziom chłonności ,-611 szt.,4. Mamy nadmiar
+podpaski/tampony/- różny poziom chłonności ,-615 szt.,4. Mamy nadmiar
 kremy nawilżające do twarzy 15-30ml,-70 szt.,4. Mamy nadmiar
 podkładki dla dzieci/ dorosłych Seni,-208 szt.,4. Mamy nadmiar
 nocnik dla dzieci,-15 szt.,4. Mamy nadmiar
@@ -140,7 +145,7 @@ bielizna męska (majtki/koszulki) nowe,-13 szt.,4. Mamy nadmiar
 bielizna dziecięca (majtki/koszulki) nowe,-16 szt.,4. Mamy nadmiar
 ręczniki papierowe/rolka,-784 szt.,4. Mamy nadmiar
 sznurowadła ,-4 szt.,4. Mamy nadmiar
-szampony 150-500ml,-11 szt.,4. Mamy nadmiar
+szampony 150-500ml,-17 szt.,4. Mamy nadmiar
 dezodoranty męskie/damskie travel size,-80 szt.,4. Mamy nadmiar
 kurtki WIOSENNE,-4 szt.,4. Mamy nadmiar
 worki na śmieci 120L,-6 opak.,4. Mamy nadmiar
@@ -152,7 +157,7 @@ pilniki do paznokci,-10 szt.,4. Mamy nadmiar
 patyczki do uszu ,-26 szt.,4. Mamy nadmiar
 pasty do zębów dla dorosłych (duże opak.),-282 szt.,4. Mamy nadmiar
 "sciereczki bawełniane jednoraz. rolka ( mag.  ""Recepcja"")",-860 szt.,4. Mamy nadmiar
-chusteczki mokre dla dzieci,-5960 szt.,4. Mamy nadmiar
+chusteczki mokre dla dzieci,-5963 szt.,4. Mamy nadmiar
 żel pod prysznic 35  ml,-1050 szt.,4. Mamy nadmiar
 płyn do higieny intymnej małe 20-50ml,-206 szt.,4. Mamy nadmiar
 kosmetyczki małe nowe/używane w st. bdb.,-12 par.,4. Mamy nadmiar
@@ -186,7 +191,7 @@ pasty do zębów dla dorosłych (małe opak.),-124 szt,4. Mamy nadmiar
 dresy damskie rozpinane 36-42 ciemne kolory nowe,-25 szt,4. Mamy nadmiar
 duże poduszki,-15 szt,4. Mamy nadmiar
 gumki do włosów / spinki typu wsuwki,-41 szt,4. Mamy nadmiar
-pieluchy tetrowe,-150 szt,4. Mamy nadmiar
+pieluchy tetrowe,-152 szt,4. Mamy nadmiar
 sportowy biustonosz damski - Bielizna,-11 szt,4. Mamy nadmiar
 buty sportowe dziecięce unisex rozm. 25 do 35 nowe,-5 szt.,4. Mamy nadmiar
 wkładki laktacyjne,-4 szt,4. Mamy nadmiar
