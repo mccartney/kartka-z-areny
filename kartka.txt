@@ -2,30 +2,31 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,03/04/2022 20:39
+,,04/04/2022 09:08
 PRZEDMIOT,Brakuje,Priorytet
-kubeczki do ciepłych napojów papierowe/styropianowe,348 szt,1. Pilnie potrzebne
 tacki papierowe jednorazowe małe prostokątne,70 szt,1. Pilnie potrzebne
+makaron,9 szt,1. Pilnie potrzebne
+opakowania rękawiczek lateksowych S,5 szt,1. Pilnie potrzebne
+opakowania rękawiczek lateksowych L,5 szt,1. Pilnie potrzebne
+rękawice grube wielorazowe,9 szt.,1. Pilnie potrzebne
 dresy damskie M,5 szt.,1. Pilnie potrzebne
 dresy damskie XL,5 szt.,1. Pilnie potrzebne
 dresy damskie L,5 szt.,1. Pilnie potrzebne
 T-shirt dziecko lat 14-15,3 szt,1. Pilnie potrzebne
 dresy damskie S,4 szt,1. Pilnie potrzebne
 dresy dziecięce wszystkie rozm 110-140,5 szt,1. Pilnie potrzebne
-"woda w małych butelkach, w tym z dziubkiem",30 szt.,2. Potrzebne
-banany,1 kg,2. Potrzebne
-winogrona,3 kg,2. Potrzebne
-sałata,5 szt,2. Potrzebne
-filtry do ekspresu przelewowego do kawy papierowe rozmiar 4,5 szt.,2. Potrzebne
+"woda w małych butelkach, w tym z dziubkiem",18 szt.,2. Potrzebne
+winogrona,2 kg,2. Potrzebne
+kubeczki do ciepłych napojów papierowe/styropianowe,250 szt,2. Potrzebne
+opakowania rękawiczek lateksowych m,4 szt,2. Potrzebne
 worki na smieci 35L,3 szt.,2. Potrzebne
 T-shirt damski L,5 szt.,2. Potrzebne
 "piżamy/koszule nocne S,M,L, XL, XXL nowe",7 szt.,2. Potrzebne
 worki na smieci160L,15 opak.,2. Potrzebne
 smartfony używane ,4 szt,2. Potrzebne
-T-shirt męski M,5 szt,2. Potrzebne
+T-shirt męski M,1 szt,2. Potrzebne
 T-shirt damski XL,5 szt,2. Potrzebne
-T-shirt męski L,3 szt,2. Potrzebne
-T-shirt męski XL,5 szt,2. Potrzebne
+T-shirt męski XL,1 szt,2. Potrzebne
 herbata owocowa różne rodzaje,0 szt,3. Mamy wystarczająco
 kawa rozpuszczalna+inka,0 szt.,3. Mamy wystarczająco
 kawa mielona 250g,0 szt.,3. Mamy wystarczająco
@@ -35,11 +36,12 @@ chleb tostowy,0 szt.,3. Mamy wystarczająco
 kabanosy małe opakowania,0 szt.,3. Mamy wystarczająco
 parówki małe opakowania,0 szt.,3. Mamy wystarczająco
 ser żółty krojony paczkowany,-1 szt,3. Mamy wystarczająco
+banany,0 kg,3. Mamy wystarczająco
 mandarynki,0 kg,3. Mamy wystarczająco
 pomidory,0 kg,3. Mamy wystarczająco
 papryka czerwona,0 kg,3. Mamy wystarczająco
 marchewki gotowe do zjedzenia w opakowaniach,0 szt,3. Mamy wystarczająco
-"płatki śnaidaniowe, owsiane, różne rodzaje",0 szt,3. Mamy wystarczająco
+"płatki śnaidaniowe, owsiane, różne rodzaje",-3 szt,3. Mamy wystarczająco
 dżem,0 szt,3. Mamy wystarczająco
 cukier 1 kg,0 kg,3. Mamy wystarczająco
 ketchup łagodny,0 sz,3. Mamy wystarczająco
@@ -48,9 +50,9 @@ batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),-10 szt.
 talerzyki plastikowe małe,0 szt,3. Mamy wystarczająco
 pojemniki dwu i trójdzielne do wydawania ciepłych posiłków,0 szt,3. Mamy wystarczająco
 owsianka błyskawiczna kg (lub 20 porcjowanych),0 szt,3. Mamy wystarczająco
+sałata,0 szt,3. Mamy wystarczająco
 kawa mielona 500g,0 szt,3. Mamy wystarczająco
 mydelniczki/opakowania na szczoteczki ,0 szt.,3. Mamy wystarczająco
-rękawice grube wielorazowe,0 szt.,3. Mamy wystarczająco
 krem/ puder do pupy dla dzieci,0 szt.,3. Mamy wystarczająco
 przewijaki,0 szt.,3. Mamy wystarczająco
 sudocrem 30ml,-1 szt.,3. Mamy wystarczająco
@@ -65,7 +67,6 @@ butelki dla dzieci,-2 szt.,3. Mamy wystarczająco
 sportowy biustonosz dziewczęcy- Bielizna,0 szt.,3. Mamy wystarczająco
 zmywacz do paznokci,0 opak.,3. Mamy wystarczająco
 worki na śmieci 240L-400L,-2 opak.,3. Mamy wystarczająco
-worki na śmieci 120L,-5 opak.,3. Mamy wystarczająco
 nożyczki do paznokci,0 szt.,3. Mamy wystarczająco
 koce dodatkowe,0 par.,3. Mamy wystarczająco
 chusteczki d/ hig int. małe opak,0 szt.,3. Mamy wystarczająco
@@ -73,10 +74,10 @@ Walizki na kółkach nowe/ stan bdb. / MAŁE,0 szt.,3. Mamy wystarczająco
 płyn antybakteryjny 5L,0 opak.,3. Mamy wystarczająco
 wielorazowe torby na zakupy,0 szt,3. Mamy wystarczająco
 bluza z kapturem,-2 szt,3. Mamy wystarczająco
-bluzy sportowe wiosenne,0 szt,3. Mamy wystarczająco
+T-shirt męski L,-1 szt,3. Mamy wystarczająco
 ładowarki,0 szt,3. Mamy wystarczająco
 żwirek dla kota,0 kg,3. Mamy wystarczająco
-mleko 1L,-20 szt.,4. Mamy nadmiar
+mleko 1L,-21 szt.,4. Mamy nadmiar
 kefir/jogurt naturalny pitny,-21 szt.,4. Mamy nadmiar
 jogurt pitny różne rodzaje,-12 szt.,4. Mamy nadmiar
 duże baniaki z wodą (eden),-13 szt.,4. Mamy nadmiar
@@ -141,6 +142,7 @@ sznurowadła ,-4 szt.,4. Mamy nadmiar
 szampony 150-500ml,-11 szt.,4. Mamy nadmiar
 dezodoranty męskie/damskie travel size,-80 szt.,4. Mamy nadmiar
 kurtki WIOSENNE,-4 szt.,4. Mamy nadmiar
+worki na śmieci 120L,-6 opak.,4. Mamy nadmiar
 chusteczki higieniczne małe opak.,-150 szt.,4. Mamy nadmiar
 pomadki do ust/wazelina,-10 szt.,4. Mamy nadmiar
 pasty do zębów dla dzieci,-21 szt.,4. Mamy nadmiar
@@ -163,7 +165,7 @@ chusteczki do dezynfekcji powierzchni,-86 opak.,4. Mamy nadmiar
 płyn do czyszczenia toalety Ace /Domestos 750ml,-174 opak.,4. Mamy nadmiar
 papier toaletowy /rolki,-850 szt.,4. Mamy nadmiar
 szczoteczki do zębów + pasta 3 gr,-200 szt.,4. Mamy nadmiar
-T-shirt damski M,-5 szt.,4. Mamy nadmiar
+T-shirt damski M,-25 szt.,4. Mamy nadmiar
 "żel antybakteryjny 400ml, 500ml",-280 szt.,4. Mamy nadmiar
 szczotki do włosów /grzebienie,-68 szt.,4. Mamy nadmiar
 klapki wielorazowe Damskie różne rozm. 36-41,-40 kg,4. Mamy nadmiar
@@ -178,6 +180,7 @@ stopery do uszu/opaski na oczy,-6900 szt.,4. Mamy nadmiar
 worki na smieci 60L,-51 szt,4. Mamy nadmiar
 torby miękkie podróżne nowe/ stan bdb.,-16 szt,4. Mamy nadmiar
 waciki do demakijażu,-50 szt,4. Mamy nadmiar
+bluzy sportowe wiosenne,-2 szt,4. Mamy nadmiar
 pasty do zębów dla dorosłych (małe opak.),-124 szt,4. Mamy nadmiar
 dresy damskie rozpinane 36-42 ciemne kolory nowe,-25 szt,4. Mamy nadmiar
 duże poduszki,-15 szt,4. Mamy nadmiar
