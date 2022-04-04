@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,04/04/2022 13:09
+,,04/04/2022 13:48
 PRZEDMIOT,Brakuje,Priorytet
 chleb tostowy,7 szt.,1. Pilnie potrzebne
 parówki małe opakowania,20 szt.,1. Pilnie potrzebne
@@ -19,7 +19,7 @@ dresy damskie L,5 szt.,1. Pilnie potrzebne
 dresy dziecięce wszystkie rozm 110-140,5 szt,1. Pilnie potrzebne
 opakowania rękawiczek lateksowych S/M,9 szt,1. Pilnie potrzebne
 ,8 ,1. Pilnie potrzebne
-opakowania rękawiczek lateksowych L,4 szt,1. Pilnie potrzebne
+opakowania rękawiczek lateksowych L,5 szt,1. Pilnie potrzebne
 winogrona,2 kg,2. Potrzebne
 pomidory,3 kg,2. Potrzebne
 opakowania rękawiczek lateksowych m,4 szt.,2. Potrzebne
@@ -144,7 +144,7 @@ bielizna męska (majtki/koszulki) nowe,-13 szt.,4. Mamy nadmiar
 bielizna dziecięca (majtki/koszulki) nowe,-16 szt.,4. Mamy nadmiar
 ręczniki papierowe/rolka,-784 szt.,4. Mamy nadmiar
 sznurowadła ,-4 szt.,4. Mamy nadmiar
-szampony 150-500ml,-17 szt.,4. Mamy nadmiar
+szampony 150-500ml,-57 szt.,4. Mamy nadmiar
 dezodoranty męskie/damskie travel size,-80 szt.,4. Mamy nadmiar
 kurtki WIOSENNE,-4 szt.,4. Mamy nadmiar
 worki na śmieci 120L,-6 opak.,4. Mamy nadmiar
