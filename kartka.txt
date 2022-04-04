@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,04/04/2022 18:46
+,,04/04/2022 19:30
 PRZEDMIOT,Brakuje,Priorytet
 kubeczki do ciepłych napojów papierowe/styropianowe,300 szt.,1. Pilnie potrzebne
 dresy damskie M,4 szt.,1. Pilnie potrzebne
@@ -10,7 +10,6 @@ dresy damskie XL,5 szt.,1. Pilnie potrzebne
 dresy damskie L,5 szt.,1. Pilnie potrzebne
 dresy dziecięce wszystkie rozm 110-140,5 szt,1. Pilnie potrzebne
 ketchup łagodny,2 szt.,2. Potrzebne
-rękawice grube wielorazowe,3 szt.,2. Potrzebne
 t-shirt damski L,5 szt.,2. Potrzebne
 powerbanki,1 szt.,2. Potrzebne
 "piżamy/koszule nocne S,M,L, XL, XXL nowe",7 szt.,2. Potrzebne
@@ -56,6 +55,7 @@ opakowania rękawiczek lateksowych M,0 szt.,3. Mamy wystarczająco
 opakowania rękawiczek lateksowych L,0 szt.,3. Mamy wystarczająco
 mydelniczki/opakowania na szczoteczki ,0 szt.,3. Mamy wystarczająco
 worki na smieci 35L,0 szt.,3. Mamy wystarczająco
+rękawice grube wielorazowe,0 szt.,3. Mamy wystarczająco
 krem/ puder do pupy dla dzieci,0 szt.,3. Mamy wystarczająco
 przewijaki,0 szt.,3. Mamy wystarczająco
 sudocrem 30ml,-1 szt.,3. Mamy wystarczająco
