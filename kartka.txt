@@ -2,13 +2,11 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,05/04/2022 17:06
+,,05/04/2022 18:11
 PRZEDMIOT,Brakuje,Priorytet
 ketchup łagodny,2 szt.,2. Potrzebne
 kubeczki do ciepłych napojów papierowe/styropianowe,500 szt.,2. Potrzebne
 t-shirt damski L,5 szt.,2. Potrzebne
-"leginsy damskie M, L, XL",3 szt.,2. Potrzebne
-t-shirt damski XL,5 szt,2. Potrzebne
 mleko 1L,0 szt.,3. Mamy wystarczająco
 mleko roślinne różne rodzaje,0 szt.,3. Mamy wystarczająco
 jogurty wegańskie różne rodzaje,0 szt.,3. Mamy wystarczająco
@@ -52,6 +50,7 @@ krem/ puder do pupy dla dzieci,0 szt.,3. Mamy wystarczająco
 przewijaki,0 szt.,3. Mamy wystarczająco
 sudocrem 30ml,-1 szt.,3. Mamy wystarczająco
 proszek do prania,0 szt.,3. Mamy wystarczająco
+"leginsy damskie M, L, XL",0 szt.,3. Mamy wystarczająco
 ładowarki USB-C,0 szt.,3. Mamy wystarczająco
 pęsety,0 szt.,3. Mamy wystarczająco
 papier toaletowy szary /rolki do dyspenserów łaz.,0 szt.,3. Mamy wystarczająco
@@ -65,6 +64,7 @@ walizki na kółkach nowe/ stan bdb. / małe,0 szt.,3. Mamy wystarczająco
 płyn antybakteryjny 5L,0 opak.,3. Mamy wystarczająco
 wielorazowe torby na zakupy,0 szt,3. Mamy wystarczająco
 t-shirt męski M,0 szt,3. Mamy wystarczająco
+t-shirt damski XL,0 szt,3. Mamy wystarczająco
 t-shirt męski L,-1 szt,3. Mamy wystarczająco
 ładowarki,0 szt,3. Mamy wystarczająco
 żwirek dla kota,0 kg,3. Mamy wystarczająco
