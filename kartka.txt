@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,05/04/2022 07:10
+,,05/04/2022 13:40
 PRZEDMIOT,Brakuje,Priorytet
 kubeczki do ciepłych napojów papierowe/styropianowe,300 szt.,1. Pilnie potrzebne
 ketchup łagodny,2 szt.,2. Potrzebne
@@ -57,7 +57,6 @@ pęsety,0 szt.,3. Mamy wystarczająco
 papier toaletowy szary /rolki do dyspenserów łaz.,0 szt.,3. Mamy wystarczająco
 kremy do twarzy dla dzieci,0 szt.,3. Mamy wystarczająco
 butelki dla dzieci,-2 szt.,3. Mamy wystarczająco
-biustonosz dziewczęcy sportowy S nowe,0 szt.,3. Mamy wystarczająco
 zmywacz do paznokci,0 opak.,3. Mamy wystarczająco
 nożyczki do paznokci,0 szt.,3. Mamy wystarczająco
 koce dodatkowe,0 par.,3. Mamy wystarczająco
@@ -103,7 +102,6 @@ zmywaki-gąbki,-60 opak.,4. Mamy nadmiar
 małe poduszki,-90 szt.,4. Mamy nadmiar
 kremy do rąk małe 30ml,-142 szt.,4. Mamy nadmiar
 pluszaki uprane używane,-250 szt.,4. Mamy nadmiar
-"biustonosze różne rozmiary nowe, 75 B-90 D",-29 szt.,4. Mamy nadmiar
 skarpetki damskie,-300 szt.,4. Mamy nadmiar
 mydło w płynie 500ml-750ml,-120 szt.,4. Mamy nadmiar
 baterie paluszki AAA,-216 szt.,4. Mamy nadmiar
@@ -174,7 +172,6 @@ pasty do zębów dla dorosłych (małe opak.),-124 szt,4. Mamy nadmiar
 duże poduszki,-15 szt,4. Mamy nadmiar
 gumki do włosów / spinki typu wsuwki,-57 szt,4. Mamy nadmiar
 pieluchy tetrowe,-152 szt,4. Mamy nadmiar
-"biustonosz damski sportowy S,M,L, XL, XXL nowe",-11 szt,4. Mamy nadmiar
 buty sportowe dziecięce unisex rozm. 25 do 35 nowe,-5 szt.,4. Mamy nadmiar
 wkładki laktacyjne,-4 szt,4. Mamy nadmiar
 buty sportowe damskie rozm.  36-41 nowe,-87 szt.,4. Mamy nadmiar
