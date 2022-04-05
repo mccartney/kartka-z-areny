@@ -2,11 +2,9 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,05/04/2022 18:11
+,,05/04/2022 19:43
 PRZEDMIOT,Brakuje,Priorytet
-ketchup łagodny,2 szt.,2. Potrzebne
 kubeczki do ciepłych napojów papierowe/styropianowe,500 szt.,2. Potrzebne
-t-shirt damski L,5 szt.,2. Potrzebne
 mleko 1L,0 szt.,3. Mamy wystarczająco
 mleko roślinne różne rodzaje,0 szt.,3. Mamy wystarczająco
 jogurty wegańskie różne rodzaje,0 szt.,3. Mamy wystarczająco
@@ -34,6 +32,7 @@ płatki śnaidaniowe różne rodzaje,-3 szt.,3. Mamy wystarczająco
 owsianka błyskawiczna kg (lub 20 porcjowanych),0 szt.,3. Mamy wystarczająco
 dżem,0 szt.,3. Mamy wystarczająco
 cukier 1 kg,0 kg,3. Mamy wystarczająco
+ketchup łagodny,0 szt.,3. Mamy wystarczająco
 musztarda,0 szt.,3. Mamy wystarczająco
 batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),-10 szt.,3. Mamy wystarczająco
 talerzyki plastikowe małe,0 szt.,3. Mamy wystarczająco
@@ -49,6 +48,7 @@ rękawice grube wielorazowe,0 szt.,3. Mamy wystarczająco
 krem/ puder do pupy dla dzieci,0 szt.,3. Mamy wystarczająco
 przewijaki,0 szt.,3. Mamy wystarczająco
 sudocrem 30ml,-1 szt.,3. Mamy wystarczająco
+t-shirt damski L,0 szt.,3. Mamy wystarczająco
 proszek do prania,0 szt.,3. Mamy wystarczająco
 "leginsy damskie M, L, XL",0 szt.,3. Mamy wystarczająco
 ładowarki USB-C,0 szt.,3. Mamy wystarczająco
@@ -63,6 +63,7 @@ chusteczki d/ hig int. małe opak,0 szt.,3. Mamy wystarczająco
 walizki na kółkach nowe/ stan bdb. / małe,0 szt.,3. Mamy wystarczająco
 płyn antybakteryjny 5L,0 opak.,3. Mamy wystarczająco
 wielorazowe torby na zakupy,0 szt,3. Mamy wystarczająco
+"spodnie dresowe S,M,L,XL,2XL",0 szt,3. Mamy wystarczająco
 t-shirt męski M,0 szt,3. Mamy wystarczająco
 t-shirt damski XL,0 szt,3. Mamy wystarczająco
 t-shirt męski L,-1 szt,3. Mamy wystarczająco
@@ -109,7 +110,7 @@ klapki wielorazowe Męskie różne rozm. 41-46,-15 par.,4. Mamy nadmiar
 pieluchomajtki dla dorosłych M-L ,-35 opak.,4. Mamy nadmiar
 ręczniki duże kąpielowe,-350 szt.,4. Mamy nadmiar
 plecaki duże,-2 szt.,4. Mamy nadmiar
-klapki jednorazowe p. prysznic,-1700 szt.,4. Mamy nadmiar
+klapki jednorazowe p. prysznic,-1706 szt.,4. Mamy nadmiar
 karma dla kotów,-28 szt.,4. Mamy nadmiar
 szampon do włosów travel size 30-50ml,-100 szt.,4. Mamy nadmiar
 "pampersy dziecięce/pieluchomajtki, rozm. 0-6 ",-1905 szt.,4. Mamy nadmiar
