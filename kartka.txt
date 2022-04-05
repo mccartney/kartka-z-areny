@@ -2,11 +2,12 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,05/04/2022 13:40
+,,05/04/2022 14:45
 PRZEDMIOT,Brakuje,Priorytet
-kubeczki do ciepłych napojów papierowe/styropianowe,300 szt.,1. Pilnie potrzebne
 ketchup łagodny,2 szt.,2. Potrzebne
+kubeczki do ciepłych napojów papierowe/styropianowe,500 szt.,2. Potrzebne
 t-shirt damski L,5 szt.,2. Potrzebne
+"leginsy damskie M, L, XL",3 szt.,2. Potrzebne
 t-shirt damski XL,5 szt,2. Potrzebne
 mleko 1L,0 szt.,3. Mamy wystarczająco
 mleko roślinne różne rodzaje,0 szt.,3. Mamy wystarczająco
@@ -51,7 +52,6 @@ krem/ puder do pupy dla dzieci,0 szt.,3. Mamy wystarczająco
 przewijaki,0 szt.,3. Mamy wystarczająco
 sudocrem 30ml,-1 szt.,3. Mamy wystarczająco
 proszek do prania,0 szt.,3. Mamy wystarczająco
-"leginsy damskie M, L, XL",-1 szt.,3. Mamy wystarczająco
 ładowarki USB-C,0 szt.,3. Mamy wystarczająco
 pęsety,0 szt.,3. Mamy wystarczająco
 papier toaletowy szary /rolki do dyspenserów łaz.,0 szt.,3. Mamy wystarczająco
