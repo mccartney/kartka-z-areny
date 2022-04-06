@@ -2,11 +2,14 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,06/04/2022 14:57
+,,06/04/2022 15:57
 PRZEDMIOT,Brakuje,Priorytet
 chleb krojony (nie tostowy!),10 szt.,1. Pilnie potrzebne
 pomidory,7 kg,1. Pilnie potrzebne
 dżem,8 szt.,1. Pilnie potrzebne
+zestaw do szycia podróżny,5 szt.,1. Pilnie potrzebne
+plastry na halluksy ,15 szt.,1. Pilnie potrzebne
+plastry uniwersalne zestaw,15 szt.,1. Pilnie potrzebne
 jabłka,5 kg,2. Potrzebne
 winogrona,5 kg,2. Potrzebne
 papryka czerwona,5 kg,2. Potrzebne
