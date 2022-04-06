@@ -2,9 +2,11 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,06/04/2022 19:10
+,,06/04/2022 19:19
 PRZEDMIOT,Brakuje,Priorytet
+kefir/jogurt naturalny pitny,15 szt.,1. Pilnie potrzebne
 plastry na halluksy ,15 szt.,1. Pilnie potrzebne
+jogurt pitny różne rodzaje,25 szt.,2. Potrzebne
 winogrona,5 kg,2. Potrzebne
 papryka czerwona,2 kg,2. Potrzebne
 sałata lodowa/masłowa,5 szt.,2. Potrzebne
@@ -62,8 +64,6 @@ t-shirt damski XL,0 szt,3. Mamy wystarczająco
 ładowarki USB-C,0 szt,3. Mamy wystarczająco
 żwirek dla kota,0 kg,3. Mamy wystarczająco
 plastry uniwersalne zestaw,0 szt.,3. Mamy wystarczająco
-kefir/jogurt naturalny pitny,-45 szt.,4. Mamy nadmiar
-jogurt pitny różne rodzaje,-12 szt.,4. Mamy nadmiar
 duże baniaki z wodą (eden),-10 szt.,4. Mamy nadmiar
 soczki małe z rurką,-180 szt.,4. Mamy nadmiar
 soki owocowe litrowe,-19 szt.,4. Mamy nadmiar
