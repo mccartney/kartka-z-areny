@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,05/04/2022 19:43
+,,06/04/2022 09:49
 PRZEDMIOT,Brakuje,Priorytet
 kubeczki do ciepłych napojów papierowe/styropianowe,500 szt.,2. Potrzebne
 mleko 1L,0 szt.,3. Mamy wystarczająco
