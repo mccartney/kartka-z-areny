@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,06/04/2022 11:06
+,,06/04/2022 12:00
 PRZEDMIOT,Brakuje,Priorytet
 kubeczki do ciepłych napojów papierowe/styropianowe,500 szt.,2. Potrzebne
 mleko 1L,0 szt.,3. Mamy wystarczająco
@@ -28,8 +28,6 @@ pomidory,0 kg,3. Mamy wystarczająco
 papryka czerwona,0 kg,3. Mamy wystarczająco
 sałata lodowa/masłowa,0 szt.,3. Mamy wystarczająco
 marchewki gotowe do zjedzenia w opakowaniach,0 szt.,3. Mamy wystarczająco
-płatki śniadaniowe różne rodzaje,-3 szt.,3. Mamy wystarczająco
-owsianka błyskawiczna kg (lub 20 porcjowanych),0 szt.,3. Mamy wystarczająco
 dżem,0 szt.,3. Mamy wystarczająco
 cukier 1 kg,0 kg,3. Mamy wystarczająco
 ketchup łagodny,0 szt.,3. Mamy wystarczająco
@@ -85,6 +83,8 @@ słoiczki dla dzieci - obiadki różne,-80 szt.,4. Mamy nadmiar
 słoiczki dla dzieci - deserki różne,-30 szt.,4. Mamy nadmiar
 tubki owocowe różne (nielodówkowe),-45 szt.,4. Mamy nadmiar
 kaszki dla dzieci/kleiki do samodzielnego przygotowania,-30 szt.,4. Mamy nadmiar
+płatki śniadaniowe różne rodzaje,-8 szt.,4. Mamy nadmiar
+owsianka błyskawiczna kg (lub 20 porcjowanych),-3 szt.,4. Mamy nadmiar
 "sól 0,5 kg",-1 szt.,4. Mamy nadmiar
 pieprz mała torebka,-2 szt.,4. Mamy nadmiar
 majonez,-5 szt.,4. Mamy nadmiar
@@ -116,7 +116,7 @@ szampon do włosów travel size 30-50ml,-100 szt.,4. Mamy nadmiar
 "pampersy dziecięce/pieluchomajtki, rozm. 0-6 ",-1905 szt.,4. Mamy nadmiar
 maszynki jednorazowe do golenia męskie,-97 szt.,4. Mamy nadmiar
 balsam do ciała mały 20-50ml,-60 szt.,4. Mamy nadmiar
-szczoteczki do zębów dla dzieci,-149 szt.,4. Mamy nadmiar
+szczoteczki do zębów dla dzieci,-151 szt.,4. Mamy nadmiar
 podpaski/tampony,-615 szt.,4. Mamy nadmiar
 kremy nawilżające do twarzy 15-30ml,-70 szt.,4. Mamy nadmiar
 podkładki dla dzieci/ dorosłych Seni,-208 szt.,4. Mamy nadmiar
@@ -131,11 +131,11 @@ sznurowadła ,-4 szt.,4. Mamy nadmiar
 szampony 150-500ml,-20 szt.,4. Mamy nadmiar
 antyperspirant męski,-80 szt.,4. Mamy nadmiar
 kurtki wiosenne,-4 szt.,4. Mamy nadmiar
-chusteczki higieniczne małe opak.,-150 szt.,4. Mamy nadmiar
+chusteczki higieniczne małe opak.,-170 szt.,4. Mamy nadmiar
 pomadki do ust/wazelina,-10 szt.,4. Mamy nadmiar
 pasty do zębów dla dzieci,-21 szt.,4. Mamy nadmiar
 pilniki do paznokci,-10 szt.,4. Mamy nadmiar
-chusteczki nawilżane pakowane,-10000 szt.,4. Mamy nadmiar
+chusteczki nawilżane pakowane,-10003 szt.,4. Mamy nadmiar
 patyczki do uszu ,-27 szt.,4. Mamy nadmiar
 pasty do zębów dla dorosłych (duże opak.),-282 szt.,4. Mamy nadmiar
 "sciereczki bawełniane jednoraz. rolka ( mag.  ""Recepcja"")",-860 szt.,4. Mamy nadmiar
