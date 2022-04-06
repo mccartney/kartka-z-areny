@@ -2,10 +2,11 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,06/04/2022 12:26
+,,06/04/2022 14:16
 PRZEDMIOT,Brakuje,Priorytet
 kubeczki do ciepłych napojów papierowe/styropianowe,500 szt.,2. Potrzebne
 "spodnie dresowe S,M,L,XL,2XL",9 szt,2. Potrzebne
+rajstopy damskie  - różne rozmiary,10 szt,2. Potrzebne
 mleko 1L,0 szt.,3. Mamy wystarczająco
 mleko roślinne różne rodzaje,0 szt.,3. Mamy wystarczająco
 jogurty wegańskie różne rodzaje,0 szt.,3. Mamy wystarczająco
@@ -102,7 +103,7 @@ zmywaki lub gąbki do naczyń,-60 opak.,4. Mamy nadmiar
 małe poduszki,-90 szt.,4. Mamy nadmiar
 krem do rąk mały 30ml,-142 szt.,4. Mamy nadmiar
 pluszaki nowe lub uprane,-250 szt.,4. Mamy nadmiar
-skarpetki damskie,-300 szt.,4. Mamy nadmiar
+skarpetki damskie,-324 szt.,4. Mamy nadmiar
 mydło w płynie,-120 szt.,4. Mamy nadmiar
 baterie paluszki AAA,-216 szt.,4. Mamy nadmiar
 klapki wielorazowe męskie - rozm. 41-46,-15 par.,4. Mamy nadmiar
@@ -161,7 +162,6 @@ maseczki jednorazowe,-4900 szt,4. Mamy nadmiar
 maszynki jednorazowe do golenia damskie,-90 szt,4. Mamy nadmiar
 gąbka do ciała ,-35 szt,4. Mamy nadmiar
 odżywki do włosów travel size 30-50ml,-160 szt,4. Mamy nadmiar
-rajstopy damskie  - różne rozmiary,-28 szt,4. Mamy nadmiar
 stopery do uszu/opaski na oczy,-6900 szt.,4. Mamy nadmiar
 worki na smieci 60L,-51 szt,4. Mamy nadmiar
 t-shirt męski M,-4 szt,4. Mamy nadmiar
@@ -170,7 +170,7 @@ torby miękkie podróżne nowe/ stan bdb.,-16 szt,4. Mamy nadmiar
 waciki do demakijażu,-50 szt,4. Mamy nadmiar
 pasty do zębów dla dorosłych (małe opak.),-124 szt,4. Mamy nadmiar
 duże poduszki,-15 szt,4. Mamy nadmiar
-gumki do włosów / spinki typu wsuwki,-57 szt,4. Mamy nadmiar
+gumki do włosów / spinki typu wsuwki,-115 szt,4. Mamy nadmiar
 pieluchy tetrowe,-152 szt,4. Mamy nadmiar
 buty sportowe dziecięce unisex rozm. 25 do 35 nowe,-5 szt.,4. Mamy nadmiar
 wkładki laktacyjne,-4 szt,4. Mamy nadmiar
