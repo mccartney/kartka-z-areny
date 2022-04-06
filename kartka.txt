@@ -2,18 +2,12 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,06/04/2022 18:10
+,,06/04/2022 19:10
 PRZEDMIOT,Brakuje,Priorytet
-chleb krojony (nie tostowy!),10 szt.,1. Pilnie potrzebne
-pomidory,7 kg,1. Pilnie potrzebne
-dżem,8 szt.,1. Pilnie potrzebne
-zestaw do szycia podróżny,5 szt.,1. Pilnie potrzebne
 plastry na halluksy ,15 szt.,1. Pilnie potrzebne
-jabłka,5 kg,2. Potrzebne
 winogrona,5 kg,2. Potrzebne
-papryka czerwona,5 kg,2. Potrzebne
+papryka czerwona,2 kg,2. Potrzebne
 sałata lodowa/masłowa,5 szt.,2. Potrzebne
-kubeczki do ciepłych napojów papierowe/styropianowe,500 szt.,2. Potrzebne
 mleko 1L,0 szt.,3. Mamy wystarczająco
 mleko roślinne różne rodzaje,0 szt.,3. Mamy wystarczająco
 jogurty wegańskie różne rodzaje,0 szt.,3. Mamy wystarczająco
@@ -35,6 +29,7 @@ cukier 1 kg,0 kg,3. Mamy wystarczająco
 ketchup łagodny,0 szt.,3. Mamy wystarczająco
 batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),-10 szt.,3. Mamy wystarczająco
 talerzyki jednorazowe małe,0 szt.,3. Mamy wystarczająco
+kubeczki do ciepłych napojów papierowe/styropianowe,-60 szt.,3. Mamy wystarczająco
 pojemniki dwu i trójdzielne do ciepłych posiłków,0 szt.,3. Mamy wystarczająco
 miseczki plastikowe (nie do ciepłych posiłków),0 szt.,3. Mamy wystarczająco
 tacki papierowe jednorazowe małe prostokątne,0 szt.,3. Mamy wystarczająco
@@ -74,10 +69,13 @@ soczki małe z rurką,-180 szt.,4. Mamy nadmiar
 soki owocowe litrowe,-19 szt.,4. Mamy nadmiar
 "herbata melisa i inne zioła (np. mięta, rumianek), herbata zielon",-5 szt.,4. Mamy nadmiar
 kawa rozpuszczalna+inka,-5 szt.,4. Mamy nadmiar
+chleb krojony (nie tostowy!),-7 szt.,4. Mamy nadmiar
 chleb tostowy,-10 szt.,4. Mamy nadmiar
 wędlina/kiełbasa krojona paczkowana,-11 szt.,4. Mamy nadmiar
+jabłka,-2 kg,4. Mamy nadmiar
 banany,-2 kg,4. Mamy nadmiar
 ogórki świeże,-20 szt.,4. Mamy nadmiar
+pomidory,-3 kg,4. Mamy nadmiar
 ogórki kiszone w wiaderkach małych,-3 szt.,4. Mamy nadmiar
 słoiczki dla dzieci - obiadki różne,-80 szt.,4. Mamy nadmiar
 słoiczki dla dzieci - deserki różne,-30 szt.,4. Mamy nadmiar
@@ -85,6 +83,7 @@ tubki owocowe różne (nielodówkowe),-45 szt.,4. Mamy nadmiar
 kaszki dla dzieci/kleiki do samodzielnego przygotowania,-30 szt.,4. Mamy nadmiar
 płatki śniadaniowe różne rodzaje,-8 szt.,4. Mamy nadmiar
 owsianka błyskawiczna kg (lub 20 porcjowanych),-3 szt.,4. Mamy nadmiar
+dżem,-8 szt.,4. Mamy nadmiar
 "sól 0,5 kg",-1 szt.,4. Mamy nadmiar
 pieprz mała torebka,-2 szt.,4. Mamy nadmiar
 musztarda,-8 szt.,4. Mamy nadmiar
@@ -111,7 +110,7 @@ baterie paluszki AAA,-216 szt.,4. Mamy nadmiar
 klapki wielorazowe męskie - rozm. 41-46,-15 par.,4. Mamy nadmiar
 pieluchomajtki dla dorosłych M-L,-35 opak.,4. Mamy nadmiar
 ręczniki duże kąpielowe,-355 szt.,4. Mamy nadmiar
-plecaki duże,-2 szt.,4. Mamy nadmiar
+plecaki duże,-3 szt.,4. Mamy nadmiar
 klapki jednorazowe pod prysznic 38-46,-1706 szt.,4. Mamy nadmiar
 karma dla kotełków,-28 szt.,4. Mamy nadmiar
 szampon do włosów travel size 30-50ml,-100 szt.,4. Mamy nadmiar
@@ -181,3 +180,4 @@ wkładki laktacyjne,-4 szt,4. Mamy nadmiar
 buty sportowe damskie rozm. 36-40 nowe,-87 szt.,4. Mamy nadmiar
 karma dla piesełków - sucha,-35 kg,4. Mamy nadmiar
 karma dla piesełków - puszka,-20 szt,4. Mamy nadmiar
+zestaw do szycia podróżny,-1 szt.,4. Mamy nadmiar
