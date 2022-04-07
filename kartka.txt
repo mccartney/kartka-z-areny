@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,06/04/2022 21:55
+,,06/04/2022 22:52
 PRZEDMIOT,Brakuje,Priorytet
 kefir/jogurt naturalny pitny,15 szt.,1. Pilnie potrzebne
 plastry na halluksy ,5 szt.,1. Pilnie potrzebne
@@ -124,9 +124,9 @@ podkładki dla dzieci/ dorosłych Seni,-208 szt.,4. Mamy nadmiar
 nocnik dla dzieci,-15 szt.,4. Mamy nadmiar
 mydło w kostce,-108 szt.,4. Mamy nadmiar
 klapki wielorazowe dziecięce - rozm. 23-35,-20 par.,4. Mamy nadmiar
-"bielizna damska (majtki/ koszulki) - różne rozmiary, w tym duże",-151 szt.,4. Mamy nadmiar
-bielizna męska (majtki/koszulki) nowe,-13 szt.,4. Mamy nadmiar
-bielizna dziecięca (majtki/koszulki) nowe,-16 szt.,4. Mamy nadmiar
+"bielizna damska, majtki- różne rozmiary- nowe",-208 szt.,4. Mamy nadmiar
+"bielizna męska, majtki-nowe",-13 szt.,4. Mamy nadmiar
+"bielizna dziecięca, majtki- nowe",-16 szt.,4. Mamy nadmiar
 ręcznik papierowy - rolka,-784 szt.,4. Mamy nadmiar
 sznurowadła ,-4 szt.,4. Mamy nadmiar
 szampon do włosów 150-500ml,-20 szt.,4. Mamy nadmiar
