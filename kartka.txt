@@ -2,13 +2,14 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,08/04/2022 17:57
+,,08/04/2022 18:35
 PRZEDMIOT,Brakuje,Priorytet
 winogrona,10 kg,1. Pilnie potrzebne
 papryka czerwona,3 kg,1. Pilnie potrzebne
 skarpetki damskie,56 szt.,1. Pilnie potrzebne
-sznurowadła ,10 szt.,1. Pilnie potrzebne
+sznurowadła ,9 szt.,1. Pilnie potrzebne
 walizki na kółkach nowe/ stan bdb. / duze,2 szt.,2. Potrzebne
+walizki na kółkach nowe/ stan bdb. / małe,1 szt.,2. Potrzebne
 torby miękkie podróżne nowe/ stan bdb.,1 szt,2. Potrzebne
 mleko 1L,-5 szt.,3. Mamy wystarczająco
 chleb tostowy,-2 szt.,3. Mamy wystarczająco
@@ -45,7 +46,6 @@ nożyczki do paznokci,0 szt.,3. Mamy wystarczająco
 koce dodatkowe,-3 par.,3. Mamy wystarczająco
 chusteczki do hig int. małe opakowania,0 szt.,3. Mamy wystarczająco
 obcinacze do paznokci,0 szt.,3. Mamy wystarczająco
-walizki na kółkach nowe/ stan bdb. / małe,0 szt.,3. Mamy wystarczająco
 płyn antybakteryjny 5L,0 opak.,3. Mamy wystarczająco
 wielorazowe torby na zakupy,0 szt,3. Mamy wystarczająco
 ładowarki USB-C,0 szt,3. Mamy wystarczająco
@@ -121,7 +121,7 @@ podkładki dla dzieci/ dorosłych Seni,-208 szt.,4. Mamy nadmiar
 nocnik dla dzieci,-15 szt.,4. Mamy nadmiar
 mydło w kostce,-108 szt.,4. Mamy nadmiar
 klapki wielorazowe dziecięce - rozm. 23-35,-20 par.,4. Mamy nadmiar
-"bielizna damska, majtki- różne rozmiary- nowe",-203 szt.,4. Mamy nadmiar
+"bielizna damska, majtki- różne rozmiary- nowe",-184 szt.,4. Mamy nadmiar
 "bielizna męska, majtki-nowe",-13 szt.,4. Mamy nadmiar
 "bielizna dziecięca, majtki- nowe",-16 szt.,4. Mamy nadmiar
 ręcznik papierowy - rolka,-468 szt.,4. Mamy nadmiar
