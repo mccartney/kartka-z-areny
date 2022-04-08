@@ -2,11 +2,10 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,08/04/2022 19:54
+,,08/04/2022 20:33
 PRZEDMIOT,Brakuje,Priorytet
 winogrona,10 kg,1. Pilnie potrzebne
 papryka czerwona,3 kg,1. Pilnie potrzebne
-skarpetki damskie,56 szt.,1. Pilnie potrzebne
 sznurowadła ,9 szt.,1. Pilnie potrzebne
 torby miękkie podróżne nowe/ stan bdb.,1 szt,2. Potrzebne
 mleko 1L,-5 szt.,3. Mamy wystarczająco
