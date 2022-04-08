@@ -2,16 +2,16 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,08/04/2022 14:16
+,,08/04/2022 14:50
 PRZEDMIOT,Brakuje,Priorytet
 kawa rozpuszczalna,2 szt.,2. Potrzebne
 kabanosy małe opakowania,21 szt.,2. Potrzebne
 winogrona,5 kg,2. Potrzebne
 ogórki świeże,5 szt.,2. Potrzebne
 pomidory,4 kg,2. Potrzebne
+skarpetki damskie,15 szt.,2. Potrzebne
 pasta do zębów dla dzieci,18 szt.,2. Potrzebne
 mleko 1L,-5 szt.,3. Mamy wystarczająco
-soczki małe z dziubkiem,-12 szt,3. Mamy wystarczająco
 chleb tostowy,-2 szt.,3. Mamy wystarczająco
 jabłka,0 kg,3. Mamy wystarczająco
 banany,0 kg,3. Mamy wystarczająco
@@ -55,13 +55,14 @@ mleko roślinne różne rodzaje,-11 szt.,4. Mamy nadmiar
 kefir/jogurt naturalny pitny,-10 szt.,4. Mamy nadmiar
 jogurt pitny różne rodzaje,-23 szt.,4. Mamy nadmiar
 jogurty wegańskie różne rodzaje,-6 szt.,4. Mamy nadmiar
-"woda w małych butelkach, w tym z dziubkiem",-161 szt.,4. Mamy nadmiar
+"woda w małych butelkach, w tym z dziubkiem",-185 szt.,4. Mamy nadmiar
 duże baniaki z wodą (eden),-5 szt.,4. Mamy nadmiar
 soczki małe z rurką,-101 szt.,4. Mamy nadmiar
+soczki małe z dziubkiem,-42 szt,4. Mamy nadmiar
 soki owocowe litrowe,-202 szt.,4. Mamy nadmiar
-herbata czarna,-9 szt.,4. Mamy nadmiar
+herbata czarna,-10 szt.,4. Mamy nadmiar
 "herbata melisa i inne zioła (np. mięta, rumianek), herbata zielon",-5 szt.,4. Mamy nadmiar
-herbata owocowa różne rodzaje,-10 szt,4. Mamy nadmiar
+herbata owocowa różne rodzaje,-11 szt,4. Mamy nadmiar
 kawa mielona 250 gram,-12 szt.,4. Mamy nadmiar
 kakao rozpuszczalne + czekolada rozpuszczalna,-3 szt.,4. Mamy nadmiar
 chleb krojony (nie tostowy!),-12 szt.,4. Mamy nadmiar
@@ -97,7 +98,6 @@ zmywaki lub gąbki do naczyń,-60 opak.,4. Mamy nadmiar
 małe poduszki,-90 szt.,4. Mamy nadmiar
 krem do rąk mały 30ml,-142 szt.,4. Mamy nadmiar
 pluszaki nowe lub uprane,-250 szt.,4. Mamy nadmiar
-skarpetki damskie,-170 szt.,4. Mamy nadmiar
 rękawice grube wielorazowe,-3 szt.,4. Mamy nadmiar
 mydło w płynie,-120 szt.,4. Mamy nadmiar
 baterie paluszki AAA,-216 szt.,4. Mamy nadmiar
