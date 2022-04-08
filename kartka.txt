@@ -2,39 +2,38 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,08/04/2022 10:30
+,,08/04/2022 12:09
 PRZEDMIOT,Brakuje,Priorytet
-mleko roślinne różne rodzaje,5 szt.,1. Pilnie potrzebne
-jogurty wegańskie różne rodzaje,3 szt.,1. Pilnie potrzebne
-herbata czarna,19 szt.,1. Pilnie potrzebne
-hummus,2 szt.,1. Pilnie potrzebne
+herbata czarna,11 szt.,1. Pilnie potrzebne
 dresy damskie spodnie M,3 szt.,1. Pilnie potrzebne
-kremy nawilżające do twarzy 15-30ml,30 szt.,1. Pilnie potrzebne
 pomadki do ust/wazelina,39 szt.,1. Pilnie potrzebne
 dresy damskie spodnie XL-3XL,3 szt.,1. Pilnie potrzebne
 dresy damskie spodnie L,3 szt.,1. Pilnie potrzebne
 dresy damskie spodnie S,3 szt,1. Pilnie potrzebne
-herbata owocowa różne rodzaje,8 szt,2. Potrzebne
-kawa rozpuszczalna,7 szt.,2. Potrzebne
+herbata owocowa różne rodzaje,4 szt,2. Potrzebne
+kawa rozpuszczalna,6 szt.,2. Potrzebne
 kabanosy małe opakowania,21 szt.,2. Potrzebne
 winogrona,5 kg,2. Potrzebne
 ogórki świeże,5 szt.,2. Potrzebne
 pomidory,5 kg,2. Potrzebne
 sałata lodowa/masłowa,5 szt.,2. Potrzebne
 ogórki kiszone w wiaderkach małych,1 szt.,2. Potrzebne
-ketchup łagodny,1 szt.,2. Potrzebne
 dresy damskie bluza S,1 szt.,2. Potrzebne
 dresy damskie bluza M,1 szt.,2. Potrzebne
 dresy damskie bluza L,1 szt.,2. Potrzebne
 dresy damskie bluza XL-3XL,1 szt.,2. Potrzebne
 mleko 1L,-5 szt.,3. Mamy wystarczająco
-"woda w małych butelkach, w tym z dziubkiem",0 szt.,3. Mamy wystarczająco
+mleko roślinne różne rodzaje,0 szt.,3. Mamy wystarczająco
+jogurty wegańskie różne rodzaje,0 szt.,3. Mamy wystarczająco
+"woda w małych butelkach, w tym z dziubkiem",-17 szt.,3. Mamy wystarczająco
 soczki małe z dziubkiem,0 szt,3. Mamy wystarczająco
 chleb tostowy,-2 szt.,3. Mamy wystarczająco
+hummus,0 szt.,3. Mamy wystarczająco
 jabłka,0 kg,3. Mamy wystarczająco
 banany,0 kg,3. Mamy wystarczająco
 papryka czerwona,0 kg,3. Mamy wystarczająco
 płatki śniadaniowe różne rodzaje,0 szt.,3. Mamy wystarczająco
+ketchup łagodny,0 szt.,3. Mamy wystarczająco
 musztarda,0 szt.,3. Mamy wystarczająco
 majonez,0 szt.,3. Mamy wystarczająco
 talerzyki jednorazowe małe,0 szt.,3. Mamy wystarczająco
@@ -73,7 +72,7 @@ plastry uniwersalne zestaw,0 szt.,3. Mamy wystarczająco
 kefir/jogurt naturalny pitny,-10 szt.,4. Mamy nadmiar
 jogurt pitny różne rodzaje,-23 szt.,4. Mamy nadmiar
 duże baniaki z wodą (eden),-5 szt.,4. Mamy nadmiar
-soczki małe z rurką,-93 szt.,4. Mamy nadmiar
+soczki małe z rurką,-101 szt.,4. Mamy nadmiar
 soki owocowe litrowe,-58 szt.,4. Mamy nadmiar
 "herbata melisa i inne zioła (np. mięta, rumianek), herbata zielon",-5 szt.,4. Mamy nadmiar
 kawa mielona 250 gram,-12 szt.,4. Mamy nadmiar
@@ -91,7 +90,7 @@ kaszki dla dzieci/kleiki do samodzielnego przygotowania,-142 szt.,4. Mamy nadmia
 owsianka błyskawiczna kg (lub 20 porcjowanych),-2 szt.,4. Mamy nadmiar
 dżem,-20 szt.,4. Mamy nadmiar
 "sól 0,5 kg",-2 szt.,4. Mamy nadmiar
-cukier 1 kg,-27 kg,4. Mamy nadmiar
+cukier 1 kg,-28 kg,4. Mamy nadmiar
 pieprz mała torebka,-3 szt.,4. Mamy nadmiar
 żelki w małych opakowaniach/guma rozpuszczalna (mikroporcje pakowane oddzielnie),-50 szt.,4. Mamy nadmiar
 batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),-50 szt.,4. Mamy nadmiar
