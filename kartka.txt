@@ -2,13 +2,15 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,08/04/2022 16:11
+,,08/04/2022 17:08
 PRZEDMIOT,Brakuje,Priorytet
 winogrona,10 kg,1. Pilnie potrzebne
 papryka czerwona,3 kg,1. Pilnie potrzebne
+skarpetki damskie,70 szt.,1. Pilnie potrzebne
 sznurowadła ,10 szt.,1. Pilnie potrzebne
-skarpetki damskie,15 szt.,2. Potrzebne
+walizki na kółkach nowe/ stan bdb. / duze,2 szt.,2. Potrzebne
 pasta do zębów dla dzieci,1 szt.,2. Potrzebne
+torby miękkie podróżne nowe/ stan bdb.,1 szt,2. Potrzebne
 mleko 1L,-5 szt.,3. Mamy wystarczająco
 chleb tostowy,-2 szt.,3. Mamy wystarczająco
 kabanosy małe opakowania,0 szt.,3. Mamy wystarczająco
@@ -62,7 +64,7 @@ soki owocowe litrowe,-202 szt.,4. Mamy nadmiar
 herbata czarna,-10 szt.,4. Mamy nadmiar
 "herbata melisa i inne zioła (np. mięta, rumianek), herbata zielon",-5 szt.,4. Mamy nadmiar
 herbata owocowa różne rodzaje,-11 szt,4. Mamy nadmiar
-kawa rozpuszczalna,-15 szt.,4. Mamy nadmiar
+kawa rozpuszczalna,-17 szt.,4. Mamy nadmiar
 kawa mielona 250 gram,-15 szt.,4. Mamy nadmiar
 kakao rozpuszczalne + czekolada rozpuszczalna,-3 szt.,4. Mamy nadmiar
 chleb krojony (nie tostowy!),-12 szt.,4. Mamy nadmiar
@@ -94,7 +96,6 @@ talerze głębokie plastikowe do ciepłych posiłków,-500 szt.,4. Mamy nadmiar
 kubeczki do zimnych napojów plastikowe,-500 szt.,4. Mamy nadmiar
 miski papierowe do ciepłych posiłków,-5620 szt.,4. Mamy nadmiar
 Kawa inka ,-1 szt.,4. Mamy nadmiar
-walizki na kółkach nowe/ stan bdb. / duze,-1 szt.,4. Mamy nadmiar
 zmywaki lub gąbki do naczyń,-60 opak.,4. Mamy nadmiar
 małe poduszki,-90 szt.,4. Mamy nadmiar
 krem do rąk mały 30ml,-142 szt.,4. Mamy nadmiar
@@ -165,7 +166,6 @@ t-shirt męski M,-4 szt,4. Mamy nadmiar
 t-shirt dziecięcy 14-15 lat,-2 szt,4. Mamy nadmiar
 t-shirt damski XL,-8 szt,4. Mamy nadmiar
 t-shirt męski L,-2 szt,4. Mamy nadmiar
-torby miękkie podróżne nowe/ stan bdb.,-16 szt,4. Mamy nadmiar
 waciki do demakijażu,-50 szt,4. Mamy nadmiar
 pasta do zębów dla dorosłych - małe opakowania,-124 szt,4. Mamy nadmiar
 duże poduszki,-15 szt,4. Mamy nadmiar
