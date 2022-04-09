@@ -2,17 +2,16 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,09/04/2022 11:10
+,,09/04/2022 11:55
 PRZEDMIOT,Brakuje,Priorytet
 winogrona,10 kg,1. Pilnie potrzebne
 słoiczki dla dzieci - obiadki różne,40 szt.,1. Pilnie potrzebne
-krem do rąk mały 30ml,34 szt.,1. Pilnie potrzebne
+majonez,0 szt.,1. Pilnie potrzebne
 sznurowadła ,9 szt.,1. Pilnie potrzebne
 kurtki wiosenne,7 szt.,1. Pilnie potrzebne
 butelki dla dzieci,12 szt.,1. Pilnie potrzebne
-kosmetyczki małe nowe lub w bdb stanie,15 par.,1. Pilnie potrzebne
+kosmetyczki małe nowe lub w bdb stanie,10 par.,1. Pilnie potrzebne
 t-shirt damski M,12 szt.,1. Pilnie potrzebne
-lusterko małe,10 szt,1. Pilnie potrzebne
 t-shirt męski M,8 szt,1. Pilnie potrzebne
 t-shirt damski XL,9 szt,1. Pilnie potrzebne
 t-shirt męski L,8 szt,1. Pilnie potrzebne
@@ -31,7 +30,6 @@ ogórki kiszone w wiaderkach małych,0 szt.,3. Mamy wystarczająco
 płatki śniadaniowe różne rodzaje,0 szt.,3. Mamy wystarczająco
 ketchup łagodny,0 szt.,3. Mamy wystarczająco
 musztarda,0 szt.,3. Mamy wystarczająco
-majonez,0 szt.,3. Mamy wystarczająco
 talerzyki jednorazowe małe,0 szt.,3. Mamy wystarczająco
 kubeczki do ciepłych napojów papierowe/styropianowe,-60 szt.,3. Mamy wystarczająco
 pojemniki dwu i trójdzielne do ciepłych posiłków,0 szt.,3. Mamy wystarczająco
@@ -52,7 +50,6 @@ krem do twarzy dla dzieci,0 szt.,3. Mamy wystarczająco
 zmywacz do paznokci,0 opak.,3. Mamy wystarczająco
 pasta do zębów dla dzieci,-3 szt.,3. Mamy wystarczająco
 nożyczki do paznokci,0 szt.,3. Mamy wystarczająco
-koce dodatkowe,-3 par.,3. Mamy wystarczająco
 chusteczki do hig int. małe opakowania,0 szt.,3. Mamy wystarczająco
 obcinacze do paznokci,0 szt.,3. Mamy wystarczająco
 płyn antybakteryjny 5L,0 opak.,3. Mamy wystarczająco
@@ -116,7 +113,6 @@ karma dla kotełków,-28 szt.,4. Mamy nadmiar
 szampon do włosów travel size 30-50ml,-100 szt.,4. Mamy nadmiar
 "pampersy dziecięce/pieluchomajtki, rozm. 0-6 ",-1982 szt.,4. Mamy nadmiar
 maszynki jednorazowe do golenia męskie,-97 szt.,4. Mamy nadmiar
-"leginsy damskie M, L, XL",-9 szt.,4. Mamy nadmiar
 balsam do ciała mały 20-50ml,-160 szt.,4. Mamy nadmiar
 szczoteczki do zębów dla dzieci,-151 szt.,4. Mamy nadmiar
 podpaski/tampony,-615 szt.,4. Mamy nadmiar
