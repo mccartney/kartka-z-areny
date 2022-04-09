@@ -2,13 +2,11 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,09/04/2022 17:12
+,,09/04/2022 18:03
 PRZEDMIOT,Brakuje,Priorytet
-banany,3 kg,2. Potrzebne
 mleko 1L,-5 szt.,3. Mamy wystarczająco
 chleb tostowy,-2 szt.,3. Mamy wystarczająco
 jabłka,0 kg,3. Mamy wystarczająco
-ogórki świeże,0 szt.,3. Mamy wystarczająco
 pomidory,0 kg,3. Mamy wystarczająco
 papryka czerwona,0 kg,3. Mamy wystarczająco
 sałata lodowa/masłowa,0 szt.,3. Mamy wystarczająco
@@ -60,13 +58,15 @@ kawa rozpuszczalna,-17 szt.,4. Mamy nadmiar
 kawa mielona 250 gram,-15 szt.,4. Mamy nadmiar
 kakao rozpuszczalne + czekolada rozpuszczalna,-3 szt.,4. Mamy nadmiar
 chleb krojony (nie tostowy!),-12 szt.,4. Mamy nadmiar
-kabanosy małe opakowania,-32 szt.,4. Mamy nadmiar
+kabanosy małe opakowania,-42 szt.,4. Mamy nadmiar
 parówki małe opakowania,-17 szt.,4. Mamy nadmiar
 wędlina/kiełbasa krojona paczkowana,-10 szt.,4. Mamy nadmiar
 ser żółty krojony paczkowany,-30 szt.,4. Mamy nadmiar
 hummus,-19 szt.,4. Mamy nadmiar
 parówki/kabanosy wegańskie,-1 szt.,4. Mamy nadmiar
+banany,-7 kg,4. Mamy nadmiar
 winogrona,-20 kg,4. Mamy nadmiar
+ogórki świeże,-5 szt.,4. Mamy nadmiar
 słoiczki dla dzieci - obiadki różne,-160 szt.,4. Mamy nadmiar
 słoiczki dla dzieci - deserki różne,-60 szt.,4. Mamy nadmiar
 tubki owocowe różne (nielodówkowe),-187 szt.,4. Mamy nadmiar
@@ -111,7 +111,7 @@ mydło w kostce,-108 szt.,4. Mamy nadmiar
 klapki wielorazowe dziecięce - rozm. 23-35,-20 par.,4. Mamy nadmiar
 "bielizna damska, majtki- różne rozmiary- nowe",-184 szt.,4. Mamy nadmiar
 "bielizna męska, majtki-nowe",-13 szt.,4. Mamy nadmiar
-"bielizna dziecięca, majtki- nowe",-16 szt.,4. Mamy nadmiar
+"bielizna dziecięca, majtki- nowe",-24 szt.,4. Mamy nadmiar
 ręcznik papierowy - rolka,-468 szt.,4. Mamy nadmiar
 szampon do włosów 150-500ml,-20 szt.,4. Mamy nadmiar
 antyperspirant męski,-12 szt.,4. Mamy nadmiar
