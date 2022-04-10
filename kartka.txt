@@ -2,14 +2,16 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,09/04/2022 22:48
+,,10/04/2022 09:07
 PRZEDMIOT,Brakuje,Priorytet
-mleko 1L,-5 szt.,3. Mamy wystarczająco
-chleb tostowy,-2 szt.,3. Mamy wystarczająco
+jogurt pitny różne rodzaje,28 szt.,1. Pilnie potrzebne
+chleb tostowy,14 szt.,1. Pilnie potrzebne
+papryka czerwona,"4,2 kg",1. Pilnie potrzebne
+mleko 1L,7 szt.,2. Potrzebne
+kefir/jogurt naturalny pitny,21 szt.,2. Potrzebne
+chleb krojony (nie tostowy!),7 szt.,2. Potrzebne
+sałata lodowa/masłowa,4 szt.,2. Potrzebne
 jabłka,0 kg,3. Mamy wystarczająco
-pomidory,0 kg,3. Mamy wystarczająco
-papryka czerwona,0 kg,3. Mamy wystarczająco
-sałata lodowa/masłowa,0 szt.,3. Mamy wystarczająco
 ogórki kiszone w wiaderkach małych,0 szt.,3. Mamy wystarczająco
 płatki śniadaniowe różne rodzaje,0 szt.,3. Mamy wystarczająco
 ketchup łagodny,0 szt.,3. Mamy wystarczająco
@@ -42,9 +44,7 @@ wielorazowe torby na zakupy,0 szt,3. Mamy wystarczająco
 żwirek dla kota,0 kg,3. Mamy wystarczająco
 plastry na halluksy ,0 szt.,3. Mamy wystarczająco
 plastry uniwersalne zestaw,0 szt.,3. Mamy wystarczająco
-mleko roślinne różne rodzaje,-11 szt.,4. Mamy nadmiar
-kefir/jogurt naturalny pitny,-10 szt.,4. Mamy nadmiar
-jogurt pitny różne rodzaje,-71 szt.,4. Mamy nadmiar
+mleko roślinne różne rodzaje,-8 szt.,4. Mamy nadmiar
 jogurty wegańskie różne rodzaje,-6 szt.,4. Mamy nadmiar
 "woda w małych butelkach, w tym z dziubkiem",-197 szt.,4. Mamy nadmiar
 duże baniaki z wodą (eden),-5 szt.,4. Mamy nadmiar
@@ -54,19 +54,20 @@ soki owocowe litrowe,-202 szt.,4. Mamy nadmiar
 herbata czarna,-31 szt.,4. Mamy nadmiar
 "herbata melisa i inne zioła (np. mięta, rumianek), herbata zielon",-5 szt.,4. Mamy nadmiar
 herbata owocowa różne rodzaje,-19 szt,4. Mamy nadmiar
-kawa rozpuszczalna,-17 szt.,4. Mamy nadmiar
+kawa rozpuszczalna,-31 szt.,4. Mamy nadmiar
 kawa mielona 250 gram,-15 szt.,4. Mamy nadmiar
 kakao rozpuszczalne + czekolada rozpuszczalna,-3 szt.,4. Mamy nadmiar
-chleb krojony (nie tostowy!),-12 szt.,4. Mamy nadmiar
-kabanosy małe opakowania,-42 szt.,4. Mamy nadmiar
+kabanosy małe opakowania,-17 szt.,4. Mamy nadmiar
 parówki małe opakowania,-17 szt.,4. Mamy nadmiar
 wędlina/kiełbasa krojona paczkowana,-10 szt.,4. Mamy nadmiar
 ser żółty krojony paczkowany,-30 szt.,4. Mamy nadmiar
-hummus,-19 szt.,4. Mamy nadmiar
-parówki/kabanosy wegańskie,-1 szt.,4. Mamy nadmiar
+hummus,-2 szt.,4. Mamy nadmiar
+parówki/kabanosy wegańskie,-2 szt.,4. Mamy nadmiar
+pasty kanapkowe wegańskie- różne rodzaje,-25 szt.,4. Mamy nadmiar
 banany,-7 kg,4. Mamy nadmiar
-winogrona,-20 kg,4. Mamy nadmiar
+winogrona,-7 kg,4. Mamy nadmiar
 ogórki świeże,-5 szt.,4. Mamy nadmiar
+pomidory,-5 kg,4. Mamy nadmiar
 słoiczki dla dzieci - obiadki różne,-160 szt.,4. Mamy nadmiar
 słoiczki dla dzieci - deserki różne,-60 szt.,4. Mamy nadmiar
 tubki owocowe różne (nielodówkowe),-187 szt.,4. Mamy nadmiar
