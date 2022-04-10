@@ -2,13 +2,9 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,10/04/2022 17:04
+,,10/04/2022 19:30
 PRZEDMIOT,Brakuje,Priorytet
 talerzyki jednorazowe duże,400 szt.,1. Pilnie potrzebne
-mydelniczki/opakowania na szczoteczki ,5 szt.,1. Pilnie potrzebne
-sudocrem 30ml,10 szt.,1. Pilnie potrzebne
-nożyczki do paznokci,20 szt.,1. Pilnie potrzebne
-obcinacze do paznokci,36 szt.,2. Potrzebne
 mleko 1L,0 szt.,3. Mamy wystarczająco
 jogurt pitny różne rodzaje,0 szt.,3. Mamy wystarczająco
 chleb krojony (nie tostowy!),0 szt.,3. Mamy wystarczająco
