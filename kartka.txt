@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,10/04/2022 13:13
+,,10/04/2022 13:42
 PRZEDMIOT,Brakuje,Priorytet
 talerzyki jednorazowe duże,400 szt.,1. Pilnie potrzebne
 kefir/jogurt naturalny pitny,21 szt.,2. Potrzebne
