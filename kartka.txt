@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,10/04/2022 13:42
+,,10/04/2022 14:37
 PRZEDMIOT,Brakuje,Priorytet
 talerzyki jednorazowe duże,400 szt.,1. Pilnie potrzebne
 kefir/jogurt naturalny pitny,21 szt.,2. Potrzebne
@@ -110,7 +110,7 @@ podkładki dla dzieci/ dorosłych Seni,-208 szt.,4. Mamy nadmiar
 nocnik dla dzieci,-15 szt.,4. Mamy nadmiar
 mydło w kostce,-108 szt.,4. Mamy nadmiar
 klapki wielorazowe dziecięce - rozm. 23-35,-61 par.,4. Mamy nadmiar
-"bielizna damska, majtki- różne rozmiary- nowe",-184 szt.,4. Mamy nadmiar
+"bielizna damska, majtki- różne rozmiary- nowe",-189 szt.,4. Mamy nadmiar
 "bielizna męska, majtki-nowe",-13 szt.,4. Mamy nadmiar
 "bielizna dziecięca, majtki- nowe",-24 szt.,4. Mamy nadmiar
 ręcznik papierowy - rolka,-468 szt.,4. Mamy nadmiar
