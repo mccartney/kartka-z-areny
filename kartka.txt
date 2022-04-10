@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,10/04/2022 14:37
+,,10/04/2022 16:09
 PRZEDMIOT,Brakuje,Priorytet
 talerzyki jednorazowe duże,400 szt.,1. Pilnie potrzebne
 kefir/jogurt naturalny pitny,21 szt.,2. Potrzebne
@@ -32,7 +32,6 @@ sudocrem 30ml,-1 szt.,3. Mamy wystarczająco
 proszek do prania,0 szt.,3. Mamy wystarczająco
 ładowarki USB-C,0 szt.,3. Mamy wystarczająco
 krem do twarzy dla dzieci,0 szt.,3. Mamy wystarczająco
-zmywacz do paznokci,0 opak.,3. Mamy wystarczająco
 nożyczki do paznokci,0 szt.,3. Mamy wystarczająco
 chusteczki do hig int. małe opakowania,0 szt.,3. Mamy wystarczająco
 buty sportowe męskie - rozm. 40-45 nowe,0 szt.,3. Mamy wystarczająco
@@ -40,7 +39,6 @@ obcinacze do paznokci,0 szt.,3. Mamy wystarczająco
 płyn antybakteryjny 5L,0 opak.,3. Mamy wystarczająco
 wielorazowe torby na zakupy,0 szt,3. Mamy wystarczająco
 ładowarki USB-C,0 szt,3. Mamy wystarczająco
-żwirek dla kota,0 kg,3. Mamy wystarczająco
 plastry na halluksy ,0 szt.,3. Mamy wystarczająco
 plastry uniwersalne zestaw,0 szt.,3. Mamy wystarczająco
 mleko roślinne różne rodzaje,-8 szt.,4. Mamy nadmiar
@@ -117,6 +115,7 @@ ręcznik papierowy - rolka,-468 szt.,4. Mamy nadmiar
 szampon do włosów 150-500ml,-20 szt.,4. Mamy nadmiar
 antyperspirant męski,-12 szt.,4. Mamy nadmiar
 papier toaletowy szary /rolki do dyspenserów łaz.,-640 szt.,4. Mamy nadmiar
+zmywacz do paznokci,-2 opak.,4. Mamy nadmiar
 chusteczki higieniczne małe opak.,-170 szt.,4. Mamy nadmiar
 pomadki do ust/wazelina,-42 szt.,4. Mamy nadmiar
 pasta do zębów dla dzieci,-33 szt.,4. Mamy nadmiar
@@ -154,5 +153,6 @@ pieluchy tetrowe,-152 szt,4. Mamy nadmiar
 buty sportowe dziecięce - rozm. 23-35 nowe,-6 szt.,4. Mamy nadmiar
 buty sportowe damskie rozm. 36-40 nowe,-59 szt.,4. Mamy nadmiar
 karma dla piesełków - sucha,-35 kg,4. Mamy nadmiar
+żwirek dla kota,-48 kg,4. Mamy nadmiar
 karma dla piesełków - puszka,-20 szt,4. Mamy nadmiar
 zestaw do szycia podróżny,-1 szt.,4. Mamy nadmiar
