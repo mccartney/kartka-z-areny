@@ -2,19 +2,19 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,10/04/2022 09:29
+,,10/04/2022 12:11
 PRZEDMIOT,Brakuje,Priorytet
 jogurt pitny różne rodzaje,28 szt.,1. Pilnie potrzebne
 chleb tostowy,14 szt.,1. Pilnie potrzebne
 papryka czerwona,"4,2 kg",1. Pilnie potrzebne
 żelki w małych opakowaniach/guma rozpuszczalna (mikroporcje pakowane oddzielnie),50 szt.,1. Pilnie potrzebne
+pęsety,8 szt.,1. Pilnie potrzebne
 mleko 1L,7 szt.,2. Potrzebne
 kefir/jogurt naturalny pitny,21 szt.,2. Potrzebne
 chleb krojony (nie tostowy!),7 szt.,2. Potrzebne
 sałata lodowa/masłowa,4 szt.,2. Potrzebne
 majonez,1 szt.,2. Potrzebne
 parówki małe opakowania,-7 szt.,3. Mamy wystarczająco
-jabłka,0 kg,3. Mamy wystarczająco
 ogórki kiszone w wiaderkach małych,0 szt.,3. Mamy wystarczająco
 musztarda,0 szt.,3. Mamy wystarczająco
 talerzyki jednorazowe małe,0 szt.,3. Mamy wystarczająco
@@ -32,7 +32,6 @@ przewijak,0 szt.,3. Mamy wystarczająco
 sudocrem 30ml,-1 szt.,3. Mamy wystarczająco
 proszek do prania,0 szt.,3. Mamy wystarczająco
 ładowarki USB-C,0 szt.,3. Mamy wystarczająco
-pęsety,0 szt.,3. Mamy wystarczająco
 krem do twarzy dla dzieci,0 szt.,3. Mamy wystarczająco
 zmywacz do paznokci,0 opak.,3. Mamy wystarczająco
 nożyczki do paznokci,0 szt.,3. Mamy wystarczająco
@@ -63,6 +62,7 @@ ser żółty krojony paczkowany,-4 szt.,4. Mamy nadmiar
 hummus,-2 szt.,4. Mamy nadmiar
 parówki/kabanosy wegańskie,-2 szt.,4. Mamy nadmiar
 pasty kanapkowe wegańskie- różne rodzaje,-25 szt.,4. Mamy nadmiar
+jabłka,-3 kg,4. Mamy nadmiar
 banany,-7 kg,4. Mamy nadmiar
 winogrona,-7 kg,4. Mamy nadmiar
 ogórki świeże,-5 szt.,4. Mamy nadmiar
