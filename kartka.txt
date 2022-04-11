@@ -2,14 +2,14 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,11/04/2022 20:12
+,,11/04/2022 21:13
 PRZEDMIOT,Brakuje,Priorytet
 "woda w małych butelkach, w tym z dziubkiem",150 szt.,1. Pilnie potrzebne
-soczki małe z rurką,100 szt.,1. Pilnie potrzebne
 banany,7 kg,1. Pilnie potrzebne
 filtry  do kawy rozmiar 4,2 opak,1. Pilnie potrzebne
 mleko 1L,25 szt.,2. Potrzebne
 jogurt pitny różne rodzaje,20 szt.,2. Potrzebne
+soczki małe z rurką,73 szt.,2. Potrzebne
 chleb tostowy,8 szt.,2. Potrzebne
 parówki małe opakowania,16 szt.,2. Potrzebne
 talerzyki jednorazowe duże,200 szt.,2. Potrzebne
@@ -120,7 +120,7 @@ chusteczki higieniczne małe opak.,-170 szt.,4. Mamy nadmiar
 pomadki do ust/wazelina,-42 szt.,4. Mamy nadmiar
 pasta do zębów dla dzieci,-33 szt.,4. Mamy nadmiar
 pilnik do paznokci,-10 szt.,4. Mamy nadmiar
-chusteczki nawilżane pakowane,-1077 szt.,4. Mamy nadmiar
+chusteczki nawilżane pakowane,-1000 szt.,4. Mamy nadmiar
 patyczki do uszu ,-27 szt.,4. Mamy nadmiar
 pasta do zębów dla dorosłych - duże opakowania,-282 szt.,4. Mamy nadmiar
 sciereczki bawełniane jednorazowe - rolka,-736 szt.,4. Mamy nadmiar
@@ -149,7 +149,7 @@ pasta do zębów dla dorosłych - małe opakowania,-124 szt,4. Mamy nadmiar
 duże poduszki,-15 szt,4. Mamy nadmiar
 pieluchy tetrowe,-152 szt,4. Mamy nadmiar
 buty sportowe dziecięce - rozm. 23-35 nowe,-6 szt.,4. Mamy nadmiar
-buty sportowe damskie rozm. 36-40 nowe,-56 szt.,4. Mamy nadmiar
+buty sportowe damskie rozm. 36-40 nowe,-55 szt.,4. Mamy nadmiar
 karma dla piesełków - sucha,-35 kg,4. Mamy nadmiar
 żwirek dla kota,-48 kg,4. Mamy nadmiar
 karma dla piesełków - puszka,-20 szt,4. Mamy nadmiar
