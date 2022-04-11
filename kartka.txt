@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,11/04/2022 09:10
+,,11/04/2022 09:14
 PRZEDMIOT,Brakuje,Priorytet
 talerzyki jednorazowe duże,200 szt.,2. Potrzebne
 mleko 1L,0 szt.,3. Mamy wystarczająco
