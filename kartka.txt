@@ -2,9 +2,9 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,10/04/2022 19:30
+,,10/04/2022 23:05
 PRZEDMIOT,Brakuje,Priorytet
-talerzyki jednorazowe duże,400 szt.,1. Pilnie potrzebne
+talerzyki jednorazowe duże,200 szt.,2. Potrzebne
 mleko 1L,0 szt.,3. Mamy wystarczająco
 jogurt pitny różne rodzaje,0 szt.,3. Mamy wystarczająco
 chleb krojony (nie tostowy!),0 szt.,3. Mamy wystarczająco
