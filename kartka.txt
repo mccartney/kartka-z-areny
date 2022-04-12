@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,12/04/2022 12:22
+,,12/04/2022 13:30
 PRZEDMIOT,Brakuje,Priorytet
 "woda w małych butelkach, w tym z dziubkiem",142 szt.,1. Pilnie potrzebne
 banany,7 kg,1. Pilnie potrzebne
