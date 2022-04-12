@@ -2,11 +2,16 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,12/04/2022 13:30
+,,12/04/2022 16:09
 PRZEDMIOT,Brakuje,Priorytet
 "woda w małych butelkach, w tym z dziubkiem",142 szt.,1. Pilnie potrzebne
 banany,7 kg,1. Pilnie potrzebne
 filtry  do kawy rozmiar 4,2 opak,1. Pilnie potrzebne
+szelki dla kota,4 szt,1. Pilnie potrzebne
+kremy nawilżające do twarzy 15-30ml,20 szt.,1. Pilnie potrzebne
+worki na śmieci >240L,16 opak.,1. Pilnie potrzebne
+dresy chłopięce spodnie S/M,5 szt,1. Pilnie potrzebne
+"krem do twarzy z filtrem UV 30, UV50",5 szt,1. Pilnie potrzebne
 mleko 1L,25 szt.,2. Potrzebne
 jogurt pitny różne rodzaje,20 szt.,2. Potrzebne
 soczki małe z rurką,73 szt.,2. Potrzebne
@@ -15,6 +20,7 @@ parówki małe opakowania,16 szt.,2. Potrzebne
 talerzyki jednorazowe duże,200 szt.,2. Potrzebne
 klapki wielorazowe męskie - rozm. 41-46,5 par.,2. Potrzebne
 antyperspirant męski,5 szt.,2. Potrzebne
+worki na śmieci 160L,20 opak.,2. Potrzebne
 chleb krojony (nie tostowy!),0 szt.,3. Mamy wystarczająco
 papryka czerwona,0 kg,3. Mamy wystarczająco
 ogórki kiszone w wiaderkach małych,0 szt.,3. Mamy wystarczająco
@@ -115,6 +121,7 @@ ręcznik papierowy - rolka,-468 szt.,4. Mamy nadmiar
 szampon do włosów 150-500ml,-20 szt.,4. Mamy nadmiar
 papier toaletowy szary /rolki do dyspenserów łaz.,-640 szt.,4. Mamy nadmiar
 zmywacz do paznokci,-2 opak.,4. Mamy nadmiar
+worki na śmieci 120L,-20 opak.,4. Mamy nadmiar
 chusteczki higieniczne małe opak.,-170 szt.,4. Mamy nadmiar
 pomadki do ust/wazelina,-42 szt.,4. Mamy nadmiar
 pasta do zębów dla dzieci,-33 szt.,4. Mamy nadmiar
