@@ -2,10 +2,9 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,13/04/2022 12:26
+,,13/04/2022 18:09
 PRZEDMIOT,Brakuje,Priorytet
-mleko 1L,31 szt.,1. Pilnie potrzebne
-"woda w małych butelkach, w tym z dziubkiem",130 szt.,1. Pilnie potrzebne
+mleko 1L,26 szt.,1. Pilnie potrzebne
 filtry  do kawy rozmiar 4,2 opak,1. Pilnie potrzebne
 szelki dla kota,4 szt,1. Pilnie potrzebne
 kremy nawilżające do twarzy 15-30ml,20 szt.,1. Pilnie potrzebne
@@ -13,17 +12,16 @@ kremy nawilżające do twarzy 15-30ml,20 szt.,1. Pilnie potrzebne
 pianka do golenia małe opak.,10 szt,1. Pilnie potrzebne
 jogurt pitny różne rodzaje,10 szt.,2. Potrzebne
 soczki małe z rurką,61 szt.,2. Potrzebne
+soczki małe z dziubkiem,34 szt,2. Potrzebne
 chleb tostowy,5 szt.,2. Potrzebne
-banany,4 kg,2. Potrzebne
 talerzyki jednorazowe duże,200 szt.,2. Potrzebne
 klapki wielorazowe męskie - rozm. 41-46,5 par.,2. Potrzebne
-antyperspirant męski,5 szt.,2. Potrzebne
 gumki do włosów / spinki typu wsuwki,10 szt,2. Potrzebne
 kefir/jogurt naturalny pitny,0 szt.,3. Mamy wystarczająco
-chleb krojony (nie tostowy!),-1 szt.,3. Mamy wystarczająco
 kabanosy małe opakowania,0 szt.,3. Mamy wystarczająco
 parówki małe opakowania,-4 szt.,3. Mamy wystarczająco
 wędlina/kiełbasa krojona paczkowana,0 szt.,3. Mamy wystarczająco
+banany,-1 kg,3. Mamy wystarczająco
 winogrona,0 kg,3. Mamy wystarczająco
 ogórki świeże,0 Kg,3. Mamy wystarczająco
 papryka czerwona,0 kg,3. Mamy wystarczająco
@@ -43,6 +41,7 @@ przewijak,0 szt.,3. Mamy wystarczająco
 plecaki duże,0 szt.,3. Mamy wystarczająco
 proszek do prania,0 szt.,3. Mamy wystarczająco
 ładowarki USB-C,0 szt.,3. Mamy wystarczająco
+antyperspirant męski,0 szt.,3. Mamy wystarczająco
 krem do twarzy dla dzieci,0 szt.,3. Mamy wystarczająco
 płyn micelarny mały 50-100ml,0 szt.,3. Mamy wystarczająco
 chusteczki do hig int. małe opakowania,-1 szt.,3. Mamy wystarczająco
@@ -52,18 +51,17 @@ wielorazowe torby na zakupy,0 szt,3. Mamy wystarczająco
 ładowarki USB-C,0 szt,3. Mamy wystarczająco
 plastry na halluksy ,0 szt.,3. Mamy wystarczająco
 plastry uniwersalne zestaw,0 szt.,3. Mamy wystarczająco
-płyn do mycia naczyń,0 szt,3. Mamy wystarczająco
 mleko roślinne różne rodzaje,-14 szt.,4. Mamy nadmiar
 jogurty wegańskie różne rodzaje,-6 szt.,4. Mamy nadmiar
 duże baniaki z wodą (eden),-5 szt.,4. Mamy nadmiar
-soczki małe z dziubkiem,-22 szt,4. Mamy nadmiar
-soki owocowe litrowe,-50 szt.,4. Mamy nadmiar
+soki owocowe litrowe,-44 szt.,4. Mamy nadmiar
 herbata czarna,-31 szt.,4. Mamy nadmiar
-"herbata melisa i inne zioła (np. mięta, rumianek), herbata zielon",-5 szt.,4. Mamy nadmiar
+"herbata melisa i inne zioła (np. mięta, rumianek), herbata zielon",-17 szt.,4. Mamy nadmiar
 herbata owocowa różne rodzaje,-21 szt,4. Mamy nadmiar
 kawa rozpuszczalna,-31 szt.,4. Mamy nadmiar
 kawa mielona 250 gram,-40 szt.,4. Mamy nadmiar
 kakao rozpuszczalne + czekolada rozpuszczalna,-3 szt.,4. Mamy nadmiar
+chleb krojony (nie tostowy!),-4 szt.,4. Mamy nadmiar
 ser żółty krojony paczkowany,-38 szt.,4. Mamy nadmiar
 hummus,-2 szt.,4. Mamy nadmiar
 parówki/kabanosy wegańskie,-2 szt.,4. Mamy nadmiar
@@ -102,7 +100,7 @@ baterie paluszki AAA,-86 szt.,4. Mamy nadmiar
 pieluchomajtki dla dorosłych M-L,-35 opak.,4. Mamy nadmiar
 ręczniki duże kąpielowe,-355 szt.,4. Mamy nadmiar
 klapki jednorazowe pod prysznic 38-46,-1706 szt.,4. Mamy nadmiar
-karma dla kotełków,-28 szt.,4. Mamy nadmiar
+karma dla kotełków,-34 szt.,4. Mamy nadmiar
 szampon do włosów travel size 30-50ml,-632 szt.,4. Mamy nadmiar
 "pampersy dziecięce/pieluchomajtki, rozm. 0-6 ",-1982 szt.,4. Mamy nadmiar
 maszynki jednorazowe do golenia męskie,-67 szt.,4. Mamy nadmiar
@@ -156,7 +154,8 @@ duże poduszki,-15 szt,4. Mamy nadmiar
 pieluchy tetrowe,-152 szt,4. Mamy nadmiar
 buty sportowe dziecięce - rozm. 23-35 nowe,-6 szt.,4. Mamy nadmiar
 buty sportowe damskie rozm. 36-40 nowe,-55 szt.,4. Mamy nadmiar
-karma dla piesełków - sucha,-35 kg,4. Mamy nadmiar
+karma dla piesełków - sucha,-39 kg,4. Mamy nadmiar
 żwirek dla kota,-48 kg,4. Mamy nadmiar
 karma dla piesełków - puszka,-20 szt,4. Mamy nadmiar
 zestaw do szycia podróżny,-1 szt.,4. Mamy nadmiar
+płyn do mycia naczyń,-2 szt,4. Mamy nadmiar
