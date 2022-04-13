@@ -2,25 +2,28 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,13/04/2022 20:12
+,,13/04/2022 21:09
 PRZEDMIOT,Brakuje,Priorytet
-jogurt pitny różne rodzaje,35 szt.,1. Pilnie potrzebne
-soczki małe z dziubkiem,43 szt,1. Pilnie potrzebne
 filtry  do kawy rozmiar 4,2 opak,1. Pilnie potrzebne
+żelki w małych opakowaniach/guma rozpuszczalna (mikroporcje pakowane oddzielnie),50 szt.,1. Pilnie potrzebne
+walizki na kółkach nowe/ stan bdb. / duze,3 szt.,1. Pilnie potrzebne
 kremy nawilżające do twarzy 15-30ml,20 szt.,1. Pilnie potrzebne
+walizki na kółkach nowe/ stan bdb. / małe,5 szt.,1. Pilnie potrzebne
 "krem do twarzy z filtrem UV 30, UV50",5 szt,1. Pilnie potrzebne
 pianka do golenia małe opak.,10 szt,1. Pilnie potrzebne
+jogurt pitny różne rodzaje,17 szt.,2. Potrzebne
 soczki małe z rurką,69 szt.,2. Potrzebne
+soczki małe z dziubkiem,7 szt,2. Potrzebne
+jabłka,3 kg,2. Potrzebne
+papryka czerwona,2 kg,2. Potrzebne
+ketchup łagodny,1 szt.,2. Potrzebne
+musztarda,1 szt.,2. Potrzebne
 talerzyki jednorazowe duże,200 szt.,2. Potrzebne
 klapki wielorazowe męskie - rozm. 41-46,5 par.,2. Potrzebne
 gumki do włosów / spinki typu wsuwki,10 szt,2. Potrzebne
-winogrona,0 kg,3. Mamy wystarczająco
-ogórki świeże,0 Kg,3. Mamy wystarczająco
-papryka czerwona,0 kg,3. Mamy wystarczająco
-ogórki kiszone w wiaderkach małych,0 szt.,3. Mamy wystarczająco
-musztarda,0 szt.,3. Mamy wystarczająco
+banany,-1 kg,3. Mamy wystarczająco
 majonez,0 szt.,3. Mamy wystarczająco
-żelki w małych opakowaniach/guma rozpuszczalna (mikroporcje pakowane oddzielnie),0 szt.,3. Mamy wystarczająco
+batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),-10 szt.,3. Mamy wystarczająco
 kubeczki do ciepłych napojów papierowe/styropianowe,-60 szt.,3. Mamy wystarczająco
 pojemniki dwu i trójdzielne do ciepłych posiłków,0 szt.,3. Mamy wystarczająco
 miseczki plastikowe (nie do ciepłych posiłków),0 szt.,3. Mamy wystarczająco
@@ -66,22 +69,21 @@ ser żółty krojony paczkowany,-25 szt.,4. Mamy nadmiar
 hummus,-2 szt.,4. Mamy nadmiar
 parówki/kabanosy wegańskie,-2 szt.,4. Mamy nadmiar
 pasty kanapkowe wegańskie- różne rodzaje,-25 szt.,4. Mamy nadmiar
-jabłka,-3 kg,4. Mamy nadmiar
-banany,-6 kg,4. Mamy nadmiar
+winogrona,-3 kg,4. Mamy nadmiar
+ogórki świeże,-2 Kg,4. Mamy nadmiar
 pomidory,-5 kg,4. Mamy nadmiar
 sałata lodowa/masłowa,-1 szt.,4. Mamy nadmiar
+ogórki kiszone w wiaderkach małych,-3 szt.,4. Mamy nadmiar
 słoiczki dla dzieci - obiadki różne,-478 szt.,4. Mamy nadmiar
 słoiczki dla dzieci - deserki różne,-60 szt.,4. Mamy nadmiar
-tubki owocowe różne (nielodówkowe),-100 szt.,4. Mamy nadmiar
-kaszki dla dzieci/kleiki do samodzielnego przygotowania,-142 szt.,4. Mamy nadmiar
-płatki śniadaniowe różne rodzaje,-7 szt.,4. Mamy nadmiar
-owsianka błyskawiczna kg (lub 20 porcjowanych),-2 szt.,4. Mamy nadmiar
-dżem,-20 szt.,4. Mamy nadmiar
-"sól 0,5 kg",-6 szt.,4. Mamy nadmiar
-cukier 1 kg,-17 kg,4. Mamy nadmiar
+tubki owocowe różne (nielodówkowe),-570 szt.,4. Mamy nadmiar
+kaszki dla dzieci/kleiki do samodzielnego przygotowania,-113 szt.,4. Mamy nadmiar
+płatki śniadaniowe różne rodzaje,-12 szt.,4. Mamy nadmiar
+owsianka błyskawiczna kg (lub 20 porcjowanych),-4 szt.,4. Mamy nadmiar
+dżem,-29 szt.,4. Mamy nadmiar
+"sól 0,5 kg",-8 szt.,4. Mamy nadmiar
+cukier 1 kg,-23 kg,4. Mamy nadmiar
 pieprz mała torebka,-3 szt.,4. Mamy nadmiar
-ketchup łagodny,-1 szt.,4. Mamy nadmiar
-batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),-50 szt.,4. Mamy nadmiar
 talerzyki jednorazowe małe,-5600 szt.,4. Mamy nadmiar
 widelce plastikowe,-2200 szt.,4. Mamy nadmiar
 łyżki duże plastikowe,-5900 szt.,4. Mamy nadmiar
@@ -90,7 +92,7 @@ noże plastikowe,-992 szt.,4. Mamy nadmiar
 talerze głębokie plastikowe do ciepłych posiłków,-500 szt.,4. Mamy nadmiar
 kubeczki do zimnych napojów plastikowe,-2550 szt.,4. Mamy nadmiar
 miski papierowe do ciepłych posiłków,-5312 szt.,4. Mamy nadmiar
-Kawa inka ,-1 szt.,4. Mamy nadmiar
+Kawa inka ,-7 szt.,4. Mamy nadmiar
 zmywaki lub gąbki do naczyń,-60 opak.,4. Mamy nadmiar
 małe poduszki,-90 szt.,4. Mamy nadmiar
 pluszaki nowe lub uprane,-250 szt.,4. Mamy nadmiar
