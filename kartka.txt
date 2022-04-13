@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,12/04/2022 19:03
+,,13/04/2022 12:26
 PRZEDMIOT,Brakuje,Priorytet
 mleko 1L,31 szt.,1. Pilnie potrzebne
 "woda w małych butelkach, w tym z dziubkiem",130 szt.,1. Pilnie potrzebne
