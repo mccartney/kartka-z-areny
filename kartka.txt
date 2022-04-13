@@ -2,21 +2,18 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,13/04/2022 19:12
+,,13/04/2022 20:12
 PRZEDMIOT,Brakuje,Priorytet
+jogurt pitny różne rodzaje,35 szt.,1. Pilnie potrzebne
+soczki małe z dziubkiem,43 szt,1. Pilnie potrzebne
 filtry  do kawy rozmiar 4,2 opak,1. Pilnie potrzebne
 kremy nawilżające do twarzy 15-30ml,20 szt.,1. Pilnie potrzebne
 "krem do twarzy z filtrem UV 30, UV50",5 szt,1. Pilnie potrzebne
 pianka do golenia małe opak.,10 szt,1. Pilnie potrzebne
-jogurt pitny różne rodzaje,10 szt.,2. Potrzebne
-soczki małe z dziubkiem,34 szt,2. Potrzebne
+soczki małe z rurką,69 szt.,2. Potrzebne
 talerzyki jednorazowe duże,200 szt.,2. Potrzebne
 klapki wielorazowe męskie - rozm. 41-46,5 par.,2. Potrzebne
 gumki do włosów / spinki typu wsuwki,10 szt,2. Potrzebne
-kefir/jogurt naturalny pitny,0 szt.,3. Mamy wystarczająco
-kabanosy małe opakowania,0 szt.,3. Mamy wystarczająco
-parówki małe opakowania,-4 szt.,3. Mamy wystarczająco
-wędlina/kiełbasa krojona paczkowana,0 szt.,3. Mamy wystarczająco
 winogrona,0 kg,3. Mamy wystarczająco
 ogórki świeże,0 Kg,3. Mamy wystarczająco
 papryka czerwona,0 kg,3. Mamy wystarczająco
@@ -47,22 +44,25 @@ wielorazowe torby na zakupy,0 szt,3. Mamy wystarczająco
 ładowarki USB-C,0 szt,3. Mamy wystarczająco
 plastry na halluksy ,0 szt.,3. Mamy wystarczająco
 plastry uniwersalne zestaw,0 szt.,3. Mamy wystarczająco
-mleko 1L,-16 szt.,4. Mamy nadmiar
+mleko 1L,-93 szt.,4. Mamy nadmiar
 mleko roślinne różne rodzaje,-14 szt.,4. Mamy nadmiar
+kefir/jogurt naturalny pitny,-28 szt.,4. Mamy nadmiar
 jogurty wegańskie różne rodzaje,-6 szt.,4. Mamy nadmiar
-"woda w małych butelkach, w tym z dziubkiem",-187 szt.,4. Mamy nadmiar
-duże baniaki z wodą (eden),-5 szt.,4. Mamy nadmiar
-soczki małe z rurką,-64 szt.,4. Mamy nadmiar
-soki owocowe litrowe,-44 szt.,4. Mamy nadmiar
-herbata czarna,-44 szt.,4. Mamy nadmiar
-"herbata melisa i inne zioła (np. mięta, rumianek), herbata zielon",-17 szt.,4. Mamy nadmiar
-herbata owocowa różne rodzaje,-21 szt,4. Mamy nadmiar
-kawa rozpuszczalna,-31 szt.,4. Mamy nadmiar
-kawa mielona 250 gram,-40 szt.,4. Mamy nadmiar
-kakao rozpuszczalne + czekolada rozpuszczalna,-3 szt.,4. Mamy nadmiar
-chleb krojony (nie tostowy!),-4 szt.,4. Mamy nadmiar
-chleb tostowy,-33 szt.,4. Mamy nadmiar
-ser żółty krojony paczkowany,-38 szt.,4. Mamy nadmiar
+"woda w małych butelkach, w tym z dziubkiem",-183 szt.,4. Mamy nadmiar
+duże baniaki z wodą (eden),-3 szt.,4. Mamy nadmiar
+soki owocowe litrowe,-120 szt.,4. Mamy nadmiar
+herbata czarna,-46 szt.,4. Mamy nadmiar
+"herbata melisa i inne zioła (np. mięta, rumianek), herbata zielon",-26 szt.,4. Mamy nadmiar
+herbata owocowa różne rodzaje,-31 szt,4. Mamy nadmiar
+kawa rozpuszczalna,-42 szt.,4. Mamy nadmiar
+kawa mielona 250 gram,-32 szt.,4. Mamy nadmiar
+kakao rozpuszczalne + czekolada rozpuszczalna,-5 szt.,4. Mamy nadmiar
+chleb krojony (nie tostowy!),-2 szt.,4. Mamy nadmiar
+chleb tostowy,-3 szt.,4. Mamy nadmiar
+kabanosy małe opakowania,-23 szt.,4. Mamy nadmiar
+parówki małe opakowania,-20 szt.,4. Mamy nadmiar
+wędlina/kiełbasa krojona paczkowana,-8 szt.,4. Mamy nadmiar
+ser żółty krojony paczkowany,-25 szt.,4. Mamy nadmiar
 hummus,-2 szt.,4. Mamy nadmiar
 parówki/kabanosy wegańskie,-2 szt.,4. Mamy nadmiar
 pasty kanapkowe wegańskie- różne rodzaje,-25 szt.,4. Mamy nadmiar
@@ -111,7 +111,7 @@ podpaski/tampony,-645 szt.,4. Mamy nadmiar
 podkładki dla dzieci/ dorosłych Seni,-208 szt.,4. Mamy nadmiar
 nocnik dla dzieci,-15 szt.,4. Mamy nadmiar
 mydło w kostce,-108 szt.,4. Mamy nadmiar
-klapki wielorazowe dziecięce - rozm. 23-35,-61 par.,4. Mamy nadmiar
+klapki wielorazowe dziecięce - rozm. 23-35,-60 par.,4. Mamy nadmiar
 "bielizna damska, majtki- różne rozmiary- nowe",-189 szt.,4. Mamy nadmiar
 "bielizna męska, majtki-nowe",-13 szt.,4. Mamy nadmiar
 "bielizna dziecięca, majtki- nowe",-24 szt.,4. Mamy nadmiar
@@ -141,7 +141,7 @@ papier toaletowy /rolki,-850 szt.,4. Mamy nadmiar
 szczoteczki do zębów + pasta 3 gr,-200 szt.,4. Mamy nadmiar
 żel antybakteryjny 400-500ml,-281 szt.,4. Mamy nadmiar
 szczotka do włosów/grzebień,-82 szt.,4. Mamy nadmiar
-klapki wielorazowe damskie - rozm. 36-40,-54 kg,4. Mamy nadmiar
+klapki wielorazowe damskie - rozm. 36-40,-53 kg,4. Mamy nadmiar
 maseczki jednorazowe,-4900 szt,4. Mamy nadmiar
 żel do mycia twarzy  50-100ml,-4 szt,4. Mamy nadmiar
 maszynki jednorazowe do golenia damskie,-45 szt,4. Mamy nadmiar
