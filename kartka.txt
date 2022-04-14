@@ -2,21 +2,19 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,14/04/2022 14:04
+,,14/04/2022 18:12
 PRZEDMIOT,Brakuje,Priorytet
 filtry  do kawy rozmiar 4,0 opak,1. Pilnie potrzebne
-żelki w małych opakowaniach/guma rozpuszczalna (mikroporcje pakowane oddzielnie),50 szt.,1. Pilnie potrzebne
 walizki na kółkach nowe/ stan bdb. / duze,3 szt.,1. Pilnie potrzebne
 walizki na kółkach nowe/ stan bdb. / małe,5 szt.,1. Pilnie potrzebne
-płyn do mycia naczyń,5 szt,1. Pilnie potrzebne
-soczki małe z rurką,69 szt.,2. Potrzebne
+soczki małe z rurką,19 szt.,2. Potrzebne
 soczki małe z dziubkiem,7 szt,2. Potrzebne
-papryka czerwona,1 kg,2. Potrzebne
-ketchup łagodny,1 szt.,2. Potrzebne
-"krem do twarzy z filtrem UV 30, UV50",2 szt,2. Potrzebne
+żelki w małych opakowaniach/guma rozpuszczalna (mikroporcje pakowane oddzielnie),17 szt.,2. Potrzebne
 jogurt pitny różne rodzaje,-3 szt.,3. Mamy wystarczająco
 jabłka,0 kg,3. Mamy wystarczająco
 banany,-1 kg,3. Mamy wystarczająco
+papryka czerwona,0 kg,3. Mamy wystarczająco
+ketchup łagodny,0 szt.,3. Mamy wystarczająco
 majonez,0 szt.,3. Mamy wystarczająco
 pojemniki dwu i trójdzielne do ciepłych posiłków,0 szt.,3. Mamy wystarczająco
 miseczki plastikowe (nie do ciepłych posiłków),0 szt.,3. Mamy wystarczająco
@@ -30,7 +28,6 @@ klapki wielorazowe męskie - rozm. 41-46,0 par.,3. Mamy wystarczająco
 plecaki duże,0 szt.,3. Mamy wystarczająco
 szelki dla kota,0 szt,3. Mamy wystarczająco
 proszek do prania,0 szt.,3. Mamy wystarczająco
-kremy nawilżające do twarzy 15-30ml,0 szt.,3. Mamy wystarczająco
 ładowarki USB-C,0 szt.,3. Mamy wystarczająco
 krem do twarzy dla dzieci,0 szt.,3. Mamy wystarczająco
 płyn micelarny mały 50-100ml,0 szt.,3. Mamy wystarczająco
@@ -96,7 +93,7 @@ małe poduszki,-90 szt.,4. Mamy nadmiar
 pluszaki nowe lub uprane,-250 szt.,4. Mamy nadmiar
 rękawice grube wielorazowe,-3 szt.,4. Mamy nadmiar
 krem/puder do pupy dla dzieci,-18 szt.,4. Mamy nadmiar
-mydło w płynie,-133 szt.,4. Mamy nadmiar
+mydło w płynie,-135 szt.,4. Mamy nadmiar
 baterie paluszki AAA,-86 szt.,4. Mamy nadmiar
 pieluchomajtki dla dorosłych M-L,-35 opak.,4. Mamy nadmiar
 ręczniki duże kąpielowe,-513 szt.,4. Mamy nadmiar
@@ -106,13 +103,14 @@ szampon do włosów travel size 30-50ml,-632 szt.,4. Mamy nadmiar
 "pampersy dziecięce/pieluchomajtki, rozm. 0-6 ",-1982 szt.,4. Mamy nadmiar
 maszynki jednorazowe do golenia męskie,-67 szt.,4. Mamy nadmiar
 balsam do ciała mały 20-50ml,-910 szt.,4. Mamy nadmiar
-szczoteczki do zębów dla dzieci,-151 szt.,4. Mamy nadmiar
+szczoteczki do zębów dla dzieci,-156 szt.,4. Mamy nadmiar
 podpaski/tampony,-645 szt.,4. Mamy nadmiar
+kremy nawilżające do twarzy 15-30ml,-14 szt.,4. Mamy nadmiar
 podkładki dla dzieci/ dorosłych Seni,-208 szt.,4. Mamy nadmiar
 nocnik dla dzieci,-15 szt.,4. Mamy nadmiar
 mydło w kostce,-108 szt.,4. Mamy nadmiar
 klapki wielorazowe dziecięce - rozm. 23-35,-60 par.,4. Mamy nadmiar
-"bielizna damska, majtki- różne rozmiary- nowe",-189 szt.,4. Mamy nadmiar
+"bielizna damska, majtki- różne rozmiary- nowe",-191 szt.,4. Mamy nadmiar
 "bielizna męska, majtki-nowe",-13 szt.,4. Mamy nadmiar
 "bielizna dziecięca, majtki- nowe",-24 szt.,4. Mamy nadmiar
 ręcznik papierowy - rolka,-468 szt.,4. Mamy nadmiar
@@ -151,6 +149,7 @@ odżywki do włosów travel size 30-50ml,-90 szt,4. Mamy nadmiar
 rajstopy damskie - różne rozmiary,-30 szt,4. Mamy nadmiar
 stopery do uszu/opaski na oczy,-4400 szt.,4. Mamy nadmiar
 waciki do demakijażu,-50 szt,4. Mamy nadmiar
+"krem do twarzy z filtrem UV 30, UV50",-1 szt,4. Mamy nadmiar
 pasta do zębów dla dorosłych - małe opakowania,-124 szt,4. Mamy nadmiar
 duże poduszki,-15 szt,4. Mamy nadmiar
 gumki do włosów / spinki typu wsuwki,-201 szt,4. Mamy nadmiar
@@ -162,3 +161,4 @@ karma dla piesełków - sucha,-39 kg,4. Mamy nadmiar
 karma dla piesełków - puszka,-20 szt,4. Mamy nadmiar
 zestaw do szycia podróżny,-1 szt.,4. Mamy nadmiar
 pianka do golenia małe opak.,-5 szt,4. Mamy nadmiar
+płyn do mycia naczyń,-2 szt,4. Mamy nadmiar
