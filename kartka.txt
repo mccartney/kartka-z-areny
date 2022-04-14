@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,14/04/2022 13:11
+,,14/04/2022 14:04
 PRZEDMIOT,Brakuje,Priorytet
 filtry  do kawy rozmiar 4,0 opak,1. Pilnie potrzebne
 żelki w małych opakowaniach/guma rozpuszczalna (mikroporcje pakowane oddzielnie),50 szt.,1. Pilnie potrzebne
@@ -99,7 +99,7 @@ krem/puder do pupy dla dzieci,-18 szt.,4. Mamy nadmiar
 mydło w płynie,-133 szt.,4. Mamy nadmiar
 baterie paluszki AAA,-86 szt.,4. Mamy nadmiar
 pieluchomajtki dla dorosłych M-L,-35 opak.,4. Mamy nadmiar
-ręczniki duże kąpielowe,-355 szt.,4. Mamy nadmiar
+ręczniki duże kąpielowe,-513 szt.,4. Mamy nadmiar
 klapki jednorazowe pod prysznic 38-46,-1706 szt.,4. Mamy nadmiar
 karma dla kotełków,-43 szt.,4. Mamy nadmiar
 szampon do włosów travel size 30-50ml,-632 szt.,4. Mamy nadmiar
