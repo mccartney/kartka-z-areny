@@ -2,28 +2,22 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,14/04/2022 06:19
+,,14/04/2022 12:11
 PRZEDMIOT,Brakuje,Priorytet
-filtry  do kawy rozmiar 4,2 opak,1. Pilnie potrzebne
+filtry  do kawy rozmiar 4,0 opak,1. Pilnie potrzebne
 żelki w małych opakowaniach/guma rozpuszczalna (mikroporcje pakowane oddzielnie),50 szt.,1. Pilnie potrzebne
 walizki na kółkach nowe/ stan bdb. / duze,3 szt.,1. Pilnie potrzebne
-kremy nawilżające do twarzy 15-30ml,20 szt.,1. Pilnie potrzebne
 walizki na kółkach nowe/ stan bdb. / małe,5 szt.,1. Pilnie potrzebne
 "krem do twarzy z filtrem UV 30, UV50",5 szt,1. Pilnie potrzebne
-pianka do golenia małe opak.,10 szt,1. Pilnie potrzebne
-jogurt pitny różne rodzaje,17 szt.,2. Potrzebne
+płyn do mycia naczyń,5 szt,1. Pilnie potrzebne
 soczki małe z rurką,69 szt.,2. Potrzebne
 soczki małe z dziubkiem,7 szt,2. Potrzebne
-jabłka,3 kg,2. Potrzebne
-papryka czerwona,2 kg,2. Potrzebne
+papryka czerwona,1 kg,2. Potrzebne
 ketchup łagodny,1 szt.,2. Potrzebne
-musztarda,1 szt.,2. Potrzebne
-talerzyki jednorazowe duże,200 szt.,2. Potrzebne
-klapki wielorazowe męskie - rozm. 41-46,5 par.,2. Potrzebne
-gumki do włosów / spinki typu wsuwki,10 szt,2. Potrzebne
+jogurt pitny różne rodzaje,-3 szt.,3. Mamy wystarczająco
+jabłka,0 kg,3. Mamy wystarczająco
 banany,-1 kg,3. Mamy wystarczająco
 majonez,0 szt.,3. Mamy wystarczająco
-batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),-10 szt.,3. Mamy wystarczająco
 kubeczki do ciepłych napojów papierowe/styropianowe,-60 szt.,3. Mamy wystarczająco
 pojemniki dwu i trójdzielne do ciepłych posiłków,0 szt.,3. Mamy wystarczająco
 miseczki plastikowe (nie do ciepłych posiłków),0 szt.,3. Mamy wystarczająco
@@ -33,11 +27,13 @@ opakowania rękawiczek lateksowych M,0 szt.,3. Mamy wystarczająco
 opakowania rękawiczek lateksowych L,0 szt.,3. Mamy wystarczająco
 worki na smieci 35L,0 szt.,3. Mamy wystarczająco
 przewijak,0 szt.,3. Mamy wystarczająco
+klapki wielorazowe męskie - rozm. 41-46,0 par.,3. Mamy wystarczająco
 plecaki duże,0 szt.,3. Mamy wystarczająco
 szelki dla kota,0 szt,3. Mamy wystarczająco
 proszek do prania,0 szt.,3. Mamy wystarczająco
+kremy nawilżające do twarzy 15-30ml,0 szt.,3. Mamy wystarczająco
 ładowarki USB-C,0 szt.,3. Mamy wystarczająco
-antyperspirant męski,0 szt.,3. Mamy wystarczająco
+antyperspirant męski,-5 szt.,3. Mamy wystarczająco
 krem do twarzy dla dzieci,0 szt.,3. Mamy wystarczająco
 płyn micelarny mały 50-100ml,0 szt.,3. Mamy wystarczająco
 chusteczki do hig int. małe opakowania,-1 szt.,3. Mamy wystarczająco
@@ -61,9 +57,9 @@ kawa rozpuszczalna,-42 szt.,4. Mamy nadmiar
 kawa mielona 250 gram,-32 szt.,4. Mamy nadmiar
 kakao rozpuszczalne + czekolada rozpuszczalna,-5 szt.,4. Mamy nadmiar
 chleb krojony (nie tostowy!),-2 szt.,4. Mamy nadmiar
-chleb tostowy,-3 szt.,4. Mamy nadmiar
+chleb tostowy,-23 szt.,4. Mamy nadmiar
 kabanosy małe opakowania,-23 szt.,4. Mamy nadmiar
-parówki małe opakowania,-20 szt.,4. Mamy nadmiar
+parówki małe opakowania,-50 szt.,4. Mamy nadmiar
 wędlina/kiełbasa krojona paczkowana,-8 szt.,4. Mamy nadmiar
 ser żółty krojony paczkowany,-25 szt.,4. Mamy nadmiar
 hummus,-2 szt.,4. Mamy nadmiar
@@ -84,7 +80,10 @@ dżem,-29 szt.,4. Mamy nadmiar
 "sól 0,5 kg",-8 szt.,4. Mamy nadmiar
 cukier 1 kg,-23 kg,4. Mamy nadmiar
 pieprz mała torebka,-3 szt.,4. Mamy nadmiar
+musztarda,-2 szt.,4. Mamy nadmiar
+batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),-74 szt.,4. Mamy nadmiar
 talerzyki jednorazowe małe,-5600 szt.,4. Mamy nadmiar
+talerzyki jednorazowe duże,-100 szt.,4. Mamy nadmiar
 widelce plastikowe,-2200 szt.,4. Mamy nadmiar
 łyżki duże plastikowe,-5900 szt.,4. Mamy nadmiar
 łyżeczki plastikowe,-950 szt.,4. Mamy nadmiar
@@ -154,6 +153,7 @@ stopery do uszu/opaski na oczy,-4400 szt.,4. Mamy nadmiar
 waciki do demakijażu,-50 szt,4. Mamy nadmiar
 pasta do zębów dla dorosłych - małe opakowania,-124 szt,4. Mamy nadmiar
 duże poduszki,-15 szt,4. Mamy nadmiar
+gumki do włosów / spinki typu wsuwki,-201 szt,4. Mamy nadmiar
 pieluchy tetrowe,-152 szt,4. Mamy nadmiar
 buty sportowe dziecięce - rozm. 23-35 nowe,-6 szt.,4. Mamy nadmiar
 buty sportowe damskie rozm. 36-40 nowe,-55 szt.,4. Mamy nadmiar
@@ -161,4 +161,4 @@ karma dla piesełków - sucha,-39 kg,4. Mamy nadmiar
 żwirek dla kota,-48 kg,4. Mamy nadmiar
 karma dla piesełków - puszka,-20 szt,4. Mamy nadmiar
 zestaw do szycia podróżny,-1 szt.,4. Mamy nadmiar
-płyn do mycia naczyń,-2 szt,4. Mamy nadmiar
+pianka do golenia małe opak.,-5 szt,4. Mamy nadmiar
