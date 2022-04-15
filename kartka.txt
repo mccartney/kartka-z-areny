@@ -2,9 +2,11 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,14/04/2022 22:38
+,,15/04/2022 11:59
 PRZEDMIOT,Brakuje,Priorytet
 filtry  do kawy rozmiar 4,0 opak,1. Pilnie potrzebne
+szczotka do włosów/grzebień,17 szt.,1. Pilnie potrzebne
+gąbka do ciała ,20 szt,1. Pilnie potrzebne
 soczki małe z dziubkiem,7 szt,2. Potrzebne
 jogurt pitny różne rodzaje,-3 szt.,3. Mamy wystarczająco
 soczki małe z rurką,0 szt.,3. Mamy wystarczająco
@@ -136,12 +138,10 @@ płyn do czyszczenia toalety,-174 opak.,4. Mamy nadmiar
 papier toaletowy /rolki,-850 szt.,4. Mamy nadmiar
 szczoteczki do zębów + pasta 3 gr,-200 szt.,4. Mamy nadmiar
 żel antybakteryjny 400-500ml,-281 szt.,4. Mamy nadmiar
-szczotka do włosów/grzebień,-82 szt.,4. Mamy nadmiar
 klapki wielorazowe damskie - rozm. 36-40,-53 kg,4. Mamy nadmiar
 maseczki jednorazowe,-4900 szt,4. Mamy nadmiar
 żel do mycia twarzy  50-100ml,-4 szt,4. Mamy nadmiar
 maszynki jednorazowe do golenia damskie,-45 szt,4. Mamy nadmiar
-gąbka do ciała ,-6 szt,4. Mamy nadmiar
 odżywki do włosów travel size 30-50ml,-90 szt,4. Mamy nadmiar
 rajstopy damskie - różne rozmiary,-30 szt,4. Mamy nadmiar
 stopery do uszu/opaski na oczy,-4400 szt.,4. Mamy nadmiar
