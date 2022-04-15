@@ -2,11 +2,11 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,15/04/2022 11:59
+,,15/04/2022 15:38
 PRZEDMIOT,Brakuje,Priorytet
-filtry  do kawy rozmiar 4,0 opak,1. Pilnie potrzebne
-szczotka do włosów/grzebień,17 szt.,1. Pilnie potrzebne
-gąbka do ciała ,20 szt,1. Pilnie potrzebne
+filtry  do kawy rozmiar 4,-1 opak,1. Pilnie potrzebne
+szczotka do włosów,14 szt.,1. Pilnie potrzebne
+gąbka do ciała ,14 szt,1. Pilnie potrzebne
 soczki małe z dziubkiem,7 szt,2. Potrzebne
 jogurt pitny różne rodzaje,-3 szt.,3. Mamy wystarczająco
 soczki małe z rurką,0 szt.,3. Mamy wystarczająco
@@ -66,7 +66,7 @@ sałata lodowa/masłowa,-1 szt.,4. Mamy nadmiar
 ogórki kiszone w wiaderkach małych,-3 szt.,4. Mamy nadmiar
 słoiczki dla dzieci - obiadki różne,-478 szt.,4. Mamy nadmiar
 słoiczki dla dzieci - deserki różne,-60 szt.,4. Mamy nadmiar
-tubki owocowe różne (nielodówkowe),-570 szt.,4. Mamy nadmiar
+tubki owocowe różne (nielodówkowe),-590 szt.,4. Mamy nadmiar
 kaszki dla dzieci/kleiki do samodzielnego przygotowania,-113 szt.,4. Mamy nadmiar
 płatki śniadaniowe różne rodzaje,-12 szt.,4. Mamy nadmiar
 owsianka błyskawiczna kg (lub 20 porcjowanych),-4 szt.,4. Mamy nadmiar
@@ -138,7 +138,7 @@ płyn do czyszczenia toalety,-174 opak.,4. Mamy nadmiar
 papier toaletowy /rolki,-850 szt.,4. Mamy nadmiar
 szczoteczki do zębów + pasta 3 gr,-200 szt.,4. Mamy nadmiar
 żel antybakteryjny 400-500ml,-281 szt.,4. Mamy nadmiar
-klapki wielorazowe damskie - rozm. 36-40,-53 kg,4. Mamy nadmiar
+klapki wielorazowe damskie - rozm. 36-40,-53 szt,4. Mamy nadmiar
 maseczki jednorazowe,-4900 szt,4. Mamy nadmiar
 żel do mycia twarzy  50-100ml,-4 szt,4. Mamy nadmiar
 maszynki jednorazowe do golenia damskie,-45 szt,4. Mamy nadmiar
@@ -159,3 +159,4 @@ karma dla piesełków - puszka,-20 szt,4. Mamy nadmiar
 zestaw do szycia podróżny,-1 szt.,4. Mamy nadmiar
 pianka do golenia małe opak.,-5 szt,4. Mamy nadmiar
 płyn do mycia naczyń,-3 szt,4. Mamy nadmiar
+grzebienie,-45 szt,4. Mamy nadmiar
