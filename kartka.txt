@@ -2,15 +2,9 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,16/04/2022 09:52
+,,16/04/2022 11:44
 PRZEDMIOT,Brakuje,Priorytet
-proszek do prania,5 szt.,1. Pilnie potrzebne
-kremy nawilżające do twarzy 15-30ml,20 szt.,1. Pilnie potrzebne
-zmywacz do paznokci,2 opak.,1. Pilnie potrzebne
-płyn micelarny mały 50-100ml,7 szt.,1. Pilnie potrzebne
-antyperspirant męski,19 szt.,2. Potrzebne
-maszynki jednorazowe do golenia damskie,10 szt,2. Potrzebne
-gąbka do ciała ,5 szt,2. Potrzebne
+zmywacz do paznokci,1 opak.,1. Pilnie potrzebne
 jogurt pitny różne rodzaje,-3 szt.,3. Mamy wystarczająco
 soczki małe z rurką,-12 szt.,3. Mamy wystarczająco
 soczki małe z dziubkiem,-3 szt,3. Mamy wystarczająco
@@ -39,6 +33,7 @@ krem do twarzy dla dzieci,0 szt.,3. Mamy wystarczająco
 kurtki wiosenne,0 szt.,3. Mamy wystarczająco
 butelki dla dzieci,0 szt.,3. Mamy wystarczająco
 worki na śmieci >240L,-1 opak.,3. Mamy wystarczająco
+płyn micelarny mały 50-100ml,-1 szt.,3. Mamy wystarczająco
 chusteczki do hig int. małe opakowania,-2 szt.,3. Mamy wystarczająco
 buty sportowe męskie - rozm. 40-45 nowe,0 szt.,3. Mamy wystarczająco
 obcinacze do paznokci,0 szt.,3. Mamy wystarczająco
@@ -90,7 +85,7 @@ cukier 1 kg,-23 kg,4. Mamy nadmiar
 pieprz mała torebka,-3 szt.,4. Mamy nadmiar
 musztarda,-2 szt.,4. Mamy nadmiar
 żelki w małych opakowaniach/guma rozpuszczalna (mikroporcje pakowane oddzielnie),-40 szt.,4. Mamy nadmiar
-batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),-123 szt.,4. Mamy nadmiar
+batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),-180 szt.,4. Mamy nadmiar
 talerzyki jednorazowe małe,-14000 szt.,4. Mamy nadmiar
 talerzyki jednorazowe duże,-100 szt.,4. Mamy nadmiar
 widelce plastikowe,-2700 szt.,4. Mamy nadmiar
@@ -117,10 +112,12 @@ karma dla kotełków,-43 szt.,4. Mamy nadmiar
 szampon do włosów travel size 30-50ml,-632 szt.,4. Mamy nadmiar
 "pampersy dziecięce/pieluchomajtki, rozm. 0-6 ",-1982 szt.,4. Mamy nadmiar
 powerbank,-1 szt.,4. Mamy nadmiar
-maszynki jednorazowe do golenia męskie,-97 szt.,4. Mamy nadmiar
+maszynki jednorazowe do golenia męskie,-102 szt.,4. Mamy nadmiar
+proszek do prania,-2 szt.,4. Mamy nadmiar
 balsam do ciała mały 20-50ml,-910 szt.,4. Mamy nadmiar
 szczoteczki do zębów dla dzieci,-156 szt.,4. Mamy nadmiar
 podpaski/tampony,-645 szt.,4. Mamy nadmiar
+kremy nawilżające do twarzy 15-30ml,-6 szt.,4. Mamy nadmiar
 podkładki dla dzieci/ dorosłych Seni,-208 szt.,4. Mamy nadmiar
 klapki wielorazowe dziecięce - rozm. 23-35,-60 par.,4. Mamy nadmiar
 "bielizna damska, majtki- różne rozmiary- nowe",-191 szt.,4. Mamy nadmiar
@@ -129,6 +126,7 @@ klapki wielorazowe dziecięce - rozm. 23-35,-60 par.,4. Mamy nadmiar
 ręcznik papierowy - rolka,-468 szt.,4. Mamy nadmiar
 sznurowadła ,-6 szt.,4. Mamy nadmiar
 szampon do włosów 150-500ml,-20 szt.,4. Mamy nadmiar
+antyperspirant męski,-15 szt.,4. Mamy nadmiar
 papier toaletowy szary /rolki do dyspenserów łaz.,-724 szt.,4. Mamy nadmiar
 nosidełka dla dzieci,-4 szt,4. Mamy nadmiar
 biustonosz dziewczęcy sportowy nowy,-15 szt.,4. Mamy nadmiar
@@ -159,6 +157,8 @@ biustonosze nowe rozmiary 70B-90B,-85 szt,4. Mamy nadmiar
 klapki wielorazowe damskie - rozm. 36-40,-11 szt,4. Mamy nadmiar
 maseczki jednorazowe,-4900 szt,4. Mamy nadmiar
 żel do mycia twarzy  50-100ml,-4 szt,4. Mamy nadmiar
+maszynki jednorazowe do golenia damskie,-12 szt,4. Mamy nadmiar
+gąbka do ciała ,-5 szt,4. Mamy nadmiar
 odżywki do włosów travel size 30-50ml,-90 szt,4. Mamy nadmiar
 rajstopy damskie - różne rozmiary,-30 szt,4. Mamy nadmiar
 stopery do uszu/opaski na oczy,-4400 szt.,4. Mamy nadmiar
@@ -176,6 +176,6 @@ karma dla piesełków - sucha,-39 kg,4. Mamy nadmiar
 karma dla piesełków - puszka,-20 szt,4. Mamy nadmiar
 antyperspirant damski,-10 szt,4. Mamy nadmiar
 zestaw do szycia podróżny,-1 szt.,4. Mamy nadmiar
-pianka do golenia małe opak.,-5 szt,4. Mamy nadmiar
+pianka do golenia małe opak.,-9 szt,4. Mamy nadmiar
 płyn do mycia naczyń,-3 szt,4. Mamy nadmiar
 grzebienie,-45 szt,4. Mamy nadmiar
