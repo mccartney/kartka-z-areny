@@ -2,21 +2,21 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,16/04/2022 08:05
+,,16/04/2022 09:07
 PRZEDMIOT,Brakuje,Priorytet
 filtry  do kawy rozmiar 4,-1 opak,1. Pilnie potrzebne
 proszek do prania,5 szt.,1. Pilnie potrzebne
 kremy nawilżające do twarzy 15-30ml,20 szt.,1. Pilnie potrzebne
-mydło w kostce,50 szt.,1. Pilnie potrzebne
 ładowarki USB-C,15 szt.,1. Pilnie potrzebne
 zmywacz do paznokci,10 opak.,1. Pilnie potrzebne
 płyn micelarny mały 50-100ml,7 szt.,1. Pilnie potrzebne
 maszynki jednorazowe do golenia damskie,20 szt,1. Pilnie potrzebne
-soczki małe z dziubkiem,7 szt,2. Potrzebne
+mydło w kostce,25 szt.,2. Potrzebne
 antyperspirant męski,19 szt.,2. Potrzebne
 gąbka do ciała ,10 szt,2. Potrzebne
 jogurt pitny różne rodzaje,-3 szt.,3. Mamy wystarczająco
-soczki małe z rurką,0 szt.,3. Mamy wystarczająco
+soczki małe z rurką,-12 szt.,3. Mamy wystarczająco
+soczki małe z dziubkiem,-3 szt,3. Mamy wystarczająco
 jabłka,0 kg,3. Mamy wystarczająco
 banany,-1 kg,3. Mamy wystarczająco
 papryka czerwona,0 kg,3. Mamy wystarczająco
@@ -41,7 +41,7 @@ wielorazowe torby na zakupy,0 szt,3. Mamy wystarczająco
 ładowarki USB-C,0 szt,3. Mamy wystarczająco
 plastry na halluksy ,0 szt.,3. Mamy wystarczająco
 plastry uniwersalne zestaw,0 szt.,3. Mamy wystarczająco
-mleko 1L,-93 szt.,4. Mamy nadmiar
+mleko 1L,-105 szt.,4. Mamy nadmiar
 mleko roślinne różne rodzaje,-14 szt.,4. Mamy nadmiar
 kefir/jogurt naturalny pitny,-28 szt.,4. Mamy nadmiar
 jogurty wegańskie różne rodzaje,-6 szt.,4. Mamy nadmiar
