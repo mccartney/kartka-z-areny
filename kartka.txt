@@ -2,15 +2,17 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,18/04/2022 21:03
+,,20/04/2022 17:04
 PRZEDMIOT,Brakuje,Priorytet
-zmywacz do paznokci,1 opak.,1. Pilnie potrzebne
+soczki małe z rurką,120 szt.,1. Pilnie potrzebne
+soczki małe z dziubkiem,60 szt,1. Pilnie potrzebne
+banany,10 kg,1. Pilnie potrzebne
+winogrona,10 kg,1. Pilnie potrzebne
+papryka czerwona,4 kg,1. Pilnie potrzebne
+"woda w małych butelkach, w tym z dziubkiem",40 szt.,2. Potrzebne
+mleko 1L,0 szt.,3. Mamy wystarczająco
 jogurt pitny różne rodzaje,-3 szt.,3. Mamy wystarczająco
-soczki małe z rurką,-12 szt.,3. Mamy wystarczająco
-soczki małe z dziubkiem,-3 szt,3. Mamy wystarczająco
 jabłka,0 kg,3. Mamy wystarczająco
-banany,-1 kg,3. Mamy wystarczająco
-papryka czerwona,0 kg,3. Mamy wystarczająco
 ketchup łagodny,0 szt.,3. Mamy wystarczająco
 majonez,0 szt.,3. Mamy wystarczająco
 pojemniki dwu i trójdzielne do ciepłych posiłków,0 szt.,3. Mamy wystarczająco
@@ -45,11 +47,9 @@ t-shirt męski XL,0 szt,3. Mamy wystarczająco
 dresy damskie spodnie S,0 szt,3. Mamy wystarczająco
 plastry na halluksy ,0 szt.,3. Mamy wystarczająco
 plastry uniwersalne zestaw,0 szt.,3. Mamy wystarczająco
-mleko 1L,-105 szt.,4. Mamy nadmiar
-mleko roślinne różne rodzaje,-14 szt.,4. Mamy nadmiar
+mleko roślinne różne rodzaje,-5 szt.,4. Mamy nadmiar
 kefir/jogurt naturalny pitny,-28 szt.,4. Mamy nadmiar
 jogurty wegańskie różne rodzaje,-6 szt.,4. Mamy nadmiar
-"woda w małych butelkach, w tym z dziubkiem",-303 szt.,4. Mamy nadmiar
 duże baniaki z wodą (eden),-3 szt.,4. Mamy nadmiar
 soki owocowe litrowe,-120 szt.,4. Mamy nadmiar
 herbata czarna,-46 szt.,4. Mamy nadmiar
@@ -68,7 +68,6 @@ hummus,-2 szt.,4. Mamy nadmiar
 parówki/kabanosy wegańskie,-2 szt.,4. Mamy nadmiar
 pasty kanapkowe wegańskie- różne rodzaje,-25 szt.,4. Mamy nadmiar
 filtry  do kawy rozmiar 4,-3 opak,4. Mamy nadmiar
-winogrona,-3 kg,4. Mamy nadmiar
 ogórki świeże,-2 Kg,4. Mamy nadmiar
 pomidory,-5 kg,4. Mamy nadmiar
 sałata lodowa/masłowa,-1 szt.,4. Mamy nadmiar
@@ -130,6 +129,7 @@ antyperspirant męski,-15 szt.,4. Mamy nadmiar
 papier toaletowy szary /rolki do dyspenserów łaz.,-724 szt.,4. Mamy nadmiar
 nosidełka dla dzieci,-4 szt,4. Mamy nadmiar
 biustonosz dziewczęcy sportowy nowy,-15 szt.,4. Mamy nadmiar
+zmywacz do paznokci,-4 opak.,4. Mamy nadmiar
 worki na śmieci 160L,-20 opak.,4. Mamy nadmiar
 worki na śmieci 120L,-20 opak.,4. Mamy nadmiar
 chusteczki higieniczne małe opak.,-70 szt.,4. Mamy nadmiar
