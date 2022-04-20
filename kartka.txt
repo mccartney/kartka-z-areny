@@ -2,12 +2,13 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,20/04/2022 19:00
+,,20/04/2022 19:51
 PRZEDMIOT,Brakuje,Priorytet
 soczki małe z rurką,101 szt.,1. Pilnie potrzebne
 soczki małe z dziubkiem,60 szt,1. Pilnie potrzebne
 banany,9 kg,1. Pilnie potrzebne
 "woda w małych butelkach, w tym z dziubkiem",34 szt.,2. Potrzebne
+buty sportowe męskie - rozm. 40-45 nowe,1 szt.,2. Potrzebne
 mleko 1L,0 szt.,3. Mamy wystarczająco
 jogurt pitny różne rodzaje,-3 szt.,3. Mamy wystarczająco
 jabłka,0 kg,3. Mamy wystarczająco
@@ -35,7 +36,6 @@ butelki dla dzieci,0 szt.,3. Mamy wystarczająco
 worki na śmieci >240L,-1 opak.,3. Mamy wystarczająco
 płyn micelarny mały 50-100ml,-1 szt.,3. Mamy wystarczająco
 chusteczki do hig int. małe opakowania,-2 szt.,3. Mamy wystarczająco
-buty sportowe męskie - rozm. 40-45 nowe,0 szt.,3. Mamy wystarczająco
 obcinacze do paznokci,0 szt.,3. Mamy wystarczająco
 walizki na kółkach nowe/ stan bdb. / małe,0 szt.,3. Mamy wystarczająco
 płyn antybakteryjny 5L,0 opak.,3. Mamy wystarczająco
