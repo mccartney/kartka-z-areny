@@ -2,26 +2,24 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,22/04/2022 17:08
+,,22/04/2022 18:11
 PRZEDMIOT,Brakuje,Priorytet
-"leginsy damskie M, L, XL",9 szt.,1. Pilnie potrzebne
 dresy damskie spodnie L,3 szt.,1. Pilnie potrzebne
-t-shirt męski M,3 szt,1. Pilnie potrzebne
-t-shirt męski L,3 szt,1. Pilnie potrzebne
-t-shirt męski XL,3 szt,1. Pilnie potrzebne
 dresy damskie spodnie S,3 szt,1. Pilnie potrzebne
-dresy damskie bluza S,4 szt.,1. Pilnie potrzebne
 dresy damskie bluza XL-3XL,3 szt.,1. Pilnie potrzebne
 "woda w małych butelkach, w tym z dziubkiem",34 szt.,2. Potrzebne
 soczki małe z dziubkiem,24 szt,2. Potrzebne
 klapki wielorazowe męskie - rozm. 41-46,1 par.,2. Potrzebne
-buty sportowe męskie - rozm. 40-45 nowe,2 szt.,2. Potrzebne
+buty sportowe męskie - rozm. 40-45 nowe,12 szt.,2. Potrzebne
 walizki na kółkach nowe/ stan bdb. / małe,5 szt.,2. Potrzebne
-t-shirt damski XL,1 szt,2. Potrzebne
+szczotka do włosów,1 szt.,2. Potrzebne
+t-shirt męski M,2 szt,2. Potrzebne
+t-shirt męski L,2 szt,2. Potrzebne
+t-shirt męski XL,2 szt,2. Potrzebne
 dresy damskie bluza M,2 szt.,2. Potrzebne
 mleko 1L,0 szt.,3. Mamy wystarczająco
 jogurt pitny różne rodzaje,-3 szt.,3. Mamy wystarczająco
-soczki małe z rurką,-16 szt.,3. Mamy wystarczająco
+soczki małe z rurką,-28 szt.,3. Mamy wystarczająco
 jabłka,0 kg,3. Mamy wystarczająco
 banany,0 kg,3. Mamy wystarczająco
 ketchup łagodny,0 szt.,3. Mamy wystarczająco
@@ -46,14 +44,16 @@ krem do twarzy dla dzieci,0 szt.,3. Mamy wystarczająco
 kurtki wiosenne,0 szt.,3. Mamy wystarczająco
 butelki dla dzieci,0 szt.,3. Mamy wystarczająco
 worki na śmieci >240L,-1 opak.,3. Mamy wystarczająco
+pilnik do paznokci,-4 szt.,3. Mamy wystarczająco
 płyn micelarny mały 50-100ml,-1 szt.,3. Mamy wystarczająco
 chusteczki do hig int. małe opakowania,-2 szt.,3. Mamy wystarczająco
 obcinacze do paznokci,0 szt.,3. Mamy wystarczająco
 płyn antybakteryjny 5L,0 opak.,3. Mamy wystarczająco
 wielorazowe torby na zakupy,0 szt,3. Mamy wystarczająco
-szczotka do włosów,0 szt.,3. Mamy wystarczająco
+t-shirt damski XL,0 szt,3. Mamy wystarczająco
 plastry na halluksy ,0 szt.,3. Mamy wystarczająco
 plastry uniwersalne zestaw,0 szt.,3. Mamy wystarczająco
+dresy damskie bluza S,0 szt.,3. Mamy wystarczająco
 mleko roślinne różne rodzaje,-5 szt.,4. Mamy nadmiar
 kefir/jogurt naturalny pitny,-28 szt.,4. Mamy nadmiar
 jogurty wegańskie różne rodzaje,-6 szt.,4. Mamy nadmiar
@@ -121,9 +121,10 @@ szampon do włosów travel size 30-50ml,-632 szt.,4. Mamy nadmiar
 powerbank,-1 szt.,4. Mamy nadmiar
 maszynki jednorazowe do golenia męskie,-102 szt.,4. Mamy nadmiar
 proszek do prania,-2 szt.,4. Mamy nadmiar
+"leginsy damskie M, L, XL",-2 szt.,4. Mamy nadmiar
 balsam do ciała mały 20-50ml,-910 szt.,4. Mamy nadmiar
-szczoteczki do zębów dla dzieci,-156 szt.,4. Mamy nadmiar
-podpaski/tampony,-645 szt.,4. Mamy nadmiar
+szczoteczki do zębów dla dzieci,-160 szt.,4. Mamy nadmiar
+podpaski/tampony,-649 szt.,4. Mamy nadmiar
 kremy nawilżające do twarzy 15-30ml,-6 szt.,4. Mamy nadmiar
 podkładki dla dzieci/ dorosłych Seni,-208 szt.,4. Mamy nadmiar
 klapki wielorazowe dziecięce - rozm. 23-35,-60 par.,4. Mamy nadmiar
@@ -137,13 +138,12 @@ antyperspirant męski,-15 szt.,4. Mamy nadmiar
 papier toaletowy szary /rolki do dyspenserów łaz.,-724 szt.,4. Mamy nadmiar
 nosidełka dla dzieci,-4 szt,4. Mamy nadmiar
 biustonosz dziewczęcy sportowy nowy,-15 szt.,4. Mamy nadmiar
-zmywacz do paznokci,-4 opak.,4. Mamy nadmiar
+zmywacz do paznokci,-8 opak.,4. Mamy nadmiar
 worki na śmieci 160L,-20 opak.,4. Mamy nadmiar
 worki na śmieci 120L,-20 opak.,4. Mamy nadmiar
 chusteczki higieniczne małe opak.,-70 szt.,4. Mamy nadmiar
 pomadki do ust/wazelina,-42 szt.,4. Mamy nadmiar
 pasta do zębów dla dzieci,-33 szt.,4. Mamy nadmiar
-pilnik do paznokci,-10 szt.,4. Mamy nadmiar
 chusteczki nawilżane pakowane,-1001 szt.,4. Mamy nadmiar
 patyczki do uszu ,-27 szt.,4. Mamy nadmiar
 pasta do zębów dla dorosłych - duże opakowania,-306 szt.,4. Mamy nadmiar
@@ -172,12 +172,12 @@ rajstopy damskie - różne rozmiary,-30 szt,4. Mamy nadmiar
 stopery do uszu/opaski na oczy,-4400 szt.,4. Mamy nadmiar
 worki na śmieci 60L,-20 szt,4. Mamy nadmiar
 torby miękkie podróżne nowe/ stan bdb.,-4 szt,4. Mamy nadmiar
-waciki do demakijażu,-50 szt,4. Mamy nadmiar
+waciki do demakijażu,-54 szt,4. Mamy nadmiar
 "krem do twarzy z filtrem UV 30, UV50",-1 szt,4. Mamy nadmiar
 pasta do zębów dla dorosłych - małe opakowania,-124 szt,4. Mamy nadmiar
 gumki do włosów / spinki typu wsuwki,-201 szt,4. Mamy nadmiar
 buty sportowe dziecięce - rozm. 23-35 nowe,-6 szt.,4. Mamy nadmiar
-buty sportowe damskie rozm. 36-40 nowe,-54 szt.,4. Mamy nadmiar
+buty sportowe damskie rozm. 36-40 nowe,-26 szt.,4. Mamy nadmiar
 karma dla piesełków - sucha,-39 kg,4. Mamy nadmiar
 żwirek dla kota,-48 kg,4. Mamy nadmiar
 karma dla piesełków - puszka,-20 szt,4. Mamy nadmiar
