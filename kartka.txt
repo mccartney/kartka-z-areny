@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,22/04/2022 09:45
+,,22/04/2022 17:08
 PRZEDMIOT,Brakuje,Priorytet
 "leginsy damskie M, L, XL",9 szt.,1. Pilnie potrzebne
 dresy damskie spodnie L,3 szt.,1. Pilnie potrzebne
@@ -13,7 +13,6 @@ dresy damskie spodnie S,3 szt,1. Pilnie potrzebne
 dresy damskie bluza S,4 szt.,1. Pilnie potrzebne
 dresy damskie bluza XL-3XL,3 szt.,1. Pilnie potrzebne
 "woda w małych butelkach, w tym z dziubkiem",34 szt.,2. Potrzebne
-soczki małe z rurką,14 szt.,2. Potrzebne
 soczki małe z dziubkiem,24 szt,2. Potrzebne
 klapki wielorazowe męskie - rozm. 41-46,1 par.,2. Potrzebne
 buty sportowe męskie - rozm. 40-45 nowe,2 szt.,2. Potrzebne
@@ -22,6 +21,7 @@ t-shirt damski XL,1 szt,2. Potrzebne
 dresy damskie bluza M,2 szt.,2. Potrzebne
 mleko 1L,0 szt.,3. Mamy wystarczająco
 jogurt pitny różne rodzaje,-3 szt.,3. Mamy wystarczająco
+soczki małe z rurką,-16 szt.,3. Mamy wystarczająco
 jabłka,0 kg,3. Mamy wystarczająco
 banany,0 kg,3. Mamy wystarczająco
 ketchup łagodny,0 szt.,3. Mamy wystarczająco
@@ -127,7 +127,7 @@ podpaski/tampony,-645 szt.,4. Mamy nadmiar
 kremy nawilżające do twarzy 15-30ml,-6 szt.,4. Mamy nadmiar
 podkładki dla dzieci/ dorosłych Seni,-208 szt.,4. Mamy nadmiar
 klapki wielorazowe dziecięce - rozm. 23-35,-60 par.,4. Mamy nadmiar
-"bielizna damska, majtki- różne rozmiary- nowe",-191 szt.,4. Mamy nadmiar
+"bielizna damska, majtki- różne rozmiary- nowe",-182 szt.,4. Mamy nadmiar
 "bielizna męska, majtki-nowe",-13 szt.,4. Mamy nadmiar
 "bielizna dziecięca, majtki- nowe",-24 szt.,4. Mamy nadmiar
 ręcznik papierowy - rolka,-468 szt.,4. Mamy nadmiar
