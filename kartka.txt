@@ -2,13 +2,16 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,22/04/2022 19:54
+,,22/04/2022 20:25
 PRZEDMIOT,Brakuje,Priorytet
 dresy damskie spodnie L,3 szt.,1. Pilnie potrzebne
 dresy damskie spodnie S,3 szt,1. Pilnie potrzebne
 dresy damskie bluza XL-3XL,3 szt.,1. Pilnie potrzebne
+jogurt pitny różne rodzaje,1 szt.,2. Potrzebne
 "woda w małych butelkach, w tym z dziubkiem",10 szt.,2. Potrzebne
 soczki małe z dziubkiem,24 szt,2. Potrzebne
+jabłka,1 kg,2. Potrzebne
+ketchup łagodny,1 szt.,2. Potrzebne
 klapki wielorazowe męskie - rozm. 41-46,1 par.,2. Potrzebne
 antyperspirant męski,2 szt.,2. Potrzebne
 buty sportowe męskie - rozm. 40-45 nowe,12 szt.,2. Potrzebne
@@ -20,10 +23,7 @@ t-shirt męski L,2 szt,2. Potrzebne
 t-shirt męski XL,2 szt,2. Potrzebne
 dresy damskie bluza M,2 szt.,2. Potrzebne
 mleko 1L,0 szt.,3. Mamy wystarczająco
-jogurt pitny różne rodzaje,-3 szt.,3. Mamy wystarczająco
-jabłka,0 kg,3. Mamy wystarczająco
 banany,0 kg,3. Mamy wystarczająco
-ketchup łagodny,0 szt.,3. Mamy wystarczająco
 majonez,0 szt.,3. Mamy wystarczająco
 pojemniki dwu i trójdzielne do ciepłych posiłków,0 szt.,3. Mamy wystarczająco
 miseczki plastikowe (nie do ciepłych posiłków),0 szt.,3. Mamy wystarczająco
