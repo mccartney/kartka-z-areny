@@ -2,9 +2,8 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,22/04/2022 03:09
+,,22/04/2022 08:32
 PRZEDMIOT,Brakuje,Priorytet
-walizki na kółkach nowe/ stan bdb. / duze,4 szt.,1. Pilnie potrzebne
 "woda w małych butelkach, w tym z dziubkiem",34 szt.,2. Potrzebne
 soczki małe z rurką,14 szt.,2. Potrzebne
 soczki małe z dziubkiem,24 szt,2. Potrzebne
@@ -22,6 +21,7 @@ tacki papierowe jednorazowe małe prostokątne,0 szt.,3. Mamy wystarczająco
 opakowania rękawiczek lateksowych S,0 szt.,3. Mamy wystarczająco
 opakowania rękawiczek lateksowych M,0 szt.,3. Mamy wystarczająco
 opakowania rękawiczek lateksowych L,0 szt.,3. Mamy wystarczająco
+walizki na kółkach nowe/ stan bdb. / duze,0 szt.,3. Mamy wystarczająco
 mydelniczki/opakowania na szczoteczki ,0 szt.,3. Mamy wystarczająco
 worki na smieci 35L,0 szt.,3. Mamy wystarczająco
 przewijak,0 szt.,3. Mamy wystarczająco
