@@ -2,13 +2,14 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,21/04/2022 18:59
+,,22/04/2022 03:09
 PRZEDMIOT,Brakuje,Priorytet
 walizki na kółkach nowe/ stan bdb. / duze,4 szt.,1. Pilnie potrzebne
 "woda w małych butelkach, w tym z dziubkiem",34 szt.,2. Potrzebne
 soczki małe z rurką,14 szt.,2. Potrzebne
 soczki małe z dziubkiem,24 szt,2. Potrzebne
-buty sportowe męskie - rozm. 40-45 nowe,1 szt.,2. Potrzebne
+klapki wielorazowe męskie - rozm. 41-46,1 par.,2. Potrzebne
+buty sportowe męskie - rozm. 40-45 nowe,2 szt.,2. Potrzebne
 mleko 1L,0 szt.,3. Mamy wystarczająco
 jogurt pitny różne rodzaje,-3 szt.,3. Mamy wystarczająco
 jabłka,0 kg,3. Mamy wystarczająco
@@ -24,7 +25,6 @@ opakowania rękawiczek lateksowych L,0 szt.,3. Mamy wystarczająco
 mydelniczki/opakowania na szczoteczki ,0 szt.,3. Mamy wystarczająco
 worki na smieci 35L,0 szt.,3. Mamy wystarczająco
 przewijak,0 szt.,3. Mamy wystarczająco
-klapki wielorazowe męskie - rozm. 41-46,0 par.,3. Mamy wystarczająco
 plecaki duże,0 szt.,3. Mamy wystarczająco
 szelki dla kota,0 szt,3. Mamy wystarczająco
 t-shirt damski L,0 szt.,3. Mamy wystarczająco
