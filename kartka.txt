@@ -2,8 +2,9 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,23/04/2022 14:00
+,,23/04/2022 14:47
 PRZEDMIOT,Brakuje,Priorytet
+walizki na kółkach nowe/ stan bdb. / duze,1 szt.,1. Pilnie potrzebne
 dresy damskie spodnie L,3 szt.,1. Pilnie potrzebne
 walizki na kółkach nowe/ stan bdb. / małe,10 szt.,1. Pilnie potrzebne
 baterie paluszki AA,11 szt.,1. Pilnie potrzebne
@@ -30,13 +31,13 @@ tacki papierowe jednorazowe małe prostokątne,0 szt.,3. Mamy wystarczająco
 opakowania rękawiczek lateksowych S,0 szt.,3. Mamy wystarczająco
 opakowania rękawiczek lateksowych M,0 szt.,3. Mamy wystarczająco
 opakowania rękawiczek lateksowych L,0 szt.,3. Mamy wystarczająco
-walizki na kółkach nowe/ stan bdb. / duze,0 szt.,3. Mamy wystarczająco
 mydelniczki/opakowania na szczoteczki ,0 szt.,3. Mamy wystarczająco
 worki na smieci 35L,0 szt.,3. Mamy wystarczająco
 przewijak,0 szt.,3. Mamy wystarczająco
 plecaki duże,0 szt.,3. Mamy wystarczająco
 szelki dla kota,0 szt,3. Mamy wystarczająco
 t-shirt damski L,-1 szt.,3. Mamy wystarczająco
+powerbank,0 szt.,3. Mamy wystarczająco
 dresy damskie spodnie M,0 szt.,3. Mamy wystarczająco
 kremy nawilżające do twarzy 15-30ml,-2 szt.,3. Mamy wystarczająco
 nocnik dla dzieci,0 szt.,3. Mamy wystarczająco
@@ -87,7 +88,7 @@ sałata lodowa/masłowa,-1 szt.,4. Mamy nadmiar
 ogórki kiszone w wiaderkach małych,-3 szt.,4. Mamy nadmiar
 słoiczki dla dzieci - obiadki różne,-478 szt.,4. Mamy nadmiar
 słoiczki dla dzieci - deserki różne,-60 szt.,4. Mamy nadmiar
-tubki owocowe różne (nielodówkowe),-632 szt.,4. Mamy nadmiar
+tubki owocowe różne (nielodówkowe),-650 szt.,4. Mamy nadmiar
 kaszki dla dzieci/kleiki do samodzielnego przygotowania,-116 szt.,4. Mamy nadmiar
 płatki śniadaniowe różne rodzaje,-12 szt.,4. Mamy nadmiar
 owsianka błyskawiczna kg (lub 20 porcjowanych),-4 szt.,4. Mamy nadmiar
@@ -123,7 +124,6 @@ klapki jednorazowe pod prysznic 38-46,-1706 szt.,4. Mamy nadmiar
 karma dla kotełków,-43 szt.,4. Mamy nadmiar
 szampon do włosów travel size 30-50ml,-632 szt.,4. Mamy nadmiar
 "pampersy dziecięce/pieluchomajtki, rozm. 0-6 ",-1982 szt.,4. Mamy nadmiar
-powerbank,-1 szt.,4. Mamy nadmiar
 maszynki jednorazowe do golenia męskie,-102 szt.,4. Mamy nadmiar
 proszek do prania,-2 szt.,4. Mamy nadmiar
 "leginsy damskie M, L, XL",-2 szt.,4. Mamy nadmiar
