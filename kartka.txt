@@ -2,9 +2,12 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,23/04/2022 00:40
+,,23/04/2022 08:03
 PRZEDMIOT,Brakuje,Priorytet
+kremy nawilżające do twarzy 15-30ml,18 szt.,1. Pilnie potrzebne
 dresy damskie spodnie L,3 szt.,1. Pilnie potrzebne
+szczotka do włosów,3 szt.,1. Pilnie potrzebne
+gąbka do ciała ,10 szt,1. Pilnie potrzebne
 dresy damskie spodnie S,3 szt,1. Pilnie potrzebne
 dresy damskie bluza XL-3XL,3 szt.,1. Pilnie potrzebne
 jogurt pitny różne rodzaje,1 szt.,2. Potrzebne
@@ -16,7 +19,6 @@ klapki wielorazowe męskie - rozm. 41-46,1 par.,2. Potrzebne
 antyperspirant męski,2 szt.,2. Potrzebne
 buty sportowe męskie - rozm. 40-45 nowe,12 szt.,2. Potrzebne
 walizki na kółkach nowe/ stan bdb. / małe,5 szt.,2. Potrzebne
-szczotka do włosów,1 szt.,2. Potrzebne
 rajstopy damskie - różne rozmiary,15 szt,2. Potrzebne
 t-shirt męski M,2 szt,2. Potrzebne
 t-shirt męski L,2 szt,2. Potrzebne
@@ -129,7 +131,6 @@ proszek do prania,-2 szt.,4. Mamy nadmiar
 balsam do ciała mały 20-50ml,-910 szt.,4. Mamy nadmiar
 szczoteczki do zębów dla dzieci,-160 szt.,4. Mamy nadmiar
 podpaski/tampony,-649 szt.,4. Mamy nadmiar
-kremy nawilżające do twarzy 15-30ml,-6 szt.,4. Mamy nadmiar
 podkładki dla dzieci/ dorosłych Seni,-208 szt.,4. Mamy nadmiar
 klapki wielorazowe dziecięce - rozm. 23-35,-60 par.,4. Mamy nadmiar
 "bielizna damska, majtki- różne rozmiary- nowe",-182 szt.,4. Mamy nadmiar
@@ -169,7 +170,6 @@ klapki wielorazowe damskie - rozm. 36-40,-5 szt,4. Mamy nadmiar
 maseczki jednorazowe,-4900 szt,4. Mamy nadmiar
 żel do mycia twarzy  50-100ml,-4 szt,4. Mamy nadmiar
 maszynki jednorazowe do golenia damskie,-12 szt,4. Mamy nadmiar
-gąbka do ciała ,-5 szt,4. Mamy nadmiar
 odżywki do włosów travel size 30-50ml,-90 szt,4. Mamy nadmiar
 stopery do uszu/opaski na oczy,-4400 szt.,4. Mamy nadmiar
 worki na śmieci 60L,-20 szt,4. Mamy nadmiar
