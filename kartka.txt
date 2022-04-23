@@ -2,13 +2,12 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,23/04/2022 09:08
+,,23/04/2022 11:06
 PRZEDMIOT,Brakuje,Priorytet
 kremy nawilżające do twarzy 15-30ml,18 szt.,1. Pilnie potrzebne
 dresy damskie spodnie L,3 szt.,1. Pilnie potrzebne
-baterie paluszki AA,19 szt.,1. Pilnie potrzebne
+baterie paluszki AA,11 szt.,1. Pilnie potrzebne
 szczotka do włosów,2 szt.,1. Pilnie potrzebne
-gąbka do ciała ,10 szt,1. Pilnie potrzebne
 dresy damskie spodnie S,3 szt,1. Pilnie potrzebne
 dresy damskie bluza XL-3XL,3 szt.,1. Pilnie potrzebne
 jogurt pitny różne rodzaje,1 szt.,2. Potrzebne
@@ -18,6 +17,7 @@ klapki wielorazowe męskie - rozm. 41-46,1 par.,2. Potrzebne
 antyperspirant męski,2 szt.,2. Potrzebne
 buty sportowe męskie - rozm. 40-45 nowe,12 szt.,2. Potrzebne
 walizki na kółkach nowe/ stan bdb. / małe,5 szt.,2. Potrzebne
+gąbka do ciała ,4 szt,2. Potrzebne
 rajstopy damskie - różne rozmiary,1 szt,2. Potrzebne
 t-shirt męski M,2 szt,2. Potrzebne
 t-shirt męski L,2 szt,2. Potrzebne
