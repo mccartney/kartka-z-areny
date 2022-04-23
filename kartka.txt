@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,22/04/2022 20:25
+,,23/04/2022 00:40
 PRZEDMIOT,Brakuje,Priorytet
 dresy damskie spodnie L,3 szt.,1. Pilnie potrzebne
 dresy damskie spodnie S,3 szt,1. Pilnie potrzebne
@@ -47,6 +47,7 @@ butelki dla dzieci,0 szt.,3. Mamy wystarczająco
 worki na śmieci >240L,-1 opak.,3. Mamy wystarczająco
 pilnik do paznokci,-4 szt.,3. Mamy wystarczająco
 płyn micelarny mały 50-100ml,-1 szt.,3. Mamy wystarczająco
+dresy damskie spodnie XL-3XL,0 szt.,3. Mamy wystarczająco
 chusteczki do hig int. małe opakowania,-2 szt.,3. Mamy wystarczająco
 obcinacze do paznokci,0 szt.,3. Mamy wystarczająco
 płyn antybakteryjny 5L,0 opak.,3. Mamy wystarczająco
