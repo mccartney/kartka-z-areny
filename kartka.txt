@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,23/04/2022 13:08
+,,23/04/2022 14:00
 PRZEDMIOT,Brakuje,Priorytet
 dresy damskie spodnie L,3 szt.,1. Pilnie potrzebne
 walizki na kółkach nowe/ stan bdb. / małe,10 szt.,1. Pilnie potrzebne
@@ -10,7 +10,6 @@ baterie paluszki AA,11 szt.,1. Pilnie potrzebne
 krem po goleniu,5 szt,1. Pilnie potrzebne
 dresy damskie bluza XL-3XL,3 szt.,1. Pilnie potrzebne
 jogurt pitny różne rodzaje,1 szt.,2. Potrzebne
-"woda w małych butelkach, w tym z dziubkiem",4 szt.,2. Potrzebne
 soczki małe z dziubkiem,18 szt,2. Potrzebne
 klapki wielorazowe męskie - rozm. 41-46,1 par.,2. Potrzebne
 buty sportowe męskie - rozm. 40-45 nowe,12 szt.,2. Potrzebne
@@ -20,6 +19,7 @@ t-shirt męski L,2 szt,2. Potrzebne
 t-shirt męski XL,1 szt,2. Potrzebne
 dresy damskie bluza M,2 szt.,2. Potrzebne
 mleko 1L,0 szt.,3. Mamy wystarczająco
+"woda w małych butelkach, w tym z dziubkiem",-2 szt.,3. Mamy wystarczająco
 jabłka,-1 kg,3. Mamy wystarczająco
 banany,0 kg,3. Mamy wystarczająco
 ketchup łagodny,0 szt.,3. Mamy wystarczająco
@@ -64,7 +64,6 @@ kefir/jogurt naturalny pitny,-28 szt.,4. Mamy nadmiar
 jogurty wegańskie różne rodzaje,-6 szt.,4. Mamy nadmiar
 duże baniaki z wodą (eden),-3 szt.,4. Mamy nadmiar
 soczki małe z rurką,-40 szt.,4. Mamy nadmiar
-soki owocowe litrowe,-120 szt.,4. Mamy nadmiar
 herbata czarna,-46 szt.,4. Mamy nadmiar
 "herbata melisa i inne zioła (np. mięta, rumianek), herbata zielon",-26 szt.,4. Mamy nadmiar
 herbata owocowa różne rodzaje,-31 szt,4. Mamy nadmiar
@@ -88,7 +87,7 @@ sałata lodowa/masłowa,-1 szt.,4. Mamy nadmiar
 ogórki kiszone w wiaderkach małych,-3 szt.,4. Mamy nadmiar
 słoiczki dla dzieci - obiadki różne,-478 szt.,4. Mamy nadmiar
 słoiczki dla dzieci - deserki różne,-60 szt.,4. Mamy nadmiar
-tubki owocowe różne (nielodówkowe),-630 szt.,4. Mamy nadmiar
+tubki owocowe różne (nielodówkowe),-632 szt.,4. Mamy nadmiar
 kaszki dla dzieci/kleiki do samodzielnego przygotowania,-116 szt.,4. Mamy nadmiar
 płatki śniadaniowe różne rodzaje,-12 szt.,4. Mamy nadmiar
 owsianka błyskawiczna kg (lub 20 porcjowanych),-4 szt.,4. Mamy nadmiar
