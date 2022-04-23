@@ -2,17 +2,16 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,23/04/2022 11:06
+,,23/04/2022 12:05
 PRZEDMIOT,Brakuje,Priorytet
 kremy nawilżające do twarzy 15-30ml,18 szt.,1. Pilnie potrzebne
 dresy damskie spodnie L,3 szt.,1. Pilnie potrzebne
 baterie paluszki AA,11 szt.,1. Pilnie potrzebne
 szczotka do włosów,2 szt.,1. Pilnie potrzebne
-dresy damskie spodnie S,3 szt,1. Pilnie potrzebne
 dresy damskie bluza XL-3XL,3 szt.,1. Pilnie potrzebne
 jogurt pitny różne rodzaje,1 szt.,2. Potrzebne
-"woda w małych butelkach, w tym z dziubkiem",10 szt.,2. Potrzebne
-soczki małe z dziubkiem,24 szt,2. Potrzebne
+"woda w małych butelkach, w tym z dziubkiem",4 szt.,2. Potrzebne
+soczki małe z dziubkiem,18 szt,2. Potrzebne
 klapki wielorazowe męskie - rozm. 41-46,1 par.,2. Potrzebne
 antyperspirant męski,2 szt.,2. Potrzebne
 buty sportowe męskie - rozm. 40-45 nowe,12 szt.,2. Potrzebne
@@ -21,7 +20,7 @@ gąbka do ciała ,4 szt,2. Potrzebne
 rajstopy damskie - różne rozmiary,1 szt,2. Potrzebne
 t-shirt męski M,2 szt,2. Potrzebne
 t-shirt męski L,2 szt,2. Potrzebne
-t-shirt męski XL,2 szt,2. Potrzebne
+t-shirt męski XL,1 szt,2. Potrzebne
 dresy damskie bluza M,2 szt.,2. Potrzebne
 mleko 1L,0 szt.,3. Mamy wystarczająco
 jabłka,-1 kg,3. Mamy wystarczająco
@@ -40,7 +39,7 @@ worki na smieci 35L,0 szt.,3. Mamy wystarczająco
 przewijak,0 szt.,3. Mamy wystarczająco
 plecaki duże,0 szt.,3. Mamy wystarczająco
 szelki dla kota,0 szt,3. Mamy wystarczająco
-t-shirt damski L,0 szt.,3. Mamy wystarczająco
+t-shirt damski L,-1 szt.,3. Mamy wystarczająco
 dresy damskie spodnie M,0 szt.,3. Mamy wystarczająco
 nocnik dla dzieci,0 szt.,3. Mamy wystarczająco
 ładowarki USB-C,0 szt.,3. Mamy wystarczająco
@@ -56,6 +55,7 @@ obcinacze do paznokci,0 szt.,3. Mamy wystarczająco
 płyn antybakteryjny 5L,0 opak.,3. Mamy wystarczająco
 wielorazowe torby na zakupy,0 szt,3. Mamy wystarczająco
 t-shirt damski XL,0 szt,3. Mamy wystarczająco
+dresy damskie spodnie S,0 szt,3. Mamy wystarczająco
 antyperspirant damski,0 szt,3. Mamy wystarczająco
 plastry na halluksy ,0 szt.,3. Mamy wystarczająco
 plastry uniwersalne zestaw,0 szt.,3. Mamy wystarczająco
