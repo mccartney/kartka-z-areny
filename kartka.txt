@@ -2,13 +2,24 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,24/04/2022 18:12
+,,25/04/2022 08:07
 PRZEDMIOT,Brakuje,Priorytet
+"woda w małych butelkach, w tym z dziubkiem",140 szt.,1. Pilnie potrzebne
+soczki małe z rurką,100 szt.,1. Pilnie potrzebne
+soczki małe z dziubkiem,60 szt,1. Pilnie potrzebne
+łyżeczki plastikowe,1130 szt.,1. Pilnie potrzebne
+kubeczki do ciepłych napojów papierowe/styropianowe,2800 szt.,1. Pilnie potrzebne
+tacki papierowe jednorazowe małe prostokątne,500 szt.,1. Pilnie potrzebne
 walizki na kółkach nowe/ stan bdb. / duze,1 szt.,1. Pilnie potrzebne
 dresy damskie spodnie L,3 szt.,1. Pilnie potrzebne
 walizki na kółkach nowe/ stan bdb. / małe,10 szt.,1. Pilnie potrzebne
 baterie paluszki AA,11 szt.,1. Pilnie potrzebne
 dresy damskie bluza XL-3XL,3 szt.,1. Pilnie potrzebne
+batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),50 szt.,2. Potrzebne
+talerzyki jednorazowe duże,750 szt.,2. Potrzebne
+widelce plastikowe,230 szt.,2. Potrzebne
+łyżki duże plastikowe,900 szt.,2. Potrzebne
+miski papierowe do ciepłych posiłków,870 szt.,2. Potrzebne
 klapki wielorazowe męskie - rozm. 41-46,1 par.,2. Potrzebne
 buty sportowe męskie - rozm. 40-45 nowe,12 szt.,2. Potrzebne
 rajstopy damskie - różne rozmiary,1 szt,2. Potrzebne
@@ -18,15 +29,11 @@ t-shirt męski XL,1 szt,2. Potrzebne
 dresy damskie bluza M,2 szt.,2. Potrzebne
 mleko 1L,0 szt.,3. Mamy wystarczająco
 jogurt pitny różne rodzaje,-5 szt.,3. Mamy wystarczająco
-"woda w małych butelkach, w tym z dziubkiem",-2 szt.,3. Mamy wystarczająco
-soczki małe z dziubkiem,-9 szt,3. Mamy wystarczająco
+soki owocowe litrowe,0 szt.,3. Mamy wystarczająco
 jabłka,-1 kg,3. Mamy wystarczająco
 banany,0 kg,3. Mamy wystarczająco
 ketchup łagodny,0 szt.,3. Mamy wystarczająco
 majonez,0 szt.,3. Mamy wystarczająco
-pojemniki dwu i trójdzielne do ciepłych posiłków,0 szt.,3. Mamy wystarczająco
-miseczki plastikowe (nie do ciepłych posiłków),0 szt.,3. Mamy wystarczająco
-tacki papierowe jednorazowe małe prostokątne,0 szt.,3. Mamy wystarczająco
 opakowania rękawiczek lateksowych S,0 szt.,3. Mamy wystarczająco
 opakowania rękawiczek lateksowych M,0 szt.,3. Mamy wystarczająco
 opakowania rękawiczek lateksowych L,0 szt.,3. Mamy wystarczająco
@@ -61,7 +68,6 @@ mleko roślinne różne rodzaje,-5 szt.,4. Mamy nadmiar
 kefir/jogurt naturalny pitny,-28 szt.,4. Mamy nadmiar
 jogurty wegańskie różne rodzaje,-6 szt.,4. Mamy nadmiar
 duże baniaki z wodą (eden),-3 szt.,4. Mamy nadmiar
-soczki małe z rurką,-40 szt.,4. Mamy nadmiar
 herbata czarna,-46 szt.,4. Mamy nadmiar
 "herbata melisa i inne zioła (np. mięta, rumianek), herbata zielon",-26 szt.,4. Mamy nadmiar
 herbata owocowa różne rodzaje,-31 szt,4. Mamy nadmiar
@@ -95,17 +101,9 @@ cukier 1 kg,-23 kg,4. Mamy nadmiar
 pieprz mała torebka,-3 szt.,4. Mamy nadmiar
 musztarda,-2 szt.,4. Mamy nadmiar
 żelki w małych opakowaniach/guma rozpuszczalna (mikroporcje pakowane oddzielnie),-40 szt.,4. Mamy nadmiar
-batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),-180 szt.,4. Mamy nadmiar
-talerzyki jednorazowe małe,-14020 szt.,4. Mamy nadmiar
-talerzyki jednorazowe duże,-148 szt.,4. Mamy nadmiar
-widelce plastikowe,-2724 szt.,4. Mamy nadmiar
-łyżki duże plastikowe,-5924 szt.,4. Mamy nadmiar
-łyżeczki plastikowe,-974 szt.,4. Mamy nadmiar
-noże plastikowe,-1022 szt.,4. Mamy nadmiar
-talerze głębokie plastikowe do ciepłych posiłków,-500 szt.,4. Mamy nadmiar
-kubeczki do zimnych napojów plastikowe,-2500 szt.,4. Mamy nadmiar
-kubeczki do ciepłych napojów papierowe/styropianowe,-590 szt.,4. Mamy nadmiar
-miski papierowe do ciepłych posiłków,-5312 szt.,4. Mamy nadmiar
+talerzyki jednorazowe małe,-1600 szt.,4. Mamy nadmiar
+noże plastikowe,-4800 szt.,4. Mamy nadmiar
+kubeczki do zimnych napojów plastikowe,-750 szt.,4. Mamy nadmiar
 Kawa inka ,-7 szt.,4. Mamy nadmiar
 zmywaki lub gąbki do naczyń,-64 opak.,4. Mamy nadmiar
 krem do rąk mały 30ml,-26 szt.,4. Mamy nadmiar
