@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,25/04/2022 09:14
+,,25/04/2022 09:24
 PRZEDMIOT,Brakuje,Priorytet
 jogurt pitny różne rodzaje,35 szt.,1. Pilnie potrzebne
 "woda w małych butelkach, w tym z dziubkiem",140 szt.,1. Pilnie potrzebne
@@ -17,18 +17,21 @@ walizki na kółkach nowe/ stan bdb. / małe,10 szt.,1. Pilnie potrzebne
 baterie paluszki AA,11 szt.,1. Pilnie potrzebne
 dresy chłopięce spodnie S/M,8 szt,1. Pilnie potrzebne
 "krem do twarzy z filtrem UV 30, UV50",9 szt,1. Pilnie potrzebne
+"spray oczyszczający, woda morska do nosa, roztwór izotoniczny, 100 ml",10 szt,1. Pilnie potrzebne
 dresy damskie bluza M,7 szt.,1. Pilnie potrzebne
 dresy damskie bluza XL-3XL,8 szt.,1. Pilnie potrzebne
+rękawice nitrylowe M,5 opak,1. Pilnie potrzebne
+"plecaki małe, nerki na dokumenty",10 szt,1. Pilnie potrzebne
 batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),50 szt.,2. Potrzebne
 talerzyki jednorazowe duże,750 szt.,2. Potrzebne
 widelce plastikowe,230 szt.,2. Potrzebne
 łyżki duże plastikowe,900 szt.,2. Potrzebne
 miski papierowe do ciepłych posiłków,870 szt.,2. Potrzebne
-klapki wielorazowe męskie - rozm. 41-46,1 par.,2. Potrzebne
+klapki wielorazowe męskie - rozm. 41-46,6 par.,2. Potrzebne
 dresy damskie spodnie M,5 szt.,2. Potrzebne
 dresy damskie spodnie XL-3XL,5 szt.,2. Potrzebne
 buty sportowe męskie - rozm. 40-45 nowe,12 szt.,2. Potrzebne
-klapki wielorazowe damskie - rozm. 36-40,5 szt,2. Potrzebne
+klapki wielorazowe damskie - rozm. 36-40,10 szt,2. Potrzebne
 rajstopy damskie - różne rozmiary,1 szt,2. Potrzebne
 t-shirt męski M,2 szt,2. Potrzebne
 t-shirt męski L,2 szt,2. Potrzebne
