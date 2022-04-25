@@ -2,12 +2,13 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,25/04/2022 09:24
+,,25/04/2022 15:30
 PRZEDMIOT,Brakuje,Priorytet
-jogurt pitny różne rodzaje,35 szt.,1. Pilnie potrzebne
 "woda w małych butelkach, w tym z dziubkiem",140 szt.,1. Pilnie potrzebne
 soczki małe z rurką,100 szt.,1. Pilnie potrzebne
 soczki małe z dziubkiem,60 szt,1. Pilnie potrzebne
+banany,9 kg,1. Pilnie potrzebne
+ogórki świeże,3 Kg,1. Pilnie potrzebne
 łyżeczki plastikowe,1130 szt.,1. Pilnie potrzebne
 kubeczki do ciepłych napojów papierowe/styropianowe,2800 szt.,1. Pilnie potrzebne
 tacki papierowe jednorazowe małe prostokątne,500 szt.,1. Pilnie potrzebne
@@ -18,10 +19,13 @@ baterie paluszki AA,11 szt.,1. Pilnie potrzebne
 dresy chłopięce spodnie S/M,8 szt,1. Pilnie potrzebne
 "krem do twarzy z filtrem UV 30, UV50",9 szt,1. Pilnie potrzebne
 "spray oczyszczający, woda morska do nosa, roztwór izotoniczny, 100 ml",10 szt,1. Pilnie potrzebne
+antyperspirant damski,7 szt,1. Pilnie potrzebne
 dresy damskie bluza M,7 szt.,1. Pilnie potrzebne
 dresy damskie bluza XL-3XL,8 szt.,1. Pilnie potrzebne
 rękawice nitrylowe M,5 opak,1. Pilnie potrzebne
 "plecaki małe, nerki na dokumenty",10 szt,1. Pilnie potrzebne
+chleb tostowy,7 szt.,2. Potrzebne
+pomidory,2 kg,2. Potrzebne
 batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),50 szt.,2. Potrzebne
 talerzyki jednorazowe duże,750 szt.,2. Potrzebne
 widelce plastikowe,230 szt.,2. Potrzebne
@@ -40,9 +44,10 @@ dresy damskie spodnie S,5 szt,2. Potrzebne
 dresy damskie bluza S,5 szt.,2. Potrzebne
 dresy damskie bluza L,3 szt.,2. Potrzebne
 mleko 1L,0 szt.,3. Mamy wystarczająco
+kefir/jogurt naturalny pitny,0 szt.,3. Mamy wystarczająco
 soki owocowe litrowe,0 szt.,3. Mamy wystarczająco
+chleb krojony (nie tostowy!),0 szt.,3. Mamy wystarczająco
 jabłka,-1 kg,3. Mamy wystarczająco
-banany,0 kg,3. Mamy wystarczająco
 ketchup łagodny,0 szt.,3. Mamy wystarczająco
 majonez,0 szt.,3. Mamy wystarczająco
 opakowania rękawiczek lateksowych S,0 szt.,3. Mamy wystarczająco
@@ -72,7 +77,7 @@ t-shirt damski XL,0 szt,3. Mamy wystarczająco
 plastry na halluksy ,0 szt.,3. Mamy wystarczająco
 plastry uniwersalne zestaw,0 szt.,3. Mamy wystarczająco
 mleko roślinne różne rodzaje,-5 szt.,4. Mamy nadmiar
-kefir/jogurt naturalny pitny,-28 szt.,4. Mamy nadmiar
+jogurt pitny różne rodzaje,-20 szt.,4. Mamy nadmiar
 jogurty wegańskie różne rodzaje,-6 szt.,4. Mamy nadmiar
 duże baniaki z wodą (eden),-3 szt.,4. Mamy nadmiar
 herbata czarna,-46 szt.,4. Mamy nadmiar
@@ -81,8 +86,6 @@ herbata owocowa różne rodzaje,-31 szt,4. Mamy nadmiar
 kawa rozpuszczalna,-48 szt.,4. Mamy nadmiar
 kawa mielona 250 gram,-32 szt.,4. Mamy nadmiar
 kakao rozpuszczalne + czekolada rozpuszczalna,-5 szt.,4. Mamy nadmiar
-chleb krojony (nie tostowy!),-2 szt.,4. Mamy nadmiar
-chleb tostowy,-23 szt.,4. Mamy nadmiar
 kabanosy małe opakowania,-23 szt.,4. Mamy nadmiar
 parówki małe opakowania,-50 szt.,4. Mamy nadmiar
 wędlina/kiełbasa krojona paczkowana,-8 szt.,4. Mamy nadmiar
@@ -91,8 +94,6 @@ hummus,-2 szt.,4. Mamy nadmiar
 parówki/kabanosy wegańskie,-2 szt.,4. Mamy nadmiar
 pasty kanapkowe wegańskie- różne rodzaje,-25 szt.,4. Mamy nadmiar
 filtry  do kawy rozmiar 4,-3 opak,4. Mamy nadmiar
-ogórki świeże,-2 Kg,4. Mamy nadmiar
-pomidory,-5 kg,4. Mamy nadmiar
 papryka czerwona,-2 kg,4. Mamy nadmiar
 sałata lodowa/masłowa,-1 szt.,4. Mamy nadmiar
 ogórki kiszone w wiaderkach małych,-3 szt.,4. Mamy nadmiar
@@ -183,7 +184,6 @@ buty sportowe damskie rozm. 36-40 nowe,-26 szt.,4. Mamy nadmiar
 karma dla piesełków - sucha,-39 kg,4. Mamy nadmiar
 żwirek dla kota,-48 kg,4. Mamy nadmiar
 karma dla piesełków - puszka,-20 szt,4. Mamy nadmiar
-antyperspirant damski,-6 szt,4. Mamy nadmiar
 zestaw do szycia podróżny,-1 szt.,4. Mamy nadmiar
 pianka do golenia małe opak.,-9 szt,4. Mamy nadmiar
 płyn do mycia naczyń,-3 szt,4. Mamy nadmiar
