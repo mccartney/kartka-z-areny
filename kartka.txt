@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,25/04/2022 19:51
+,,25/04/2022 22:32
 PRZEDMIOT,Brakuje,Priorytet
 "woda w małych butelkach, w tym z dziubkiem",106 szt.,1. Pilnie potrzebne
 soczki małe z dziubkiem,60 szt,1. Pilnie potrzebne
@@ -14,7 +14,6 @@ walizki na kółkach nowe/ stan bdb. / duze,1 szt.,1. Pilnie potrzebne
 "bielizna męska, majtki-nowe",31 szt.,1. Pilnie potrzebne
 "bielizna dziecięca, majtki- nowe",33 szt.,1. Pilnie potrzebne
 dresy chłopięce spodnie S/M,8 szt,1. Pilnie potrzebne
-"krem do twarzy z filtrem UV 30, UV50",9 szt,1. Pilnie potrzebne
 dresy damskie spodnie S,10 szt,1. Pilnie potrzebne
 "spray oczyszczający, woda morska do nosa, roztwór izotoniczny, 100 ml",10 szt,1. Pilnie potrzebne
 dresy damskie bluza S,10 szt.,1. Pilnie potrzebne
@@ -67,6 +66,7 @@ obcinacze do paznokci,0 szt.,3. Mamy wystarczająco
 płyn antybakteryjny 5L,0 opak.,3. Mamy wystarczająco
 wielorazowe torby na zakupy,0 szt,3. Mamy wystarczająco
 t-shirt damski XL,0 szt,3. Mamy wystarczająco
+"krem do twarzy z filtrem UV 30, UV50",0 szt,3. Mamy wystarczająco
 buty sportowe dziecięce - rozm. 23-35 nowe,-1 szt.,3. Mamy wystarczająco
 plastry na halluksy ,0 szt.,3. Mamy wystarczająco
 plastry uniwersalne zestaw,0 szt.,3. Mamy wystarczająco
