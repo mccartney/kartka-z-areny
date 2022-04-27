@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,27/04/2022 14:06
+,,27/04/2022 16:20
 PRZEDMIOT,Brakuje,Priorytet
 "woda w małych butelkach, w tym z dziubkiem",43 szt.,1. Pilnie potrzebne
 soczki małe z dziubkiem,60 szt,1. Pilnie potrzebne
@@ -10,7 +10,7 @@ pomidory,10 kg,1. Pilnie potrzebne
 papryka czerwona,3 kg,1. Pilnie potrzebne
 żelki w małych opakowaniach/guma rozpuszczalna (mikroporcje pakowane oddzielnie),30 szt.,1. Pilnie potrzebne
 batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),100 szt.,1. Pilnie potrzebne
-łyżeczki plastikowe,1130 szt.,1. Pilnie potrzebne
+łyżeczki plastikowe,2000 szt.,1. Pilnie potrzebne
 tacki papierowe jednorazowe małe prostokątne,500 szt.,1. Pilnie potrzebne
 walizki na kółkach nowe/ stan bdb. / duze,1 szt.,1. Pilnie potrzebne
 krem do rąk mały 30ml,20 szt.,1. Pilnie potrzebne
