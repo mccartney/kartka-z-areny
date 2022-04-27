@@ -2,11 +2,10 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,26/04/2022 16:05
+,,27/04/2022 13:11
 PRZEDMIOT,Brakuje,Priorytet
-"woda w małych butelkach, w tym z dziubkiem",200 szt.,1. Pilnie potrzebne
+"woda w małych butelkach, w tym z dziubkiem",43 szt.,1. Pilnie potrzebne
 soczki małe z dziubkiem,60 szt,1. Pilnie potrzebne
-chleb tostowy,8 szt.,1. Pilnie potrzebne
 pomidory,10 kg,1. Pilnie potrzebne
 papryka czerwona,3 kg,1. Pilnie potrzebne
 żelki w małych opakowaniach/guma rozpuszczalna (mikroporcje pakowane oddzielnie),30 szt.,1. Pilnie potrzebne
@@ -16,6 +15,7 @@ tacki papierowe jednorazowe małe prostokątne,500 szt.,1. Pilnie potrzebne
 walizki na kółkach nowe/ stan bdb. / duze,1 szt.,1. Pilnie potrzebne
 "bielizna męska, majtki-nowe",31 szt.,1. Pilnie potrzebne
 "bielizna dziecięca, majtki- nowe",33 szt.,1. Pilnie potrzebne
+szczotka do włosów,20 szt.,1. Pilnie potrzebne
 dresy chłopięce spodnie S/M,8 szt,1. Pilnie potrzebne
 dresy damskie spodnie S,10 szt,1. Pilnie potrzebne
 "spray oczyszczający, woda morska do nosa, roztwór izotoniczny, 100 ml",10 szt,1. Pilnie potrzebne
@@ -82,6 +82,7 @@ herbata owocowa różne rodzaje,-31 szt,4. Mamy nadmiar
 kawa rozpuszczalna,-48 szt.,4. Mamy nadmiar
 kawa mielona 250 gram,-32 szt.,4. Mamy nadmiar
 kakao rozpuszczalne + czekolada rozpuszczalna,-5 szt.,4. Mamy nadmiar
+chleb tostowy,-24 szt.,4. Mamy nadmiar
 kabanosy małe opakowania,-23 szt.,4. Mamy nadmiar
 parówki małe opakowania,-50 szt.,4. Mamy nadmiar
 wędlina/kiełbasa krojona paczkowana,-8 szt.,4. Mamy nadmiar
@@ -162,7 +163,6 @@ płyn do czyszczenia toalety,-174 opak.,4. Mamy nadmiar
 papier toaletowy /rolki,-850 szt.,4. Mamy nadmiar
 szczoteczki do zębów + pasta 3 gr,-200 szt.,4. Mamy nadmiar
 żel antybakteryjny 400-500ml,-281 szt.,4. Mamy nadmiar
-szczotka do włosów,-8 szt.,4. Mamy nadmiar
 klapki wielorazowe damskie - rozm. 36-40,-229 szt,4. Mamy nadmiar
 maseczki jednorazowe,-4900 szt,4. Mamy nadmiar
 żel do mycia twarzy  50-100ml,-4 szt,4. Mamy nadmiar
