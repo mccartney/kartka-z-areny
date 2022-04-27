@@ -2,14 +2,12 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,27/04/2022 18:14
+,,27/04/2022 19:13
 PRZEDMIOT,Brakuje,Priorytet
-"woda w małych butelkach, w tym z dziubkiem",43 szt.,1. Pilnie potrzebne
-pomidory,10 kg,1. Pilnie potrzebne
-papryka czerwona,3 kg,1. Pilnie potrzebne
+"woda w małych butelkach, w tym z dziubkiem",-212 szt.,1. Pilnie potrzebne
 żelki w małych opakowaniach/guma rozpuszczalna (mikroporcje pakowane oddzielnie),30 szt.,1. Pilnie potrzebne
 łyżeczki plastikowe,2000 szt.,1. Pilnie potrzebne
-tacki papierowe jednorazowe małe prostokątne,500 szt.,1. Pilnie potrzebne
+tacki papierowe jednorazowe małe prostokątne,260 szt.,1. Pilnie potrzebne
 walizki na kółkach nowe/ stan bdb. / duze,1 szt.,1. Pilnie potrzebne
 krem do rąk mały 30ml,20 szt.,1. Pilnie potrzebne
 kremy nawilżające do twarzy 15-30ml,20 szt.,1. Pilnie potrzebne
@@ -21,12 +19,12 @@ dresy damskie spodnie S,10 szt,1. Pilnie potrzebne
 "spray oczyszczający, woda morska do nosa, roztwór izotoniczny, 100 ml",10 szt,1. Pilnie potrzebne
 dresy damskie bluza S,10 szt.,1. Pilnie potrzebne
 dresy damskie bluza L,10 szt.,1. Pilnie potrzebne
-rękawice nitrylowe M,5 opak,1. Pilnie potrzebne
 mleko 1L,10 szt.,2. Potrzebne
-soczki małe z dziubkiem,30 szt,2. Potrzebne
+soczki małe z rurką,48 szt.,2. Potrzebne
 jabłka,5 kg,2. Potrzebne
 banany,5 kg,2. Potrzebne
 ogórki świeże,5 Kg,2. Potrzebne
+pomidory,1 kg,2. Potrzebne
 batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),10 szt.,2. Potrzebne
 łyżki duże plastikowe,800 szt.,2. Potrzebne
 miski papierowe do ciepłych posiłków,870 szt.,2. Potrzebne
@@ -39,7 +37,6 @@ t-shirt męski M,2 szt,2. Potrzebne
 t-shirt męski L,2 szt,2. Potrzebne
 "plecaki małe, nerki na dokumenty",5 szt,2. Potrzebne
 kefir/jogurt naturalny pitny lub w małych kubeczkach,0 szt.,3. Mamy wystarczająco
-soki owocowe litrowe,0 szt.,3. Mamy wystarczająco
 chleb krojony (nie tostowy!),0 szt.,3. Mamy wystarczająco
 ketchup łagodny,0 szt.,3. Mamy wystarczająco
 majonez,0 szt.,3. Mamy wystarczająco
@@ -76,7 +73,8 @@ mleko roślinne różne rodzaje,-5 szt.,4. Mamy nadmiar
 jogurt pitny lub w małych kubeczkach różne rodzaje,-20 szt.,4. Mamy nadmiar
 jogurty wegańskie różne rodzaje,-6 szt.,4. Mamy nadmiar
 duże baniaki z wodą (eden),-3 szt.,4. Mamy nadmiar
-soczki małe z rurką,-98 szt.,4. Mamy nadmiar
+soczki małe z dziubkiem,-21 szt,4. Mamy nadmiar
+soki owocowe litrowe,-23 szt.,4. Mamy nadmiar
 herbata czarna,-46 szt.,4. Mamy nadmiar
 "herbata melisa i inne zioła (np. mięta, rumianek), herbata zielon",-26 szt.,4. Mamy nadmiar
 herbata owocowa różne rodzaje,-31 szt,4. Mamy nadmiar
@@ -92,6 +90,7 @@ hummus,-2 szt.,4. Mamy nadmiar
 parówki/kabanosy wegańskie,-2 szt.,4. Mamy nadmiar
 pasty kanapkowe wegańskie- różne rodzaje,-25 szt.,4. Mamy nadmiar
 filtry  do kawy rozmiar 4,-3 opak,4. Mamy nadmiar
+papryka czerwona,-5 kg,4. Mamy nadmiar
 sałata lodowa/masłowa,-1 szt.,4. Mamy nadmiar
 ogórki kiszone w wiaderkach małych,-3 szt.,4. Mamy nadmiar
 słoiczki dla dzieci - obiadki różne,-478 szt.,4. Mamy nadmiar
@@ -188,3 +187,4 @@ dresy damskie bluza XL-3XL,-10 szt.,4. Mamy nadmiar
 pianka do golenia małe opak.,-9 szt,4. Mamy nadmiar
 płyn do mycia naczyń,-3 szt,4. Mamy nadmiar
 grzebienie,-45 szt,4. Mamy nadmiar
+rękawice nitrylowe M,-95 opak,4. Mamy nadmiar
