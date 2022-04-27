@@ -2,18 +2,17 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,27/04/2022 16:20
+,,27/04/2022 18:14
 PRZEDMIOT,Brakuje,Priorytet
 "woda w małych butelkach, w tym z dziubkiem",43 szt.,1. Pilnie potrzebne
-soczki małe z dziubkiem,60 szt,1. Pilnie potrzebne
 pomidory,10 kg,1. Pilnie potrzebne
 papryka czerwona,3 kg,1. Pilnie potrzebne
 żelki w małych opakowaniach/guma rozpuszczalna (mikroporcje pakowane oddzielnie),30 szt.,1. Pilnie potrzebne
-batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),100 szt.,1. Pilnie potrzebne
 łyżeczki plastikowe,2000 szt.,1. Pilnie potrzebne
 tacki papierowe jednorazowe małe prostokątne,500 szt.,1. Pilnie potrzebne
 walizki na kółkach nowe/ stan bdb. / duze,1 szt.,1. Pilnie potrzebne
 krem do rąk mały 30ml,20 szt.,1. Pilnie potrzebne
+kremy nawilżające do twarzy 15-30ml,20 szt.,1. Pilnie potrzebne
 "bielizna męska, majtki-nowe",31 szt.,1. Pilnie potrzebne
 "bielizna dziecięca, majtki- nowe",33 szt.,1. Pilnie potrzebne
 szczotka do włosów,20 szt.,1. Pilnie potrzebne
@@ -23,13 +22,13 @@ dresy damskie spodnie S,10 szt,1. Pilnie potrzebne
 dresy damskie bluza S,10 szt.,1. Pilnie potrzebne
 dresy damskie bluza L,10 szt.,1. Pilnie potrzebne
 rękawice nitrylowe M,5 opak,1. Pilnie potrzebne
-"plecaki małe, nerki na dokumenty",10 szt,1. Pilnie potrzebne
 mleko 1L,10 szt.,2. Potrzebne
+soczki małe z dziubkiem,30 szt,2. Potrzebne
 jabłka,5 kg,2. Potrzebne
 banany,5 kg,2. Potrzebne
 ogórki świeże,5 Kg,2. Potrzebne
-łyżki duże plastikowe,900 szt.,2. Potrzebne
-kubeczki do ciepłych napojów papierowe/styropianowe,900 szt.,2. Potrzebne
+batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),10 szt.,2. Potrzebne
+łyżki duże plastikowe,800 szt.,2. Potrzebne
 miski papierowe do ciepłych posiłków,870 szt.,2. Potrzebne
 klapki wielorazowe męskie - rozm. 41-46,6 par.,2. Potrzebne
 dresy damskie spodnie XL-3XL,5 szt.,2. Potrzebne
@@ -38,6 +37,7 @@ walizki na kółkach nowe/ stan bdb. / małe,2 szt.,2. Potrzebne
 rajstopy damskie - różne rozmiary,1 szt,2. Potrzebne
 t-shirt męski M,2 szt,2. Potrzebne
 t-shirt męski L,2 szt,2. Potrzebne
+"plecaki małe, nerki na dokumenty",5 szt,2. Potrzebne
 kefir/jogurt naturalny pitny lub w małych kubeczkach,0 szt.,3. Mamy wystarczająco
 soki owocowe litrowe,0 szt.,3. Mamy wystarczająco
 chleb krojony (nie tostowy!),0 szt.,3. Mamy wystarczająco
@@ -105,11 +105,12 @@ dżem,-29 szt.,4. Mamy nadmiar
 cukier 1 kg,-23 kg,4. Mamy nadmiar
 pieprz mała torebka,-3 szt.,4. Mamy nadmiar
 musztarda,-2 szt.,4. Mamy nadmiar
-talerzyki jednorazowe małe,-1600 szt.,4. Mamy nadmiar
+talerzyki jednorazowe małe,-2100 szt.,4. Mamy nadmiar
 talerzyki jednorazowe duże,-1200 szt.,4. Mamy nadmiar
 widelce plastikowe,-700 szt.,4. Mamy nadmiar
 noże plastikowe,-4800 szt.,4. Mamy nadmiar
-kubeczki do zimnych napojów plastikowe,-1700 szt.,4. Mamy nadmiar
+kubeczki do zimnych napojów plastikowe,-2200 szt.,4. Mamy nadmiar
+kubeczki do ciepłych napojów papierowe/styropianowe,-2130 szt.,4. Mamy nadmiar
 Kawa inka ,-7 szt.,4. Mamy nadmiar
 zmywaki lub gąbki do naczyń,-64 opak.,4. Mamy nadmiar
 pluszaki nowe lub uprane,-250 szt.,4. Mamy nadmiar
@@ -131,7 +132,6 @@ dresy damskie spodnie M,-10 szt.,4. Mamy nadmiar
 balsam do ciała mały 20-50ml,-916 szt.,4. Mamy nadmiar
 szczoteczki do zębów dla dzieci,-160 szt.,4. Mamy nadmiar
 podpaski/tampony,-649 szt.,4. Mamy nadmiar
-kremy nawilżające do twarzy 15-30ml,-8 szt.,4. Mamy nadmiar
 podkładki dla dzieci/ dorosłych Seni,-208 szt.,4. Mamy nadmiar
 klapki wielorazowe dziecięce - rozm. 23-35,-60 par.,4. Mamy nadmiar
 "bielizna damska, majtki- różne rozmiary- nowe",-154 szt.,4. Mamy nadmiar
