@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,27/04/2022 13:11
+,,27/04/2022 14:06
 PRZEDMIOT,Brakuje,Priorytet
 "woda w małych butelkach, w tym z dziubkiem",43 szt.,1. Pilnie potrzebne
 soczki małe z dziubkiem,60 szt,1. Pilnie potrzebne
@@ -13,6 +13,7 @@ batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),100 szt.
 łyżeczki plastikowe,1130 szt.,1. Pilnie potrzebne
 tacki papierowe jednorazowe małe prostokątne,500 szt.,1. Pilnie potrzebne
 walizki na kółkach nowe/ stan bdb. / duze,1 szt.,1. Pilnie potrzebne
+krem do rąk mały 30ml,20 szt.,1. Pilnie potrzebne
 "bielizna męska, majtki-nowe",31 szt.,1. Pilnie potrzebne
 "bielizna dziecięca, majtki- nowe",33 szt.,1. Pilnie potrzebne
 szczotka do włosów,20 szt.,1. Pilnie potrzebne
@@ -111,7 +112,6 @@ noże plastikowe,-4800 szt.,4. Mamy nadmiar
 kubeczki do zimnych napojów plastikowe,-1700 szt.,4. Mamy nadmiar
 Kawa inka ,-7 szt.,4. Mamy nadmiar
 zmywaki lub gąbki do naczyń,-64 opak.,4. Mamy nadmiar
-krem do rąk mały 30ml,-26 szt.,4. Mamy nadmiar
 pluszaki nowe lub uprane,-250 szt.,4. Mamy nadmiar
 skarpetki damskie,-14 szt.,4. Mamy nadmiar
 rękawice grube wielorazowe,-3 szt.,4. Mamy nadmiar
