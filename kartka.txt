@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,27/04/2022 21:12
+,,27/04/2022 21:15
 PRZEDMIOT,Brakuje,Priorytet
 "woda w małych butelkach, w tym z dziubkiem",-218 szt.,1. Pilnie potrzebne
 widelce plastikowe,1992 szt.,1. Pilnie potrzebne
@@ -22,7 +22,7 @@ banany,5 kg,2. Potrzebne
 ogórki świeże,5 Kg,2. Potrzebne
 pomidory,1 kg,2. Potrzebne
 żelki w małych opakowaniach/guma rozpuszczalna (mikroporcje pakowane oddzielnie),9 szt.,2. Potrzebne
-batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),10 szt.,2. Potrzebne
+batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),9 szt.,2. Potrzebne
 klapki wielorazowe męskie - rozm. 41-46,6 par.,2. Potrzebne
 dresy damskie spodnie XL-3XL,5 szt.,2. Potrzebne
 buty sportowe męskie - rozm. 40-45 nowe,11 szt.,2. Potrzebne
