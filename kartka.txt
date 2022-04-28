@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,28/04/2022 15:51
+,,28/04/2022 17:13
 PRZEDMIOT,Brakuje,Priorytet
 "woda w małych butelkach, w tym z dziubkiem",-1252 szt.,1. Pilnie potrzebne
 talerzyki jednorazowe duże,1644 szt.,1. Pilnie potrzebne
@@ -15,7 +15,6 @@ antyperspirant męski,8 szt.,1. Pilnie potrzebne
 walizki na kółkach nowe/ stan bdb. / małe,19 szt.,1. Pilnie potrzebne
 szczotka do włosów,20 szt.,1. Pilnie potrzebne
 dresy chłopięce spodnie S/M,8 szt,1. Pilnie potrzebne
-maszynki jednorazowe do golenia damskie,20 szt,1. Pilnie potrzebne
 dresy damskie spodnie S,10 szt,1. Pilnie potrzebne
 dresy damskie bluza S,10 szt.,1. Pilnie potrzebne
 dresy damskie bluza L,10 szt.,1. Pilnie potrzebne
@@ -32,6 +31,7 @@ batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),9 szt.,2
 talerzyki jednorazowe małe,320 szt.,2. Potrzebne
 walizki na kółkach nowe/ stan bdb. / duze,6 szt.,2. Potrzebne
 klapki wielorazowe męskie - rozm. 41-46,6 par.,2. Potrzebne
+maszynki jednorazowe do golenia męskie,3 szt.,2. Potrzebne
 dresy damskie spodnie XL-3XL,5 szt.,2. Potrzebne
 buty sportowe męskie - rozm. 40-45 nowe,11 szt.,2. Potrzebne
 rajstopy damskie - różne rozmiary,1 szt,2. Potrzebne
@@ -169,6 +169,7 @@ szczoteczki do zębów + pasta 3 gr,-200 szt.,4. Mamy nadmiar
 klapki wielorazowe damskie - rozm. 36-40,-229 szt,4. Mamy nadmiar
 maseczki jednorazowe,-4900 szt,4. Mamy nadmiar
 żel do mycia twarzy  50-100ml,-4 szt,4. Mamy nadmiar
+maszynki jednorazowe do golenia damskie,-6 szt,4. Mamy nadmiar
 gąbka do ciała ,-13 szt,4. Mamy nadmiar
 odżywki do włosów travel size 30-50ml,-90 szt,4. Mamy nadmiar
 stopery do uszu/opaski na oczy,-4400 szt.,4. Mamy nadmiar
@@ -183,7 +184,7 @@ buty sportowe damskie rozm. 36-40 nowe,-56 szt.,4. Mamy nadmiar
 karma dla piesełków - sucha,-39 kg,4. Mamy nadmiar
 żwirek dla kota,-48 kg,4. Mamy nadmiar
 karma dla piesełków - puszka,-20 szt,4. Mamy nadmiar
-antyperspirant damski,-5 szt,4. Mamy nadmiar
+antyperspirant damski,-45 szt,4. Mamy nadmiar
 zestaw do szycia podróżny,-1 szt.,4. Mamy nadmiar
 dresy damskie bluza M,-10 szt.,4. Mamy nadmiar
 dresy damskie bluza XL-3XL,-10 szt.,4. Mamy nadmiar
