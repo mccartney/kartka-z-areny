@@ -2,13 +2,12 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,28/04/2022 17:13
+,,28/04/2022 18:10
 PRZEDMIOT,Brakuje,Priorytet
 "woda w małych butelkach, w tym z dziubkiem",-1252 szt.,1. Pilnie potrzebne
 talerzyki jednorazowe duże,1644 szt.,1. Pilnie potrzebne
 widelce plastikowe,1992 szt.,1. Pilnie potrzebne
 krem do rąk mały 30ml,15 szt.,1. Pilnie potrzebne
-kremy nawilżające do twarzy 15-30ml,20 szt.,1. Pilnie potrzebne
 "bielizna męska, majtki-nowe",31 szt.,1. Pilnie potrzebne
 "bielizna dziecięca, majtki- nowe",33 szt.,1. Pilnie potrzebne
 antyperspirant męski,8 szt.,1. Pilnie potrzebne
@@ -130,11 +129,12 @@ karma dla kotełków,-43 szt.,4. Mamy nadmiar
 szampon do włosów travel size 30-50ml,-632 szt.,4. Mamy nadmiar
 "pampersy dziecięce/pieluchomajtki, rozm. 0-6 ",-1982 szt.,4. Mamy nadmiar
 proszek do prania,-2 szt.,4. Mamy nadmiar
-"leginsy damskie M, L, XL",-3 szt.,4. Mamy nadmiar
+"leginsy damskie M, L, XL",-12 szt.,4. Mamy nadmiar
 dresy damskie spodnie M,-10 szt.,4. Mamy nadmiar
 balsam do ciała mały 20-50ml,-916 szt.,4. Mamy nadmiar
-szczoteczki do zębów dla dzieci,-160 szt.,4. Mamy nadmiar
+szczoteczki do zębów dla dzieci,-161 szt.,4. Mamy nadmiar
 podpaski/tampony,-649 szt.,4. Mamy nadmiar
+kremy nawilżające do twarzy 15-30ml,-4 szt.,4. Mamy nadmiar
 podkładki dla dzieci/ dorosłych Seni,-208 szt.,4. Mamy nadmiar
 klapki wielorazowe dziecięce - rozm. 23-35,-60 par.,4. Mamy nadmiar
 "bielizna damska, majtki- różne rozmiary- nowe",-154 szt.,4. Mamy nadmiar
@@ -148,7 +148,7 @@ worki na śmieci 160L,-20 opak.,4. Mamy nadmiar
 worki na śmieci 120L,-20 opak.,4. Mamy nadmiar
 chusteczki higieniczne małe opak.,-70 szt.,4. Mamy nadmiar
 pomadki do ust/wazelina,-40 szt.,4. Mamy nadmiar
-pasta do zębów dla dzieci,-33 szt.,4. Mamy nadmiar
+pasta do zębów dla dzieci,-34 szt.,4. Mamy nadmiar
 chusteczki nawilżane pakowane,-1001 szt.,4. Mamy nadmiar
 patyczki do uszu ,-27 szt.,4. Mamy nadmiar
 pasta do zębów dla dorosłych - duże opakowania,-306 szt.,4. Mamy nadmiar
