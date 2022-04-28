@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,27/04/2022 21:15
+,,27/04/2022 23:09
 PRZEDMIOT,Brakuje,Priorytet
 "woda w małych butelkach, w tym z dziubkiem",-218 szt.,1. Pilnie potrzebne
 widelce plastikowe,1992 szt.,1. Pilnie potrzebne
@@ -10,12 +10,15 @@ krem do rąk mały 30ml,20 szt.,1. Pilnie potrzebne
 kremy nawilżające do twarzy 15-30ml,20 szt.,1. Pilnie potrzebne
 "bielizna męska, majtki-nowe",31 szt.,1. Pilnie potrzebne
 "bielizna dziecięca, majtki- nowe",33 szt.,1. Pilnie potrzebne
+walizki na kółkach nowe/ stan bdb. / małe,19 szt.,1. Pilnie potrzebne
 szczotka do włosów,20 szt.,1. Pilnie potrzebne
 dresy chłopięce spodnie S/M,8 szt,1. Pilnie potrzebne
 dresy damskie spodnie S,10 szt,1. Pilnie potrzebne
-"spray oczyszczający, woda morska do nosa, roztwór izotoniczny, 100 ml",10 szt,1. Pilnie potrzebne
 dresy damskie bluza S,10 szt.,1. Pilnie potrzebne
 dresy damskie bluza L,10 szt.,1. Pilnie potrzebne
+taśma pakowa brązowa szeroka,19 szt,1. Pilnie potrzebne
+dyspenser do taśmy pakowej szerokiej,1 szt,1. Pilnie potrzebne
+taśma biurowa przezroczysta 12mm,20 szt,1. Pilnie potrzebne
 soczki małe z rurką,48 szt.,2. Potrzebne
 jabłka,5 kg,2. Potrzebne
 banany,5 kg,2. Potrzebne
@@ -23,6 +26,7 @@ ogórki świeże,5 Kg,2. Potrzebne
 pomidory,1 kg,2. Potrzebne
 żelki w małych opakowaniach/guma rozpuszczalna (mikroporcje pakowane oddzielnie),9 szt.,2. Potrzebne
 batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),9 szt.,2. Potrzebne
+walizki na kółkach nowe/ stan bdb. / duze,6 szt.,2. Potrzebne
 klapki wielorazowe męskie - rozm. 41-46,6 par.,2. Potrzebne
 dresy damskie spodnie XL-3XL,5 szt.,2. Potrzebne
 buty sportowe męskie - rozm. 40-45 nowe,11 szt.,2. Potrzebne
@@ -59,14 +63,15 @@ płyn micelarny mały 50-100ml,-1 szt.,3. Mamy wystarczająco
 chusteczki do hig int. małe opakowania,-2 szt.,3. Mamy wystarczająco
 dresy damskie spodnie L,0 szt.,3. Mamy wystarczająco
 obcinacze do paznokci,0 szt.,3. Mamy wystarczająco
-walizki na kółkach nowe/ stan bdb. / małe,-1 szt.,3. Mamy wystarczająco
 płyn antybakteryjny 5L,0 opak.,3. Mamy wystarczająco
 wielorazowe torby na zakupy,0 szt,3. Mamy wystarczająco
 t-shirt damski XL,0 szt,3. Mamy wystarczająco
 "krem do twarzy z filtrem UV 30, UV50",0 szt,3. Mamy wystarczająco
 buty sportowe dziecięce - rozm. 23-35 nowe,-1 szt.,3. Mamy wystarczająco
+"spray oczyszczający, woda morska do nosa, roztwór izotoniczny, 100 ml",0 szt,3. Mamy wystarczająco
 plastry na halluksy ,0 szt.,3. Mamy wystarczająco
 plastry uniwersalne zestaw,0 szt.,3. Mamy wystarczająco
+suszarka rozkładana na pranie,0 szt,3. Mamy wystarczająco
 mleko roślinne różne rodzaje,-5 szt.,4. Mamy nadmiar
 jogurt pitny lub w małych kubeczkach różne rodzaje,-20 szt.,4. Mamy nadmiar
 jogurty wegańskie różne rodzaje,-6 szt.,4. Mamy nadmiar
@@ -110,7 +115,6 @@ noże plastikowe,-4800 szt.,4. Mamy nadmiar
 kubeczki do ciepłych napojów papierowe/styropianowe,-4320 szt.,4. Mamy nadmiar
 tacki papierowe jednorazowe małe prostokątne,-160 szt.,4. Mamy nadmiar
 Kawa inka ,-7 szt.,4. Mamy nadmiar
-walizki na kółkach nowe/ stan bdb. / duze,-43 szt.,4. Mamy nadmiar
 zmywaki lub gąbki do naczyń,-64 opak.,4. Mamy nadmiar
 pluszaki nowe lub uprane,-250 szt.,4. Mamy nadmiar
 skarpetki damskie,-14 szt.,4. Mamy nadmiar
@@ -187,4 +191,4 @@ dresy damskie bluza XL-3XL,-10 szt.,4. Mamy nadmiar
 pianka do golenia małe opak.,-9 szt,4. Mamy nadmiar
 płyn do mycia naczyń,-3 szt,4. Mamy nadmiar
 grzebienie,-45 szt,4. Mamy nadmiar
-rękawice nitrylowe M,-95 opak,4. Mamy nadmiar
+rękawice nitrylowe M,-95 szt,4. Mamy nadmiar
