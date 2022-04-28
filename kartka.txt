@@ -2,19 +2,18 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,28/04/2022 18:10
+,,28/04/2022 18:58
 PRZEDMIOT,Brakuje,Priorytet
-"woda w małych butelkach, w tym z dziubkiem",-1252 szt.,1. Pilnie potrzebne
-talerzyki jednorazowe duże,1644 szt.,1. Pilnie potrzebne
+"woda w małych butelkach, w tym z dziubkiem",-1276 szt.,1. Pilnie potrzebne
+talerzyki jednorazowe duże,1604 szt.,1. Pilnie potrzebne
 widelce plastikowe,1992 szt.,1. Pilnie potrzebne
 krem do rąk mały 30ml,15 szt.,1. Pilnie potrzebne
-"bielizna męska, majtki-nowe",31 szt.,1. Pilnie potrzebne
-"bielizna dziecięca, majtki- nowe",33 szt.,1. Pilnie potrzebne
+"bielizna dziecięca, majtki- nowe",27 szt.,1. Pilnie potrzebne
 antyperspirant męski,8 szt.,1. Pilnie potrzebne
 walizki na kółkach nowe/ stan bdb. / małe,19 szt.,1. Pilnie potrzebne
 szczotka do włosów,20 szt.,1. Pilnie potrzebne
 dresy chłopięce spodnie S/M,8 szt,1. Pilnie potrzebne
-dresy damskie spodnie S,10 szt,1. Pilnie potrzebne
+dresy damskie spodnie S,9 szt,1. Pilnie potrzebne
 dresy damskie bluza S,10 szt.,1. Pilnie potrzebne
 dresy damskie bluza L,10 szt.,1. Pilnie potrzebne
 taśma pakowa brązowa szeroka,19 szt,1. Pilnie potrzebne
@@ -31,6 +30,7 @@ talerzyki jednorazowe małe,320 szt.,2. Potrzebne
 walizki na kółkach nowe/ stan bdb. / duze,6 szt.,2. Potrzebne
 klapki wielorazowe męskie - rozm. 41-46,6 par.,2. Potrzebne
 maszynki jednorazowe do golenia męskie,3 szt.,2. Potrzebne
+"bielizna męska, majtki-nowe",25 szt.,2. Potrzebne
 dresy damskie spodnie XL-3XL,5 szt.,2. Potrzebne
 buty sportowe męskie - rozm. 40-45 nowe,11 szt.,2. Potrzebne
 rajstopy damskie - różne rozmiary,1 szt,2. Potrzebne
@@ -42,7 +42,6 @@ chleb krojony (nie tostowy!),0 szt.,3. Mamy wystarczająco
 ketchup łagodny,0 szt.,3. Mamy wystarczająco
 majonez,0 szt.,3. Mamy wystarczająco
 kubeczki do zimnych napojów plastikowe,-500 szt.,3. Mamy wystarczająco
-tacki papierowe jednorazowe małe prostokątne,-60 szt.,3. Mamy wystarczająco
 opakowania rękawiczek lateksowych S,0 szt.,3. Mamy wystarczająco
 opakowania rękawiczek lateksowych M,0 szt.,3. Mamy wystarczająco
 opakowania rękawiczek lateksowych L,0 szt.,3. Mamy wystarczająco
@@ -110,9 +109,10 @@ cukier 1 kg,-23 kg,4. Mamy nadmiar
 pieprz mała torebka,-3 szt.,4. Mamy nadmiar
 musztarda,-2 szt.,4. Mamy nadmiar
 łyżki duże plastikowe,-1290 szt.,4. Mamy nadmiar
-łyżeczki plastikowe,-2100 szt.,4. Mamy nadmiar
+łyżeczki plastikowe,-2900 szt.,4. Mamy nadmiar
 noże plastikowe,-4800 szt.,4. Mamy nadmiar
 kubeczki do ciepłych napojów papierowe/styropianowe,-2800 szt.,4. Mamy nadmiar
+tacki papierowe jednorazowe małe prostokątne,-260 szt.,4. Mamy nadmiar
 miski papierowe do ciepłych posiłków,-6370 szt.,4. Mamy nadmiar
 Kawa inka ,-7 szt.,4. Mamy nadmiar
 zmywaki lub gąbki do naczyń,-64 opak.,4. Mamy nadmiar
@@ -129,8 +129,8 @@ karma dla kotełków,-43 szt.,4. Mamy nadmiar
 szampon do włosów travel size 30-50ml,-632 szt.,4. Mamy nadmiar
 "pampersy dziecięce/pieluchomajtki, rozm. 0-6 ",-1982 szt.,4. Mamy nadmiar
 proszek do prania,-2 szt.,4. Mamy nadmiar
-"leginsy damskie M, L, XL",-12 szt.,4. Mamy nadmiar
-dresy damskie spodnie M,-10 szt.,4. Mamy nadmiar
+"leginsy damskie M, L, XL",-13 szt.,4. Mamy nadmiar
+dresy damskie spodnie M,-11 szt.,4. Mamy nadmiar
 balsam do ciała mały 20-50ml,-916 szt.,4. Mamy nadmiar
 szczoteczki do zębów dla dzieci,-161 szt.,4. Mamy nadmiar
 podpaski/tampony,-649 szt.,4. Mamy nadmiar
