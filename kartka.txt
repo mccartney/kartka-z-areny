@@ -2,10 +2,10 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,28/04/2022 13:14
+,,28/04/2022 13:25
 PRZEDMIOT,Brakuje,Priorytet
 "woda w małych butelkach, w tym z dziubkiem",-1252 szt.,1. Pilnie potrzebne
-talerzyki jednorazowe małe,2000 szt.,1. Pilnie potrzebne
+talerzyki jednorazowe duże,1644 szt.,1. Pilnie potrzebne
 widelce plastikowe,1992 szt.,1. Pilnie potrzebne
 krem do rąk mały 30ml,20 szt.,1. Pilnie potrzebne
 maszynki jednorazowe do golenia męskie,20 szt.,1. Pilnie potrzebne
@@ -29,6 +29,7 @@ ogórki świeże,5 Kg,2. Potrzebne
 pomidory,1 kg,2. Potrzebne
 żelki w małych opakowaniach/guma rozpuszczalna (mikroporcje pakowane oddzielnie),9 szt.,2. Potrzebne
 batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),9 szt.,2. Potrzebne
+talerzyki jednorazowe małe,320 szt.,2. Potrzebne
 walizki na kółkach nowe/ stan bdb. / duze,6 szt.,2. Potrzebne
 klapki wielorazowe męskie - rozm. 41-46,6 par.,2. Potrzebne
 dresy damskie spodnie XL-3XL,5 szt.,2. Potrzebne
@@ -37,13 +38,12 @@ rajstopy damskie - różne rozmiary,1 szt,2. Potrzebne
 t-shirt męski M,2 szt,2. Potrzebne
 t-shirt męski L,2 szt,2. Potrzebne
 "plecaki małe, nerki na dokumenty",5 szt,2. Potrzebne
-mleko 1L,-2 szt.,3. Mamy wystarczająco
 kefir/jogurt naturalny pitny lub w małych kubeczkach,0 szt.,3. Mamy wystarczająco
 chleb krojony (nie tostowy!),0 szt.,3. Mamy wystarczająco
 ketchup łagodny,0 szt.,3. Mamy wystarczająco
 majonez,0 szt.,3. Mamy wystarczająco
 kubeczki do zimnych napojów plastikowe,-500 szt.,3. Mamy wystarczająco
-kubeczki do ciepłych napojów papierowe/styropianowe,-500 szt.,3. Mamy wystarczająco
+tacki papierowe jednorazowe małe prostokątne,-60 szt.,3. Mamy wystarczająco
 opakowania rękawiczek lateksowych S,0 szt.,3. Mamy wystarczająco
 opakowania rękawiczek lateksowych M,0 szt.,3. Mamy wystarczająco
 opakowania rękawiczek lateksowych L,0 szt.,3. Mamy wystarczająco
@@ -75,6 +75,7 @@ buty sportowe dziecięce - rozm. 23-35 nowe,-1 szt.,3. Mamy wystarczająco
 plastry na halluksy ,0 szt.,3. Mamy wystarczająco
 plastry uniwersalne zestaw,0 szt.,3. Mamy wystarczająco
 suszarka rozkładana na pranie,0 szt,3. Mamy wystarczająco
+mleko 1L,-65 szt.,4. Mamy nadmiar
 mleko roślinne różne rodzaje,-5 szt.,4. Mamy nadmiar
 jogurt pitny lub w małych kubeczkach różne rodzaje,-20 szt.,4. Mamy nadmiar
 jogurty wegańskie różne rodzaje,-6 szt.,4. Mamy nadmiar
@@ -110,11 +111,10 @@ dżem,-29 szt.,4. Mamy nadmiar
 cukier 1 kg,-23 kg,4. Mamy nadmiar
 pieprz mała torebka,-3 szt.,4. Mamy nadmiar
 musztarda,-2 szt.,4. Mamy nadmiar
-talerzyki jednorazowe duże,-1188 szt.,4. Mamy nadmiar
-łyżki duże plastikowe,-1200 szt.,4. Mamy nadmiar
-łyżeczki plastikowe,-800 szt.,4. Mamy nadmiar
+łyżki duże plastikowe,-1290 szt.,4. Mamy nadmiar
+łyżeczki plastikowe,-2100 szt.,4. Mamy nadmiar
 noże plastikowe,-4800 szt.,4. Mamy nadmiar
-tacki papierowe jednorazowe małe prostokątne,-160 szt.,4. Mamy nadmiar
+kubeczki do ciepłych napojów papierowe/styropianowe,-2800 szt.,4. Mamy nadmiar
 miski papierowe do ciepłych posiłków,-6370 szt.,4. Mamy nadmiar
 Kawa inka ,-7 szt.,4. Mamy nadmiar
 zmywaki lub gąbki do naczyń,-64 opak.,4. Mamy nadmiar
