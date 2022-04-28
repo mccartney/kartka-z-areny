@@ -2,17 +2,20 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 ,,Ostatnia aktualizacja
-,,27/04/2022 23:09
+,,28/04/2022 13:14
 PRZEDMIOT,Brakuje,Priorytet
-"woda w małych butelkach, w tym z dziubkiem",-218 szt.,1. Pilnie potrzebne
+"woda w małych butelkach, w tym z dziubkiem",-1252 szt.,1. Pilnie potrzebne
+talerzyki jednorazowe małe,2000 szt.,1. Pilnie potrzebne
 widelce plastikowe,1992 szt.,1. Pilnie potrzebne
 krem do rąk mały 30ml,20 szt.,1. Pilnie potrzebne
+maszynki jednorazowe do golenia męskie,20 szt.,1. Pilnie potrzebne
 kremy nawilżające do twarzy 15-30ml,20 szt.,1. Pilnie potrzebne
 "bielizna męska, majtki-nowe",31 szt.,1. Pilnie potrzebne
 "bielizna dziecięca, majtki- nowe",33 szt.,1. Pilnie potrzebne
 walizki na kółkach nowe/ stan bdb. / małe,19 szt.,1. Pilnie potrzebne
 szczotka do włosów,20 szt.,1. Pilnie potrzebne
 dresy chłopięce spodnie S/M,8 szt,1. Pilnie potrzebne
+maszynki jednorazowe do golenia damskie,20 szt,1. Pilnie potrzebne
 dresy damskie spodnie S,10 szt,1. Pilnie potrzebne
 dresy damskie bluza S,10 szt.,1. Pilnie potrzebne
 dresy damskie bluza L,10 szt.,1. Pilnie potrzebne
@@ -40,7 +43,7 @@ chleb krojony (nie tostowy!),0 szt.,3. Mamy wystarczająco
 ketchup łagodny,0 szt.,3. Mamy wystarczająco
 majonez,0 szt.,3. Mamy wystarczająco
 kubeczki do zimnych napojów plastikowe,-500 szt.,3. Mamy wystarczająco
-miski papierowe do ciepłych posiłków,-370 szt.,3. Mamy wystarczająco
+kubeczki do ciepłych napojów papierowe/styropianowe,-500 szt.,3. Mamy wystarczająco
 opakowania rękawiczek lateksowych S,0 szt.,3. Mamy wystarczająco
 opakowania rękawiczek lateksowych M,0 szt.,3. Mamy wystarczająco
 opakowania rękawiczek lateksowych L,0 szt.,3. Mamy wystarczająco
@@ -107,13 +110,12 @@ dżem,-29 szt.,4. Mamy nadmiar
 cukier 1 kg,-23 kg,4. Mamy nadmiar
 pieprz mała torebka,-3 szt.,4. Mamy nadmiar
 musztarda,-2 szt.,4. Mamy nadmiar
-talerzyki jednorazowe małe,-4000 szt.,4. Mamy nadmiar
 talerzyki jednorazowe duże,-1188 szt.,4. Mamy nadmiar
 łyżki duże plastikowe,-1200 szt.,4. Mamy nadmiar
 łyżeczki plastikowe,-800 szt.,4. Mamy nadmiar
 noże plastikowe,-4800 szt.,4. Mamy nadmiar
-kubeczki do ciepłych napojów papierowe/styropianowe,-4320 szt.,4. Mamy nadmiar
 tacki papierowe jednorazowe małe prostokątne,-160 szt.,4. Mamy nadmiar
+miski papierowe do ciepłych posiłków,-6370 szt.,4. Mamy nadmiar
 Kawa inka ,-7 szt.,4. Mamy nadmiar
 zmywaki lub gąbki do naczyń,-64 opak.,4. Mamy nadmiar
 pluszaki nowe lub uprane,-250 szt.,4. Mamy nadmiar
@@ -128,7 +130,6 @@ klapki jednorazowe pod prysznic 38-46,-1706 szt.,4. Mamy nadmiar
 karma dla kotełków,-43 szt.,4. Mamy nadmiar
 szampon do włosów travel size 30-50ml,-632 szt.,4. Mamy nadmiar
 "pampersy dziecięce/pieluchomajtki, rozm. 0-6 ",-1982 szt.,4. Mamy nadmiar
-maszynki jednorazowe do golenia męskie,-102 szt.,4. Mamy nadmiar
 proszek do prania,-2 szt.,4. Mamy nadmiar
 "leginsy damskie M, L, XL",-3 szt.,4. Mamy nadmiar
 dresy damskie spodnie M,-10 szt.,4. Mamy nadmiar
@@ -169,7 +170,6 @@ szczoteczki do zębów + pasta 3 gr,-200 szt.,4. Mamy nadmiar
 klapki wielorazowe damskie - rozm. 36-40,-229 szt,4. Mamy nadmiar
 maseczki jednorazowe,-4900 szt,4. Mamy nadmiar
 żel do mycia twarzy  50-100ml,-4 szt,4. Mamy nadmiar
-maszynki jednorazowe do golenia damskie,-12 szt,4. Mamy nadmiar
 gąbka do ciała ,-13 szt,4. Mamy nadmiar
 odżywki do włosów travel size 30-50ml,-90 szt,4. Mamy nadmiar
 stopery do uszu/opaski na oczy,-4400 szt.,4. Mamy nadmiar
@@ -184,7 +184,7 @@ buty sportowe damskie rozm. 36-40 nowe,-56 szt.,4. Mamy nadmiar
 karma dla piesełków - sucha,-39 kg,4. Mamy nadmiar
 żwirek dla kota,-48 kg,4. Mamy nadmiar
 karma dla piesełków - puszka,-20 szt,4. Mamy nadmiar
-antyperspirant damski,-7 szt,4. Mamy nadmiar
+antyperspirant damski,-3 szt,4. Mamy nadmiar
 zestaw do szycia podróżny,-1 szt.,4. Mamy nadmiar
 dresy damskie bluza M,-10 szt.,4. Mamy nadmiar
 dresy damskie bluza XL-3XL,-10 szt.,4. Mamy nadmiar
