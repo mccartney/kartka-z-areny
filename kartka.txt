@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,58,Ostatnia aktualizacja
-,,29/04/2022 14:03
+,,29/04/2022 14:38
 PRZEDMIOT,Brakuje,Priorytet
 "woda w małych butelkach, w tym z dziubkiem",200 szt.,1. Pilnie potrzebne
 talerzyki jednorazowe duże,2000 szt.,1. Pilnie potrzebne
@@ -184,7 +184,7 @@ buty sportowe damskie rozm. 36-40 nowe,-56 szt.,4. Mamy nadmiar
 karma dla piesełków - sucha,-39 kg,4. Mamy nadmiar
 żwirek dla kota,-48 kg,4. Mamy nadmiar
 karma dla piesełków - puszka,-20 szt,4. Mamy nadmiar
-antyperspirant damski,-37 szt,4. Mamy nadmiar
+antyperspirant damski,-33 szt,4. Mamy nadmiar
 zestaw do szycia podróżny,-1 szt.,4. Mamy nadmiar
 dresy damskie bluza M,-10 szt.,4. Mamy nadmiar
 dresy damskie bluza XL-3XL,-10 szt.,4. Mamy nadmiar
