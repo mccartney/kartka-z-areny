@@ -2,23 +2,23 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,58,Ostatnia aktualizacja
-,,29/04/2022 14:38
+,,29/04/2022 17:12
 PRZEDMIOT,Brakuje,Priorytet
 "woda w małych butelkach, w tym z dziubkiem",200 szt.,1. Pilnie potrzebne
 talerzyki jednorazowe duże,2000 szt.,1. Pilnie potrzebne
-widelce plastikowe,1992 szt.,1. Pilnie potrzebne
+widelce plastikowe,1820 szt.,1. Pilnie potrzebne
 łyżeczki plastikowe,2000 szt.,1. Pilnie potrzebne
 "leginsy damskie M, L, XL",10 szt.,1. Pilnie potrzebne
 dresy damskie spodnie M,10 szt.,1. Pilnie potrzebne
 "bielizna męska, majtki-nowe",50 szt.,1. Pilnie potrzebne
 "bielizna dziecięca, majtki- nowe",50 szt.,1. Pilnie potrzebne
 walizki na kółkach nowe/ stan bdb. / małe,19 szt.,1. Pilnie potrzebne
-szczotka do włosów,13 szt.,1. Pilnie potrzebne
+szczotka do włosów,12 szt.,1. Pilnie potrzebne
 dresy chłopięce spodnie S/M,8 szt,1. Pilnie potrzebne
 dresy damskie spodnie S,9 szt,1. Pilnie potrzebne
 dresy damskie bluza S,10 szt.,1. Pilnie potrzebne
 dresy damskie bluza L,10 szt.,1. Pilnie potrzebne
-taśma pakowa brązowa szeroka,19 szt,1. Pilnie potrzebne
+taśma pakowa brązowa szeroka,16 szt,1. Pilnie potrzebne
 dyspenser do taśmy pakowej szerokiej,1 szt,1. Pilnie potrzebne
 taśma biurowa przezroczysta 12mm,20 szt,1. Pilnie potrzebne
 soczki małe z rurką,48 szt.,2. Potrzebne
@@ -28,13 +28,12 @@ ogórki świeże,5 Kg,2. Potrzebne
 pomidory,1 kg,2. Potrzebne
 żelki w małych opakowaniach/guma rozpuszczalna (mikroporcje pakowane oddzielnie),9 szt.,2. Potrzebne
 talerzyki jednorazowe małe,320 szt.,2. Potrzebne
-tacki papierowe jednorazowe małe prostokątne,176 szt.,2. Potrzebne
-walizki na kółkach nowe/ stan bdb. / duze,6 szt.,2. Potrzebne
+walizki na kółkach nowe/ stan bdb. / duze,2 szt.,2. Potrzebne
 krem do rąk mały 30ml,6 szt.,2. Potrzebne
 klapki wielorazowe męskie - rozm. 41-46,6 par.,2. Potrzebne
 antyperspirant męski,4 szt.,2. Potrzebne
 dresy damskie spodnie XL-3XL,5 szt.,2. Potrzebne
-buty sportowe męskie - rozm. 40-45 nowe,11 szt.,2. Potrzebne
+buty sportowe męskie - rozm. 40-45 nowe,13 szt.,2. Potrzebne
 rajstopy damskie - różne rozmiary,1 szt,2. Potrzebne
 t-shirt męski M,2 szt,2. Potrzebne
 t-shirt męski L,2 szt,2. Potrzebne
@@ -102,7 +101,7 @@ sałata lodowa/masłowa,-1 szt.,4. Mamy nadmiar
 ogórki kiszone w wiaderkach małych,-3 szt.,4. Mamy nadmiar
 słoiczki dla dzieci - obiadki różne,-478 szt.,4. Mamy nadmiar
 słoiczki dla dzieci - deserki różne,-62 szt.,4. Mamy nadmiar
-tubki owocowe różne (nielodówkowe),-650 szt.,4. Mamy nadmiar
+tubki owocowe różne (nielodówkowe),-660 szt.,4. Mamy nadmiar
 kaszki dla dzieci/kleiki do samodzielnego przygotowania,-116 szt.,4. Mamy nadmiar
 płatki śniadaniowe różne rodzaje,-12 szt.,4. Mamy nadmiar
 owsianka błyskawiczna kg (lub 20 porcjowanych),-4 szt.,4. Mamy nadmiar
@@ -112,10 +111,11 @@ cukier 1 kg,-23 kg,4. Mamy nadmiar
 pieprz mała torebka,-3 szt.,4. Mamy nadmiar
 musztarda,-2 szt.,4. Mamy nadmiar
 batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),-100 szt.,4. Mamy nadmiar
-łyżki duże plastikowe,-1290 szt.,4. Mamy nadmiar
-noże plastikowe,-4800 szt.,4. Mamy nadmiar
+łyżki duże plastikowe,-1292 szt.,4. Mamy nadmiar
+noże plastikowe,-4860 szt.,4. Mamy nadmiar
 kubeczki do ciepłych napojów papierowe/styropianowe,-2800 szt.,4. Mamy nadmiar
-miski papierowe do ciepłych posiłków,-6370 szt.,4. Mamy nadmiar
+tacki papierowe jednorazowe małe prostokątne,-120 szt.,4. Mamy nadmiar
+miski papierowe do ciepłych posiłków,-6406 szt.,4. Mamy nadmiar
 Kawa inka ,-7 szt.,4. Mamy nadmiar
 zmywaki lub gąbki do naczyń,-64 opak.,4. Mamy nadmiar
 pluszaki nowe lub uprane,-250 szt.,4. Mamy nadmiar
@@ -174,7 +174,7 @@ gąbka do ciała ,-13 szt,4. Mamy nadmiar
 odżywki do włosów travel size 30-50ml,-90 szt,4. Mamy nadmiar
 stopery do uszu/opaski na oczy,-4400 szt.,4. Mamy nadmiar
 worki na śmieci 60L,-20 szt,4. Mamy nadmiar
-torby miękkie podróżne nowe/ stan bdb.,-8 szt,4. Mamy nadmiar
+torby miękkie podróżne nowe/ stan bdb.,-10 szt,4. Mamy nadmiar
 t-shirt męski XL,-4 szt,4. Mamy nadmiar
 waciki do demakijażu,-54 szt,4. Mamy nadmiar
 pasta do zębów dla dorosłych - małe opakowania,-124 szt,4. Mamy nadmiar
