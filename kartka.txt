@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,58,Ostatnia aktualizacja
-,,30/04/2022 16:45
+,,01/05/2022 12:34
 PRZEDMIOT,Brakuje,Priorytet
 "woda w małych butelkach, w tym z dziubkiem",200 szt.,1. Pilnie potrzebne
 talerzyki jednorazowe duże,2000 szt.,1. Pilnie potrzebne
@@ -10,8 +10,7 @@ widelce plastikowe,1740 szt.,1. Pilnie potrzebne
 łyżeczki plastikowe,2000 szt.,1. Pilnie potrzebne
 "leginsy damskie M, L, XL",10 szt.,1. Pilnie potrzebne
 dresy damskie spodnie M,10 szt.,1. Pilnie potrzebne
-"bielizna męska, majtki-nowe",50 szt.,1. Pilnie potrzebne
-"bielizna dziecięca, majtki- nowe",50 szt.,1. Pilnie potrzebne
+"bielizna męska, majtki-nowe",34 szt.,1. Pilnie potrzebne
 walizki na kółkach nowe/ stan bdb. / małe,19 szt.,1. Pilnie potrzebne
 szczotka do włosów,12 szt.,1. Pilnie potrzebne
 dresy chłopięce spodnie S/M,8 szt,1. Pilnie potrzebne
@@ -22,7 +21,7 @@ taśma pakowa brązowa szeroka,16 szt,1. Pilnie potrzebne
 dyspenser do taśmy pakowej szerokiej,1 szt,1. Pilnie potrzebne
 taśma biurowa przezroczysta 12mm,20 szt,1. Pilnie potrzebne
 soczki małe z rurką,48 szt.,2. Potrzebne
-jabłka,5 kg,2. Potrzebne
+jabłka,3 kg,2. Potrzebne
 banany,5 kg,2. Potrzebne
 ogórki świeże,5 Kg,2. Potrzebne
 pomidory,1 kg,2. Potrzebne
@@ -54,6 +53,7 @@ t-shirt damski L,-1 szt.,3. Mamy wystarczająco
 powerbank,0 szt.,3. Mamy wystarczająco
 kremy nawilżające do twarzy 15-30ml,-2 szt.,3. Mamy wystarczająco
 nocnik dla dzieci,0 szt.,3. Mamy wystarczająco
+"bielizna dziecięca, majtki- nowe",-5 szt.,3. Mamy wystarczająco
 ładowarki USB-C,0 szt.,3. Mamy wystarczająco
 krem do twarzy dla dzieci,0 szt.,3. Mamy wystarczająco
 kurtki wiosenne,0 szt.,3. Mamy wystarczająco
@@ -114,7 +114,7 @@ batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),-100 szt
 łyżki duże plastikowe,-1492 szt.,4. Mamy nadmiar
 noże plastikowe,-4860 szt.,4. Mamy nadmiar
 kubeczki do ciepłych napojów papierowe/styropianowe,-2800 szt.,4. Mamy nadmiar
-tacki papierowe jednorazowe małe prostokątne,-120 szt.,4. Mamy nadmiar
+tacki papierowe jednorazowe małe prostokątne,-456 szt.,4. Mamy nadmiar
 miski papierowe do ciepłych posiłków,-6406 szt.,4. Mamy nadmiar
 Kawa inka ,-7 szt.,4. Mamy nadmiar
 zmywaki lub gąbki do naczyń,-64 opak.,4. Mamy nadmiar
