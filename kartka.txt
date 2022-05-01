@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,58,Ostatnia aktualizacja
-,,01/05/2022 12:34
+,,01/05/2022 15:43
 PRZEDMIOT,Brakuje,Priorytet
 "woda w małych butelkach, w tym z dziubkiem",200 szt.,1. Pilnie potrzebne
 talerzyki jednorazowe duże,2000 szt.,1. Pilnie potrzebne
