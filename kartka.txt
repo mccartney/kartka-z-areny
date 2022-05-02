@@ -2,12 +2,14 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,58,Ostatnia aktualizacja
-,,01/05/2022 15:43
+,,02/05/2022 13:24
 PRZEDMIOT,Brakuje,Priorytet
 "woda w małych butelkach, w tym z dziubkiem",200 szt.,1. Pilnie potrzebne
 talerzyki jednorazowe duże,2000 szt.,1. Pilnie potrzebne
 widelce plastikowe,1740 szt.,1. Pilnie potrzebne
 łyżeczki plastikowe,2000 szt.,1. Pilnie potrzebne
+ręczniki duże kąpielowe,190 szt.,1. Pilnie potrzebne
+t-shirt damski L,10 szt.,1. Pilnie potrzebne
 "leginsy damskie M, L, XL",10 szt.,1. Pilnie potrzebne
 dresy damskie spodnie M,10 szt.,1. Pilnie potrzebne
 "bielizna męska, majtki-nowe",34 szt.,1. Pilnie potrzebne
@@ -15,6 +17,7 @@ walizki na kółkach nowe/ stan bdb. / małe,19 szt.,1. Pilnie potrzebne
 szczotka do włosów,12 szt.,1. Pilnie potrzebne
 dresy chłopięce spodnie S/M,8 szt,1. Pilnie potrzebne
 dresy damskie spodnie S,9 szt,1. Pilnie potrzebne
+antyperspirant damski,7 szt,1. Pilnie potrzebne
 dresy damskie bluza S,10 szt.,1. Pilnie potrzebne
 dresy damskie bluza L,10 szt.,1. Pilnie potrzebne
 taśma pakowa brązowa szeroka,16 szt,1. Pilnie potrzebne
@@ -49,7 +52,6 @@ worki na smieci 35L,0 szt.,3. Mamy wystarczająco
 przewijak,0 szt.,3. Mamy wystarczająco
 plecaki duże,0 szt.,3. Mamy wystarczająco
 szelki dla kota,0 szt,3. Mamy wystarczająco
-t-shirt damski L,-1 szt.,3. Mamy wystarczająco
 powerbank,0 szt.,3. Mamy wystarczająco
 kremy nawilżające do twarzy 15-30ml,-2 szt.,3. Mamy wystarczająco
 nocnik dla dzieci,0 szt.,3. Mamy wystarczająco
@@ -125,7 +127,6 @@ krem/puder do pupy dla dzieci,-11 szt.,4. Mamy nadmiar
 mydło w płynie,-135 szt.,4. Mamy nadmiar
 baterie paluszki AAA,-102 szt.,4. Mamy nadmiar
 pieluchomajtki dla dorosłych M-L,-10 opak.,4. Mamy nadmiar
-ręczniki duże kąpielowe,-507 szt.,4. Mamy nadmiar
 klapki jednorazowe pod prysznic 38-46,-1706 szt.,4. Mamy nadmiar
 karma dla kotełków,-43 szt.,4. Mamy nadmiar
 szampon do włosów travel size 30-50ml,-632 szt.,4. Mamy nadmiar
@@ -184,7 +185,6 @@ buty sportowe damskie rozm. 36-40 nowe,-56 szt.,4. Mamy nadmiar
 karma dla piesełków - sucha,-39 kg,4. Mamy nadmiar
 żwirek dla kota,-48 kg,4. Mamy nadmiar
 karma dla piesełków - puszka,-20 szt,4. Mamy nadmiar
-antyperspirant damski,-33 szt,4. Mamy nadmiar
 zestaw do szycia podróżny,-1 szt.,4. Mamy nadmiar
 dresy damskie bluza M,-10 szt.,4. Mamy nadmiar
 dresy damskie bluza XL-3XL,-10 szt.,4. Mamy nadmiar
