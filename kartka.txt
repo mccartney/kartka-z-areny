@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,58,Ostatnia aktualizacja
-,,04/05/2022 14:54
+,,04/05/2022 22:13
 PRZEDMIOT,Brakuje,Priorytet
 "woda w małych butelkach, w tym z dziubkiem",200 szt.,1. Pilnie potrzebne
 talerzyki jednorazowe duże,2000 szt.,1. Pilnie potrzebne
@@ -37,6 +37,7 @@ ogórki świeże,5 Kg,2. Potrzebne
 pomidory,1 kg,2. Potrzebne
 żelki w małych opakowaniach/guma rozpuszczalna (mikroporcje pakowane oddzielnie),9 szt.,2. Potrzebne
 talerzyki jednorazowe małe,320 szt.,2. Potrzebne
+walizki na kółkach nowe/ stan bdb. / duze,5 szt.,2. Potrzebne
 krem do rąk mały 30ml,6 szt.,2. Potrzebne
 klapki wielorazowe męskie - rozm. 41-46,6 par.,2. Potrzebne
 worki na śmieci 160L,10 opak.,2. Potrzebne
@@ -51,7 +52,6 @@ kubeczki do zimnych napojów plastikowe,-500 szt.,3. Mamy wystarczająco
 opakowania rękawiczek lateksowych S,0 szt.,3. Mamy wystarczająco
 opakowania rękawiczek lateksowych M,0 szt.,3. Mamy wystarczająco
 opakowania rękawiczek lateksowych L,0 szt.,3. Mamy wystarczająco
-walizki na kółkach nowe/ stan bdb. / duze,0 szt.,3. Mamy wystarczająco
 mydelniczki/opakowania na szczoteczki ,0 szt.,3. Mamy wystarczająco
 worki na smieci 35L,0 szt.,3. Mamy wystarczająco
 przewijak,0 szt.,3. Mamy wystarczająco
@@ -134,7 +134,7 @@ szampon do włosów travel size 30-50ml,-632 szt.,4. Mamy nadmiar
 maszynki jednorazowe do golenia męskie,-5 szt.,4. Mamy nadmiar
 proszek do prania,-2 szt.,4. Mamy nadmiar
 balsam do ciała mały 20-50ml,-916 szt.,4. Mamy nadmiar
-szczoteczki do zębów dla dzieci,-161 szt.,4. Mamy nadmiar
+szczoteczki do zębów dla dzieci,-130 szt.,4. Mamy nadmiar
 podpaski/tampony,-649 szt.,4. Mamy nadmiar
 podkładki dla dzieci/ dorosłych Seni,-208 szt.,4. Mamy nadmiar
 klapki wielorazowe dziecięce - rozm. 23-35,-60 par.,4. Mamy nadmiar
@@ -181,7 +181,7 @@ pasta do zębów dla dorosłych - małe opakowania,-124 szt,4. Mamy nadmiar
 gumki do włosów / spinki typu wsuwki,-120 szt,4. Mamy nadmiar
 krem po goleniu,-3 szt,4. Mamy nadmiar
 buty sportowe damskie rozm. 36-40 nowe,-56 szt.,4. Mamy nadmiar
-karma dla piesełków - sucha,-39 kg,4. Mamy nadmiar
+karma dla piesełków - sucha,-34 kg,4. Mamy nadmiar
 żwirek dla kota,-48 kg,4. Mamy nadmiar
 karma dla piesełków - puszka,-20 szt,4. Mamy nadmiar
 antyperspirant damski,-4 szt,4. Mamy nadmiar
