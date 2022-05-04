@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,58,Ostatnia aktualizacja
-,,04/05/2022 13:00
+,,04/05/2022 14:07
 PRZEDMIOT,Brakuje,Priorytet
 "woda w małych butelkach, w tym z dziubkiem",200 szt.,1. Pilnie potrzebne
 talerzyki jednorazowe duże,2000 szt.,1. Pilnie potrzebne
@@ -78,7 +78,7 @@ wielorazowe torby na zakupy,0 szt,3. Mamy wystarczająco
 plastry na halluksy ,0 szt.,3. Mamy wystarczająco
 plastry uniwersalne zestaw,0 szt.,3. Mamy wystarczająco
 suszarka rozkładana na pranie,0 szt,3. Mamy wystarczająco
-mleko 1L,-65 szt.,4. Mamy nadmiar
+mleko 1L,-89 szt.,4. Mamy nadmiar
 mleko roślinne różne rodzaje,-5 szt.,4. Mamy nadmiar
 kefir/jogurt naturalny pitny lub w małych kubeczkach,-20 szt.,4. Mamy nadmiar
 jogurt pitny lub w małych kubeczkach różne rodzaje,-50 szt.,4. Mamy nadmiar
