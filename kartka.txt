@@ -2,11 +2,11 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,20,Ostatnia aktualizacja
-,,05/05/2022 12:10
+,,05/05/2022 13:08
 PRZEDMIOT,Brakuje,Priorytet
 soczki małe z rurką,150 szt.,1. Pilnie potrzebne
-wędlina/kiełbasa krojona paczkowana,20 szt.,1. Pilnie potrzebne
-talerzyki jednorazowe duże,1219 szt.,1. Pilnie potrzebne
+wędlina/kiełbasa krojona paczkowana,12 szt.,1. Pilnie potrzebne
+talerzyki jednorazowe duże,1019 szt.,1. Pilnie potrzebne
 widelce plastikowe,1520 szt.,1. Pilnie potrzebne
 ręczniki duże kąpielowe,200 szt.,1. Pilnie potrzebne
 plecaki duże,5 szt.,1. Pilnie potrzebne
@@ -30,6 +30,7 @@ dresy damskie bluza L,10 szt.,1. Pilnie potrzebne
 taśma pakowa brązowa szeroka,15 szt,1. Pilnie potrzebne
 dyspenser do taśmy pakowej szerokiej,1 szt,1. Pilnie potrzebne
 taśma biurowa przezroczysta 12mm,20 szt,1. Pilnie potrzebne
+parówki małe opakowania,13 szt.,2. Potrzebne
 jabłka,3 kg,2. Potrzebne
 banany,4 kg,2. Potrzebne
 ogórki świeże,5 Kg,2. Potrzebne
@@ -92,8 +93,7 @@ kawa mielona 250 gram,-80 szt.,4. Mamy nadmiar
 kakao rozpuszczalne + czekolada rozpuszczalna,-5 szt.,4. Mamy nadmiar
 chleb tostowy,-24 szt.,4. Mamy nadmiar
 kabanosy małe opakowania,-23 szt.,4. Mamy nadmiar
-parówki małe opakowania,-30 szt.,4. Mamy nadmiar
-ser żółty krojony paczkowany,-40 szt.,4. Mamy nadmiar
+ser żółty krojony paczkowany,-4 szt.,4. Mamy nadmiar
 hummus,-2 szt.,4. Mamy nadmiar
 parówki/kabanosy wegańskie,-2 szt.,4. Mamy nadmiar
 pasty kanapkowe wegańskie- różne rodzaje,-25 szt.,4. Mamy nadmiar
