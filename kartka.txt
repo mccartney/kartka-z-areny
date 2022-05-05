@@ -2,16 +2,14 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,20,Ostatnia aktualizacja
-,,05/05/2022 08:11
+,,05/05/2022 09:01
 PRZEDMIOT,Brakuje,Priorytet
-"woda w małych butelkach, w tym z dziubkiem",200 szt.,1. Pilnie potrzebne
-talerzyki jednorazowe duże,2000 szt.,1. Pilnie potrzebne
+talerzyki jednorazowe duże,1404 szt.,1. Pilnie potrzebne
 widelce plastikowe,1740 szt.,1. Pilnie potrzebne
-łyżeczki plastikowe,2000 szt.,1. Pilnie potrzebne
 ręczniki duże kąpielowe,190 szt.,1. Pilnie potrzebne
 plecaki duże,5 szt.,1. Pilnie potrzebne
 t-shirt damski L,10 szt.,1. Pilnie potrzebne
-"leginsy damskie M, L, XL",10 szt.,1. Pilnie potrzebne
+"leginsy damskie M, L, XL",8 szt.,1. Pilnie potrzebne
 "bielizna męska, majtki-nowe",34 szt.,1. Pilnie potrzebne
 papier toaletowy szary /rolki do dyspenserów łaz.,50 szt.,1. Pilnie potrzebne
 worki na śmieci >240L,9 opak.,1. Pilnie potrzebne
@@ -20,7 +18,6 @@ walizki na kółkach nowe/ stan bdb. / małe,16 szt.,1. Pilnie potrzebne
 szczotka do włosów,16 szt.,1. Pilnie potrzebne
 dresy chłopięce spodnie S/M,8 szt,1. Pilnie potrzebne
 gąbka do ciała ,12 szt,1. Pilnie potrzebne
-rajstopy damskie - różne rozmiary,22 szt,1. Pilnie potrzebne
 t-shirt damski XL,4 szt,1. Pilnie potrzebne
 torby miękkie podróżne nowe/ stan bdb.,3 szt,1. Pilnie potrzebne
 dresy damskie spodnie S,9 szt,1. Pilnie potrzebne
@@ -41,6 +38,7 @@ krem do rąk mały 30ml,6 szt.,2. Potrzebne
 klapki wielorazowe męskie - rozm. 41-46,6 par.,2. Potrzebne
 worki na śmieci 160L,10 opak.,2. Potrzebne
 dresy damskie spodnie XL-3XL,5 szt.,2. Potrzebne
+rajstopy damskie - różne rozmiary,12 szt,2. Potrzebne
 t-shirt męski M,2 szt,2. Potrzebne
 buty sportowe dziecięce - rozm. 23-35 nowe,7 szt.,2. Potrzebne
 chleb krojony (nie tostowy!),0 szt.,3. Mamy wystarczająco
@@ -81,6 +79,7 @@ mleko roślinne różne rodzaje,-5 szt.,4. Mamy nadmiar
 kefir/jogurt naturalny pitny lub w małych kubeczkach,-20 szt.,4. Mamy nadmiar
 jogurt pitny lub w małych kubeczkach różne rodzaje,-50 szt.,4. Mamy nadmiar
 jogurty wegańskie różne rodzaje,-6 szt.,4. Mamy nadmiar
+"woda w małych butelkach, w tym z dziubkiem",-1360 szt.,4. Mamy nadmiar
 duże baniaki z wodą (eden),-3 szt.,4. Mamy nadmiar
 soczki małe z dziubkiem,-27 szt,4. Mamy nadmiar
 soki owocowe litrowe,-23 szt.,4. Mamy nadmiar
@@ -140,7 +139,7 @@ podkładki dla dzieci/ dorosłych Seni,-208 szt.,4. Mamy nadmiar
 klapki wielorazowe dziecięce - rozm. 23-35,-60 par.,4. Mamy nadmiar
 "bielizna damska, majtki- różne rozmiary- nowe",-135 szt.,4. Mamy nadmiar
 "bielizna dziecięca, majtki- nowe",-120 szt.,4. Mamy nadmiar
-ręcznik papierowy - rolka,-468 szt.,4. Mamy nadmiar
+ręcznik papierowy - rolka,-470 szt.,4. Mamy nadmiar
 sznurowadła ,-6 szt.,4. Mamy nadmiar
 szampon do włosów 150-500ml,-17 szt.,4. Mamy nadmiar
 antyperspirant męski,-16 szt.,4. Mamy nadmiar
@@ -164,7 +163,7 @@ baterie paluszki AA,-70 szt.,4. Mamy nadmiar
 notatnik z długopisem zestaw,-12 szt.,4. Mamy nadmiar
 chusteczki do dezynfekcji powierzchni,-86 opak.,4. Mamy nadmiar
 płyn do czyszczenia toalety,-149 opak.,4. Mamy nadmiar
-papier toaletowy /rolki,-850 szt.,4. Mamy nadmiar
+papier toaletowy /rolki,-858 szt.,4. Mamy nadmiar
 szczoteczki do zębów + pasta 3 gr,-192 szt.,4. Mamy nadmiar
 żel antybakteryjny 400-500ml,-281 szt.,4. Mamy nadmiar
 klapki wielorazowe damskie - rozm. 36-40,-294 szt,4. Mamy nadmiar
