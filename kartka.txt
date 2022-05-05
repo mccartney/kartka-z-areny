@@ -2,11 +2,13 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,20,Ostatnia aktualizacja
-,,05/05/2022 11:12
+,,05/05/2022 12:10
 PRZEDMIOT,Brakuje,Priorytet
-talerzyki jednorazowe duże,1380 szt.,1. Pilnie potrzebne
+soczki małe z rurką,150 szt.,1. Pilnie potrzebne
+wędlina/kiełbasa krojona paczkowana,20 szt.,1. Pilnie potrzebne
+talerzyki jednorazowe duże,1219 szt.,1. Pilnie potrzebne
 widelce plastikowe,1520 szt.,1. Pilnie potrzebne
-ręczniki duże kąpielowe,190 szt.,1. Pilnie potrzebne
+ręczniki duże kąpielowe,200 szt.,1. Pilnie potrzebne
 plecaki duże,5 szt.,1. Pilnie potrzebne
 t-shirt damski L,10 szt.,1. Pilnie potrzebne
 "leginsy damskie M, L, XL",8 szt.,1. Pilnie potrzebne
@@ -21,19 +23,18 @@ gąbka do ciała ,12 szt,1. Pilnie potrzebne
 t-shirt damski XL,4 szt,1. Pilnie potrzebne
 torby miękkie podróżne nowe/ stan bdb.,3 szt,1. Pilnie potrzebne
 dresy damskie spodnie S,9 szt,1. Pilnie potrzebne
+gumki do włosów / spinki typu wsuwki,30 szt,1. Pilnie potrzebne
 dresy damskie bluza S,10 szt.,1. Pilnie potrzebne
 dresy damskie bluza L,10 szt.,1. Pilnie potrzebne
 "plecaki małe, nerki na dokumenty",8 szt,1. Pilnie potrzebne
 taśma pakowa brązowa szeroka,15 szt,1. Pilnie potrzebne
 dyspenser do taśmy pakowej szerokiej,1 szt,1. Pilnie potrzebne
 taśma biurowa przezroczysta 12mm,20 szt,1. Pilnie potrzebne
-soczki małe z rurką,48 szt.,2. Potrzebne
 jabłka,3 kg,2. Potrzebne
 banany,4 kg,2. Potrzebne
 ogórki świeże,5 Kg,2. Potrzebne
 pomidory,1 kg,2. Potrzebne
 żelki w małych opakowaniach/guma rozpuszczalna (mikroporcje pakowane oddzielnie),9 szt.,2. Potrzebne
-talerzyki jednorazowe małe,320 szt.,2. Potrzebne
 krem do rąk mały 30ml,6 szt.,2. Potrzebne
 klapki wielorazowe męskie - rozm. 41-46,6 par.,2. Potrzebne
 worki na śmieci 160L,10 opak.,2. Potrzebne
@@ -92,7 +93,6 @@ kakao rozpuszczalne + czekolada rozpuszczalna,-5 szt.,4. Mamy nadmiar
 chleb tostowy,-24 szt.,4. Mamy nadmiar
 kabanosy małe opakowania,-23 szt.,4. Mamy nadmiar
 parówki małe opakowania,-30 szt.,4. Mamy nadmiar
-wędlina/kiełbasa krojona paczkowana,-50 szt.,4. Mamy nadmiar
 ser żółty krojony paczkowany,-40 szt.,4. Mamy nadmiar
 hummus,-2 szt.,4. Mamy nadmiar
 parówki/kabanosy wegańskie,-2 szt.,4. Mamy nadmiar
@@ -112,7 +112,9 @@ dżem,-29 szt.,4. Mamy nadmiar
 pieprz mała torebka,-3 szt.,4. Mamy nadmiar
 musztarda,-2 szt.,4. Mamy nadmiar
 batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),-100 szt.,4. Mamy nadmiar
+talerzyki jednorazowe małe,-4000 szt.,4. Mamy nadmiar
 łyżki duże plastikowe,-1492 szt.,4. Mamy nadmiar
+łyżeczki plastikowe,-1800 szt.,4. Mamy nadmiar
 noże plastikowe,-4860 szt.,4. Mamy nadmiar
 kubeczki do ciepłych napojów papierowe/styropianowe,-2800 szt.,4. Mamy nadmiar
 tacki papierowe jednorazowe małe prostokątne,-456 szt.,4. Mamy nadmiar
@@ -177,7 +179,6 @@ t-shirt męski L,-22 szt,4. Mamy nadmiar
 t-shirt męski XL,-3 szt,4. Mamy nadmiar
 waciki do demakijażu,-54 szt,4. Mamy nadmiar
 pasta do zębów dla dorosłych - małe opakowania,-124 szt,4. Mamy nadmiar
-gumki do włosów / spinki typu wsuwki,-120 szt,4. Mamy nadmiar
 krem po goleniu,-3 szt,4. Mamy nadmiar
 buty sportowe damskie rozm. 36-40 nowe,-56 szt.,4. Mamy nadmiar
 karma dla piesełków - sucha,-34 kg,4. Mamy nadmiar
