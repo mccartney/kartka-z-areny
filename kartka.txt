@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,20,Ostatnia aktualizacja
-,,05/05/2022 06:12
+,,05/05/2022 08:11
 PRZEDMIOT,Brakuje,Priorytet
 "woda w małych butelkach, w tym z dziubkiem",200 szt.,1. Pilnie potrzebne
 talerzyki jednorazowe duże,2000 szt.,1. Pilnie potrzebne
@@ -87,8 +87,8 @@ soki owocowe litrowe,-23 szt.,4. Mamy nadmiar
 herbata czarna,-46 szt.,4. Mamy nadmiar
 "herbata melisa i inne zioła (np. mięta, rumianek), herbata zielon",-26 szt.,4. Mamy nadmiar
 herbata owocowa różne rodzaje,-31 szt,4. Mamy nadmiar
-kawa rozpuszczalna,-48 szt.,4. Mamy nadmiar
-kawa mielona 250 gram,-32 szt.,4. Mamy nadmiar
+kawa rozpuszczalna,-84 szt.,4. Mamy nadmiar
+kawa mielona 250 gram,-80 szt.,4. Mamy nadmiar
 kakao rozpuszczalne + czekolada rozpuszczalna,-5 szt.,4. Mamy nadmiar
 chleb tostowy,-24 szt.,4. Mamy nadmiar
 kabanosy małe opakowania,-23 szt.,4. Mamy nadmiar
