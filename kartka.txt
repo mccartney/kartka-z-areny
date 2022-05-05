@@ -2,15 +2,15 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,20,Ostatnia aktualizacja
-,,05/05/2022 09:01
+,,05/05/2022 09:34
 PRZEDMIOT,Brakuje,Priorytet
 talerzyki jednorazowe duże,1404 szt.,1. Pilnie potrzebne
-widelce plastikowe,1740 szt.,1. Pilnie potrzebne
+widelce plastikowe,1540 szt.,1. Pilnie potrzebne
 ręczniki duże kąpielowe,190 szt.,1. Pilnie potrzebne
 plecaki duże,5 szt.,1. Pilnie potrzebne
 t-shirt damski L,10 szt.,1. Pilnie potrzebne
 "leginsy damskie M, L, XL",8 szt.,1. Pilnie potrzebne
-"bielizna męska, majtki-nowe",34 szt.,1. Pilnie potrzebne
+"bielizna męska, majtki-nowe",32 szt.,1. Pilnie potrzebne
 papier toaletowy szary /rolki do dyspenserów łaz.,50 szt.,1. Pilnie potrzebne
 worki na śmieci >240L,9 opak.,1. Pilnie potrzebne
 buty sportowe męskie - rozm. 40-45 nowe,17 szt.,1. Pilnie potrzebne
@@ -38,7 +38,7 @@ krem do rąk mały 30ml,6 szt.,2. Potrzebne
 klapki wielorazowe męskie - rozm. 41-46,6 par.,2. Potrzebne
 worki na śmieci 160L,10 opak.,2. Potrzebne
 dresy damskie spodnie XL-3XL,5 szt.,2. Potrzebne
-rajstopy damskie - różne rozmiary,12 szt,2. Potrzebne
+rajstopy damskie - różne rozmiary,8 szt,2. Potrzebne
 t-shirt męski M,2 szt,2. Potrzebne
 buty sportowe dziecięce - rozm. 23-35 nowe,7 szt.,2. Potrzebne
 chleb krojony (nie tostowy!),0 szt.,3. Mamy wystarczająco
@@ -120,7 +120,7 @@ miski papierowe do ciepłych posiłków,-6406 szt.,4. Mamy nadmiar
 Kawa inka ,-7 szt.,4. Mamy nadmiar
 zmywaki lub gąbki do naczyń,-64 opak.,4. Mamy nadmiar
 pluszaki nowe lub uprane,-250 szt.,4. Mamy nadmiar
-skarpetki damskie,-73 szt.,4. Mamy nadmiar
+skarpetki damskie,-84 szt.,4. Mamy nadmiar
 rękawice grube wielorazowe,-3 szt.,4. Mamy nadmiar
 krem/puder do pupy dla dzieci,-11 szt.,4. Mamy nadmiar
 mydło w płynie,-105 szt.,4. Mamy nadmiar
@@ -137,7 +137,7 @@ szczoteczki do zębów dla dzieci,-130 szt.,4. Mamy nadmiar
 podpaski/tampony,-649 szt.,4. Mamy nadmiar
 podkładki dla dzieci/ dorosłych Seni,-208 szt.,4. Mamy nadmiar
 klapki wielorazowe dziecięce - rozm. 23-35,-60 par.,4. Mamy nadmiar
-"bielizna damska, majtki- różne rozmiary- nowe",-135 szt.,4. Mamy nadmiar
+"bielizna damska, majtki- różne rozmiary- nowe",-137 szt.,4. Mamy nadmiar
 "bielizna dziecięca, majtki- nowe",-120 szt.,4. Mamy nadmiar
 ręcznik papierowy - rolka,-470 szt.,4. Mamy nadmiar
 sznurowadła ,-6 szt.,4. Mamy nadmiar
