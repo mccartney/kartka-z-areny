@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,20,Ostatnia aktualizacja
-,,05/05/2022 13:08
+,,05/05/2022 13:44
 PRZEDMIOT,Brakuje,Priorytet
 soczki małe z rurką,150 szt.,1. Pilnie potrzebne
 wędlina/kiełbasa krojona paczkowana,12 szt.,1. Pilnie potrzebne
@@ -17,7 +17,6 @@ papier toaletowy szary /rolki do dyspenserów łaz.,50 szt.,1. Pilnie potrzebne
 worki na śmieci >240L,9 opak.,1. Pilnie potrzebne
 buty sportowe męskie - rozm. 40-45 nowe,17 szt.,1. Pilnie potrzebne
 walizki na kółkach nowe/ stan bdb. / małe,16 szt.,1. Pilnie potrzebne
-szczotka do włosów,16 szt.,1. Pilnie potrzebne
 dresy chłopięce spodnie S/M,8 szt,1. Pilnie potrzebne
 gąbka do ciała ,12 szt,1. Pilnie potrzebne
 t-shirt damski XL,4 szt,1. Pilnie potrzebne
@@ -27,9 +26,6 @@ gumki do włosów / spinki typu wsuwki,30 szt,1. Pilnie potrzebne
 dresy damskie bluza S,10 szt.,1. Pilnie potrzebne
 dresy damskie bluza L,10 szt.,1. Pilnie potrzebne
 "plecaki małe, nerki na dokumenty",8 szt,1. Pilnie potrzebne
-taśma pakowa brązowa szeroka,15 szt,1. Pilnie potrzebne
-dyspenser do taśmy pakowej szerokiej,1 szt,1. Pilnie potrzebne
-taśma biurowa przezroczysta 12mm,20 szt,1. Pilnie potrzebne
 parówki małe opakowania,13 szt.,2. Potrzebne
 jabłka,3 kg,2. Potrzebne
 banany,4 kg,2. Potrzebne
@@ -76,6 +72,9 @@ wielorazowe torby na zakupy,0 szt,3. Mamy wystarczająco
 plastry na halluksy ,0 szt.,3. Mamy wystarczająco
 plastry uniwersalne zestaw,0 szt.,3. Mamy wystarczająco
 suszarka rozkładana na pranie,0 szt,3. Mamy wystarczająco
+taśma pakowa brązowa szeroka,0 szt,3. Mamy wystarczająco
+dyspenser do taśmy pakowej szerokiej,0 szt,3. Mamy wystarczająco
+taśma biurowa przezroczysta 12mm,0 szt,3. Mamy wystarczająco
 mleko 1L,-89 szt.,4. Mamy nadmiar
 mleko roślinne różne rodzaje,-5 szt.,4. Mamy nadmiar
 kefir/jogurt naturalny pitny lub w małych kubeczkach,-20 szt.,4. Mamy nadmiar
@@ -159,7 +158,7 @@ chusteczki mokre dla dzieci,-600240 szt.,4. Mamy nadmiar
 żel pod prysznic travel size 35 ml,-392 szt.,4. Mamy nadmiar
 płyn do higieny intymnej mały 20-50ml,-231 szt.,4. Mamy nadmiar
 kosmetyczki małe nowe lub w bdb stanie,-1 szt,4. Mamy nadmiar
-koce dodatkowe,-25 szt,4. Mamy nadmiar
+koce dodatkowe,-21 szt,4. Mamy nadmiar
 słuchawki douszne,-1 szt.,4. Mamy nadmiar
 baterie paluszki AA,-70 szt.,4. Mamy nadmiar
 notatnik z długopisem zestaw,-12 szt.,4. Mamy nadmiar
@@ -168,6 +167,7 @@ płyn do czyszczenia toalety,-149 opak.,4. Mamy nadmiar
 papier toaletowy /rolki,-858 szt.,4. Mamy nadmiar
 szczoteczki do zębów + pasta 3 gr,-192 szt.,4. Mamy nadmiar
 żel antybakteryjny 400-500ml,-281 szt.,4. Mamy nadmiar
+szczotka do włosów,-4 szt.,4. Mamy nadmiar
 klapki wielorazowe damskie - rozm. 36-40,-294 szt,4. Mamy nadmiar
 maseczki jednorazowe,-4900 szt,4. Mamy nadmiar
 żel do mycia twarzy  50-100ml,-4 szt,4. Mamy nadmiar
