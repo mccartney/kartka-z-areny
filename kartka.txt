@@ -2,10 +2,10 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,20,Ostatnia aktualizacja
-,,05/05/2022 09:34
+,,05/05/2022 11:12
 PRZEDMIOT,Brakuje,Priorytet
-talerzyki jednorazowe duże,1404 szt.,1. Pilnie potrzebne
-widelce plastikowe,1540 szt.,1. Pilnie potrzebne
+talerzyki jednorazowe duże,1380 szt.,1. Pilnie potrzebne
+widelce plastikowe,1520 szt.,1. Pilnie potrzebne
 ręczniki duże kąpielowe,190 szt.,1. Pilnie potrzebne
 plecaki duże,5 szt.,1. Pilnie potrzebne
 t-shirt damski L,10 szt.,1. Pilnie potrzebne
@@ -24,12 +24,12 @@ dresy damskie spodnie S,9 szt,1. Pilnie potrzebne
 dresy damskie bluza S,10 szt.,1. Pilnie potrzebne
 dresy damskie bluza L,10 szt.,1. Pilnie potrzebne
 "plecaki małe, nerki na dokumenty",8 szt,1. Pilnie potrzebne
-taśma pakowa brązowa szeroka,16 szt,1. Pilnie potrzebne
+taśma pakowa brązowa szeroka,15 szt,1. Pilnie potrzebne
 dyspenser do taśmy pakowej szerokiej,1 szt,1. Pilnie potrzebne
 taśma biurowa przezroczysta 12mm,20 szt,1. Pilnie potrzebne
 soczki małe z rurką,48 szt.,2. Potrzebne
 jabłka,3 kg,2. Potrzebne
-banany,5 kg,2. Potrzebne
+banany,4 kg,2. Potrzebne
 ogórki świeże,5 Kg,2. Potrzebne
 pomidory,1 kg,2. Potrzebne
 żelki w małych opakowaniach/guma rozpuszczalna (mikroporcje pakowane oddzielnie),9 szt.,2. Potrzebne
@@ -79,7 +79,7 @@ mleko roślinne różne rodzaje,-5 szt.,4. Mamy nadmiar
 kefir/jogurt naturalny pitny lub w małych kubeczkach,-20 szt.,4. Mamy nadmiar
 jogurt pitny lub w małych kubeczkach różne rodzaje,-50 szt.,4. Mamy nadmiar
 jogurty wegańskie różne rodzaje,-6 szt.,4. Mamy nadmiar
-"woda w małych butelkach, w tym z dziubkiem",-1360 szt.,4. Mamy nadmiar
+"woda w małych butelkach, w tym z dziubkiem",-1366 szt.,4. Mamy nadmiar
 duże baniaki z wodą (eden),-3 szt.,4. Mamy nadmiar
 soczki małe z dziubkiem,-27 szt,4. Mamy nadmiar
 soki owocowe litrowe,-23 szt.,4. Mamy nadmiar
