@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,29,Ostatnia aktualizacja
-,,06/05/2022 17:56
+,,06/05/2022 18:40
 PRZEDMIOT,Brakuje,Priorytet
 soczki małe z rurką,150 szt.,1. Pilnie potrzebne
 ketchup łagodny,5 szt.,1. Pilnie potrzebne
@@ -19,7 +19,6 @@ worki na śmieci >240L,9 opak.,1. Pilnie potrzebne
 buty sportowe męskie - rozm. 40-45 nowe,17 szt.,1. Pilnie potrzebne
 walizki na kółkach nowe/ stan bdb. / małe,16 szt.,1. Pilnie potrzebne
 dresy chłopięce spodnie S/M,8 szt,1. Pilnie potrzebne
-gąbka do ciała ,12 szt,1. Pilnie potrzebne
 t-shirt damski XL,4 szt,1. Pilnie potrzebne
 torby miękkie podróżne nowe/ stan bdb.,3 szt,1. Pilnie potrzebne
 dresy damskie spodnie S,9 szt,1. Pilnie potrzebne
@@ -29,18 +28,17 @@ pianka do golenia małe opak.,10 szt,1. Pilnie potrzebne
 "plecaki małe, nerki na dokumenty",8 szt,1. Pilnie potrzebne
 pomidory,1 kg,2. Potrzebne
 płatki śniadaniowe różne rodzaje,5 szt.,2. Potrzebne
-musztarda,2 szt.,2. Potrzebne
-majonez,2 szt.,2. Potrzebne
 krem do rąk mały 30ml,6 szt.,2. Potrzebne
 klapki wielorazowe męskie - rozm. 41-46,6 par.,2. Potrzebne
 worki na śmieci 160L,10 opak.,2. Potrzebne
 dresy damskie spodnie XL-3XL,5 szt.,2. Potrzebne
+gąbka do ciała ,2 szt,2. Potrzebne
 rajstopy damskie - różne rozmiary,7 szt,2. Potrzebne
 t-shirt męski M,2 szt,2. Potrzebne
 buty sportowe dziecięce - rozm. 23-35 nowe,7 szt.,2. Potrzebne
 chleb krojony (nie tostowy!),0 szt.,3. Mamy wystarczająco
 parówki małe opakowania,0 szt.,3. Mamy wystarczająco
-wędlina/kiełbasa krojona paczkowana,0 szt.,3. Mamy wystarczająco
+wędlina/kiełbasa krojona paczkowana,-3 szt.,3. Mamy wystarczająco
 ogórki świeże,0 Kg,3. Mamy wystarczająco
 sałata lodowa/masłowa,0 szt.,3. Mamy wystarczająco
 cukier 1 kg,-3 kg,3. Mamy wystarczająco
@@ -109,6 +107,8 @@ owsianka błyskawiczna kg (lub 20 porcjowanych),-4 szt.,4. Mamy nadmiar
 dżem,-29 szt.,4. Mamy nadmiar
 "sól 0,5 kg",-8 szt.,4. Mamy nadmiar
 pieprz mała torebka,-3 szt.,4. Mamy nadmiar
+musztarda,-6 szt.,4. Mamy nadmiar
+majonez,-1 szt.,4. Mamy nadmiar
 talerzyki jednorazowe małe,-4000 szt.,4. Mamy nadmiar
 łyżki duże plastikowe,-1492 szt.,4. Mamy nadmiar
 łyżeczki plastikowe,-1800 szt.,4. Mamy nadmiar
