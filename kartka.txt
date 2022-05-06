@@ -2,11 +2,10 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,29,Ostatnia aktualizacja
-,,06/05/2022 20:03
+,,06/05/2022 22:11
 PRZEDMIOT,Brakuje,Priorytet
 soczki małe z rurką,130 szt.,1. Pilnie potrzebne
 żelki w małych opakowaniach/guma rozpuszczalna (mikroporcje pakowane oddzielnie),46 szt.,1. Pilnie potrzebne
-talerzyki jednorazowe duże,1019 szt.,1. Pilnie potrzebne
 widelce plastikowe,1520 szt.,1. Pilnie potrzebne
 ręczniki duże kąpielowe,140 szt.,1. Pilnie potrzebne
 plecaki duże,5 szt.,1. Pilnie potrzebne
@@ -24,7 +23,6 @@ dresy damskie bluza S,10 szt.,1. Pilnie potrzebne
 dresy damskie bluza L,9 szt.,1. Pilnie potrzebne
 pianka do golenia małe opak.,10 szt,1. Pilnie potrzebne
 "plecaki małe, nerki na dokumenty",7 szt,1. Pilnie potrzebne
-pomidory,1 kg,2. Potrzebne
 płatki śniadaniowe różne rodzaje,3 szt.,2. Potrzebne
 krem do rąk mały 30ml,6 szt.,2. Potrzebne
 klapki wielorazowe męskie - rozm. 41-46,6 par.,2. Potrzebne
@@ -37,9 +35,11 @@ chleb krojony (nie tostowy!),0 szt.,3. Mamy wystarczająco
 parówki małe opakowania,0 szt.,3. Mamy wystarczająco
 wędlina/kiełbasa krojona paczkowana,-3 szt.,3. Mamy wystarczająco
 ogórki świeże,0 Kg,3. Mamy wystarczająco
+pomidory,0 kg,3. Mamy wystarczająco
 sałata lodowa/masłowa,0 szt.,3. Mamy wystarczająco
 cukier 1 kg,-3 kg,3. Mamy wystarczająco
 batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),0 szt.,3. Mamy wystarczająco
+talerzyki jednorazowe duże,0 szt.,3. Mamy wystarczająco
 kubeczki do zimnych napojów plastikowe,-500 szt.,3. Mamy wystarczająco
 opakowania rękawiczek lateksowych S,0 szt.,3. Mamy wystarczająco
 opakowania rękawiczek lateksowych M,0 szt.,3. Mamy wystarczająco
@@ -107,7 +107,7 @@ pieprz mała torebka,-3 szt.,4. Mamy nadmiar
 ketchup łagodny,-2 szt.,4. Mamy nadmiar
 musztarda,-3 szt.,4. Mamy nadmiar
 majonez,-1 szt.,4. Mamy nadmiar
-talerzyki jednorazowe małe,-4000 szt.,4. Mamy nadmiar
+talerzyki jednorazowe małe,-500 szt.,4. Mamy nadmiar
 łyżki duże plastikowe,-1492 szt.,4. Mamy nadmiar
 łyżeczki plastikowe,-1800 szt.,4. Mamy nadmiar
 noże plastikowe,-4860 szt.,4. Mamy nadmiar
