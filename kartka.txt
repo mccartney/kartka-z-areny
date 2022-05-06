@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,20,Ostatnia aktualizacja
-,,05/05/2022 21:55
+,,06/05/2022 10:14
 PRZEDMIOT,Brakuje,Priorytet
 soczki małe z rurką,150 szt.,1. Pilnie potrzebne
 wędlina/kiełbasa krojona paczkowana,12 szt.,1. Pilnie potrzebne
@@ -22,7 +22,6 @@ gąbka do ciała ,12 szt,1. Pilnie potrzebne
 t-shirt damski XL,4 szt,1. Pilnie potrzebne
 torby miękkie podróżne nowe/ stan bdb.,3 szt,1. Pilnie potrzebne
 dresy damskie spodnie S,9 szt,1. Pilnie potrzebne
-gumki do włosów / spinki typu wsuwki,30 szt,1. Pilnie potrzebne
 dresy damskie bluza S,10 szt.,1. Pilnie potrzebne
 dresy damskie bluza L,10 szt.,1. Pilnie potrzebne
 pianka do golenia małe opak.,10 szt,1. Pilnie potrzebne
