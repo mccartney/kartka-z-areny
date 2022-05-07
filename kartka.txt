@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,37,Ostatnia aktualizacja
-,,07/05/2022 15:11
+,,07/05/2022 15:58
 PRZEDMIOT,Brakuje,Priorytet
 duże baniaki z wodą (eden),9 szt.,1. Pilnie potrzebne
 soczki małe z dziubkiem,100 szt,1. Pilnie potrzebne
@@ -35,15 +35,13 @@ dresy damskie spodnie XL-3XL,5 szt.,2. Potrzebne
 rajstopy damskie - różne rozmiary,5 szt,2. Potrzebne
 t-shirt męski M,2 szt,2. Potrzebne
 buty sportowe dziecięce - rozm. 23-35 nowe,7 szt.,2. Potrzebne
-soczki małe z rurką,-9 szt.,3. Mamy wystarczająco
 soki owocowe litrowe,-7 szt.,3. Mamy wystarczająco
-kabanosy małe opakowania,0 szt.,3. Mamy wystarczająco
 banany,0 kg,3. Mamy wystarczająco
 ogórki świeże,0 Kg,3. Mamy wystarczająco
 pomidory,0 kg,3. Mamy wystarczająco
 sałata lodowa/masłowa,0 szt.,3. Mamy wystarczająco
 żelki w małych opakowaniach/guma rozpuszczalna (mikroporcje pakowane oddzielnie),-1 szt.,3. Mamy wystarczająco
-batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),0 szt.,3. Mamy wystarczająco
+batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),-24 szt.,3. Mamy wystarczająco
 walizki na kółkach nowe/ stan bdb. / duze,0 szt.,3. Mamy wystarczająco
 mydelniczki/opakowania na szczoteczki ,0 szt.,3. Mamy wystarczająco
 worki na smieci 35L,0 szt.,3. Mamy wystarczająco
@@ -77,6 +75,7 @@ mleko roślinne różne rodzaje,-4 szt.,4. Mamy nadmiar
 kefir/jogurt naturalny pitny lub w małych kubeczkach,-28 szt.,4. Mamy nadmiar
 jogurt pitny lub w małych kubeczkach różne rodzaje,-121 szt.,4. Mamy nadmiar
 jogurty wegańskie różne rodzaje,-11 szt.,4. Mamy nadmiar
+soczki małe z rurką,-57 szt.,4. Mamy nadmiar
 herbata czarna,-30 szt.,4. Mamy nadmiar
 "herbata melisa i inne zioła (np. mięta, rumianek), herbata zielon",-20 szt.,4. Mamy nadmiar
 herbata owocowa różne rodzaje,-16 szt,4. Mamy nadmiar
@@ -85,6 +84,7 @@ kawa mielona 250 gram,-54 szt.,4. Mamy nadmiar
 kakao rozpuszczalne + czekolada rozpuszczalna,-1 szt.,4. Mamy nadmiar
 chleb krojony (nie tostowy!),-7 szt.,4. Mamy nadmiar
 chleb tostowy,-4 szt.,4. Mamy nadmiar
+kabanosy małe opakowania,-9 szt.,4. Mamy nadmiar
 parówki małe opakowania,-6 szt.,4. Mamy nadmiar
 wędlina/kiełbasa krojona paczkowana,-5 szt.,4. Mamy nadmiar
 ser żółty krojony paczkowany,-20 szt.,4. Mamy nadmiar
@@ -95,7 +95,7 @@ papryka czerwona,-2 kg,4. Mamy nadmiar
 ogórki kiszone w wiaderkach małych,-2 szt.,4. Mamy nadmiar
 słoiczki dla dzieci - obiadki różne,-432 szt.,4. Mamy nadmiar
 słoiczki dla dzieci - deserki różne,-205 szt.,4. Mamy nadmiar
-tubki owocowe różne (nielodówkowe),-150 szt.,4. Mamy nadmiar
+tubki owocowe różne (nielodówkowe),-162 szt.,4. Mamy nadmiar
 kaszki dla dzieci/kleiki do samodzielnego przygotowania,-127 szt.,4. Mamy nadmiar
 dżem,-2 szt.,4. Mamy nadmiar
 "sól 0,5 kg",-4 szt.,4. Mamy nadmiar
