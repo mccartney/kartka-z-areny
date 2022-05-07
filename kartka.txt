@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,37,Ostatnia aktualizacja
-,,07/05/2022 18:27
+,,07/05/2022 19:55
 PRZEDMIOT,Brakuje,Priorytet
 duże baniaki z wodą (eden),9 szt.,1. Pilnie potrzebne
 soczki małe z dziubkiem,100 szt,1. Pilnie potrzebne
@@ -19,6 +19,8 @@ walizki na kółkach nowe/ stan bdb. / małe,16 szt.,1. Pilnie potrzebne
 dresy chłopięce spodnie S/M,8 szt,1. Pilnie potrzebne
 torby miękkie podróżne nowe/ stan bdb.,3 szt,1. Pilnie potrzebne
 dresy damskie spodnie S,9 szt,1. Pilnie potrzebne
+karma dla piesełków - puszka,7 szt,1. Pilnie potrzebne
+antyperspirant damski,8 szt,1. Pilnie potrzebne
 dresy damskie bluza S,10 szt.,1. Pilnie potrzebne
 dresy damskie bluza L,9 szt.,1. Pilnie potrzebne
 pianka do golenia małe opak.,10 szt,1. Pilnie potrzebne
@@ -184,8 +186,6 @@ krem po goleniu,-3 szt,4. Mamy nadmiar
 buty sportowe damskie rozm. 36-40 nowe,-56 szt.,4. Mamy nadmiar
 karma dla piesełków - sucha,-34 kg,4. Mamy nadmiar
 żwirek dla kota,-48 kg,4. Mamy nadmiar
-karma dla piesełków - puszka,-20 szt,4. Mamy nadmiar
-antyperspirant damski,-18 szt,4. Mamy nadmiar
 zestaw do szycia podróżny,-1 szt.,4. Mamy nadmiar
 dresy damskie bluza M,-10 szt.,4. Mamy nadmiar
 dresy damskie bluza XL-3XL,-10 szt.,4. Mamy nadmiar
