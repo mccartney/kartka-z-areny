@@ -2,17 +2,16 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,37,Ostatnia aktualizacja
-,,07/05/2022 18:05
+,,07/05/2022 18:27
 PRZEDMIOT,Brakuje,Priorytet
 duże baniaki z wodą (eden),9 szt.,1. Pilnie potrzebne
 soczki małe z dziubkiem,100 szt,1. Pilnie potrzebne
-owsianka błyskawiczna kg (lub 20 porcjowanych),3 szt.,1. Pilnie potrzebne
 opakowania rękawiczek lateksowych S,3 szt.,1. Pilnie potrzebne
 opakowania rękawiczek lateksowych L,5 szt.,1. Pilnie potrzebne
-ręczniki duże kąpielowe,125 szt.,1. Pilnie potrzebne
+ręczniki duże kąpielowe,118 szt.,1. Pilnie potrzebne
 plecaki duże,5 szt.,1. Pilnie potrzebne
 t-shirt damski L,8 szt.,1. Pilnie potrzebne
-"leginsy damskie M, L, XL",7 szt.,1. Pilnie potrzebne
+"leginsy damskie M, L, XL",6 szt.,1. Pilnie potrzebne
 "bielizna męska, majtki-nowe",32 szt.,1. Pilnie potrzebne
 worki na śmieci >240L,9 opak.,1. Pilnie potrzebne
 buty sportowe męskie - rozm. 40-45 nowe,17 szt.,1. Pilnie potrzebne
@@ -27,7 +26,7 @@ pianka do golenia małe opak.,10 szt,1. Pilnie potrzebne
 "woda w małych butelkach, w tym z dziubkiem",92 szt.,2. Potrzebne
 płatki śniadaniowe różne rodzaje,2 szt.,2. Potrzebne
 widelce plastikowe,350 szt.,2. Potrzebne
-opakowania rękawiczek lateksowych M,2 szt.,2. Potrzebne
+opakowania rękawiczek lateksowych M,1 szt.,2. Potrzebne
 klapki wielorazowe męskie - rozm. 41-46,6 par.,2. Potrzebne
 worki na śmieci 160L,10 opak.,2. Potrzebne
 dresy damskie spodnie XL-3XL,5 szt.,2. Potrzebne
@@ -39,8 +38,7 @@ banany,0 kg,3. Mamy wystarczająco
 ogórki świeże,0 Kg,3. Mamy wystarczająco
 pomidory,0 kg,3. Mamy wystarczająco
 sałata lodowa/masłowa,0 szt.,3. Mamy wystarczająco
-żelki w małych opakowaniach/guma rozpuszczalna (mikroporcje pakowane oddzielnie),-1 szt.,3. Mamy wystarczająco
-batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),-24 szt.,3. Mamy wystarczająco
+żelki w małych opakowaniach/guma rozpuszczalna (mikroporcje pakowane oddzielnie),-3 szt.,3. Mamy wystarczająco
 walizki na kółkach nowe/ stan bdb. / duze,0 szt.,3. Mamy wystarczająco
 mydelniczki/opakowania na szczoteczki ,0 szt.,3. Mamy wystarczająco
 worki na smieci 35L,0 szt.,3. Mamy wystarczająco
@@ -74,7 +72,7 @@ mleko roślinne różne rodzaje,-4 szt.,4. Mamy nadmiar
 kefir/jogurt naturalny pitny lub w małych kubeczkach,-28 szt.,4. Mamy nadmiar
 jogurt pitny lub w małych kubeczkach różne rodzaje,-121 szt.,4. Mamy nadmiar
 jogurty wegańskie różne rodzaje,-11 szt.,4. Mamy nadmiar
-soczki małe z rurką,-57 szt.,4. Mamy nadmiar
+soczki małe z rurką,-121 szt.,4. Mamy nadmiar
 herbata czarna,-30 szt.,4. Mamy nadmiar
 "herbata melisa i inne zioła (np. mięta, rumianek), herbata zielon",-20 szt.,4. Mamy nadmiar
 herbata owocowa różne rodzaje,-16 szt,4. Mamy nadmiar
@@ -96,6 +94,7 @@ słoiczki dla dzieci - obiadki różne,-432 szt.,4. Mamy nadmiar
 słoiczki dla dzieci - deserki różne,-205 szt.,4. Mamy nadmiar
 tubki owocowe różne (nielodówkowe),-162 szt.,4. Mamy nadmiar
 kaszki dla dzieci/kleiki do samodzielnego przygotowania,-127 szt.,4. Mamy nadmiar
+owsianka błyskawiczna kg (lub 20 porcjowanych),-7 szt.,4. Mamy nadmiar
 dżem,-2 szt.,4. Mamy nadmiar
 "sól 0,5 kg",-4 szt.,4. Mamy nadmiar
 cukier 1 kg,-8 kg,4. Mamy nadmiar
@@ -103,6 +102,7 @@ pieprz mała torebka,-7 szt.,4. Mamy nadmiar
 ketchup łagodny,-2 szt.,4. Mamy nadmiar
 musztarda,-3 szt.,4. Mamy nadmiar
 majonez,-1 szt.,4. Mamy nadmiar
+batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),-34 szt.,4. Mamy nadmiar
 talerzyki jednorazowe małe,-12060 szt.,4. Mamy nadmiar
 talerzyki jednorazowe duże,-1360 szt.,4. Mamy nadmiar
 łyżki duże plastikowe,-5460 szt.,4. Mamy nadmiar
@@ -174,8 +174,8 @@ maszynki jednorazowe do golenia damskie,-6 szt,4. Mamy nadmiar
 gąbka do ciała ,-6 szt,4. Mamy nadmiar
 odżywki do włosów travel size 30-50ml,-92 szt,4. Mamy nadmiar
 stopery do uszu/opaski na oczy,-4400 szt.,4. Mamy nadmiar
-worki na śmieci 60L,-20 szt,4. Mamy nadmiar
-t-shirt damski XL,-1 szt,4. Mamy nadmiar
+worki na śmieci 60L,-22 szt,4. Mamy nadmiar
+t-shirt damski XL,-3 szt,4. Mamy nadmiar
 t-shirt męski L,-23 szt,4. Mamy nadmiar
 t-shirt męski XL,-3 szt,4. Mamy nadmiar
 waciki do demakijażu,-54 szt,4. Mamy nadmiar
