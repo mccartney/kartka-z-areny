@@ -2,12 +2,14 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,29,Ostatnia aktualizacja
-,,07/05/2022 12:10
+,,07/05/2022 13:12
 PRZEDMIOT,Brakuje,Priorytet
 jogurty wegańskie różne rodzaje,5 szt.,1. Pilnie potrzebne
 duże baniaki z wodą (eden),9 szt.,1. Pilnie potrzebne
+soczki małe z dziubkiem,100 szt,1. Pilnie potrzebne
+pieprz mała torebka,4 szt.,1. Pilnie potrzebne
 widelce plastikowe,1520 szt.,1. Pilnie potrzebne
-ręczniki duże kąpielowe,140 szt.,1. Pilnie potrzebne
+ręczniki duże kąpielowe,125 szt.,1. Pilnie potrzebne
 plecaki duże,5 szt.,1. Pilnie potrzebne
 t-shirt damski L,8 szt.,1. Pilnie potrzebne
 "leginsy damskie M, L, XL",7 szt.,1. Pilnie potrzebne
@@ -23,10 +25,11 @@ dresy damskie bluza S,10 szt.,1. Pilnie potrzebne
 dresy damskie bluza L,9 szt.,1. Pilnie potrzebne
 pianka do golenia małe opak.,10 szt,1. Pilnie potrzebne
 "plecaki małe, nerki na dokumenty",7 szt,1. Pilnie potrzebne
-soczki małe z rurką,23 szt.,2. Potrzebne
+"woda w małych butelkach, w tym z dziubkiem",92 szt.,2. Potrzebne
 kabanosy małe opakowania,10 szt.,2. Potrzebne
 parówki małe opakowania,4 szt.,2. Potrzebne
 płatki śniadaniowe różne rodzaje,3 szt.,2. Potrzebne
+cukier 1 kg,2 kg,2. Potrzebne
 żelki w małych opakowaniach/guma rozpuszczalna (mikroporcje pakowane oddzielnie),20 szt.,2. Potrzebne
 krem do rąk mały 30ml,6 szt.,2. Potrzebne
 klapki wielorazowe męskie - rozm. 41-46,6 par.,2. Potrzebne
@@ -35,14 +38,14 @@ dresy damskie spodnie XL-3XL,5 szt.,2. Potrzebne
 rajstopy damskie - różne rozmiary,5 szt,2. Potrzebne
 t-shirt męski M,2 szt,2. Potrzebne
 buty sportowe dziecięce - rozm. 23-35 nowe,7 szt.,2. Potrzebne
+soczki małe z rurką,-9 szt.,3. Mamy wystarczająco
 soki owocowe litrowe,-7 szt.,3. Mamy wystarczająco
 banany,0 kg,3. Mamy wystarczająco
 ogórki świeże,0 Kg,3. Mamy wystarczająco
 pomidory,0 kg,3. Mamy wystarczająco
 sałata lodowa/masłowa,0 szt.,3. Mamy wystarczająco
-cukier 1 kg,-3 kg,3. Mamy wystarczająco
 batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),0 szt.,3. Mamy wystarczająco
-talerzyki jednorazowe duże,0 szt.,3. Mamy wystarczająco
+talerzyki jednorazowe duże,-200 szt.,3. Mamy wystarczająco
 kubeczki do zimnych napojów plastikowe,-500 szt.,3. Mamy wystarczająco
 opakowania rękawiczek lateksowych S,0 szt.,3. Mamy wystarczająco
 opakowania rękawiczek lateksowych M,0 szt.,3. Mamy wystarczająco
@@ -79,8 +82,6 @@ mleko 1L,-57 szt.,4. Mamy nadmiar
 mleko roślinne różne rodzaje,-3 szt.,4. Mamy nadmiar
 kefir/jogurt naturalny pitny lub w małych kubeczkach,-28 szt.,4. Mamy nadmiar
 jogurt pitny lub w małych kubeczkach różne rodzaje,-121 szt.,4. Mamy nadmiar
-"woda w małych butelkach, w tym z dziubkiem",-1366 szt.,4. Mamy nadmiar
-soczki małe z dziubkiem,-27 szt,4. Mamy nadmiar
 herbata czarna,-30 szt.,4. Mamy nadmiar
 "herbata melisa i inne zioła (np. mięta, rumianek), herbata zielon",-20 szt.,4. Mamy nadmiar
 herbata owocowa różne rodzaje,-16 szt,4. Mamy nadmiar
@@ -96,14 +97,13 @@ jabłka,-5 kg,4. Mamy nadmiar
 filtry  do kawy rozmiar 4,-1 opak,4. Mamy nadmiar
 papryka czerwona,-2 kg,4. Mamy nadmiar
 ogórki kiszone w wiaderkach małych,-2 szt.,4. Mamy nadmiar
-słoiczki dla dzieci - obiadki różne,-478 szt.,4. Mamy nadmiar
-słoiczki dla dzieci - deserki różne,-62 szt.,4. Mamy nadmiar
+słoiczki dla dzieci - obiadki różne,-432 szt.,4. Mamy nadmiar
+słoiczki dla dzieci - deserki różne,-205 szt.,4. Mamy nadmiar
 tubki owocowe różne (nielodówkowe),-350 szt.,4. Mamy nadmiar
-kaszki dla dzieci/kleiki do samodzielnego przygotowania,-110 szt.,4. Mamy nadmiar
+kaszki dla dzieci/kleiki do samodzielnego przygotowania,-121 szt.,4. Mamy nadmiar
 owsianka błyskawiczna kg (lub 20 porcjowanych),-5 szt.,4. Mamy nadmiar
 dżem,-29 szt.,4. Mamy nadmiar
 "sól 0,5 kg",-4 szt.,4. Mamy nadmiar
-pieprz mała torebka,-3 szt.,4. Mamy nadmiar
 ketchup łagodny,-2 szt.,4. Mamy nadmiar
 musztarda,-3 szt.,4. Mamy nadmiar
 majonez,-1 szt.,4. Mamy nadmiar
