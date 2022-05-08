@@ -2,13 +2,13 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,37,Ostatnia aktualizacja
-,,08/05/2022 07:34
+,,08/05/2022 12:12
 PRZEDMIOT,Brakuje,Priorytet
 duże baniaki z wodą (eden),9 szt.,1. Pilnie potrzebne
 soczki małe z dziubkiem,100 szt,1. Pilnie potrzebne
 chleb krojony (nie tostowy!),6 szt.,1. Pilnie potrzebne
-wędlina/kiełbasa krojona paczkowana,12 szt.,1. Pilnie potrzebne
-ser żółty krojony paczkowany,14 szt.,1. Pilnie potrzebne
+parówki małe opakowania,11 szt.,1. Pilnie potrzebne
+ser żółty krojony paczkowany,11 szt.,1. Pilnie potrzebne
 opakowania rękawiczek lateksowych S,3 szt.,1. Pilnie potrzebne
 opakowania rękawiczek lateksowych L,5 szt.,1. Pilnie potrzebne
 ręczniki duże kąpielowe,118 szt.,1. Pilnie potrzebne
@@ -22,13 +22,12 @@ walizki na kółkach nowe/ stan bdb. / małe,16 szt.,1. Pilnie potrzebne
 dresy chłopięce spodnie S/M,8 szt,1. Pilnie potrzebne
 dresy damskie spodnie S,9 szt,1. Pilnie potrzebne
 karma dla piesełków - puszka,7 szt,1. Pilnie potrzebne
-antyperspirant damski,8 szt,1. Pilnie potrzebne
+antyperspirant damski,10 szt,1. Pilnie potrzebne
 dresy damskie bluza S,10 szt.,1. Pilnie potrzebne
 dresy damskie bluza L,9 szt.,1. Pilnie potrzebne
 pianka do golenia małe opak.,10 szt,1. Pilnie potrzebne
 "plecaki małe, nerki na dokumenty",7 szt,1. Pilnie potrzebne
 "woda w małych butelkach, w tym z dziubkiem",92 szt.,2. Potrzebne
-parówki małe opakowania,2 szt.,2. Potrzebne
 płatki śniadaniowe różne rodzaje,2 szt.,2. Potrzebne
 widelce plastikowe,350 szt.,2. Potrzebne
 opakowania rękawiczek lateksowych M,1 szt.,2. Potrzebne
@@ -75,8 +74,8 @@ dyspenser do taśmy pakowej szerokiej,0 szt,3. Mamy wystarczająco
 taśma biurowa przezroczysta 12mm,0 szt,3. Mamy wystarczająco
 mleko 1L,-57 szt.,4. Mamy nadmiar
 mleko roślinne różne rodzaje,-4 szt.,4. Mamy nadmiar
-kefir/jogurt naturalny pitny lub w małych kubeczkach,-28 szt.,4. Mamy nadmiar
-jogurt pitny lub w małych kubeczkach różne rodzaje,-121 szt.,4. Mamy nadmiar
+kefir/jogurt naturalny pitny lub w małych kubeczkach,-8 szt.,4. Mamy nadmiar
+jogurt pitny lub w małych kubeczkach różne rodzaje,-28 szt.,4. Mamy nadmiar
 jogurty wegańskie różne rodzaje,-11 szt.,4. Mamy nadmiar
 soczki małe z rurką,-121 szt.,4. Mamy nadmiar
 herbata czarna,-30 szt.,4. Mamy nadmiar
@@ -87,6 +86,7 @@ kawa mielona 250 gram,-54 szt.,4. Mamy nadmiar
 kakao rozpuszczalne + czekolada rozpuszczalna,-1 szt.,4. Mamy nadmiar
 chleb tostowy,-5 szt.,4. Mamy nadmiar
 kabanosy małe opakowania,-9 szt.,4. Mamy nadmiar
+wędlina/kiełbasa krojona paczkowana,-5 szt.,4. Mamy nadmiar
 pasty kanapkowe wegańskie- różne rodzaje,-30 szt.,4. Mamy nadmiar
 jabłka,-5 kg,4. Mamy nadmiar
 filtry  do kawy rozmiar 4,-2 opak,4. Mamy nadmiar
