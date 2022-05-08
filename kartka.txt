@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,37,Ostatnia aktualizacja
-,,08/05/2022 19:26
+,,08/05/2022 21:55
 PRZEDMIOT,Brakuje,Priorytet
 duże baniaki z wodą (eden),9 szt.,1. Pilnie potrzebne
 soczki małe z rurką,80 szt.,1. Pilnie potrzebne
@@ -18,6 +18,7 @@ plecaki duże,5 szt.,1. Pilnie potrzebne
 t-shirt damski L,8 szt.,1. Pilnie potrzebne
 "leginsy damskie M, L, XL",6 szt.,1. Pilnie potrzebne
 "bielizna męska, majtki-nowe",32 szt.,1. Pilnie potrzebne
+antyperspirant męski,7 szt.,1. Pilnie potrzebne
 worki na śmieci >240L,9 opak.,1. Pilnie potrzebne
 buty sportowe męskie - rozm. 40-45 nowe,17 szt.,1. Pilnie potrzebne
 walizki na kółkach nowe/ stan bdb. / małe,16 szt.,1. Pilnie potrzebne
@@ -143,7 +144,6 @@ klapki wielorazowe dziecięce - rozm. 23-35,-60 par.,4. Mamy nadmiar
 ręcznik papierowy - rolka,-470 szt.,4. Mamy nadmiar
 sznurowadła ,-6 szt.,4. Mamy nadmiar
 szampon do włosów 150-500ml,-23 szt.,4. Mamy nadmiar
-antyperspirant męski,-16 szt.,4. Mamy nadmiar
 kurtki wiosenne,-11 szt.,4. Mamy nadmiar
 nosidełka dla dzieci,-4 szt,4. Mamy nadmiar
 zmywacz do paznokci,-8 opak.,4. Mamy nadmiar
