@@ -2,10 +2,13 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,37,Ostatnia aktualizacja
-,,07/05/2022 19:55
+,,08/05/2022 07:34
 PRZEDMIOT,Brakuje,Priorytet
 duże baniaki z wodą (eden),9 szt.,1. Pilnie potrzebne
 soczki małe z dziubkiem,100 szt,1. Pilnie potrzebne
+chleb krojony (nie tostowy!),6 szt.,1. Pilnie potrzebne
+wędlina/kiełbasa krojona paczkowana,12 szt.,1. Pilnie potrzebne
+ser żółty krojony paczkowany,14 szt.,1. Pilnie potrzebne
 opakowania rękawiczek lateksowych S,3 szt.,1. Pilnie potrzebne
 opakowania rękawiczek lateksowych L,5 szt.,1. Pilnie potrzebne
 ręczniki duże kąpielowe,118 szt.,1. Pilnie potrzebne
@@ -17,7 +20,6 @@ worki na śmieci >240L,9 opak.,1. Pilnie potrzebne
 buty sportowe męskie - rozm. 40-45 nowe,17 szt.,1. Pilnie potrzebne
 walizki na kółkach nowe/ stan bdb. / małe,16 szt.,1. Pilnie potrzebne
 dresy chłopięce spodnie S/M,8 szt,1. Pilnie potrzebne
-torby miękkie podróżne nowe/ stan bdb.,3 szt,1. Pilnie potrzebne
 dresy damskie spodnie S,9 szt,1. Pilnie potrzebne
 karma dla piesełków - puszka,7 szt,1. Pilnie potrzebne
 antyperspirant damski,8 szt,1. Pilnie potrzebne
@@ -26,6 +28,7 @@ dresy damskie bluza L,9 szt.,1. Pilnie potrzebne
 pianka do golenia małe opak.,10 szt,1. Pilnie potrzebne
 "plecaki małe, nerki na dokumenty",7 szt,1. Pilnie potrzebne
 "woda w małych butelkach, w tym z dziubkiem",92 szt.,2. Potrzebne
+parówki małe opakowania,2 szt.,2. Potrzebne
 płatki śniadaniowe różne rodzaje,2 szt.,2. Potrzebne
 widelce plastikowe,350 szt.,2. Potrzebne
 opakowania rękawiczek lateksowych M,1 szt.,2. Potrzebne
@@ -34,6 +37,7 @@ worki na śmieci 160L,10 opak.,2. Potrzebne
 dresy damskie spodnie XL-3XL,5 szt.,2. Potrzebne
 rajstopy damskie - różne rozmiary,5 szt,2. Potrzebne
 t-shirt męski M,2 szt,2. Potrzebne
+torby miękkie podróżne nowe/ stan bdb.,2 szt,2. Potrzebne
 buty sportowe dziecięce - rozm. 23-35 nowe,7 szt.,2. Potrzebne
 soki owocowe litrowe,-7 szt.,3. Mamy wystarczająco
 banany,0 kg,3. Mamy wystarczająco
@@ -81,12 +85,8 @@ herbata owocowa różne rodzaje,-16 szt,4. Mamy nadmiar
 kawa rozpuszczalna,-10 szt.,4. Mamy nadmiar
 kawa mielona 250 gram,-54 szt.,4. Mamy nadmiar
 kakao rozpuszczalne + czekolada rozpuszczalna,-1 szt.,4. Mamy nadmiar
-chleb krojony (nie tostowy!),-7 szt.,4. Mamy nadmiar
-chleb tostowy,-4 szt.,4. Mamy nadmiar
+chleb tostowy,-5 szt.,4. Mamy nadmiar
 kabanosy małe opakowania,-9 szt.,4. Mamy nadmiar
-parówki małe opakowania,-6 szt.,4. Mamy nadmiar
-wędlina/kiełbasa krojona paczkowana,-5 szt.,4. Mamy nadmiar
-ser żółty krojony paczkowany,-20 szt.,4. Mamy nadmiar
 pasty kanapkowe wegańskie- różne rodzaje,-30 szt.,4. Mamy nadmiar
 jabłka,-5 kg,4. Mamy nadmiar
 filtry  do kawy rozmiar 4,-2 opak,4. Mamy nadmiar
