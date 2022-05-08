@@ -2,12 +2,12 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,37,Ostatnia aktualizacja
-,,08/05/2022 12:12
+,,08/05/2022 12:51
 PRZEDMIOT,Brakuje,Priorytet
 duże baniaki z wodą (eden),9 szt.,1. Pilnie potrzebne
 soczki małe z dziubkiem,100 szt,1. Pilnie potrzebne
 chleb krojony (nie tostowy!),6 szt.,1. Pilnie potrzebne
-parówki małe opakowania,11 szt.,1. Pilnie potrzebne
+chleb tostowy,9 szt.,1. Pilnie potrzebne
 ser żółty krojony paczkowany,11 szt.,1. Pilnie potrzebne
 opakowania rękawiczek lateksowych S,3 szt.,1. Pilnie potrzebne
 opakowania rękawiczek lateksowych L,5 szt.,1. Pilnie potrzebne
@@ -28,7 +28,9 @@ dresy damskie bluza L,9 szt.,1. Pilnie potrzebne
 pianka do golenia małe opak.,10 szt,1. Pilnie potrzebne
 "plecaki małe, nerki na dokumenty",7 szt,1. Pilnie potrzebne
 "woda w małych butelkach, w tym z dziubkiem",92 szt.,2. Potrzebne
+parówki małe opakowania,10 szt.,2. Potrzebne
 płatki śniadaniowe różne rodzaje,2 szt.,2. Potrzebne
+cukier 1 kg,4 kg,2. Potrzebne
 widelce plastikowe,350 szt.,2. Potrzebne
 opakowania rękawiczek lateksowych M,1 szt.,2. Potrzebne
 klapki wielorazowe męskie - rozm. 41-46,6 par.,2. Potrzebne
@@ -84,7 +86,6 @@ herbata owocowa różne rodzaje,-16 szt,4. Mamy nadmiar
 kawa rozpuszczalna,-10 szt.,4. Mamy nadmiar
 kawa mielona 250 gram,-54 szt.,4. Mamy nadmiar
 kakao rozpuszczalne + czekolada rozpuszczalna,-1 szt.,4. Mamy nadmiar
-chleb tostowy,-5 szt.,4. Mamy nadmiar
 kabanosy małe opakowania,-9 szt.,4. Mamy nadmiar
 wędlina/kiełbasa krojona paczkowana,-5 szt.,4. Mamy nadmiar
 pasty kanapkowe wegańskie- różne rodzaje,-30 szt.,4. Mamy nadmiar
@@ -99,7 +100,6 @@ kaszki dla dzieci/kleiki do samodzielnego przygotowania,-127 szt.,4. Mamy nadmia
 owsianka błyskawiczna kg (lub 20 porcjowanych),-7 szt.,4. Mamy nadmiar
 dżem,-2 szt.,4. Mamy nadmiar
 "sól 0,5 kg",-4 szt.,4. Mamy nadmiar
-cukier 1 kg,-8 kg,4. Mamy nadmiar
 pieprz mała torebka,-7 szt.,4. Mamy nadmiar
 ketchup łagodny,-2 szt.,4. Mamy nadmiar
 musztarda,-3 szt.,4. Mamy nadmiar
