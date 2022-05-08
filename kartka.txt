@@ -2,9 +2,10 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,37,Ostatnia aktualizacja
-,,08/05/2022 17:20
+,,08/05/2022 19:26
 PRZEDMIOT,Brakuje,Priorytet
 duże baniaki z wodą (eden),9 szt.,1. Pilnie potrzebne
+soczki małe z rurką,80 szt.,1. Pilnie potrzebne
 soczki małe z dziubkiem,100 szt,1. Pilnie potrzebne
 chleb krojony (nie tostowy!),6 szt.,1. Pilnie potrzebne
 chleb tostowy,9 szt.,1. Pilnie potrzebne
@@ -80,7 +81,6 @@ mleko roślinne różne rodzaje,-4 szt.,4. Mamy nadmiar
 kefir/jogurt naturalny pitny lub w małych kubeczkach,-8 szt.,4. Mamy nadmiar
 jogurt pitny lub w małych kubeczkach różne rodzaje,-28 szt.,4. Mamy nadmiar
 jogurty wegańskie różne rodzaje,-11 szt.,4. Mamy nadmiar
-soczki małe z rurką,-121 szt.,4. Mamy nadmiar
 herbata czarna,-30 szt.,4. Mamy nadmiar
 "herbata melisa i inne zioła (np. mięta, rumianek), herbata zielon",-20 szt.,4. Mamy nadmiar
 herbata owocowa różne rodzaje,-16 szt,4. Mamy nadmiar
