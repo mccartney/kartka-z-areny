@@ -2,12 +2,13 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,37,Ostatnia aktualizacja
-,,08/05/2022 12:51
+,,08/05/2022 16:45
 PRZEDMIOT,Brakuje,Priorytet
 duże baniaki z wodą (eden),9 szt.,1. Pilnie potrzebne
 soczki małe z dziubkiem,100 szt,1. Pilnie potrzebne
 chleb krojony (nie tostowy!),6 szt.,1. Pilnie potrzebne
 chleb tostowy,9 szt.,1. Pilnie potrzebne
+parówki małe opakowania,16 szt.,1. Pilnie potrzebne
 ser żółty krojony paczkowany,11 szt.,1. Pilnie potrzebne
 opakowania rękawiczek lateksowych S,3 szt.,1. Pilnie potrzebne
 opakowania rękawiczek lateksowych L,5 szt.,1. Pilnie potrzebne
@@ -28,7 +29,6 @@ dresy damskie bluza L,9 szt.,1. Pilnie potrzebne
 pianka do golenia małe opak.,10 szt,1. Pilnie potrzebne
 "plecaki małe, nerki na dokumenty",7 szt,1. Pilnie potrzebne
 "woda w małych butelkach, w tym z dziubkiem",92 szt.,2. Potrzebne
-parówki małe opakowania,10 szt.,2. Potrzebne
 płatki śniadaniowe różne rodzaje,2 szt.,2. Potrzebne
 cukier 1 kg,4 kg,2. Potrzebne
 widelce plastikowe,350 szt.,2. Potrzebne
@@ -69,7 +69,7 @@ wielorazowe torby na zakupy,0 szt,3. Mamy wystarczająco
 "krem do twarzy z filtrem UV 30, UV50",0 szt,3. Mamy wystarczająco
 "spray oczyszczający, woda morska do nosa, roztwór izotoniczny, 100 ml",0 szt,3. Mamy wystarczająco
 plastry na halluksy ,0 szt.,3. Mamy wystarczająco
-plastry uniwersalne zestaw,0 szt.,3. Mamy wystarczająco
+plastry uniwersalne zestaw,-1 szt.,3. Mamy wystarczająco
 suszarka rozkładana na pranie,0 szt,3. Mamy wystarczająco
 taśma pakowa brązowa szeroka,0 szt,3. Mamy wystarczająco
 dyspenser do taśmy pakowej szerokiej,0 szt,3. Mamy wystarczająco
@@ -150,7 +150,7 @@ zmywacz do paznokci,-8 opak.,4. Mamy nadmiar
 worki na śmieci 120L,-26 opak.,4. Mamy nadmiar
 chusteczki higieniczne małe opak.,-70 szt.,4. Mamy nadmiar
 pomadki do ust/wazelina,-43 szt.,4. Mamy nadmiar
-pasta do zębów dla dzieci,-31 szt.,4. Mamy nadmiar
+pasta do zębów dla dzieci,-33 szt.,4. Mamy nadmiar
 chusteczki nawilżane pakowane,-1012 szt.,4. Mamy nadmiar
 patyczki do uszu ,-27 szt.,4. Mamy nadmiar
 pasta do zębów dla dorosłych - duże opakowania,-312 szt.,4. Mamy nadmiar
