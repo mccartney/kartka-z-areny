@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,37,Ostatnia aktualizacja
-,,08/05/2022 16:45
+,,08/05/2022 17:20
 PRZEDMIOT,Brakuje,Priorytet
 duże baniaki z wodą (eden),9 szt.,1. Pilnie potrzebne
 soczki małe z dziubkiem,100 szt,1. Pilnie potrzebne
@@ -33,6 +33,7 @@ płatki śniadaniowe różne rodzaje,2 szt.,2. Potrzebne
 cukier 1 kg,4 kg,2. Potrzebne
 widelce plastikowe,350 szt.,2. Potrzebne
 opakowania rękawiczek lateksowych M,1 szt.,2. Potrzebne
+skarpetki damskie,5 szt.,2. Potrzebne
 klapki wielorazowe męskie - rozm. 41-46,6 par.,2. Potrzebne
 worki na śmieci 160L,10 opak.,2. Potrzebne
 dresy damskie spodnie XL-3XL,5 szt.,2. Potrzebne
@@ -121,9 +122,8 @@ mleko modyfikowane 12+,-15 szt.,4. Mamy nadmiar
 zmywaki lub gąbki do naczyń,-64 opak.,4. Mamy nadmiar
 krem do rąk mały 30ml,-6 szt.,4. Mamy nadmiar
 pluszaki nowe lub uprane,-250 szt.,4. Mamy nadmiar
-skarpetki damskie,-85 szt.,4. Mamy nadmiar
 rękawice grube wielorazowe,-3 szt.,4. Mamy nadmiar
-krem/puder do pupy dla dzieci,-11 szt.,4. Mamy nadmiar
+krem/puder do pupy dla dzieci,-13 szt.,4. Mamy nadmiar
 mydło w płynie,-105 szt.,4. Mamy nadmiar
 baterie paluszki AAA,-102 szt.,4. Mamy nadmiar
 pieluchomajtki dla dorosłych M-L,-10 opak.,4. Mamy nadmiar
