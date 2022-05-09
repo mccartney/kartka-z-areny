@@ -1,20 +1,19 @@
 PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
-Liczba osób w Arenie,37,Ostatnia aktualizacja
-,,09/05/2022 13:21
+Liczba osób w Arenie,97,Ostatnia aktualizacja
+,,09/05/2022 16:01
 PRZEDMIOT,Brakuje,Priorytet
-skarpetki damskie,45 szt.,1. Pilnie potrzebne
+widelce plastikowe,1800 szt.,1. Pilnie potrzebne
+skarpetki damskie,50 szt.,1. Pilnie potrzebne
 ręczniki duże kąpielowe,118 szt.,1. Pilnie potrzebne
 plecaki duże,5 szt.,1. Pilnie potrzebne
 szelki dla kota,5 szt,1. Pilnie potrzebne
 t-shirt damski L,8 szt.,1. Pilnie potrzebne
 "leginsy damskie M, L, XL",6 szt.,1. Pilnie potrzebne
 "bielizna męska, majtki-nowe",32 szt.,1. Pilnie potrzebne
-worki na śmieci 160L,17 opak.,1. Pilnie potrzebne
 pilnik do paznokci,15 szt.,1. Pilnie potrzebne
 buty sportowe męskie - rozm. 40-45 nowe,17 szt.,1. Pilnie potrzebne
-walizki na kółkach nowe/ stan bdb. / małe,16 szt.,1. Pilnie potrzebne
 dresy chłopięce spodnie S/M,8 szt,1. Pilnie potrzebne
 dresy damskie spodnie S,9 szt,1. Pilnie potrzebne
 karma dla piesełków - puszka,7 szt,1. Pilnie potrzebne
@@ -23,17 +22,17 @@ dresy damskie bluza S,10 szt.,1. Pilnie potrzebne
 dresy damskie bluza L,9 szt.,1. Pilnie potrzebne
 pianka do golenia małe opak.,10 szt,1. Pilnie potrzebne
 soki owocowe litrowe,2 szt.,2. Potrzebne
-parówki małe opakowania,5 szt.,2. Potrzebne
-widelce plastikowe,350 szt.,2. Potrzebne
 klapki wielorazowe męskie - rozm. 41-46,6 par.,2. Potrzebne
 antyperspirant męski,12 szt.,2. Potrzebne
-worki na śmieci >240L,5 opak.,2. Potrzebne
+worki na śmieci 160L,5 opak.,2. Potrzebne
 dresy damskie spodnie XL-3XL,5 szt.,2. Potrzebne
-rajstopy damskie - różne rozmiary,5 szt,2. Potrzebne
+walizki na kółkach nowe/ stan bdb. / małe,2 szt.,2. Potrzebne
+szczotka do włosów,9 szt.,2. Potrzebne
 t-shirt męski M,2 szt,2. Potrzebne
 torby miękkie podróżne nowe/ stan bdb.,2 szt,2. Potrzebne
 buty sportowe dziecięce - rozm. 23-35 nowe,7 szt.,2. Potrzebne
 krem do twarzy 50-100ml,5 szt,2. Potrzebne
+parówki małe opakowania,0 szt.,3. Mamy wystarczająco
 ser żółty krojony paczkowany,-2 szt.,3. Mamy wystarczająco
 banany,0 kg,3. Mamy wystarczająco
 ogórki świeże,0 Kg,3. Mamy wystarczająco
@@ -42,7 +41,7 @@ papryka czerwona,0 kg,3. Mamy wystarczająco
 sałata lodowa/masłowa,0 szt.,3. Mamy wystarczająco
 płatki śniadaniowe różne rodzaje,0 szt.,3. Mamy wystarczająco
 żelki w małych opakowaniach/guma rozpuszczalna (mikroporcje pakowane oddzielnie),-3 szt.,3. Mamy wystarczająco
-walizki na kółkach nowe/ stan bdb. / duze,0 szt.,3. Mamy wystarczająco
+walizki na kółkach nowe/ stan bdb. / duze,-4 szt.,3. Mamy wystarczająco
 mydelniczki/opakowania na szczoteczki ,0 szt.,3. Mamy wystarczająco
 worki na smieci 35L,0 szt.,3. Mamy wystarczająco
 przewijak,0 szt.,3. Mamy wystarczająco
@@ -54,6 +53,7 @@ nocnik dla dzieci,0 szt.,3. Mamy wystarczająco
 papier toaletowy szary /rolki do dyspenserów łaz.,-4 szt.,3. Mamy wystarczająco
 krem do twarzy dla dzieci,0 szt.,3. Mamy wystarczająco
 butelki dla dzieci,0 szt.,3. Mamy wystarczająco
+worki na śmieci >240L,0 opak.,3. Mamy wystarczająco
 worki na śmieci 120L,0 opak.,3. Mamy wystarczająco
 płyn micelarny mały 50-100ml,-1 szt.,3. Mamy wystarczająco
 chusteczki do hig int. małe opakowania,-2 szt.,3. Mamy wystarczająco
@@ -61,6 +61,7 @@ dresy damskie spodnie L,0 szt.,3. Mamy wystarczająco
 obcinacze do paznokci,0 szt.,3. Mamy wystarczająco
 płyn antybakteryjny 5L,0 opak.,3. Mamy wystarczająco
 wielorazowe torby na zakupy,0 szt,3. Mamy wystarczająco
+rajstopy damskie - różne rozmiary,0 szt,3. Mamy wystarczająco
 "krem do twarzy z filtrem UV 30, UV50",0 szt,3. Mamy wystarczająco
 "spray oczyszczający, woda morska do nosa, roztwór izotoniczny, 100 ml",0 szt,3. Mamy wystarczająco
 plastry na halluksy ,0 szt.,3. Mamy wystarczająco
@@ -141,7 +142,7 @@ podkładki dla dzieci/ dorosłych Seni,-208 szt.,4. Mamy nadmiar
 klapki wielorazowe dziecięce - rozm. 23-35,-60 par.,4. Mamy nadmiar
 "bielizna damska, majtki- różne rozmiary- nowe",-137 szt.,4. Mamy nadmiar
 "bielizna dziecięca, majtki- nowe",-120 szt.,4. Mamy nadmiar
-ręcznik papierowy - rolka,-470 szt.,4. Mamy nadmiar
+ręcznik papierowy - rolka,-460 szt.,4. Mamy nadmiar
 sznurowadła ,-6 szt.,4. Mamy nadmiar
 szampon do włosów 150-500ml,-23 szt.,4. Mamy nadmiar
 kurtki wiosenne,-11 szt.,4. Mamy nadmiar
@@ -167,7 +168,6 @@ płyn do czyszczenia toalety,-149 opak.,4. Mamy nadmiar
 papier toaletowy /rolki,-878 szt.,4. Mamy nadmiar
 szczoteczki do zębów + pasta 3 gr,-200 szt.,4. Mamy nadmiar
 żel antybakteryjny 400-500ml,-295 szt.,4. Mamy nadmiar
-szczotka do włosów,-4 szt.,4. Mamy nadmiar
 klapki wielorazowe damskie - rozm. 36-40,-294 szt,4. Mamy nadmiar
 maseczki jednorazowe,-4900 szt,4. Mamy nadmiar
 żel do mycia twarzy  50-100ml,-5 szt,4. Mamy nadmiar
