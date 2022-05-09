@@ -2,15 +2,17 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,37,Ostatnia aktualizacja
-,,09/05/2022 13:09
+,,09/05/2022 13:21
 PRZEDMIOT,Brakuje,Priorytet
 skarpetki damskie,45 szt.,1. Pilnie potrzebne
 ręczniki duże kąpielowe,118 szt.,1. Pilnie potrzebne
 plecaki duże,5 szt.,1. Pilnie potrzebne
+szelki dla kota,5 szt,1. Pilnie potrzebne
 t-shirt damski L,8 szt.,1. Pilnie potrzebne
 "leginsy damskie M, L, XL",6 szt.,1. Pilnie potrzebne
 "bielizna męska, majtki-nowe",32 szt.,1. Pilnie potrzebne
 worki na śmieci 160L,17 opak.,1. Pilnie potrzebne
+pilnik do paznokci,15 szt.,1. Pilnie potrzebne
 buty sportowe męskie - rozm. 40-45 nowe,17 szt.,1. Pilnie potrzebne
 walizki na kółkach nowe/ stan bdb. / małe,16 szt.,1. Pilnie potrzebne
 dresy chłopięce spodnie S/M,8 szt,1. Pilnie potrzebne
@@ -20,7 +22,6 @@ antyperspirant damski,17 szt,1. Pilnie potrzebne
 dresy damskie bluza S,10 szt.,1. Pilnie potrzebne
 dresy damskie bluza L,9 szt.,1. Pilnie potrzebne
 pianka do golenia małe opak.,10 szt,1. Pilnie potrzebne
-"plecaki małe, nerki na dokumenty",7 szt,1. Pilnie potrzebne
 soki owocowe litrowe,2 szt.,2. Potrzebne
 parówki małe opakowania,5 szt.,2. Potrzebne
 widelce plastikowe,350 szt.,2. Potrzebne
@@ -45,7 +46,6 @@ walizki na kółkach nowe/ stan bdb. / duze,0 szt.,3. Mamy wystarczająco
 mydelniczki/opakowania na szczoteczki ,0 szt.,3. Mamy wystarczająco
 worki na smieci 35L,0 szt.,3. Mamy wystarczająco
 przewijak,0 szt.,3. Mamy wystarczająco
-szelki dla kota,0 szt,3. Mamy wystarczająco
 powerbank,0 szt.,3. Mamy wystarczająco
 dresy damskie spodnie M,0 szt.,3. Mamy wystarczająco
 kremy nawilżające do twarzy 15-30ml,-2 szt.,3. Mamy wystarczająco
@@ -55,7 +55,6 @@ papier toaletowy szary /rolki do dyspenserów łaz.,-4 szt.,3. Mamy wystarczają
 krem do twarzy dla dzieci,0 szt.,3. Mamy wystarczająco
 butelki dla dzieci,0 szt.,3. Mamy wystarczająco
 worki na śmieci 120L,0 opak.,3. Mamy wystarczająco
-pilnik do paznokci,-4 szt.,3. Mamy wystarczająco
 płyn micelarny mały 50-100ml,-1 szt.,3. Mamy wystarczająco
 chusteczki do hig int. małe opakowania,-2 szt.,3. Mamy wystarczająco
 dresy damskie spodnie L,0 szt.,3. Mamy wystarczająco
@@ -67,6 +66,7 @@ wielorazowe torby na zakupy,0 szt,3. Mamy wystarczająco
 plastry na halluksy ,0 szt.,3. Mamy wystarczająco
 plastry uniwersalne zestaw,-1 szt.,3. Mamy wystarczająco
 suszarka rozkładana na pranie,0 szt,3. Mamy wystarczająco
+"plecaki małe, nerki na dokumenty",0 szt,3. Mamy wystarczająco
 taśma pakowa brązowa szeroka,0 szt,3. Mamy wystarczająco
 dyspenser do taśmy pakowej szerokiej,0 szt,3. Mamy wystarczająco
 taśma biurowa przezroczysta 12mm,0 szt,3. Mamy wystarczająco
@@ -149,10 +149,10 @@ nosidełka dla dzieci,-4 szt,4. Mamy nadmiar
 zmywacz do paznokci,-8 opak.,4. Mamy nadmiar
 chusteczki higieniczne małe opak.,-70 szt.,4. Mamy nadmiar
 pomadki do ust/wazelina,-43 szt.,4. Mamy nadmiar
-pasta do zębów dla dzieci,-33 szt.,4. Mamy nadmiar
+pasta do zębów dla dzieci,-6 szt.,4. Mamy nadmiar
 chusteczki nawilżane pakowane,-1012 szt.,4. Mamy nadmiar
 patyczki do uszu ,-27 szt.,4. Mamy nadmiar
-pasta do zębów dla dorosłych - duże opakowania,-312 szt.,4. Mamy nadmiar
+pasta do zębów dla dorosłych - duże opakowania,-36 szt.,4. Mamy nadmiar
 sciereczki bawełniane jednorazowe - rolka,-736 szt.,4. Mamy nadmiar
 chusteczki mokre dla dzieci,-600240 szt.,4. Mamy nadmiar
 żel pod prysznic travel size 35 ml,-392 szt.,4. Mamy nadmiar
@@ -165,7 +165,7 @@ notatnik z długopisem zestaw,-12 szt.,4. Mamy nadmiar
 chusteczki do dezynfekcji powierzchni,-86 opak.,4. Mamy nadmiar
 płyn do czyszczenia toalety,-149 opak.,4. Mamy nadmiar
 papier toaletowy /rolki,-878 szt.,4. Mamy nadmiar
-szczoteczki do zębów + pasta 3 gr,-206 szt.,4. Mamy nadmiar
+szczoteczki do zębów + pasta 3 gr,-200 szt.,4. Mamy nadmiar
 żel antybakteryjny 400-500ml,-295 szt.,4. Mamy nadmiar
 szczotka do włosów,-4 szt.,4. Mamy nadmiar
 klapki wielorazowe damskie - rozm. 36-40,-294 szt,4. Mamy nadmiar
