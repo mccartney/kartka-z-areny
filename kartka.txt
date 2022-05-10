@@ -2,26 +2,24 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,85,Ostatnia aktualizacja
-,,10/05/2022 18:49
+,,10/05/2022 20:11
 PRZEDMIOT,Brakuje,Priorytet
-ketchup łagodny,3 szt.,1. Pilnie potrzebne
 widelce plastikowe,1800 szt.,1. Pilnie potrzebne
 skarpetki damskie,50 szt.,1. Pilnie potrzebne
 "leginsy damskie M, L, XL",6 szt.,1. Pilnie potrzebne
 "bielizna męska, majtki-nowe",32 szt.,1. Pilnie potrzebne
-pilnik do paznokci,15 szt.,1. Pilnie potrzebne
 buty sportowe męskie - rozm. 40-45 nowe,17 szt.,1. Pilnie potrzebne
 dresy chłopięce spodnie S/M,8 szt,1. Pilnie potrzebne
 dresy damskie spodnie S,9 szt,1. Pilnie potrzebne
-antyperspirant damski,17 szt,1. Pilnie potrzebne
 dresy damskie bluza S,10 szt.,1. Pilnie potrzebne
 dresy damskie bluza L,9 szt.,1. Pilnie potrzebne
 pianka do golenia małe opak.,10 szt,1. Pilnie potrzebne
 soczki małe z rurką,45 szt.,2. Potrzebne
 parówki małe opakowania,10 szt.,2. Potrzebne
+ketchup łagodny,2 szt.,2. Potrzebne
 żelki w małych opakowaniach/guma rozpuszczalna (mikroporcje pakowane oddzielnie),17 szt.,2. Potrzebne
 klapki wielorazowe męskie - rozm. 41-46,6 par.,2. Potrzebne
-ręczniki duże kąpielowe,20 szt.,2. Potrzebne
+ręczniki duże kąpielowe,18 szt.,2. Potrzebne
 antyperspirant męski,12 szt.,2. Potrzebne
 dresy damskie spodnie XL-3XL,5 szt.,2. Potrzebne
 t-shirt męski M,2 szt,2. Potrzebne
@@ -49,6 +47,7 @@ butelki dla dzieci,0 szt.,3. Mamy wystarczająco
 worki na śmieci >240L,0 opak.,3. Mamy wystarczająco
 worki na śmieci 160L,0 opak.,3. Mamy wystarczająco
 worki na śmieci 120L,0 opak.,3. Mamy wystarczająco
+pilnik do paznokci,0 szt.,3. Mamy wystarczająco
 płyn micelarny mały 50-100ml,-1 szt.,3. Mamy wystarczająco
 chusteczki do hig int. małe opakowania,-2 szt.,3. Mamy wystarczająco
 dresy damskie spodnie L,0 szt.,3. Mamy wystarczająco
@@ -59,6 +58,7 @@ torby miękkie podróżne nowe/ stan bdb.,0 szt,3. Mamy wystarczająco
 "krem do twarzy z filtrem UV 30, UV50",0 szt,3. Mamy wystarczająco
 "spray oczyszczający, woda morska do nosa, roztwór izotoniczny, 100 ml",0 szt,3. Mamy wystarczająco
 karma dla piesełków - puszka,0 szt,3. Mamy wystarczająco
+antyperspirant damski,0 szt,3. Mamy wystarczająco
 plastry na halluksy ,0 szt.,3. Mamy wystarczająco
 plastry uniwersalne zestaw,-1 szt.,3. Mamy wystarczająco
 suszarka rozkładana na pranie,0 szt,3. Mamy wystarczająco
@@ -126,7 +126,7 @@ pieluchomajtki dla dorosłych M-L,-10 opak.,4. Mamy nadmiar
 klapki jednorazowe pod prysznic 38-46,-1706 szt.,4. Mamy nadmiar
 karma dla kotełków,-43 szt.,4. Mamy nadmiar
 szampon do włosów travel size 30-50ml,-632 szt.,4. Mamy nadmiar
-"pampersy dziecięce/pieluchomajtki, rozm. 0-6 ",-961 szt.,4. Mamy nadmiar
+"pampersy dziecięce/pieluchomajtki, rozm. 0-6 ",-964 szt.,4. Mamy nadmiar
 maszynki jednorazowe do golenia męskie,-16 szt.,4. Mamy nadmiar
 proszek do prania,-2 szt.,4. Mamy nadmiar
 balsam do ciała mały 20-50ml,-916 szt.,4. Mamy nadmiar
