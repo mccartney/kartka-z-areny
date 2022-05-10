@@ -1,8 +1,8 @@
 PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
-Liczba osób w Arenie,97,Ostatnia aktualizacja
-,,09/05/2022 16:01
+Liczba osób w Arenie,80,Ostatnia aktualizacja
+,,10/05/2022 08:44
 PRZEDMIOT,Brakuje,Priorytet
 widelce plastikowe,1800 szt.,1. Pilnie potrzebne
 skarpetki damskie,50 szt.,1. Pilnie potrzebne
