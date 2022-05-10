@@ -1,8 +1,8 @@
 PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
-Liczba osób w Arenie,80,Ostatnia aktualizacja
-,,10/05/2022 16:56
+Liczba osób w Arenie,85,Ostatnia aktualizacja
+,,10/05/2022 18:49
 PRZEDMIOT,Brakuje,Priorytet
 ketchup łagodny,3 szt.,1. Pilnie potrzebne
 widelce plastikowe,1800 szt.,1. Pilnie potrzebne
