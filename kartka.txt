@@ -2,8 +2,9 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,80,Ostatnia aktualizacja
-,,10/05/2022 08:44
+,,10/05/2022 10:01
 PRZEDMIOT,Brakuje,Priorytet
+ketchup łagodny,5 szt.,1. Pilnie potrzebne
 widelce plastikowe,1800 szt.,1. Pilnie potrzebne
 skarpetki damskie,50 szt.,1. Pilnie potrzebne
 ręczniki duże kąpielowe,118 szt.,1. Pilnie potrzebne
@@ -101,7 +102,6 @@ dżem,-2 szt.,4. Mamy nadmiar
 "sól 0,5 kg",-4 szt.,4. Mamy nadmiar
 cukier 1 kg,-10 kg,4. Mamy nadmiar
 pieprz mała torebka,-7 szt.,4. Mamy nadmiar
-ketchup łagodny,-2 szt.,4. Mamy nadmiar
 musztarda,-3 szt.,4. Mamy nadmiar
 majonez,-1 szt.,4. Mamy nadmiar
 batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),-34 szt.,4. Mamy nadmiar
