@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,85,Ostatnia aktualizacja
-,,11/05/2022 13:47
+,,11/05/2022 16:11
 PRZEDMIOT,Brakuje,Priorytet
 skarpetki damskie,50 szt.,1. Pilnie potrzebne
 t-shirt damski L,13 szt.,1. Pilnie potrzebne
@@ -15,17 +15,17 @@ dresy damskie spodnie S,9 szt,1. Pilnie potrzebne
 dresy damskie bluza S,10 szt.,1. Pilnie potrzebne
 dresy damskie bluza L,9 szt.,1. Pilnie potrzebne
 skarpety męskie,20 szt,1. Pilnie potrzebne
-soczki małe z rurką,35 szt.,2. Potrzebne
 ketchup łagodny,2 szt.,2. Potrzebne
 żelki w małych opakowaniach/guma rozpuszczalna (mikroporcje pakowane oddzielnie),16 szt.,2. Potrzebne
 widelce plastikowe,519 szt.,2. Potrzebne
 klapki wielorazowe męskie - rozm. 41-46,6 par.,2. Potrzebne
-ręczniki duże kąpielowe,14 szt.,2. Potrzebne
 dresy damskie spodnie XL-3XL,5 szt.,2. Potrzebne
 t-shirt damski XL,7 szt,2. Potrzebne
 t-shirt męski XL,7 szt,2. Potrzebne
 pianka do golenia małe opak.,5 szt,2. Potrzebne
+grzebienie,10 szt,2. Potrzebne
 krem do twarzy 50-100ml,5 szt,2. Potrzebne
+soczki małe z rurką,-9 szt.,3. Mamy wystarczająco
 ser żółty krojony paczkowany,-2 szt.,3. Mamy wystarczająco
 banany,0 kg,3. Mamy wystarczająco
 ogórki świeże,0 kg,3. Mamy wystarczająco
@@ -37,6 +37,7 @@ opakowania rękawiczek lateksowych L,0 opak,3. Mamy wystarczająco
 mydelniczki/opakowania na szczoteczki ,0 szt.,3. Mamy wystarczająco
 worki na smieci 35L,0 szt.,3. Mamy wystarczająco
 przewijak,0 szt.,3. Mamy wystarczająco
+ręczniki duże kąpielowe,-4 szt.,3. Mamy wystarczająco
 szelki dla kota,0 szt,3. Mamy wystarczająco
 powerbank,0 szt.,3. Mamy wystarczająco
 dresy damskie spodnie M,0 szt.,3. Mamy wystarczająco
@@ -197,4 +198,3 @@ zestaw do szycia podróżny,-1 szt.,4. Mamy nadmiar
 dresy damskie bluza M,-10 szt.,4. Mamy nadmiar
 dresy damskie bluza XL-3XL,-10 szt.,4. Mamy nadmiar
 płyn do mycia naczyń,-3 szt,4. Mamy nadmiar
-grzebienie,-80 szt,4. Mamy nadmiar
