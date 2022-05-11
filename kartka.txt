@@ -2,8 +2,9 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,85,Ostatnia aktualizacja
-,,11/05/2022 17:03
+,,11/05/2022 17:22
 PRZEDMIOT,Brakuje,Priorytet
+parówki małe opakowania,10 szt.,1. Pilnie potrzebne
 skarpetki damskie,50 szt.,1. Pilnie potrzebne
 t-shirt damski L,13 szt.,1. Pilnie potrzebne
 "leginsy damskie M, L, XL",6 szt.,1. Pilnie potrzebne
