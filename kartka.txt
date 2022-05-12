@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,85,Ostatnia aktualizacja
-,,11/05/2022 21:10
+,,12/05/2022 14:43
 PRZEDMIOT,Brakuje,Priorytet
 parówki małe opakowania,10 szt.,1. Pilnie potrzebne
 skarpetki damskie,50 szt.,1. Pilnie potrzebne
@@ -16,7 +16,6 @@ dresy damskie spodnie S,9 szt,1. Pilnie potrzebne
 dresy damskie bluza S,10 szt.,1. Pilnie potrzebne
 dresy damskie bluza L,9 szt.,1. Pilnie potrzebne
 skarpety męskie,20 szt,1. Pilnie potrzebne
-ketchup łagodny,2 szt.,2. Potrzebne
 widelce plastikowe,519 szt.,2. Potrzebne
 klapki wielorazowe męskie - rozm. 41-46,6 par.,2. Potrzebne
 dresy damskie spodnie XL-3XL,5 szt.,2. Potrzebne
@@ -103,6 +102,7 @@ dżem,-2 szt.,4. Mamy nadmiar
 "sól 0,5 kg",-5 szt.,4. Mamy nadmiar
 cukier 1 kg,-10 kg,4. Mamy nadmiar
 pieprz mała torebka,-10 szt.,4. Mamy nadmiar
+ketchup łagodny,-2 szt.,4. Mamy nadmiar
 musztarda,-4 szt.,4. Mamy nadmiar
 majonez,-1 szt.,4. Mamy nadmiar
 żelki w małych opakowaniach/guma rozpuszczalna (mikroporcje pakowane oddzielnie),-100 szt.,4. Mamy nadmiar
