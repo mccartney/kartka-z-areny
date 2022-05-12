@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,85,Ostatnia aktualizacja
-,,12/05/2022 19:48
+,,12/05/2022 21:03
 PRZEDMIOT,Brakuje,Priorytet
 krem do rąk mały 30ml,15 szt.,1. Pilnie potrzebne
 mydelniczki/opakowania na szczoteczki ,5 szt.,1. Pilnie potrzebne
@@ -11,14 +11,25 @@ kremy nawilżające do twarzy 15-30ml,20 szt.,1. Pilnie potrzebne
 ładowarki USB-C,10 szt.,1. Pilnie potrzebne
 antyperspirant męski,20 szt.,1. Pilnie potrzebne
 krem do twarzy dla dzieci,5 szt.,1. Pilnie potrzebne
-pilnik do paznokci,10 szt.,1. Pilnie potrzebne
+pomadki do ust/wazelina,40 szt.,1. Pilnie potrzebne
 kosmetyczki małe nowe lub w bdb stanie,5 szt,1. Pilnie potrzebne
+płyn micelarny mały 50-100ml,7 szt.,1. Pilnie potrzebne
+żel do mycia twarzy  50-100ml,18 szt,1. Pilnie potrzebne
 maszynki jednorazowe do golenia damskie,14 szt,1. Pilnie potrzebne
+odżywki do włosów travel size 30-50ml,90 szt,1. Pilnie potrzebne
+"krem do twarzy z filtrem UV 30, UV50",6 szt,1. Pilnie potrzebne
+krem po goleniu,4 szt,1. Pilnie potrzebne
+plastry na halluksy ,5 szt.,1. Pilnie potrzebne
+plastry uniwersalne zestaw,10 szt.,1. Pilnie potrzebne
 pianka do golenia małe opak.,9 szt,1. Pilnie potrzebne
+krem do twarzy 50-100ml,20 szt,1. Pilnie potrzebne
 ręczniki duże kąpielowe,50 szt.,2. Potrzebne
+klapki wielorazowe dziecięce - rozm. 23-35,5 par.,2. Potrzebne
 "bielizna dziecięca, majtki- nowe",20 szt.,2. Potrzebne
+pilnik do paznokci,5 szt.,2. Potrzebne
+chusteczki do hig int. małe opakowania,11 szt.,2. Potrzebne
+obcinacze do paznokci,2 szt.,2. Potrzebne
 antyperspirant damski,3 szt,2. Potrzebne
-krem do twarzy 50-100ml,5 szt,2. Potrzebne
 soczki małe z rurką,-9 szt.,3. Mamy wystarczająco
 ser żółty krojony paczkowany,-2 szt.,3. Mamy wystarczająco
 banany,0 kg,3. Mamy wystarczająco
@@ -32,6 +43,7 @@ worki na smieci 35L,0 szt.,3. Mamy wystarczająco
 przewijak,0 szt.,3. Mamy wystarczająco
 szelki dla kota,0 szt,3. Mamy wystarczająco
 powerbank,0 szt.,3. Mamy wystarczająco
+proszek do prania,0 szt.,3. Mamy wystarczająco
 nocnik dla dzieci,0 szt.,3. Mamy wystarczająco
 papier toaletowy szary /rolki do dyspenserów łaz.,-4 szt.,3. Mamy wystarczająco
 biustonosz dziewczęcy sportowy nowy,0 szt.,3. Mamy wystarczająco
@@ -39,17 +51,11 @@ zmywacz do paznokci,0 opak.,3. Mamy wystarczająco
 worki na śmieci >240L,0 opak.,3. Mamy wystarczająco
 worki na śmieci 160L,0 opak.,3. Mamy wystarczająco
 worki na śmieci 120L,0 opak.,3. Mamy wystarczająco
-płyn micelarny mały 50-100ml,-1 szt.,3. Mamy wystarczająco
-chusteczki do hig int. małe opakowania,-2 szt.,3. Mamy wystarczająco
 buty sportowe męskie - rozm. 40-45 nowe,0 szt.,3. Mamy wystarczająco
-obcinacze do paznokci,0 szt.,3. Mamy wystarczająco
 wielorazowe torby na zakupy,0 szt,3. Mamy wystarczająco
 rajstopy damskie - różne rozmiary,0 szt,3. Mamy wystarczająco
 torby miękkie podróżne nowe/ stan bdb.,0 szt,3. Mamy wystarczająco
-"krem do twarzy z filtrem UV 30, UV50",0 szt,3. Mamy wystarczająco
 "spray oczyszczający, woda morska do nosa, roztwór izotoniczny, 100 ml",0 szt,3. Mamy wystarczająco
-plastry na halluksy ,0 szt.,3. Mamy wystarczająco
-plastry uniwersalne zestaw,-1 szt.,3. Mamy wystarczająco
 grzebienie,0 szt,3. Mamy wystarczająco
 suszarka rozkładana na pranie,0 szt,3. Mamy wystarczająco
 rękawice nitrylowe M,0 szt,3. Mamy wystarczająco
@@ -120,12 +126,10 @@ karma dla kotełków,-43 szt.,4. Mamy nadmiar
 szampon do włosów travel size 30-50ml,-632 szt.,4. Mamy nadmiar
 "pampersy dziecięce/pieluchomajtki, rozm. 0-6 ",-1006 szt.,4. Mamy nadmiar
 biustonosze nowe rozmiary 70D-80D,-60 szt,4. Mamy nadmiar
-proszek do prania,-2 szt.,4. Mamy nadmiar
 balsam do ciała mały 20-50ml,-935 szt.,4. Mamy nadmiar
 szczoteczki do zębów dla dzieci,-163 szt.,4. Mamy nadmiar
 podpaski/tampony,-1325 szt.,4. Mamy nadmiar
 podkładki dla dzieci/ dorosłych Seni,-208 szt.,4. Mamy nadmiar
-klapki wielorazowe dziecięce - rozm. 23-35,-15 par.,4. Mamy nadmiar
 "bielizna męska, majtki-nowe",-8 szt.,4. Mamy nadmiar
 ręcznik papierowy - rolka,-492 szt.,4. Mamy nadmiar
 szampon do włosów 150-500ml,-87 szt.,4. Mamy nadmiar
@@ -133,7 +137,6 @@ kurtki wiosenne,-9 szt.,4. Mamy nadmiar
 butelki dla dzieci,-4 szt.,4. Mamy nadmiar
 nosidełka dla dzieci,-4 szt,4. Mamy nadmiar
 chusteczki higieniczne małe opak.,-112 szt.,4. Mamy nadmiar
-pomadki do ust/wazelina,-43 szt.,4. Mamy nadmiar
 pasta do zębów dla dzieci,-19 szt.,4. Mamy nadmiar
 chusteczki nawilżane pakowane,-1012 szt.,4. Mamy nadmiar
 patyczki do uszu ,-32 opak.,4. Mamy nadmiar
@@ -155,15 +158,12 @@ szczoteczki do zębów + pasta 3 gr,-399 szt.,4. Mamy nadmiar
 biustonosze nowe rozmiary 70B-90B,-85 szt,4. Mamy nadmiar
 klapki wielorazowe damskie - rozm. 36-40,-294 szt,4. Mamy nadmiar
 maseczki jednorazowe,-4900 szt,4. Mamy nadmiar
-żel do mycia twarzy  50-100ml,-5 szt,4. Mamy nadmiar
 gąbka do ciała ,-41 szt,4. Mamy nadmiar
-odżywki do włosów travel size 30-50ml,-106 szt,4. Mamy nadmiar
-stopery do uszu/opaski na oczy,-4400 szt.,4. Mamy nadmiar
+stopery do uszu/opaski na oczy,-900 szt.,4. Mamy nadmiar
 worki na śmieci 60L,-22 szt,4. Mamy nadmiar
 waciki do demakijażu,-54 szt,4. Mamy nadmiar
 pasta do zębów dla dorosłych - małe opakowania,-265 szt,4. Mamy nadmiar
 biustonosze nowe rozmiar 70C-90C,-57 szt,4. Mamy nadmiar
-krem po goleniu,-3 szt,4. Mamy nadmiar
 "biustonosz damski sportowy nowy S,M,L, XL, XXL",-27 szt,4. Mamy nadmiar
 buty sportowe dziecięce - rozm. 23-35 nowe,-3 szt.,4. Mamy nadmiar
 buty sportowe damskie rozm. 36-40 nowe,-56 szt.,4. Mamy nadmiar
