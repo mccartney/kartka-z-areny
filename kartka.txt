@@ -2,15 +2,20 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,85,Ostatnia aktualizacja
-,,12/05/2022 18:23
+,,12/05/2022 19:48
 PRZEDMIOT,Brakuje,Priorytet
+krem do rąk mały 30ml,15 szt.,1. Pilnie potrzebne
+mydelniczki/opakowania na szczoteczki ,5 szt.,1. Pilnie potrzebne
 maszynki jednorazowe do golenia męskie,12 szt.,1. Pilnie potrzebne
 kremy nawilżające do twarzy 15-30ml,20 szt.,1. Pilnie potrzebne
 ładowarki USB-C,10 szt.,1. Pilnie potrzebne
 antyperspirant męski,20 szt.,1. Pilnie potrzebne
 krem do twarzy dla dzieci,5 szt.,1. Pilnie potrzebne
+pilnik do paznokci,10 szt.,1. Pilnie potrzebne
+kosmetyczki małe nowe lub w bdb stanie,5 szt,1. Pilnie potrzebne
 maszynki jednorazowe do golenia damskie,14 szt,1. Pilnie potrzebne
 pianka do golenia małe opak.,9 szt,1. Pilnie potrzebne
+ręczniki duże kąpielowe,50 szt.,2. Potrzebne
 "bielizna dziecięca, majtki- nowe",20 szt.,2. Potrzebne
 antyperspirant damski,3 szt,2. Potrzebne
 krem do twarzy 50-100ml,5 szt,2. Potrzebne
@@ -23,7 +28,6 @@ sałata lodowa/masłowa,0 szt.,3. Mamy wystarczająco
 opakowania rękawiczek lateksowych S,0 opak,3. Mamy wystarczająco
 opakowania rękawiczek lateksowych M,0 opak,3. Mamy wystarczająco
 opakowania rękawiczek lateksowych L,0 opak,3. Mamy wystarczająco
-mydelniczki/opakowania na szczoteczki ,0 szt.,3. Mamy wystarczająco
 worki na smieci 35L,0 szt.,3. Mamy wystarczająco
 przewijak,0 szt.,3. Mamy wystarczająco
 szelki dla kota,0 szt,3. Mamy wystarczająco
@@ -31,10 +35,10 @@ powerbank,0 szt.,3. Mamy wystarczająco
 nocnik dla dzieci,0 szt.,3. Mamy wystarczająco
 papier toaletowy szary /rolki do dyspenserów łaz.,-4 szt.,3. Mamy wystarczająco
 biustonosz dziewczęcy sportowy nowy,0 szt.,3. Mamy wystarczająco
+zmywacz do paznokci,0 opak.,3. Mamy wystarczająco
 worki na śmieci >240L,0 opak.,3. Mamy wystarczająco
 worki na śmieci 160L,0 opak.,3. Mamy wystarczająco
 worki na śmieci 120L,0 opak.,3. Mamy wystarczająco
-pilnik do paznokci,-2 szt.,3. Mamy wystarczająco
 płyn micelarny mały 50-100ml,-1 szt.,3. Mamy wystarczająco
 chusteczki do hig int. małe opakowania,-2 szt.,3. Mamy wystarczająco
 buty sportowe męskie - rozm. 40-45 nowe,0 szt.,3. Mamy wystarczająco
@@ -105,14 +109,12 @@ mleko modyfikowane 6-12 m-cy,-24 szt.,4. Mamy nadmiar
 mleko modyfikowane 12+,-15 szt.,4. Mamy nadmiar
 walizki na kółkach nowe/ stan bdb. / duze,-34 szt.,4. Mamy nadmiar
 zmywaki lub gąbki do naczyń,-64 opak.,4. Mamy nadmiar
-krem do rąk mały 30ml,-6 szt.,4. Mamy nadmiar
 biustonosze nowe rozmiary 75B - 90D,-43 szt.,4. Mamy nadmiar
 rękawice grube wielorazowe,-3 szt.,4. Mamy nadmiar
 krem/puder do pupy dla dzieci,-13 szt.,4. Mamy nadmiar
 mydło w płynie,-244 szt.,4. Mamy nadmiar
 baterie paluszki AAA,-102 szt.,4. Mamy nadmiar
 pieluchomajtki dla dorosłych M-L,-12 opak.,4. Mamy nadmiar
-ręczniki duże kąpielowe,-30 szt.,4. Mamy nadmiar
 klapki jednorazowe pod prysznic 38-46,-1706 szt.,4. Mamy nadmiar
 karma dla kotełków,-43 szt.,4. Mamy nadmiar
 szampon do włosów travel size 30-50ml,-632 szt.,4. Mamy nadmiar
@@ -130,7 +132,6 @@ szampon do włosów 150-500ml,-87 szt.,4. Mamy nadmiar
 kurtki wiosenne,-9 szt.,4. Mamy nadmiar
 butelki dla dzieci,-4 szt.,4. Mamy nadmiar
 nosidełka dla dzieci,-4 szt,4. Mamy nadmiar
-zmywacz do paznokci,-8 opak.,4. Mamy nadmiar
 chusteczki higieniczne małe opak.,-112 szt.,4. Mamy nadmiar
 pomadki do ust/wazelina,-43 szt.,4. Mamy nadmiar
 pasta do zębów dla dzieci,-19 szt.,4. Mamy nadmiar
@@ -141,11 +142,10 @@ sciereczki bawełniane jednorazowe - rolka,-736 szt.,4. Mamy nadmiar
 chusteczki mokre dla dzieci,-600241 szt.,4. Mamy nadmiar
 żel pod prysznic travel size 35 ml,-532 szt.,4. Mamy nadmiar
 płyn do higieny intymnej mały 20-50ml,-231 szt.,4. Mamy nadmiar
-kosmetyczki małe nowe lub w bdb stanie,-1 szt,4. Mamy nadmiar
 koce dodatkowe,-91 szt,4. Mamy nadmiar
 biustonosze nowe rozmiary 70A-80A,-38 szt,4. Mamy nadmiar
 walizki na kółkach nowe/ stan bdb. / małe,-8 szt.,4. Mamy nadmiar
-baterie paluszki AA,-70 szt.,4. Mamy nadmiar
+baterie paluszki AA,-10 szt.,4. Mamy nadmiar
 notatnik z długopisem zestaw,-12 szt.,4. Mamy nadmiar
 chusteczki do dezynfekcji powierzchni,-86 opak.,4. Mamy nadmiar
 płyn do czyszczenia toalety,-149 opak.,4. Mamy nadmiar
