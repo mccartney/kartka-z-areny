@@ -2,8 +2,9 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,85,Ostatnia aktualizacja
-,,13/05/2022 00:08
+,,13/05/2022 06:15
 PRZEDMIOT,Brakuje,Priorytet
+"woda w małych butelkach, w tym z dziubkiem",20 szt.,1. Pilnie potrzebne
 soczki małe z rurką,-9 szt.,3. Mamy wystarczająco
 ser żółty krojony paczkowany,-2 szt.,3. Mamy wystarczająco
 banany,0 kg,3. Mamy wystarczająco
