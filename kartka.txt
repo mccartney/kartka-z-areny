@@ -1,22 +1,21 @@
 PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
-Liczba osób w Arenie,76,Ostatnia aktualizacja
-,,14/05/2022 15:00
+Liczba osób w Arenie,99,Ostatnia aktualizacja
+,,14/05/2022 15:45
 PRZEDMIOT,Brakuje,Priorytet
-soczki małe z rurką,16 szt.,2. Potrzebne
 kabanosy małe opakowania,7 szt.,2. Potrzebne
-ser żółty krojony paczkowany,6 szt.,2. Potrzebne
+ser żółty krojony paczkowany,5 szt.,2. Potrzebne
 mleko roślinne różne rodzaje,0 szt.,3. Mamy wystarczająco
 jogurt pitny lub w małych kubeczkach różne rodzaje,-2 szt.,3. Mamy wystarczająco
-kawa rozpuszczalna,0 szt.,3. Mamy wystarczająco
+soczki małe z rurką,0 szt.,3. Mamy wystarczająco
 kakao rozpuszczalne + czekolada rozpuszczalna,0 szt.,3. Mamy wystarczająco
 chleb tostowy,-2 szt.,3. Mamy wystarczająco
 banany,0 kg,3. Mamy wystarczająco
 ogórki świeże,0 kg,3. Mamy wystarczająco
 papryka czerwona,0 kg,3. Mamy wystarczająco
 sałata lodowa/masłowa,0 szt.,3. Mamy wystarczająco
-widelce plastikowe,0 szt.,3. Mamy wystarczająco
+widelce plastikowe,-100 szt.,3. Mamy wystarczająco
 opakowania rękawiczek lateksowych S,0 opak,3. Mamy wystarczająco
 opakowania rękawiczek lateksowych M,0 opak,3. Mamy wystarczająco
 opakowania rękawiczek lateksowych L,0 opak,3. Mamy wystarczająco
@@ -39,12 +38,10 @@ worki na śmieci 120L,0 opak.,3. Mamy wystarczająco
 pilnik do paznokci,0 szt.,3. Mamy wystarczająco
 buty sportowe męskie - rozm. 40-45 nowe,0 szt.,3. Mamy wystarczająco
 wielorazowe torby na zakupy,0 szt,3. Mamy wystarczająco
-odżywki do włosów travel size 30-50ml,-1 szt,3. Mamy wystarczająco
 rajstopy damskie - różne rozmiary,0 szt,3. Mamy wystarczająco
 torby miękkie podróżne nowe/ stan bdb.,0 szt,3. Mamy wystarczająco
 "spray oczyszczający, woda morska do nosa, roztwór izotoniczny, 100 ml",0 szt,3. Mamy wystarczająco
 karma dla piesełków - puszka,0 szt,3. Mamy wystarczająco
-antyperspirant damski,-1 szt,3. Mamy wystarczająco
 grzebienie,0 szt,3. Mamy wystarczająco
 suszarka rozkładana na pranie,0 szt,3. Mamy wystarczająco
 rękawice nitrylowe M,0 szt,3. Mamy wystarczająco
@@ -53,12 +50,13 @@ taśma pakowa brązowa szeroka,0 szt,3. Mamy wystarczająco
 dyspenser do taśmy pakowej szerokiej,0 szt,3. Mamy wystarczająco
 taśma biurowa przezroczysta 12mm,0 szt,3. Mamy wystarczająco
 mleko 1L,-69 szt.,4. Mamy nadmiar
-kefir/jogurt naturalny pitny lub w małych kubeczkach,-8 szt.,4. Mamy nadmiar
+kefir/jogurt naturalny pitny lub w małych kubeczkach,-18 szt.,4. Mamy nadmiar
 jogurty wegańskie różne rodzaje,-11 szt.,4. Mamy nadmiar
-soki owocowe litrowe,-9 szt.,4. Mamy nadmiar
+soki owocowe litrowe,-11 szt.,4. Mamy nadmiar
 herbata czarna,-40 szt.,4. Mamy nadmiar
 "herbata melisa i inne zioła (np. mięta, rumianek), herbata zielon",-25 szt.,4. Mamy nadmiar
 herbata owocowa różne rodzaje,-31 szt,4. Mamy nadmiar
+kawa rozpuszczalna,-2 szt.,4. Mamy nadmiar
 kawa mielona 250 gram,-59 szt.,4. Mamy nadmiar
 chleb krojony (nie tostowy!),-62 szt.,4. Mamy nadmiar
 wędlina/kiełbasa krojona paczkowana,-32 szt.,4. Mamy nadmiar
@@ -140,8 +138,9 @@ szczoteczki do zębów + pasta 3 gr,-399 szt.,4. Mamy nadmiar
 żel antybakteryjny 400-500ml,-311 szt.,4. Mamy nadmiar
 biustonosze nowe rozmiary 70B-90B,-85 szt,4. Mamy nadmiar
 klapki wielorazowe damskie - rozm. 36-40,-294 szt,4. Mamy nadmiar
-maseczki jednorazowe,-4900 szt,4. Mamy nadmiar
+maseczki jednorazowe,-5000 szt,4. Mamy nadmiar
 gąbka do ciała ,-41 szt,4. Mamy nadmiar
+odżywki do włosów travel size 30-50ml,-4 szt,4. Mamy nadmiar
 stopery do uszu/opaski na oczy,-900 szt.,4. Mamy nadmiar
 worki na śmieci 60L,-22 szt,4. Mamy nadmiar
 waciki do demakijażu,-54 szt,4. Mamy nadmiar
@@ -153,6 +152,7 @@ buty sportowe damskie rozm. 36-40 nowe,-56 szt.,4. Mamy nadmiar
 karma dla piesełków - sucha,-34 kg,4. Mamy nadmiar
 żwirek dla kota,-40 kg,4. Mamy nadmiar
 biustonosze nowe rozmiary 70E-80G,-27 szt.,4. Mamy nadmiar
+antyperspirant damski,-3 szt,4. Mamy nadmiar
 zestaw do szycia podróżny,-1 szt.,4. Mamy nadmiar
 płyn do mycia naczyń,-3 szt,4. Mamy nadmiar
 japonki damskie 36-39,-76 szt,4. Mamy nadmiar
