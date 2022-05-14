@@ -2,16 +2,15 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,76,Ostatnia aktualizacja
-,,14/05/2022 11:15
+,,14/05/2022 12:59
 PRZEDMIOT,Brakuje,Priorytet
 soczki małe z rurką,70 szt.,1. Pilnie potrzebne
 odżywki do włosów travel size 30-50ml,9 szt,1. Pilnie potrzebne
 jogurt pitny lub w małych kubeczkach różne rodzaje,28 szt.,2. Potrzebne
 soki owocowe litrowe,15 szt.,2. Potrzebne
 kawa rozpuszczalna,2 szt.,2. Potrzebne
-chleb krojony (nie tostowy!),3 szt.,2. Potrzebne
 kabanosy małe opakowania,7 szt.,2. Potrzebne
-ser żółty krojony paczkowany,10 szt.,2. Potrzebne
+ser żółty krojony paczkowany,6 szt.,2. Potrzebne
 antyperspirant damski,1 szt,2. Potrzebne
 mleko roślinne różne rodzaje,0 szt.,3. Mamy wystarczająco
 kakao rozpuszczalne + czekolada rozpuszczalna,0 szt.,3. Mamy wystarczająco
@@ -61,7 +60,8 @@ herbata czarna,-40 szt.,4. Mamy nadmiar
 "herbata melisa i inne zioła (np. mięta, rumianek), herbata zielon",-25 szt.,4. Mamy nadmiar
 herbata owocowa różne rodzaje,-31 szt,4. Mamy nadmiar
 kawa mielona 250 gram,-59 szt.,4. Mamy nadmiar
-wędlina/kiełbasa krojona paczkowana,-30 szt.,4. Mamy nadmiar
+chleb krojony (nie tostowy!),-17 szt.,4. Mamy nadmiar
+wędlina/kiełbasa krojona paczkowana,-32 szt.,4. Mamy nadmiar
 hummus,-1 szt.,4. Mamy nadmiar
 pasty kanapkowe wegańskie- różne rodzaje,-30 szt.,4. Mamy nadmiar
 jabłka,-5 kg,4. Mamy nadmiar
