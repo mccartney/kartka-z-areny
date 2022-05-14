@@ -2,10 +2,17 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,76,Ostatnia aktualizacja
-,,13/05/2022 18:52
+,,14/05/2022 07:47
 PRZEDMIOT,Brakuje,Priorytet
-soczki małe z rurką,-9 szt.,3. Mamy wystarczająco
-ser żółty krojony paczkowany,-2 szt.,3. Mamy wystarczająco
+soczki małe z rurką,70 szt.,1. Pilnie potrzebne
+chleb krojony (nie tostowy!),7 szt.,1. Pilnie potrzebne
+chleb tostowy,15 szt.,1. Pilnie potrzebne
+odżywki do włosów travel size 30-50ml,9 szt,1. Pilnie potrzebne
+jogurt pitny lub w małych kubeczkach różne rodzaje,20 szt.,2. Potrzebne
+wędlina/kiełbasa krojona paczkowana,8 szt.,2. Potrzebne
+ser żółty krojony paczkowany,10 szt.,2. Potrzebne
+antyperspirant damski,1 szt,2. Potrzebne
+soki owocowe litrowe,-5 szt.,3. Mamy wystarczająco
 banany,0 kg,3. Mamy wystarczająco
 ogórki świeże,0 kg,3. Mamy wystarczająco
 papryka czerwona,0 kg,3. Mamy wystarczająco
@@ -33,7 +40,6 @@ worki na śmieci 120L,0 opak.,3. Mamy wystarczająco
 pilnik do paznokci,0 szt.,3. Mamy wystarczająco
 buty sportowe męskie - rozm. 40-45 nowe,0 szt.,3. Mamy wystarczająco
 wielorazowe torby na zakupy,0 szt,3. Mamy wystarczająco
-odżywki do włosów travel size 30-50ml,0 szt,3. Mamy wystarczająco
 rajstopy damskie - różne rozmiary,0 szt,3. Mamy wystarczająco
 torby miękkie podróżne nowe/ stan bdb.,0 szt,3. Mamy wystarczająco
 "spray oczyszczający, woda morska do nosa, roztwór izotoniczny, 100 ml",0 szt,3. Mamy wystarczająco
@@ -48,19 +54,14 @@ taśma biurowa przezroczysta 12mm,0 szt,3. Mamy wystarczająco
 mleko 1L,-77 szt.,4. Mamy nadmiar
 mleko roślinne różne rodzaje,-4 szt.,4. Mamy nadmiar
 kefir/jogurt naturalny pitny lub w małych kubeczkach,-8 szt.,4. Mamy nadmiar
-jogurt pitny lub w małych kubeczkach różne rodzaje,-58 szt.,4. Mamy nadmiar
 jogurty wegańskie różne rodzaje,-11 szt.,4. Mamy nadmiar
-soki owocowe litrowe,-18 szt.,4. Mamy nadmiar
 herbata czarna,-40 szt.,4. Mamy nadmiar
 "herbata melisa i inne zioła (np. mięta, rumianek), herbata zielon",-25 szt.,4. Mamy nadmiar
 herbata owocowa różne rodzaje,-31 szt,4. Mamy nadmiar
 kawa rozpuszczalna,-20 szt.,4. Mamy nadmiar
 kawa mielona 250 gram,-59 szt.,4. Mamy nadmiar
 kakao rozpuszczalne + czekolada rozpuszczalna,-3 szt.,4. Mamy nadmiar
-chleb krojony (nie tostowy!),-10 szt.,4. Mamy nadmiar
-chleb tostowy,-13 szt.,4. Mamy nadmiar
 kabanosy małe opakowania,-9 szt.,4. Mamy nadmiar
-wędlina/kiełbasa krojona paczkowana,-10 szt.,4. Mamy nadmiar
 hummus,-1 szt.,4. Mamy nadmiar
 pasty kanapkowe wegańskie- różne rodzaje,-30 szt.,4. Mamy nadmiar
 jabłka,-5 kg,4. Mamy nadmiar
@@ -152,7 +153,6 @@ buty sportowe damskie rozm. 36-40 nowe,-56 szt.,4. Mamy nadmiar
 karma dla piesełków - sucha,-34 kg,4. Mamy nadmiar
 żwirek dla kota,-40 kg,4. Mamy nadmiar
 biustonosze nowe rozmiary 70E-80G,-27 szt.,4. Mamy nadmiar
-antyperspirant damski,-17 szt,4. Mamy nadmiar
 zestaw do szycia podróżny,-1 szt.,4. Mamy nadmiar
 płyn do mycia naczyń,-3 szt,4. Mamy nadmiar
 japonki damskie 36-39,-76 szt,4. Mamy nadmiar
