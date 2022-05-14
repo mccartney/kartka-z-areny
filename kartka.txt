@@ -2,19 +2,16 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,76,Ostatnia aktualizacja
-,,14/05/2022 12:59
+,,14/05/2022 15:00
 PRZEDMIOT,Brakuje,Priorytet
-soczki małe z rurką,70 szt.,1. Pilnie potrzebne
-odżywki do włosów travel size 30-50ml,9 szt,1. Pilnie potrzebne
-jogurt pitny lub w małych kubeczkach różne rodzaje,28 szt.,2. Potrzebne
-soki owocowe litrowe,15 szt.,2. Potrzebne
-kawa rozpuszczalna,2 szt.,2. Potrzebne
+soczki małe z rurką,16 szt.,2. Potrzebne
 kabanosy małe opakowania,7 szt.,2. Potrzebne
 ser żółty krojony paczkowany,6 szt.,2. Potrzebne
-antyperspirant damski,1 szt,2. Potrzebne
 mleko roślinne różne rodzaje,0 szt.,3. Mamy wystarczająco
+jogurt pitny lub w małych kubeczkach różne rodzaje,-2 szt.,3. Mamy wystarczająco
+kawa rozpuszczalna,0 szt.,3. Mamy wystarczająco
 kakao rozpuszczalne + czekolada rozpuszczalna,0 szt.,3. Mamy wystarczająco
-chleb tostowy,-1 szt.,3. Mamy wystarczająco
+chleb tostowy,-2 szt.,3. Mamy wystarczająco
 banany,0 kg,3. Mamy wystarczająco
 ogórki świeże,0 kg,3. Mamy wystarczająco
 papryka czerwona,0 kg,3. Mamy wystarczająco
@@ -42,10 +39,12 @@ worki na śmieci 120L,0 opak.,3. Mamy wystarczająco
 pilnik do paznokci,0 szt.,3. Mamy wystarczająco
 buty sportowe męskie - rozm. 40-45 nowe,0 szt.,3. Mamy wystarczająco
 wielorazowe torby na zakupy,0 szt,3. Mamy wystarczająco
+odżywki do włosów travel size 30-50ml,-1 szt,3. Mamy wystarczająco
 rajstopy damskie - różne rozmiary,0 szt,3. Mamy wystarczająco
 torby miękkie podróżne nowe/ stan bdb.,0 szt,3. Mamy wystarczająco
 "spray oczyszczający, woda morska do nosa, roztwór izotoniczny, 100 ml",0 szt,3. Mamy wystarczająco
 karma dla piesełków - puszka,0 szt,3. Mamy wystarczająco
+antyperspirant damski,-1 szt,3. Mamy wystarczająco
 grzebienie,0 szt,3. Mamy wystarczająco
 suszarka rozkładana na pranie,0 szt,3. Mamy wystarczająco
 rękawice nitrylowe M,0 szt,3. Mamy wystarczająco
@@ -56,11 +55,12 @@ taśma biurowa przezroczysta 12mm,0 szt,3. Mamy wystarczająco
 mleko 1L,-69 szt.,4. Mamy nadmiar
 kefir/jogurt naturalny pitny lub w małych kubeczkach,-8 szt.,4. Mamy nadmiar
 jogurty wegańskie różne rodzaje,-11 szt.,4. Mamy nadmiar
+soki owocowe litrowe,-9 szt.,4. Mamy nadmiar
 herbata czarna,-40 szt.,4. Mamy nadmiar
 "herbata melisa i inne zioła (np. mięta, rumianek), herbata zielon",-25 szt.,4. Mamy nadmiar
 herbata owocowa różne rodzaje,-31 szt,4. Mamy nadmiar
 kawa mielona 250 gram,-59 szt.,4. Mamy nadmiar
-chleb krojony (nie tostowy!),-17 szt.,4. Mamy nadmiar
+chleb krojony (nie tostowy!),-62 szt.,4. Mamy nadmiar
 wędlina/kiełbasa krojona paczkowana,-32 szt.,4. Mamy nadmiar
 hummus,-1 szt.,4. Mamy nadmiar
 pasty kanapkowe wegańskie- różne rodzaje,-30 szt.,4. Mamy nadmiar
@@ -82,7 +82,7 @@ ketchup łagodny,-2 szt.,4. Mamy nadmiar
 musztarda,-4 szt.,4. Mamy nadmiar
 majonez,-1 szt.,4. Mamy nadmiar
 żelki w małych opakowaniach/guma rozpuszczalna (mikroporcje pakowane oddzielnie),-100 szt.,4. Mamy nadmiar
-batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),-150 szt.,4. Mamy nadmiar
+batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),-156 szt.,4. Mamy nadmiar
 talerzyki jednorazowe małe,-12090 szt.,4. Mamy nadmiar
 talerzyki jednorazowe duże,-1390 szt.,4. Mamy nadmiar
 łyżki duże plastikowe,-6041 szt.,4. Mamy nadmiar
