@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,76,Ostatnia aktualizacja
-,,14/05/2022 11:06
+,,14/05/2022 11:15
 PRZEDMIOT,Brakuje,Priorytet
 soczki małe z rurką,70 szt.,1. Pilnie potrzebne
 odżywki do włosów travel size 30-50ml,9 szt,1. Pilnie potrzebne
@@ -148,7 +148,7 @@ waciki do demakijażu,-54 szt,4. Mamy nadmiar
 pasta do zębów dla dorosłych - małe opakowania,-265 szt,4. Mamy nadmiar
 biustonosze nowe rozmiar 70C-90C,-57 szt,4. Mamy nadmiar
 "biustonosz damski sportowy nowy S,M,L, XL, XXL",-27 szt,4. Mamy nadmiar
-buty sportowe dziecięce - rozm. 23-35 nowe,-3 szt.,4. Mamy nadmiar
+buty sportowe dziecięce - rozm. 23-35 nowe,-12 szt.,4. Mamy nadmiar
 buty sportowe damskie rozm. 36-40 nowe,-56 szt.,4. Mamy nadmiar
 karma dla piesełków - sucha,-34 kg,4. Mamy nadmiar
 żwirek dla kota,-40 kg,4. Mamy nadmiar
