@@ -2,14 +2,13 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,99,Ostatnia aktualizacja
-,,15/05/2022 12:58
+,,15/05/2022 14:14
 PRZEDMIOT,Brakuje,Priorytet
 soczki małe z rurką,70 szt.,1. Pilnie potrzebne
-ser żółty krojony paczkowany,15 szt.,1. Pilnie potrzebne
-kabanosy ,10 kg,1. Pilnie potrzebne
-musztarda,2 szt.,1. Pilnie potrzebne
+ser żółty krojony paczkowany,15 kg,1. Pilnie potrzebne
 kabanosy małe opakowania,7 szt.,2. Potrzebne
 parówki,2 kg,2. Potrzebne
+musztarda,1 szt.,2. Potrzebne
 majonez,2 szt.,2. Potrzebne
 mleko roślinne różne rodzaje,0 szt.,3. Mamy wystarczająco
 jogurt pitny lub w małych kubeczkach różne rodzaje,0 szt.,3. Mamy wystarczająco
