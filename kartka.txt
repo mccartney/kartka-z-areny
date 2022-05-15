@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,99,Ostatnia aktualizacja
-,,15/05/2022 00:58
+,,15/05/2022 11:08
 PRZEDMIOT,Brakuje,Priorytet
 kabanosy małe opakowania,7 szt.,2. Potrzebne
 ser żółty krojony paczkowany,7 szt.,2. Potrzebne
@@ -10,6 +10,7 @@ mleko roślinne różne rodzaje,0 szt.,3. Mamy wystarczająco
 jogurt pitny lub w małych kubeczkach różne rodzaje,0 szt.,3. Mamy wystarczająco
 soczki małe z rurką,0 szt.,3. Mamy wystarczająco
 kakao rozpuszczalne + czekolada rozpuszczalna,0 szt.,3. Mamy wystarczająco
+parówki/kabanosy ,0 kg,3. Mamy wystarczająco
 banany,0 kg,3. Mamy wystarczająco
 ogórki świeże,0 kg,3. Mamy wystarczająco
 papryka czerwona,0 kg,3. Mamy wystarczająco
