@@ -2,12 +2,16 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,99,Ostatnia aktualizacja
-,,15/05/2022 17:54
+,,15/05/2022 21:18
 PRZEDMIOT,Brakuje,Priorytet
 soczki małe z rurką,70 szt.,1. Pilnie potrzebne
 ser żółty krojony paczkowany,15 kg,1. Pilnie potrzebne
+maszynki jednorazowe do golenia męskie,15 szt.,1. Pilnie potrzebne
 antyperspirant męski,10 szt.,1. Pilnie potrzebne
+obcinacze do paznokci,7 szt.,1. Pilnie potrzebne
+maszynki jednorazowe do golenia damskie,15 szt,1. Pilnie potrzebne
 antyperspirant damski,12 szt,1. Pilnie potrzebne
+pianka do golenia małe opak.,14 szt,1. Pilnie potrzebne
 krem do twarzy 50-100ml,20 szt,1. Pilnie potrzebne
 kabanosy małe opakowania,7 szt.,2. Potrzebne
 parówki,2 kg,2. Potrzebne
@@ -96,7 +100,6 @@ Kawa inka ,-10 szt.,4. Mamy nadmiar
 mleko modyfikowane 0-6 miesięcy,-8 szt.,4. Mamy nadmiar
 mleko modyfikowane 6-12 m-cy,-24 szt.,4. Mamy nadmiar
 mleko modyfikowane 12+,-15 szt.,4. Mamy nadmiar
-walizki na kółkach nowe/ stan bdb. / duze,-34 szt.,4. Mamy nadmiar
 zmywaki lub gąbki do naczyń,-64 opak.,4. Mamy nadmiar
 biustonosze nowe rozmiary 75B - 90D,-43 szt.,4. Mamy nadmiar
 mydło w płynie,-244 szt.,4. Mamy nadmiar
@@ -130,7 +133,6 @@ chusteczki mokre dla dzieci,-600321 szt.,4. Mamy nadmiar
 płyn do higieny intymnej mały 20-50ml,-411 szt.,4. Mamy nadmiar
 biustonosze nowe rozmiary 70A-80A,-38 szt,4. Mamy nadmiar
 chusteczki do hig int. małe opakowania,-4 szt.,4. Mamy nadmiar
-walizki na kółkach nowe/ stan bdb. / małe,-8 szt.,4. Mamy nadmiar
 baterie paluszki AA,-10 szt.,4. Mamy nadmiar
 notatnik z długopisem zestaw,-12 szt.,4. Mamy nadmiar
 chusteczki do dezynfekcji powierzchni,-86 opak.,4. Mamy nadmiar
