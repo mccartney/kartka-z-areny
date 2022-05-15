@@ -2,15 +2,14 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,99,Ostatnia aktualizacja
-,,14/05/2022 15:45
+,,15/05/2022 00:58
 PRZEDMIOT,Brakuje,Priorytet
 kabanosy małe opakowania,7 szt.,2. Potrzebne
-ser żółty krojony paczkowany,5 szt.,2. Potrzebne
+ser żółty krojony paczkowany,7 szt.,2. Potrzebne
 mleko roślinne różne rodzaje,0 szt.,3. Mamy wystarczająco
-jogurt pitny lub w małych kubeczkach różne rodzaje,-2 szt.,3. Mamy wystarczająco
+jogurt pitny lub w małych kubeczkach różne rodzaje,0 szt.,3. Mamy wystarczająco
 soczki małe z rurką,0 szt.,3. Mamy wystarczająco
 kakao rozpuszczalne + czekolada rozpuszczalna,0 szt.,3. Mamy wystarczająco
-chleb tostowy,-2 szt.,3. Mamy wystarczająco
 banany,0 kg,3. Mamy wystarczająco
 ogórki świeże,0 kg,3. Mamy wystarczająco
 papryka czerwona,0 kg,3. Mamy wystarczająco
@@ -58,8 +57,9 @@ herbata czarna,-40 szt.,4. Mamy nadmiar
 herbata owocowa różne rodzaje,-31 szt,4. Mamy nadmiar
 kawa rozpuszczalna,-2 szt.,4. Mamy nadmiar
 kawa mielona 250 gram,-59 szt.,4. Mamy nadmiar
-chleb krojony (nie tostowy!),-62 szt.,4. Mamy nadmiar
-wędlina/kiełbasa krojona paczkowana,-32 szt.,4. Mamy nadmiar
+chleb krojony (nie tostowy!),-10 szt.,4. Mamy nadmiar
+chleb tostowy,-29 szt.,4. Mamy nadmiar
+wędlina/kiełbasa krojona paczkowana,-40 szt.,4. Mamy nadmiar
 hummus,-1 szt.,4. Mamy nadmiar
 pasty kanapkowe wegańskie- różne rodzaje,-30 szt.,4. Mamy nadmiar
 jabłka,-5 kg,4. Mamy nadmiar
