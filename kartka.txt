@@ -2,10 +2,13 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,99,Ostatnia aktualizacja
-,,15/05/2022 14:14
+,,15/05/2022 17:54
 PRZEDMIOT,Brakuje,Priorytet
 soczki małe z rurką,70 szt.,1. Pilnie potrzebne
 ser żółty krojony paczkowany,15 kg,1. Pilnie potrzebne
+antyperspirant męski,10 szt.,1. Pilnie potrzebne
+antyperspirant damski,12 szt,1. Pilnie potrzebne
+krem do twarzy 50-100ml,20 szt,1. Pilnie potrzebne
 kabanosy małe opakowania,7 szt.,2. Potrzebne
 parówki,2 kg,2. Potrzebne
 musztarda,1 szt.,2. Potrzebne
@@ -30,7 +33,6 @@ powerbank,0 szt.,3. Mamy wystarczająco
 proszek do prania,0 szt.,3. Mamy wystarczająco
 nocnik dla dzieci,0 szt.,3. Mamy wystarczająco
 klapki wielorazowe dziecięce - rozm. 23-35,0 par.,3. Mamy wystarczająco
-antyperspirant męski,0 szt.,3. Mamy wystarczająco
 papier toaletowy szary /rolki do dyspenserów łaz.,-4 szt.,3. Mamy wystarczająco
 biustonosz dziewczęcy sportowy nowy,0 szt.,3. Mamy wystarczająco
 zmywacz do paznokci,0 opak.,3. Mamy wystarczająco
@@ -152,7 +154,6 @@ buty sportowe damskie rozm. 36-40 nowe,-56 szt.,4. Mamy nadmiar
 karma dla piesełków - sucha,-34 kg,4. Mamy nadmiar
 żwirek dla kota,-40 kg,4. Mamy nadmiar
 biustonosze nowe rozmiary 70E-80G,-27 szt.,4. Mamy nadmiar
-antyperspirant damski,-3 szt,4. Mamy nadmiar
 zestaw do szycia podróżny,-1 szt.,4. Mamy nadmiar
 płyn do mycia naczyń,-3 szt,4. Mamy nadmiar
 japonki damskie 36-39,-76 szt,4. Mamy nadmiar
