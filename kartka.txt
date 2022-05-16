@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,150,Ostatnia aktualizacja
-,,16/05/2022 08:38
+,,16/05/2022 10:11
 PRZEDMIOT,Brakuje,Priorytet
 kefir/jogurt naturalny pitny lub w małych kubeczkach,20 szt.,1. Pilnie potrzebne
 jogurt pitny lub w małych kubeczkach różne rodzaje,60 szt.,1. Pilnie potrzebne
@@ -23,7 +23,6 @@ maszynki jednorazowe do golenia damskie,15 szt,1. Pilnie potrzebne
 antyperspirant damski,12 szt,1. Pilnie potrzebne
 pianka do golenia małe opak.,14 szt,1. Pilnie potrzebne
 krem do twarzy 50-100ml,20 szt,1. Pilnie potrzebne
-mleko roślinne różne rodzaje,1 szt.,2. Potrzebne
 soki owocowe litrowe,10 szt.,2. Potrzebne
 ogórki kiszone w wiaderkach małych,1 szt.,2. Potrzebne
 musztarda,1 szt.,2. Potrzebne
@@ -66,6 +65,7 @@ dresy męskie spodnie XL-XXL,0 szt,3. Mamy wystarczająco
 taśma pakowa brązowa szeroka,0 szt,3. Mamy wystarczająco
 dyspenser do taśmy pakowej szerokiej,0 szt,3. Mamy wystarczająco
 taśma biurowa przezroczysta 12mm,0 szt,3. Mamy wystarczająco
+mleko roślinne różne rodzaje,-9 szt.,4. Mamy nadmiar
 herbata czarna,-40 szt.,4. Mamy nadmiar
 "herbata melisa i inne zioła (np. mięta, rumianek), herbata zielon",-25 szt.,4. Mamy nadmiar
 herbata owocowa różne rodzaje,-31 szt,4. Mamy nadmiar
