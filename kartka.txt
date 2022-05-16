@@ -2,10 +2,20 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,99,Ostatnia aktualizacja
-,,15/05/2022 21:18
+,,16/05/2022 02:49
 PRZEDMIOT,Brakuje,Priorytet
+kefir/jogurt naturalny pitny lub w małych kubeczkach,20 szt.,1. Pilnie potrzebne
+jogurt pitny lub w małych kubeczkach różne rodzaje,60 szt.,1. Pilnie potrzebne
+jogurty wegańskie różne rodzaje,3 szt.,1. Pilnie potrzebne
 soczki małe z rurką,70 szt.,1. Pilnie potrzebne
-ser żółty krojony paczkowany,15 kg,1. Pilnie potrzebne
+kabanosy małe opakowania,30 szt.,1. Pilnie potrzebne
+parówki,8 kg,1. Pilnie potrzebne
+ser żółty krojony paczkowany,17 kg,1. Pilnie potrzebne
+banany,10 kg,1. Pilnie potrzebne
+sałata lodowa/masłowa,5 szt.,1. Pilnie potrzebne
+ketchup łagodny,4 szt.,1. Pilnie potrzebne
+majonez,4 szt.,1. Pilnie potrzebne
+batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),40 szt.,1. Pilnie potrzebne
 maszynki jednorazowe do golenia męskie,15 szt.,1. Pilnie potrzebne
 antyperspirant męski,10 szt.,1. Pilnie potrzebne
 obcinacze do paznokci,7 szt.,1. Pilnie potrzebne
@@ -13,17 +23,16 @@ maszynki jednorazowe do golenia damskie,15 szt,1. Pilnie potrzebne
 antyperspirant damski,12 szt,1. Pilnie potrzebne
 pianka do golenia małe opak.,14 szt,1. Pilnie potrzebne
 krem do twarzy 50-100ml,20 szt,1. Pilnie potrzebne
-kabanosy małe opakowania,7 szt.,2. Potrzebne
-parówki,2 kg,2. Potrzebne
+mleko roślinne różne rodzaje,1 szt.,2. Potrzebne
+soki owocowe litrowe,10 szt.,2. Potrzebne
+ogórki kiszone w wiaderkach małych,1 szt.,2. Potrzebne
 musztarda,1 szt.,2. Potrzebne
-majonez,2 szt.,2. Potrzebne
-mleko roślinne różne rodzaje,0 szt.,3. Mamy wystarczająco
-jogurt pitny lub w małych kubeczkach różne rodzaje,0 szt.,3. Mamy wystarczająco
+mleko 1L,0 szt.,3. Mamy wystarczająco
 kakao rozpuszczalne + czekolada rozpuszczalna,0 szt.,3. Mamy wystarczająco
-banany,0 kg,3. Mamy wystarczająco
+wędlina/kiełbasa krojona paczkowana,0 szt.,3. Mamy wystarczająco
 ogórki świeże,0 kg,3. Mamy wystarczająco
 papryka czerwona,0 kg,3. Mamy wystarczająco
-sałata lodowa/masłowa,0 szt.,3. Mamy wystarczająco
+tubki owocowe różne (nielodówkowe),0 szt.,3. Mamy wystarczająco
 widelce plastikowe,-100 szt.,3. Mamy wystarczająco
 opakowania rękawiczek lateksowych S,0 opak,3. Mamy wystarczająco
 opakowania rękawiczek lateksowych M,0 opak,3. Mamy wystarczająco
@@ -57,26 +66,19 @@ dresy męskie spodnie XL-XXL,0 szt,3. Mamy wystarczająco
 taśma pakowa brązowa szeroka,0 szt,3. Mamy wystarczająco
 dyspenser do taśmy pakowej szerokiej,0 szt,3. Mamy wystarczająco
 taśma biurowa przezroczysta 12mm,0 szt,3. Mamy wystarczająco
-mleko 1L,-30 szt.,4. Mamy nadmiar
-kefir/jogurt naturalny pitny lub w małych kubeczkach,-18 szt.,4. Mamy nadmiar
-jogurty wegańskie różne rodzaje,-11 szt.,4. Mamy nadmiar
-soki owocowe litrowe,-11 szt.,4. Mamy nadmiar
 herbata czarna,-40 szt.,4. Mamy nadmiar
 "herbata melisa i inne zioła (np. mięta, rumianek), herbata zielon",-25 szt.,4. Mamy nadmiar
 herbata owocowa różne rodzaje,-31 szt,4. Mamy nadmiar
 kawa rozpuszczalna,-2 szt.,4. Mamy nadmiar
 kawa mielona 250 gram,-59 szt.,4. Mamy nadmiar
-chleb krojony (nie tostowy!),-25 szt.,4. Mamy nadmiar
-chleb tostowy,-29 szt.,4. Mamy nadmiar
-wędlina/kiełbasa krojona paczkowana,-31 szt.,4. Mamy nadmiar
+chleb krojony (nie tostowy!),-10 szt.,4. Mamy nadmiar
+chleb tostowy,-15 szt.,4. Mamy nadmiar
 pasty kanapkowe wegańskie- różne rodzaje,-30 szt.,4. Mamy nadmiar
 jabłka,-20 kg,4. Mamy nadmiar
 filtry  do kawy rozmiar 4,-2 opak,4. Mamy nadmiar
 pomidory,-18 kg,4. Mamy nadmiar
-ogórki kiszone w wiaderkach małych,-2 szt.,4. Mamy nadmiar
 słoiczki dla dzieci - obiadki różne,-442 szt.,4. Mamy nadmiar
 słoiczki dla dzieci - deserki różne,-215 szt.,4. Mamy nadmiar
-tubki owocowe różne (nielodówkowe),-162 szt.,4. Mamy nadmiar
 kaszki dla dzieci/kleiki do samodzielnego przygotowania,-127 szt.,4. Mamy nadmiar
 płatki śniadaniowe różne rodzaje,-10 szt.,4. Mamy nadmiar
 owsianka błyskawiczna kg (lub 20 porcjowanych),-7 szt.,4. Mamy nadmiar
@@ -84,9 +86,7 @@ dżem,-2 szt.,4. Mamy nadmiar
 "sól 0,5 kg",-5 szt.,4. Mamy nadmiar
 cukier 1 kg,-10 kg,4. Mamy nadmiar
 pieprz mała torebka,-10 szt.,4. Mamy nadmiar
-ketchup łagodny,-2 szt.,4. Mamy nadmiar
 żelki w małych opakowaniach/guma rozpuszczalna (mikroporcje pakowane oddzielnie),-100 szt.,4. Mamy nadmiar
-batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),-156 szt.,4. Mamy nadmiar
 talerzyki jednorazowe małe,-12090 szt.,4. Mamy nadmiar
 talerzyki jednorazowe duże,-1390 szt.,4. Mamy nadmiar
 łyżki duże plastikowe,-6041 szt.,4. Mamy nadmiar
