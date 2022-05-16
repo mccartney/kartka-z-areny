@@ -1,8 +1,8 @@
 PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
-Liczba osób w Arenie,99,Ostatnia aktualizacja
-,,16/05/2022 02:49
+Liczba osób w Arenie,150,Ostatnia aktualizacja
+,,16/05/2022 05:32
 PRZEDMIOT,Brakuje,Priorytet
 kefir/jogurt naturalny pitny lub w małych kubeczkach,20 szt.,1. Pilnie potrzebne
 jogurt pitny lub w małych kubeczkach różne rodzaje,60 szt.,1. Pilnie potrzebne
