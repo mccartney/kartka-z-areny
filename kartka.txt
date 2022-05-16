@@ -2,11 +2,10 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,150,Ostatnia aktualizacja
-,,16/05/2022 10:11
+,,16/05/2022 10:47
 PRZEDMIOT,Brakuje,Priorytet
 kefir/jogurt naturalny pitny lub w małych kubeczkach,20 szt.,1. Pilnie potrzebne
 jogurt pitny lub w małych kubeczkach różne rodzaje,60 szt.,1. Pilnie potrzebne
-jogurty wegańskie różne rodzaje,3 szt.,1. Pilnie potrzebne
 soczki małe z rurką,50 szt.,1. Pilnie potrzebne
 kabanosy małe opakowania,30 szt.,1. Pilnie potrzebne
 parówki,8 kg,1. Pilnie potrzebne
@@ -15,7 +14,6 @@ banany,10 kg,1. Pilnie potrzebne
 sałata lodowa/masłowa,5 szt.,1. Pilnie potrzebne
 ketchup łagodny,4 szt.,1. Pilnie potrzebne
 majonez,4 szt.,1. Pilnie potrzebne
-batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),20 szt.,1. Pilnie potrzebne
 maszynki jednorazowe do golenia męskie,15 szt.,1. Pilnie potrzebne
 antyperspirant męski,10 szt.,1. Pilnie potrzebne
 obcinacze do paznokci,7 szt.,1. Pilnie potrzebne
