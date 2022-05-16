@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,150,Ostatnia aktualizacja
-,,16/05/2022 10:47
+,,16/05/2022 13:23
 PRZEDMIOT,Brakuje,Priorytet
 kefir/jogurt naturalny pitny lub w małych kubeczkach,20 szt.,1. Pilnie potrzebne
 jogurt pitny lub w małych kubeczkach różne rodzaje,60 szt.,1. Pilnie potrzebne
@@ -30,7 +30,6 @@ wędlina/kiełbasa krojona paczkowana,0 szt.,3. Mamy wystarczająco
 ogórki świeże,0 kg,3. Mamy wystarczająco
 papryka czerwona,0 kg,3. Mamy wystarczająco
 tubki owocowe różne (nielodówkowe),0 szt.,3. Mamy wystarczająco
-widelce plastikowe,-100 szt.,3. Mamy wystarczająco
 opakowania rękawiczek lateksowych S,0 opak,3. Mamy wystarczająco
 opakowania rękawiczek lateksowych M,0 opak,3. Mamy wystarczająco
 opakowania rękawiczek lateksowych L,0 opak,3. Mamy wystarczająco
@@ -87,6 +86,7 @@ pieprz mała torebka,-10 szt.,4. Mamy nadmiar
 żelki w małych opakowaniach/guma rozpuszczalna (mikroporcje pakowane oddzielnie),-100 szt.,4. Mamy nadmiar
 talerzyki jednorazowe małe,-12090 szt.,4. Mamy nadmiar
 talerzyki jednorazowe duże,-1390 szt.,4. Mamy nadmiar
+widelce plastikowe,-700 szt.,4. Mamy nadmiar
 łyżki duże plastikowe,-6041 szt.,4. Mamy nadmiar
 łyżeczki plastikowe,-2630 szt.,4. Mamy nadmiar
 noże plastikowe,-3479 szt.,4. Mamy nadmiar
