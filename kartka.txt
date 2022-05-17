@@ -2,27 +2,24 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,99,Ostatnia aktualizacja
-,,17/05/2022 13:40
+,,17/05/2022 15:56
 PRZEDMIOT,Brakuje,Priorytet
 kefir/jogurt naturalny pitny lub w małych kubeczkach,20 szt.,1. Pilnie potrzebne
 jogurt pitny lub w małych kubeczkach różne rodzaje,60 szt.,1. Pilnie potrzebne
 soczki małe z rurką,50 szt.,1. Pilnie potrzebne
-kabanosy małe opakowania,30 szt.,1. Pilnie potrzebne
 banany,10 kg,1. Pilnie potrzebne
 sałata lodowa/masłowa,5 szt.,1. Pilnie potrzebne
-ketchup łagodny,4 szt.,1. Pilnie potrzebne
 majonez,4 szt.,1. Pilnie potrzebne
 maszynki jednorazowe do golenia męskie,15 szt.,1. Pilnie potrzebne
-antyperspirant męski,10 szt.,1. Pilnie potrzebne
 obcinacze do paznokci,7 szt.,1. Pilnie potrzebne
 maszynki jednorazowe do golenia damskie,15 szt,1. Pilnie potrzebne
-antyperspirant damski,12 szt,1. Pilnie potrzebne
 pianka do golenia małe opak.,14 szt,1. Pilnie potrzebne
-krem do twarzy 50-100ml,20 szt,1. Pilnie potrzebne
-soki owocowe litrowe,10 szt.,2. Potrzebne
+kabanosy małe opakowania,2 szt.,2. Potrzebne
 ogórki kiszone w wiaderkach małych,1 szt.,2. Potrzebne
+ketchup łagodny,2 szt.,2. Potrzebne
 musztarda,1 szt.,2. Potrzebne
-mleko 1L,0 szt.,3. Mamy wystarczająco
+krem do twarzy 50-100ml,5 szt,2. Potrzebne
+soki owocowe litrowe,0 szt.,3. Mamy wystarczająco
 kakao rozpuszczalne + czekolada rozpuszczalna,0 szt.,3. Mamy wystarczająco
 wędlina/kiełbasa krojona paczkowana,0 szt.,3. Mamy wystarczająco
 ogórki świeże,0 kg,3. Mamy wystarczająco
@@ -53,6 +50,7 @@ rajstopy damskie - różne rozmiary,0 szt,3. Mamy wystarczająco
 torby miękkie podróżne nowe/ stan bdb.,0 szt,3. Mamy wystarczająco
 "spray oczyszczający, woda morska do nosa, roztwór izotoniczny, 100 ml",0 szt,3. Mamy wystarczająco
 karma dla piesełków - puszka,0 szt,3. Mamy wystarczająco
+antyperspirant damski,0 szt,3. Mamy wystarczająco
 grzebienie,0 szt,3. Mamy wystarczająco
 suszarka rozkładana na pranie,0 szt,3. Mamy wystarczająco
 rękawice nitrylowe M,0 szt,3. Mamy wystarczająco
@@ -60,6 +58,7 @@ dresy męskie spodnie XL-XXL,0 szt,3. Mamy wystarczająco
 taśma pakowa brązowa szeroka,0 szt,3. Mamy wystarczająco
 dyspenser do taśmy pakowej szerokiej,0 szt,3. Mamy wystarczająco
 taśma biurowa przezroczysta 12mm,0 szt,3. Mamy wystarczająco
+mleko 1L,-57 szt.,4. Mamy nadmiar
 mleko roślinne różne rodzaje,-9 szt.,4. Mamy nadmiar
 herbata czarna,-40 szt.,4. Mamy nadmiar
 "herbata melisa i inne zioła (np. mięta, rumianek), herbata zielon",-25 szt.,4. Mamy nadmiar
@@ -117,6 +116,7 @@ mydło w kostce,-54 szt.,4. Mamy nadmiar
 "bielizna dziecięca, majtki- nowe",-10 szt.,4. Mamy nadmiar
 ręcznik papierowy - rolka,-492 szt.,4. Mamy nadmiar
 szampon do włosów 150-500ml,-87 szt.,4. Mamy nadmiar
+antyperspirant męski,-8 szt.,4. Mamy nadmiar
 butelki dla dzieci,-4 szt.,4. Mamy nadmiar
 nosidełka dla dzieci,-4 szt,4. Mamy nadmiar
 chusteczki higieniczne małe opak.,-112 szt.,4. Mamy nadmiar
