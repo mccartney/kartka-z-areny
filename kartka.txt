@@ -2,28 +2,27 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,99,Ostatnia aktualizacja
-,,18/05/2022 17:34
+,,18/05/2022 18:45
 PRZEDMIOT,Brakuje,Priorytet
-"woda w małych butelkach, w tym z dziubkiem",80 szt.,1. Pilnie potrzebne
 soczki małe z dziubkiem,50 szt,1. Pilnie potrzebne
-wędlina/kiełbasa krojona paczkowana,11 szt.,1. Pilnie potrzebne
-ser żółty krojony paczkowany,"4,5 kg",1. Pilnie potrzebne
 tubki owocowe różne (nielodówkowe),50 szt.,1. Pilnie potrzebne
-ketchup łagodny,4 szt.,1. Pilnie potrzebne
-majonez,3 szt.,1. Pilnie potrzebne
-żelki w małych opakowaniach/guma rozpuszczalna (mikroporcje pakowane oddzielnie),50 szt.,1. Pilnie potrzebne
-batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),90 szt.,1. Pilnie potrzebne
-obcinacze do paznokci,7 szt.,1. Pilnie potrzebne
-pianka do golenia małe opak.,14 szt,1. Pilnie potrzebne
+żelki w małych opakowaniach/guma rozpuszczalna (mikroporcje pakowane oddzielnie),46 szt.,1. Pilnie potrzebne
+pianka do golenia małe opak.,9 szt,1. Pilnie potrzebne
+"woda w małych butelkach, w tym z dziubkiem",50 szt.,2. Potrzebne
 soki owocowe litrowe,10 szt.,2. Potrzebne
 kawa rozpuszczalna,1 szt.,2. Potrzebne
 płatki śniadaniowe różne rodzaje,4 szt.,2. Potrzebne
+majonez,1 szt.,2. Potrzebne
+batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),30 szt.,2. Potrzebne
+obcinacze do paznokci,3 szt.,2. Potrzebne
 krem do twarzy 50-100ml,5 szt,2. Potrzebne
 kefir/jogurt naturalny pitny lub w małych kubeczkach,0 szt.,3. Mamy wystarczająco
 kawa mielona 250 gram,0 szt.,3. Mamy wystarczająco
 kakao rozpuszczalne + czekolada rozpuszczalna,0 szt.,3. Mamy wystarczająco
 chleb tostowy,-2 szt.,3. Mamy wystarczająco
 kabanosy małe opakowania,0 szt.,3. Mamy wystarczająco
+wędlina/kiełbasa krojona paczkowana,0 szt.,3. Mamy wystarczająco
+ser żółty krojony paczkowany,"-0,5 kg",3. Mamy wystarczająco
 banany,0 kg,3. Mamy wystarczająco
 filtry  do kawy rozmiar 4,0 opak,3. Mamy wystarczająco
 ogórki świeże,0 kg,3. Mamy wystarczająco
@@ -34,6 +33,7 @@ owsianka błyskawiczna kg (lub 20 porcjowanych),0 szt.,3. Mamy wystarczająco
 "sól 0,5 kg",0 szt.,3. Mamy wystarczająco
 cukier 1 kg,0 kg,3. Mamy wystarczająco
 pieprz mała torebka,0 szt.,3. Mamy wystarczająco
+ketchup łagodny,0 szt.,3. Mamy wystarczająco
 musztarda,0 szt.,3. Mamy wystarczająco
 opakowania rękawiczek lateksowych S,0 opak,3. Mamy wystarczająco
 opakowania rękawiczek lateksowych M,0 opak,3. Mamy wystarczająco
