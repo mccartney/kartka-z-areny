@@ -2,21 +2,18 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,99,Ostatnia aktualizacja
-,,18/05/2022 15:00
+,,18/05/2022 16:10
 PRZEDMIOT,Brakuje,Priorytet
 "woda w małych butelkach, w tym z dziubkiem",80 szt.,1. Pilnie potrzebne
-soczki małe z rurką,50 szt.,1. Pilnie potrzebne
 soczki małe z dziubkiem,50 szt,1. Pilnie potrzebne
 wędlina/kiełbasa krojona paczkowana,12 szt.,1. Pilnie potrzebne
 ser żółty krojony paczkowany,"5,5 kg",1. Pilnie potrzebne
 tubki owocowe różne (nielodówkowe),50 szt.,1. Pilnie potrzebne
 ketchup łagodny,4 szt.,1. Pilnie potrzebne
-majonez,4 szt.,1. Pilnie potrzebne
+majonez,3 szt.,1. Pilnie potrzebne
 żelki w małych opakowaniach/guma rozpuszczalna (mikroporcje pakowane oddzielnie),50 szt.,1. Pilnie potrzebne
 batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),90 szt.,1. Pilnie potrzebne
-maszynki jednorazowe do golenia męskie,15 szt.,1. Pilnie potrzebne
 obcinacze do paznokci,7 szt.,1. Pilnie potrzebne
-maszynki jednorazowe do golenia damskie,15 szt,1. Pilnie potrzebne
 pianka do golenia małe opak.,14 szt,1. Pilnie potrzebne
 soki owocowe litrowe,10 szt.,2. Potrzebne
 kawa rozpuszczalna,1 szt.,2. Potrzebne
@@ -75,6 +72,7 @@ taśma biurowa przezroczysta 12mm,0 szt,3. Mamy wystarczająco
 mleko 1L,-30 szt.,4. Mamy nadmiar
 mleko roślinne różne rodzaje,-7 szt.,4. Mamy nadmiar
 jogurt pitny lub w małych kubeczkach różne rodzaje,-40 szt.,4. Mamy nadmiar
+soczki małe z rurką,-289 szt.,4. Mamy nadmiar
 herbata czarna,-40 szt.,4. Mamy nadmiar
 "herbata melisa i inne zioła (np. mięta, rumianek), herbata zielon",-25 szt.,4. Mamy nadmiar
 herbata owocowa różne rodzaje,-31 szt,4. Mamy nadmiar
@@ -110,6 +108,7 @@ klapki jednorazowe pod prysznic 38-46,-1706 szt.,4. Mamy nadmiar
 karma dla kotełków,-35 szt.,4. Mamy nadmiar
 szampon do włosów travel size 30-50ml,-632 szt.,4. Mamy nadmiar
 "pampersy dziecięce/pieluchomajtki, rozm. 0-6 ",-1006 szt.,4. Mamy nadmiar
+maszynki jednorazowe do golenia męskie,-15 szt.,4. Mamy nadmiar
 biustonosze nowe rozmiary 70D-80D,-60 szt,4. Mamy nadmiar
 balsam do ciała mały 20-50ml,-935 szt.,4. Mamy nadmiar
 szczoteczki do zębów dla dzieci,-163 szt.,4. Mamy nadmiar
@@ -144,6 +143,7 @@ szczoteczki do zębów + pasta 3 gr,-399 szt.,4. Mamy nadmiar
 biustonosze nowe rozmiary 70B-90B,-85 szt,4. Mamy nadmiar
 klapki wielorazowe damskie - rozm. 36-40,-294 szt,4. Mamy nadmiar
 maseczki jednorazowe,-5000 szt,4. Mamy nadmiar
+maszynki jednorazowe do golenia damskie,-9 szt,4. Mamy nadmiar
 gąbka do ciała ,-41 szt,4. Mamy nadmiar
 odżywki do włosów travel size 30-50ml,-4 szt,4. Mamy nadmiar
 stopery do uszu/opaski na oczy,-900 szt.,4. Mamy nadmiar
