@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,99,Ostatnia aktualizacja
-,,18/05/2022 02:08
+,,18/05/2022 07:17
 PRZEDMIOT,Brakuje,Priorytet
 "woda w małych butelkach, w tym z dziubkiem",80 szt.,1. Pilnie potrzebne
 soczki małe z rurką,50 szt.,1. Pilnie potrzebne
@@ -23,6 +23,7 @@ kawa rozpuszczalna,1 szt.,2. Potrzebne
 ogórki świeże,1 kg,2. Potrzebne
 płatki śniadaniowe różne rodzaje,4 szt.,2. Potrzebne
 krem do twarzy 50-100ml,5 szt,2. Potrzebne
+kefir/jogurt naturalny pitny lub w małych kubeczkach,0 szt.,3. Mamy wystarczająco
 kawa mielona 250 gram,0 szt.,3. Mamy wystarczająco
 kakao rozpuszczalne + czekolada rozpuszczalna,0 szt.,3. Mamy wystarczająco
 chleb tostowy,-2 szt.,3. Mamy wystarczająco
@@ -73,7 +74,6 @@ dyspenser do taśmy pakowej szerokiej,0 szt,3. Mamy wystarczająco
 taśma biurowa przezroczysta 12mm,0 szt,3. Mamy wystarczająco
 mleko 1L,-30 szt.,4. Mamy nadmiar
 mleko roślinne różne rodzaje,-7 szt.,4. Mamy nadmiar
-kefir/jogurt naturalny pitny lub w małych kubeczkach,-20 szt.,4. Mamy nadmiar
 jogurt pitny lub w małych kubeczkach różne rodzaje,-40 szt.,4. Mamy nadmiar
 herbata czarna,-40 szt.,4. Mamy nadmiar
 "herbata melisa i inne zioła (np. mięta, rumianek), herbata zielon",-25 szt.,4. Mamy nadmiar
