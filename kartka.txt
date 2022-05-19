@@ -2,11 +2,13 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,99,Ostatnia aktualizacja
-,,18/05/2022 18:45
+,,19/05/2022 07:05
 PRZEDMIOT,Brakuje,Priorytet
 soczki małe z dziubkiem,50 szt,1. Pilnie potrzebne
 tubki owocowe różne (nielodówkowe),50 szt.,1. Pilnie potrzebne
 żelki w małych opakowaniach/guma rozpuszczalna (mikroporcje pakowane oddzielnie),46 szt.,1. Pilnie potrzebne
+worki na śmieci >240L,5 opak.,1. Pilnie potrzebne
+worki na śmieci 160L,5 opak.,1. Pilnie potrzebne
 pianka do golenia małe opak.,9 szt,1. Pilnie potrzebne
 "woda w małych butelkach, w tym z dziubkiem",50 szt.,2. Potrzebne
 soki owocowe litrowe,10 szt.,2. Potrzebne
@@ -51,8 +53,6 @@ klapki wielorazowe dziecięce - rozm. 23-35,0 par.,3. Mamy wystarczająco
 papier toaletowy szary /rolki do dyspenserów łaz.,-4 szt.,3. Mamy wystarczająco
 biustonosz dziewczęcy sportowy nowy,0 szt.,3. Mamy wystarczająco
 zmywacz do paznokci,0 opak.,3. Mamy wystarczająco
-worki na śmieci >240L,0 opak.,3. Mamy wystarczająco
-worki na śmieci 160L,0 opak.,3. Mamy wystarczająco
 worki na śmieci 120L,0 opak.,3. Mamy wystarczająco
 pilnik do paznokci,0 szt.,3. Mamy wystarczająco
 buty sportowe męskie - rozm. 40-45 nowe,0 szt.,3. Mamy wystarczająco
