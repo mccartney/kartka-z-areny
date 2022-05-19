@@ -2,17 +2,11 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,99,Ostatnia aktualizacja
-,,19/05/2022 17:14
+,,19/05/2022 18:39
 PRZEDMIOT,Brakuje,Priorytet
-ser żółty krojony paczkowany,8 kg,1. Pilnie potrzebne
 tubki owocowe różne (nielodówkowe),50 szt.,1. Pilnie potrzebne
-batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),15 szt.,1. Pilnie potrzebne
-czekolada małe opakowania,20 szt,1. Pilnie potrzebne
-pianka do golenia małe opak.,9 szt,1. Pilnie potrzebne
-soki owocowe litrowe,10 szt.,2. Potrzebne
-majonez,1 szt.,2. Potrzebne
-obcinacze do paznokci,3 szt.,2. Potrzebne
-krem do twarzy 50-100ml,5 szt,2. Potrzebne
+czekolada małe opakowania,10 szt,2. Potrzebne
+pianka do golenia małe opak.,4 szt,2. Potrzebne
 kefir/jogurt naturalny pitny lub w małych kubeczkach,0 szt.,3. Mamy wystarczająco
 kawa rozpuszczalna,0 szt.,3. Mamy wystarczająco
 kawa mielona 250 gram,0 szt.,3. Mamy wystarczająco
@@ -20,6 +14,7 @@ kakao rozpuszczalne + czekolada rozpuszczalna,0 szt.,3. Mamy wystarczająco
 chleb tostowy,-2 szt.,3. Mamy wystarczająco
 kabanosy małe opakowania,0 szt.,3. Mamy wystarczająco
 wędlina/kiełbasa krojona paczkowana,0 szt.,3. Mamy wystarczająco
+ser żółty krojony paczkowany,-1 kg,3. Mamy wystarczająco
 banany,0 kg,3. Mamy wystarczająco
 filtry  do kawy rozmiar 4,0 opak,3. Mamy wystarczająco
 ogórki świeże,0 kg,3. Mamy wystarczająco
@@ -66,11 +61,13 @@ dresy męskie spodnie XL-XXL,0 szt,3. Mamy wystarczająco
 taśma pakowa brązowa szeroka,0 szt,3. Mamy wystarczająco
 dyspenser do taśmy pakowej szerokiej,0 szt,3. Mamy wystarczająco
 taśma biurowa przezroczysta 12mm,0 szt,3. Mamy wystarczająco
+krem do twarzy 50-100ml,0 szt,3. Mamy wystarczająco
 mleko 1L,-30 szt.,4. Mamy nadmiar
 mleko roślinne różne rodzaje,-7 szt.,4. Mamy nadmiar
 jogurt pitny lub w małych kubeczkach różne rodzaje,-40 szt.,4. Mamy nadmiar
 "woda w małych opakowaniach, w tym z dziubkiem",-900 szt.,4. Mamy nadmiar
 soczki małe z rurką,-289 szt.,4. Mamy nadmiar
+soki owocowe litrowe,-12 szt.,4. Mamy nadmiar
 herbata czarna,-40 szt.,4. Mamy nadmiar
 "herbata melisa i inne zioła (np. mięta, rumianek), herbata zielon",-25 szt.,4. Mamy nadmiar
 herbata owocowa różne rodzaje,-31 szt,4. Mamy nadmiar
@@ -80,9 +77,11 @@ pasty kanapkowe wegańskie- różne rodzaje,-6 szt.,4. Mamy nadmiar
 jabłka,-2 kg,4. Mamy nadmiar
 pomidory,-10 kg,4. Mamy nadmiar
 papryka czerwona,-1 kg,4. Mamy nadmiar
-słoiczki dla dzieci - obiadki różne,-442 szt.,4. Mamy nadmiar
+słoiczki dla dzieci - obiadki różne,-502 szt.,4. Mamy nadmiar
 słoiczki dla dzieci - deserki różne,-215 szt.,4. Mamy nadmiar
 dżem,-28 szt.,4. Mamy nadmiar
+majonez,-1 szt.,4. Mamy nadmiar
+batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),-30 szt.,4. Mamy nadmiar
 talerzyki jednorazowe małe,-12090 szt.,4. Mamy nadmiar
 talerzyki jednorazowe duże,-1390 szt.,4. Mamy nadmiar
 widelce plastikowe,-700 szt.,4. Mamy nadmiar
@@ -132,6 +131,7 @@ chusteczki mokre dla dzieci,-600321 szt.,4. Mamy nadmiar
 płyn do higieny intymnej mały 20-50ml,-411 szt.,4. Mamy nadmiar
 biustonosze nowe rozmiary 70A-80A,-38 szt,4. Mamy nadmiar
 chusteczki do hig int. małe opakowania,-4 szt.,4. Mamy nadmiar
+obcinacze do paznokci,-2 szt.,4. Mamy nadmiar
 baterie paluszki AA,-10 szt.,4. Mamy nadmiar
 notatnik z długopisem zestaw,-12 szt.,4. Mamy nadmiar
 chusteczki do dezynfekcji powierzchni,-86 opak.,4. Mamy nadmiar
