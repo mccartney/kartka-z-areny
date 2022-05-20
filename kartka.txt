@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,90,Ostatnia aktualizacja
-,,20/05/2022 07:14
+,,20/05/2022 13:08
 PRZEDMIOT,Brakuje,Priorytet
 soczki małe z rurką dla dzieci,20 szt.,1. Pilnie potrzebne
 soczki małe z dziubkiem dla dzieci,20 szt,1. Pilnie potrzebne
