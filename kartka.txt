@@ -2,11 +2,10 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,90,Ostatnia aktualizacja
-,,20/05/2022 07:13
+,,20/05/2022 07:14
 PRZEDMIOT,Brakuje,Priorytet
 soczki małe z rurką dla dzieci,20 szt.,1. Pilnie potrzebne
 soczki małe z dziubkiem dla dzieci,20 szt,1. Pilnie potrzebne
-tubki owocowe różne (nielodówkowe),50 szt.,1. Pilnie potrzebne
 klapki wielorazowe męskie - rozm. 41-46,10 par.,1. Pilnie potrzebne
 pasta do zębów dla dzieci,15 szt.,1. Pilnie potrzebne
 gąbka do ciała ,16 szt,1. Pilnie potrzebne
@@ -22,7 +21,6 @@ jogurt pitny lub w małych kubeczkach różne rodzaje,-10 szt.,3. Mamy wystarcza
 kawa rozpuszczalna,0 szt.,3. Mamy wystarczająco
 kawa mielona 250 gram,0 szt.,3. Mamy wystarczająco
 kakao rozpuszczalne + czekolada rozpuszczalna,0 szt.,3. Mamy wystarczająco
-banany,0 kg,3. Mamy wystarczająco
 filtry  do kawy rozmiar 4,0 opak,3. Mamy wystarczająco
 ogórki świeże,0 kg,3. Mamy wystarczająco
 kaszki dla dzieci/kleiki do samodzielnego przygotowania,0 szt.,3. Mamy wystarczająco
@@ -80,14 +78,16 @@ kabanosy małe opakowania,-20 szt.,4. Mamy nadmiar
 ser żółty krojony paczkowany,"-4,5 kg",4. Mamy nadmiar
 pasty kanapkowe wegańskie- różne rodzaje,-6 szt.,4. Mamy nadmiar
 jabłka,-2 kg,4. Mamy nadmiar
+banany,-5 kg,4. Mamy nadmiar
 pomidory,-20 kg,4. Mamy nadmiar
 sałata lodowa/masłowa,-5 szt.,4. Mamy nadmiar
 ogórki kiszone w wiaderkach małych,-2 szt.,4. Mamy nadmiar
 słoiczki dla dzieci - obiadki różne,-502 szt.,4. Mamy nadmiar
 słoiczki dla dzieci - deserki różne,-215 szt.,4. Mamy nadmiar
+tubki owocowe różne (nielodówkowe),-150 szt.,4. Mamy nadmiar
 dżem,-25 szt.,4. Mamy nadmiar
 majonez,-1 szt.,4. Mamy nadmiar
-batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),-30 szt.,4. Mamy nadmiar
+batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),-180 szt.,4. Mamy nadmiar
 talerzyki jednorazowe małe,-12090 szt.,4. Mamy nadmiar
 talerzyki jednorazowe duże,-1390 szt.,4. Mamy nadmiar
 widelce plastikowe,-700 szt.,4. Mamy nadmiar
