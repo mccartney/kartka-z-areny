@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,90,Ostatnia aktualizacja
-,,20/05/2022 13:08
+,,20/05/2022 13:15
 PRZEDMIOT,Brakuje,Priorytet
 soczki małe z rurką dla dzieci,20 szt.,1. Pilnie potrzebne
 soczki małe z dziubkiem dla dzieci,20 szt,1. Pilnie potrzebne
@@ -59,7 +59,6 @@ torby miękkie podróżne nowe/ stan bdb.,0 szt,3. Mamy wystarczająco
 "spray oczyszczający, woda morska do nosa, roztwór izotoniczny, 100 ml",0 szt,3. Mamy wystarczająco
 karma dla piesełków - puszka,0 szt,3. Mamy wystarczająco
 grzebienie,0 szt,3. Mamy wystarczająco
-suszarka rozkładana na pranie,0 szt,3. Mamy wystarczająco
 płyny do soczewek,0 szt,3. Mamy wystarczająco
 rękawice nitrylowe M,0 szt,3. Mamy wystarczająco
 dresy męskie spodnie XL-XXL,0 szt,3. Mamy wystarczająco
@@ -106,6 +105,7 @@ biustonosze nowe rozmiary 75B - 90D,-43 szt.,4. Mamy nadmiar
 mydło w płynie,-244 szt.,4. Mamy nadmiar
 baterie paluszki AAA,-102 szt.,4. Mamy nadmiar
 pieluchomajtki dla dorosłych M-L,-12 opak.,4. Mamy nadmiar
+t-shirt damski L,-6 szt.,4. Mamy nadmiar
 klapki jednorazowe pod prysznic 38-46,-1706 szt.,4. Mamy nadmiar
 karma dla kotełków,-35 szt.,4. Mamy nadmiar
 szampon do włosów travel size 30-50ml,-632 szt.,4. Mamy nadmiar
@@ -141,12 +141,14 @@ chusteczki do dezynfekcji powierzchni,-86 opak.,4. Mamy nadmiar
 płyn do czyszczenia toalety,-179 opak.,4. Mamy nadmiar
 papier toaletowy /rolki,-878 szt.,4. Mamy nadmiar
 szczoteczki do zębów + pasta 3 gr,-399 szt.,4. Mamy nadmiar
+t-shirt damski M,-20 szt.,4. Mamy nadmiar
 żel antybakteryjny 400-500ml,-311 szt.,4. Mamy nadmiar
 biustonosze nowe rozmiary 70B-90B,-85 szt,4. Mamy nadmiar
 klapki wielorazowe damskie - rozm. 36-40,-180 szt,4. Mamy nadmiar
 maseczki jednorazowe,-5000 szt,4. Mamy nadmiar
 stopery do uszu/opaski na oczy,-900 szt.,4. Mamy nadmiar
 worki na śmieci 60L,-22 szt,4. Mamy nadmiar
+t-shirt damski XL,-40 szt,4. Mamy nadmiar
 waciki do demakijażu,-54 szt,4. Mamy nadmiar
 pasta do zębów dla dorosłych - małe opakowania,-265 szt,4. Mamy nadmiar
 biustonosze nowe rozmiar 70C-90C,-57 szt,4. Mamy nadmiar
@@ -159,3 +161,4 @@ biustonosze nowe rozmiary 70E-80G,-27 szt.,4. Mamy nadmiar
 zestaw do szycia podróżny,-1 szt.,4. Mamy nadmiar
 płyn do mycia naczyń,-3 szt,4. Mamy nadmiar
 japonki damskie 36-39,-76 szt,4. Mamy nadmiar
+suszarka rozkładana na pranie,-1 szt,4. Mamy nadmiar
