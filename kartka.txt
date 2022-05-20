@@ -2,23 +2,22 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,90,Ostatnia aktualizacja
-,,20/05/2022 15:12
+,,20/05/2022 15:48
 PRZEDMIOT,Brakuje,Priorytet
-jogurt pitny lub w małych kubeczkach różne rodzaje,110 szt.,1. Pilnie potrzebne
 soczki małe z rurką dla dzieci,80 szt.,1. Pilnie potrzebne
 soczki małe z dziubkiem dla dzieci,80 szt,1. Pilnie potrzebne
-chleb tostowy,22 szt.,1. Pilnie potrzebne
 klapki wielorazowe męskie - rozm. 41-46,10 par.,1. Pilnie potrzebne
 pasta do zębów dla dzieci,15 szt.,1. Pilnie potrzebne
 gąbka do ciała ,16 szt,1. Pilnie potrzebne
 antyperspirant damski,15 szt,1. Pilnie potrzebne
 mleko 1L,3 szt.,2. Potrzebne
 soki owocowe litrowe,18 szt.,2. Potrzebne
+chleb tostowy,5 szt.,2. Potrzebne
 parówki,5 kg,2. Potrzebne
 ser żółty krojony paczkowany,"5,5 kg",2. Potrzebne
-czekolada małe opakowania,10 szt,2. Potrzebne
 pianka do golenia małe opak.,4 szt,2. Potrzebne
 kefir/jogurt naturalny pitny lub w małych kubeczkach,0 szt.,3. Mamy wystarczająco
+jogurt pitny lub w małych kubeczkach różne rodzaje,0 szt.,3. Mamy wystarczająco
 kakao rozpuszczalne + czekolada rozpuszczalna,0 szt.,3. Mamy wystarczająco
 filtry  do kawy rozmiar 4,0 opak,3. Mamy wystarczająco
 ogórki świeże,0 kg,3. Mamy wystarczająco
@@ -29,6 +28,7 @@ cukier 1 kg,0 kg,3. Mamy wystarczająco
 pieprz mała torebka,0 szt.,3. Mamy wystarczająco
 ketchup łagodny,0 szt.,3. Mamy wystarczająco
 musztarda,0 szt.,3. Mamy wystarczająco
+batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),0 szt.,3. Mamy wystarczająco
 opakowania rękawiczek lateksowych S,0 opak,3. Mamy wystarczająco
 opakowania rękawiczek lateksowych M,0 opak,3. Mamy wystarczająco
 opakowania rękawiczek lateksowych L,0 opak,3. Mamy wystarczająco
@@ -86,7 +86,6 @@ tubki owocowe różne (nielodówkowe),-150 szt.,4. Mamy nadmiar
 płatki śniadaniowe różne rodzaje,-5 szt.,4. Mamy nadmiar
 dżem,-25 szt.,4. Mamy nadmiar
 majonez,-1 szt.,4. Mamy nadmiar
-batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),-180 szt.,4. Mamy nadmiar
 talerzyki jednorazowe małe,-12090 szt.,4. Mamy nadmiar
 talerzyki jednorazowe duże,-1390 szt.,4. Mamy nadmiar
 widelce plastikowe,-700 szt.,4. Mamy nadmiar
