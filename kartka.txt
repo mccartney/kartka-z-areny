@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,90,Ostatnia aktualizacja
-,,21/05/2022 07:03
+,,21/05/2022 07:26
 PRZEDMIOT,Brakuje,Priorytet
 soczki małe z rurką dla dzieci,80 szt.,1. Pilnie potrzebne
 soczki małe z dziubkiem dla dzieci,80 szt,1. Pilnie potrzebne
@@ -11,7 +11,8 @@ opakowania rękawiczek lateksowych M,2 opak,1. Pilnie potrzebne
 opakowania rękawiczek lateksowych L,2 opak,1. Pilnie potrzebne
 klapki wielorazowe męskie - rozm. 41-46,10 par.,1. Pilnie potrzebne
 pasta do zębów dla dzieci,15 szt.,1. Pilnie potrzebne
-gąbka do ciała ,16 szt,1. Pilnie potrzebne
+gąbka do ciała ,20 szt,1. Pilnie potrzebne
+odżywki do włosów travel size 30-50ml,5 szt,1. Pilnie potrzebne
 antyperspirant damski,15 szt,1. Pilnie potrzebne
 rękawice nitrylowe M,100 szt,1. Pilnie potrzebne
 mleko 1L,3 szt.,2. Potrzebne
@@ -52,7 +53,6 @@ pilnik do paznokci,0 szt.,3. Mamy wystarczająco
 buty sportowe męskie - rozm. 40-45 nowe,0 szt.,3. Mamy wystarczająco
 wielorazowe torby na zakupy,0 szt,3. Mamy wystarczająco
 maszynki jednorazowe do golenia damskie,0 szt,3. Mamy wystarczająco
-odżywki do włosów travel size 30-50ml,0 szt,3. Mamy wystarczająco
 rajstopy damskie - różne rozmiary,0 szt,3. Mamy wystarczająco
 torby miękkie podróżne nowe/ stan bdb.,0 szt,3. Mamy wystarczająco
 "spray oczyszczający, woda morska do nosa, roztwór izotoniczny, 100 ml",0 szt,3. Mamy wystarczająco
