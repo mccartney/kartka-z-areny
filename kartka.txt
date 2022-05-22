@@ -2,12 +2,12 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,90,Ostatnia aktualizacja
-,,22/05/2022 01:01
+,,22/05/2022 12:14
 PRZEDMIOT,Brakuje,Priorytet
 mleko 1L,20 szt.,1. Pilnie potrzebne
 soki owocowe litrowe,13 szt.,1. Pilnie potrzebne
 wędlina/kiełbasa krojona paczkowana,11 szt.,1. Pilnie potrzebne
-cukier 1 kg,9 kg,1. Pilnie potrzebne
+cukier 1 kg,10 kg,1. Pilnie potrzebne
 opakowania rękawiczek lateksowych S,2 opak,1. Pilnie potrzebne
 Kawa inka ,8 szt.,1. Pilnie potrzebne
 klapki wielorazowe męskie - rozm. 41-46,10 par.,1. Pilnie potrzebne
