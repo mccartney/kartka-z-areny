@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,90,Ostatnia aktualizacja
-,,22/05/2022 18:57
+,,22/05/2022 20:29
 PRZEDMIOT,Brakuje,Priorytet
 mleko 1L,29 szt.,1. Pilnie potrzebne
 jogurt pitny lub w małych kubeczkach różne rodzaje,180 szt.,1. Pilnie potrzebne
@@ -10,10 +10,12 @@ soki owocowe litrowe,13 szt.,1. Pilnie potrzebne
 chleb tostowy,7 szt.,1. Pilnie potrzebne
 kabanosy małe opakowania,30 szt.,1. Pilnie potrzebne
 wędlina/kiełbasa krojona paczkowana,11 szt.,1. Pilnie potrzebne
-ogórki świeże,9 kg,1. Pilnie potrzebne
-papryka czerwona,8 kg,1. Pilnie potrzebne
-cukier 1 kg,7 kg,1. Pilnie potrzebne
-batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),185 szt.,1. Pilnie potrzebne
+banany,10 kg,1. Pilnie potrzebne
+ogórki świeże,10 kg,1. Pilnie potrzebne
+papryka czerwona,10 kg,1. Pilnie potrzebne
+sałata lodowa/masłowa,3 szt.,1. Pilnie potrzebne
+cukier 1 kg,10 kg,1. Pilnie potrzebne
+batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),200 szt.,1. Pilnie potrzebne
 opakowania rękawiczek lateksowych S,2 opak,1. Pilnie potrzebne
 Kawa inka ,8 szt.,1. Pilnie potrzebne
 klapki wielorazowe męskie - rozm. 41-46,10 par.,1. Pilnie potrzebne
@@ -24,7 +26,6 @@ kefir/jogurt naturalny pitny lub w małych kubeczkach,8 szt.,2. Potrzebne
 soczki małe z rurką dla dzieci,8 szt.,2. Potrzebne
 ser żółty krojony paczkowany,"5,5 kg",2. Potrzebne
 jabłka,2 kg,2. Potrzebne
-banany,3 kg,2. Potrzebne
 ketchup łagodny,2 szt.,2. Potrzebne
 gąbka do ciała ,6 szt,2. Potrzebne
 pianka do golenia małe opak.,4 szt,2. Potrzebne
@@ -74,9 +75,8 @@ kawa rozpuszczalna,-19 szt.,4. Mamy nadmiar
 kawa mielona 250 gram,-11 szt.,4. Mamy nadmiar
 chleb krojony (nie tostowy!),-32 szt.,4. Mamy nadmiar
 parówki,-7 kg,4. Mamy nadmiar
-pasty kanapkowe wegańskie- różne rodzaje,-6 szt.,4. Mamy nadmiar
-pomidory,-20 kg,4. Mamy nadmiar
-sałata lodowa/masłowa,-5 szt.,4. Mamy nadmiar
+pasty kanapkowe wegańskie- różne rodzaje,-2 szt.,4. Mamy nadmiar
+pomidory,-10 kg,4. Mamy nadmiar
 ogórki kiszone w wiaderkach małych,-1 szt.,4. Mamy nadmiar
 słoiczki dla dzieci - obiadki różne,-502 szt.,4. Mamy nadmiar
 słoiczki dla dzieci - deserki różne,-215 szt.,4. Mamy nadmiar
