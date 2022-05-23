@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,144,Ostatnia aktualizacja
-,,23/05/2022 08:11
+,,23/05/2022 08:38
 PRZEDMIOT,Brakuje,Priorytet
 soki owocowe litrowe,13 szt.,1. Pilnie potrzebne
 cukier 1 kg,10 kg,1. Pilnie potrzebne
@@ -125,7 +125,7 @@ butelki dla dzieci,-4 szt.,4. Mamy nadmiar
 nosidełka dla dzieci,-4 szt,4. Mamy nadmiar
 worki na śmieci 160L,-5 opak.,4. Mamy nadmiar
 chusteczki higieniczne małe opak.,-112 szt.,4. Mamy nadmiar
-chusteczki nawilżane pakowane,-1192 szt.,4. Mamy nadmiar
+chusteczki nawilżane pakowane,-1392 szt.,4. Mamy nadmiar
 patyczki do uszu ,-32 opak.,4. Mamy nadmiar
 pasta do zębów dla dorosłych - duże opakowania,-36 szt.,4. Mamy nadmiar
 sciereczki bawełniane jednorazowe - rolka,-1016 szt.,4. Mamy nadmiar
