@@ -2,9 +2,10 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,144,Ostatnia aktualizacja
-,,23/05/2022 14:37
+,,23/05/2022 22:06
 PRZEDMIOT,Brakuje,Priorytet
 soki owocowe litrowe,13 szt.,1. Pilnie potrzebne
+kakao rozpuszczalne + czekolada rozpuszczalna,2 szt.,1. Pilnie potrzebne
 chleb tostowy,14 szt.,1. Pilnie potrzebne
 klapki wielorazowe męskie - rozm. 41-46,10 par.,1. Pilnie potrzebne
 odżywki do włosów travel size 30-50ml,5 szt,1. Pilnie potrzebne
@@ -22,7 +23,6 @@ Kawa inka ,2 szt.,2. Potrzebne
 gąbka do ciała ,6 szt,2. Potrzebne
 pianka do golenia małe opak.,4 szt,2. Potrzebne
 mleko roślinne różne rodzaje,0 szt.,3. Mamy wystarczająco
-kakao rozpuszczalne + czekolada rozpuszczalna,0 szt.,3. Mamy wystarczająco
 banany,0 kg,3. Mamy wystarczająco
 filtry  do kawy rozmiar 4,0 opak,3. Mamy wystarczająco
 winogrona,0 kg,3. Mamy wystarczająco
