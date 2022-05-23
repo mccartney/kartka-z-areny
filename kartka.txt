@@ -2,25 +2,25 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,144,Ostatnia aktualizacja
-,,23/05/2022 07:13
+,,23/05/2022 08:11
 PRZEDMIOT,Brakuje,Priorytet
-mleko 1L,18 szt.,1. Pilnie potrzebne
 soki owocowe litrowe,13 szt.,1. Pilnie potrzebne
-chleb tostowy,9 szt.,1. Pilnie potrzebne
-wędlina/kiełbasa krojona paczkowana,11 szt.,1. Pilnie potrzebne
-papryka czerwona,7 kg,1. Pilnie potrzebne
 cukier 1 kg,10 kg,1. Pilnie potrzebne
 opakowania rękawiczek lateksowych S,2 opak,1. Pilnie potrzebne
-Kawa inka ,8 szt.,1. Pilnie potrzebne
+Kawa inka ,7 szt.,1. Pilnie potrzebne
 klapki wielorazowe męskie - rozm. 41-46,10 par.,1. Pilnie potrzebne
 odżywki do włosów travel size 30-50ml,5 szt,1. Pilnie potrzebne
 antyperspirant damski,15 szt,1. Pilnie potrzebne
 rękawice nitrylowe M,100 szt,1. Pilnie potrzebne
+mleko 1L,15 szt.,2. Potrzebne
 jogurt pitny lub w małych kubeczkach różne rodzaje,80 szt.,2. Potrzebne
 soczki małe z rurką dla dzieci,8 szt.,2. Potrzebne
+chleb tostowy,4 szt.,2. Potrzebne
+parówki,13 kg,2. Potrzebne
+wędlina/kiełbasa krojona paczkowana,7 szt.,2. Potrzebne
 ser żółty krojony paczkowany,2 kg,2. Potrzebne
 jabłka,2 kg,2. Potrzebne
-ketchup łagodny,2 szt.,2. Potrzebne
+ketchup łagodny,1 szt.,2. Potrzebne
 batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),100 szt.,2. Potrzebne
 gąbka do ciała ,6 szt,2. Potrzebne
 pianka do golenia małe opak.,4 szt,2. Potrzebne
@@ -29,7 +29,7 @@ kakao rozpuszczalne + czekolada rozpuszczalna,0 szt.,3. Mamy wystarczająco
 banany,0 kg,3. Mamy wystarczająco
 filtry  do kawy rozmiar 4,0 opak,3. Mamy wystarczająco
 winogrona,0 kg,3. Mamy wystarczająco
-ogórki świeże,0 kg,3. Mamy wystarczająco
+papryka czerwona,0 kg,3. Mamy wystarczająco
 sałata lodowa/masłowa,0 szt.,3. Mamy wystarczająco
 kaszki dla dzieci/kleiki do samodzielnego przygotowania,0 szt.,3. Mamy wystarczająco
 owsianka błyskawiczna kg (lub 20 porcjowanych),0 szt.,3. Mamy wystarczająco
@@ -75,8 +75,8 @@ kawa rozpuszczalna,-19 szt.,4. Mamy nadmiar
 kawa mielona 250 gram,-11 szt.,4. Mamy nadmiar
 chleb krojony (nie tostowy!),-10 szt.,4. Mamy nadmiar
 kabanosy małe opakowania,-10 szt.,4. Mamy nadmiar
-parówki,-7 kg,4. Mamy nadmiar
 pasty kanapkowe wegańskie- różne rodzaje,-2 szt.,4. Mamy nadmiar
+ogórki świeże,-2 kg,4. Mamy nadmiar
 pomidory,-18 kg,4. Mamy nadmiar
 ogórki kiszone w wiaderkach małych,-1 szt.,4. Mamy nadmiar
 słoiczki dla dzieci - obiadki różne,-502 szt.,4. Mamy nadmiar
