@@ -2,19 +2,19 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,74,Ostatnia aktualizacja
-,,24/05/2022 12:12
+,,24/05/2022 12:56
 PRZEDMIOT,Brakuje,Priorytet
 soczki małe z dziubkiem dla dzieci,56 szt,1. Pilnie potrzebne
 soki owocowe litrowe,13 szt.,1. Pilnie potrzebne
 kakao rozpuszczalne + czekolada rozpuszczalna,2 szt.,1. Pilnie potrzebne
-chleb tostowy,14 szt.,1. Pilnie potrzebne
+chleb tostowy,5 szt.,1. Pilnie potrzebne
+wędlina/kiełbasa krojona paczkowana,15 szt.,1. Pilnie potrzebne
 ręczniki duże kąpielowe,50 szt.,1. Pilnie potrzebne
-odżywki do włosów travel size 30-50ml,5 szt,1. Pilnie potrzebne
 antyperspirant damski,10 szt,1. Pilnie potrzebne
 mleko 1L,15 szt.,2. Potrzebne
 jogurt pitny lub w małych kubeczkach różne rodzaje,80 szt.,2. Potrzebne
 soczki małe z rurką dla dzieci,8 szt.,2. Potrzebne
-wędlina/kiełbasa krojona paczkowana,7 szt.,2. Potrzebne
+parówki,10 kg,2. Potrzebne
 ser żółty krojony paczkowany,2 kg,2. Potrzebne
 jabłka,2 kg,2. Potrzebne
 ketchup łagodny,1 szt.,2. Potrzebne
@@ -22,7 +22,6 @@ batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),100 szt.
 gąbka do ciała ,6 szt,2. Potrzebne
 pianka do golenia małe opak.,4 szt,2. Potrzebne
 mleko roślinne różne rodzaje,0 szt.,3. Mamy wystarczająco
-parówki,-2 kg,3. Mamy wystarczająco
 banany,0 kg,3. Mamy wystarczająco
 filtry  do kawy rozmiar 4,0 opak,3. Mamy wystarczająco
 winogrona,0 kg,3. Mamy wystarczająco
