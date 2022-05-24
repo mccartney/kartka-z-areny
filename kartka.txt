@@ -1,28 +1,28 @@
 PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
-Liczba osób w Arenie,144,Ostatnia aktualizacja
-,,23/05/2022 22:06
+Liczba osób w Arenie,74,Ostatnia aktualizacja
+,,24/05/2022 12:12
 PRZEDMIOT,Brakuje,Priorytet
+soczki małe z dziubkiem dla dzieci,56 szt,1. Pilnie potrzebne
 soki owocowe litrowe,13 szt.,1. Pilnie potrzebne
 kakao rozpuszczalne + czekolada rozpuszczalna,2 szt.,1. Pilnie potrzebne
 chleb tostowy,14 szt.,1. Pilnie potrzebne
-klapki wielorazowe męskie - rozm. 41-46,10 par.,1. Pilnie potrzebne
+ręczniki duże kąpielowe,50 szt.,1. Pilnie potrzebne
 odżywki do włosów travel size 30-50ml,5 szt,1. Pilnie potrzebne
 antyperspirant damski,10 szt,1. Pilnie potrzebne
 mleko 1L,15 szt.,2. Potrzebne
 jogurt pitny lub w małych kubeczkach różne rodzaje,80 szt.,2. Potrzebne
 soczki małe z rurką dla dzieci,8 szt.,2. Potrzebne
-parówki,13 kg,2. Potrzebne
 wędlina/kiełbasa krojona paczkowana,7 szt.,2. Potrzebne
 ser żółty krojony paczkowany,2 kg,2. Potrzebne
 jabłka,2 kg,2. Potrzebne
 ketchup łagodny,1 szt.,2. Potrzebne
 batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),100 szt.,2. Potrzebne
-Kawa inka ,2 szt.,2. Potrzebne
 gąbka do ciała ,6 szt,2. Potrzebne
 pianka do golenia małe opak.,4 szt,2. Potrzebne
 mleko roślinne różne rodzaje,0 szt.,3. Mamy wystarczająco
+parówki,-2 kg,3. Mamy wystarczająco
 banany,0 kg,3. Mamy wystarczająco
 filtry  do kawy rozmiar 4,0 opak,3. Mamy wystarczająco
 winogrona,0 kg,3. Mamy wystarczająco
@@ -37,7 +37,6 @@ opakowania rękawiczek lateksowych S,0 opak,3. Mamy wystarczająco
 worki na smieci 35L,0 szt.,3. Mamy wystarczająco
 rękawice grube wielorazowe,0 szt.,3. Mamy wystarczająco
 przewijak,0 szt.,3. Mamy wystarczająco
-ręczniki duże kąpielowe,0 szt.,3. Mamy wystarczająco
 szelki dla kota,0 szt,3. Mamy wystarczająco
 powerbank,0 szt.,3. Mamy wystarczająco
 maszynki jednorazowe do golenia męskie,0 szt.,3. Mamy wystarczająco
@@ -96,6 +95,7 @@ tacki papierowe jednorazowe małe prostokątne,-1600 szt.,4. Mamy nadmiar
 miski papierowe do ciepłych posiłków,-7350 szt.,4. Mamy nadmiar
 opakowania rękawiczek lateksowych M,-2 opak,4. Mamy nadmiar
 opakowania rękawiczek lateksowych L,-2 opak,4. Mamy nadmiar
+Kawa inka ,-3 szt.,4. Mamy nadmiar
 mleko modyfikowane 0-6 miesięcy,-8 szt.,4. Mamy nadmiar
 mleko modyfikowane 6-12 m-cy,-24 szt.,4. Mamy nadmiar
 mleko modyfikowane 12+,-15 szt.,4. Mamy nadmiar
