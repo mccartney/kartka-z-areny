@@ -2,23 +2,17 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,74,Ostatnia aktualizacja
-,,24/05/2022 15:19
+,,24/05/2022 20:41
 PRZEDMIOT,Brakuje,Priorytet
-soczki małe z dziubkiem dla dzieci,56 szt,1. Pilnie potrzebne
 kakao rozpuszczalne + czekolada rozpuszczalna,2 szt.,1. Pilnie potrzebne
-parówki,14 kg,1. Pilnie potrzebne
 ręczniki duże kąpielowe,50 szt.,1. Pilnie potrzebne
-soki owocowe litrowe,5 szt.,2. Potrzebne
-chleb tostowy,1 szt.,2. Potrzebne
-wędlina/kiełbasa krojona paczkowana,10 szt.,2. Potrzebne
+soczki małe z dziubkiem dla dzieci,32 szt,2. Potrzebne
+parówki,7 kg,2. Potrzebne
 ketchup łagodny,1 szt.,2. Potrzebne
 batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),50 szt.,2. Potrzebne
-antyperspirant damski,1 szt,2. Potrzebne
-pianka do golenia małe opak.,4 szt,2. Potrzebne
 mleko roślinne różne rodzaje,0 szt.,3. Mamy wystarczająco
 kefir/jogurt naturalny pitny lub w małych kubeczkach,0 szt.,3. Mamy wystarczająco
 jogurt pitny lub w małych kubeczkach różne rodzaje,0 szt.,3. Mamy wystarczająco
-soczki małe z rurką dla dzieci,-2 szt.,3. Mamy wystarczająco
 kabanosy małe opakowania,0 szt.,3. Mamy wystarczająco
 jabłka,0 kg,3. Mamy wystarczająco
 banany,0 kg,3. Mamy wystarczająco
@@ -58,6 +52,7 @@ rajstopy damskie - różne rozmiary,0 szt,3. Mamy wystarczająco
 torby miękkie podróżne nowe/ stan bdb.,0 szt,3. Mamy wystarczająco
 "spray oczyszczający, woda morska do nosa, roztwór izotoniczny, 100 ml",0 szt,3. Mamy wystarczająco
 karma dla piesełków - puszka,0 szt,3. Mamy wystarczająco
+pianka do golenia małe opak.,-1 szt,3. Mamy wystarczająco
 grzebienie,0 szt,3. Mamy wystarczająco
 płyny do soczewek,0 szt,3. Mamy wystarczająco
 dresy męskie spodnie XL-XXL,0 szt,3. Mamy wystarczająco
@@ -67,12 +62,16 @@ taśma biurowa przezroczysta 12mm,0 szt,3. Mamy wystarczająco
 krem do twarzy 50-100ml,0 szt,3. Mamy wystarczająco
 mleko 1L,-12 szt.,4. Mamy nadmiar
 "woda w małych opakowaniach, w tym z dziubkiem",-500 szt.,4. Mamy nadmiar
+soczki małe z rurką dla dzieci,-29 szt.,4. Mamy nadmiar
+soki owocowe litrowe,-7 szt.,4. Mamy nadmiar
 herbata czarna,-40 szt.,4. Mamy nadmiar
 "herbata melisa i inne zioła (np. mięta, rumianek), herbata zielon",-25 szt.,4. Mamy nadmiar
 herbata owocowa różne rodzaje,-31 szt,4. Mamy nadmiar
 kawa rozpuszczalna,-19 szt.,4. Mamy nadmiar
 kawa mielona 250 gram,-11 szt.,4. Mamy nadmiar
 chleb krojony (nie tostowy!),-10 szt.,4. Mamy nadmiar
+chleb tostowy,-4 szt.,4. Mamy nadmiar
+wędlina/kiełbasa krojona paczkowana,-23 szt.,4. Mamy nadmiar
 ser żółty krojony paczkowany,"-7,5 kg",4. Mamy nadmiar
 pasty kanapkowe wegańskie- różne rodzaje,-2 szt.,4. Mamy nadmiar
 słoiczki dla dzieci - obiadki różne,-502 szt.,4. Mamy nadmiar
@@ -156,6 +155,7 @@ buty sportowe damskie rozm. 36-40 nowe,-60 szt.,4. Mamy nadmiar
 karma dla piesełków - sucha,-34 kg,4. Mamy nadmiar
 żwirek dla kota,-40 kg,4. Mamy nadmiar
 biustonosze nowe rozmiary 70E-80G,-27 szt.,4. Mamy nadmiar
+antyperspirant damski,-28 szt,4. Mamy nadmiar
 zestaw do szycia podróżny,-1 szt.,4. Mamy nadmiar
 płyn do mycia naczyń,-3 szt,4. Mamy nadmiar
 japonki damskie 36-39,-76 szt,4. Mamy nadmiar
