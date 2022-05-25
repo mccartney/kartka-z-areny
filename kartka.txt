@@ -2,14 +2,14 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,74,Ostatnia aktualizacja
-,,25/05/2022 18:25
+,,25/05/2022 19:56
 PRZEDMIOT,Brakuje,Priorytet
 musztarda,3 szt.,1. Pilnie potrzebne
 majonez,4 szt.,1. Pilnie potrzebne
 maszynki jednorazowe do golenia męskie,15 szt.,1. Pilnie potrzebne
 kefir/jogurt naturalny pitny lub w małych kubeczkach,0 szt.,3. Mamy wystarczająco
 jogurt pitny lub w małych kubeczkach różne rodzaje,0 szt.,3. Mamy wystarczająco
-soczki małe z rurką dla dzieci,0 szt.,3. Mamy wystarczająco
+soczki małe z dziubkiem dla dzieci,0 szt,3. Mamy wystarczająco
 herbata czarna,0 szt.,3. Mamy wystarczająco
 ser żółty krojony paczkowany,0 kg,3. Mamy wystarczająco
 jabłka,-1 kg,3. Mamy wystarczająco
@@ -62,7 +62,7 @@ krem do twarzy 50-100ml,0 szt,3. Mamy wystarczająco
 mleko 1L,-12 szt.,4. Mamy nadmiar
 mleko roślinne różne rodzaje,-7 szt.,4. Mamy nadmiar
 "woda w małych opakowaniach, w tym z dziubkiem",-500 szt.,4. Mamy nadmiar
-soczki małe z dziubkiem dla dzieci,-8 szt,4. Mamy nadmiar
+soczki małe z rurką dla dzieci,-87 szt.,4. Mamy nadmiar
 soki owocowe litrowe,-7 szt.,4. Mamy nadmiar
 "herbata melisa i inne zioła (np. mięta, rumianek), herbata zielon",-25 szt.,4. Mamy nadmiar
 herbata owocowa różne rodzaje,-31 szt,4. Mamy nadmiar
