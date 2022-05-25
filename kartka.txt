@@ -2,18 +2,16 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,74,Ostatnia aktualizacja
-,,24/05/2022 20:41
+,,24/05/2022 22:45
 PRZEDMIOT,Brakuje,Priorytet
-kakao rozpuszczalne + czekolada rozpuszczalna,2 szt.,1. Pilnie potrzebne
-ręczniki duże kąpielowe,50 szt.,1. Pilnie potrzebne
 soczki małe z dziubkiem dla dzieci,32 szt,2. Potrzebne
-parówki,7 kg,2. Potrzebne
+kakao rozpuszczalne + czekolada rozpuszczalna,1 szt.,2. Potrzebne
 ketchup łagodny,1 szt.,2. Potrzebne
-batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),50 szt.,2. Potrzebne
 mleko roślinne różne rodzaje,0 szt.,3. Mamy wystarczająco
 kefir/jogurt naturalny pitny lub w małych kubeczkach,0 szt.,3. Mamy wystarczająco
 jogurt pitny lub w małych kubeczkach różne rodzaje,0 szt.,3. Mamy wystarczająco
 kabanosy małe opakowania,0 szt.,3. Mamy wystarczająco
+parówki,-1 kg,3. Mamy wystarczająco
 jabłka,0 kg,3. Mamy wystarczająco
 banany,0 kg,3. Mamy wystarczająco
 filtry  do kawy rozmiar 4,0 opak,3. Mamy wystarczająco
@@ -29,6 +27,7 @@ owsianka błyskawiczna kg (lub 20 porcjowanych),0 szt.,3. Mamy wystarczająco
 "sól 0,5 kg",0 szt.,3. Mamy wystarczająco
 pieprz mała torebka,0 szt.,3. Mamy wystarczająco
 musztarda,0 szt.,3. Mamy wystarczająco
+batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),0 szt.,3. Mamy wystarczająco
 opakowania rękawiczek lateksowych S,0 opak,3. Mamy wystarczająco
 Kawa inka ,0 szt.,3. Mamy wystarczająco
 worki na smieci 35L,0 szt.,3. Mamy wystarczająco
