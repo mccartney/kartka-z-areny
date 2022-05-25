@@ -2,18 +2,16 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,74,Ostatnia aktualizacja
-,,25/05/2022 14:02
+,,25/05/2022 17:05
 PRZEDMIOT,Brakuje,Priorytet
 musztarda,3 szt.,1. Pilnie potrzebne
 majonez,4 szt.,1. Pilnie potrzebne
 maszynki jednorazowe do golenia męskie,15 szt.,1. Pilnie potrzebne
-soczki małe z dziubkiem dla dzieci,32 szt,2. Potrzebne
-ketchup łagodny,1 szt.,2. Potrzebne
-mleko roślinne różne rodzaje,0 szt.,3. Mamy wystarczająco
 kefir/jogurt naturalny pitny lub w małych kubeczkach,0 szt.,3. Mamy wystarczająco
 jogurt pitny lub w małych kubeczkach różne rodzaje,0 szt.,3. Mamy wystarczająco
+soczki małe z rurką dla dzieci,0 szt.,3. Mamy wystarczająco
 herbata czarna,0 szt.,3. Mamy wystarczająco
-parówki,-2 kg,3. Mamy wystarczająco
+ser żółty krojony paczkowany,0 kg,3. Mamy wystarczająco
 jabłka,-1 kg,3. Mamy wystarczająco
 banany,-1 kg,3. Mamy wystarczająco
 filtry  do kawy rozmiar 4,0 opak,3. Mamy wystarczająco
@@ -28,7 +26,9 @@ kaszki dla dzieci/kleiki do samodzielnego przygotowania,0 szt.,3. Mamy wystarcza
 owsianka błyskawiczna kg (lub 20 porcjowanych),0 szt.,3. Mamy wystarczająco
 "sól 0,5 kg",0 szt.,3. Mamy wystarczająco
 pieprz mała torebka,0 szt.,3. Mamy wystarczająco
-batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),-1 szt.,3. Mamy wystarczająco
+ketchup łagodny,0 szt.,3. Mamy wystarczająco
+żelki w małych opakowaniach/guma rozpuszczalna (mikroporcje pakowane oddzielnie),0 szt.,3. Mamy wystarczająco
+batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),0 szt.,3. Mamy wystarczająco
 opakowania rękawiczek lateksowych S,0 opak,3. Mamy wystarczająco
 Kawa inka ,-1 szt.,3. Mamy wystarczająco
 worki na smieci 35L,0 szt.,3. Mamy wystarczająco
@@ -60,8 +60,9 @@ dyspenser do taśmy pakowej szerokiej,0 szt,3. Mamy wystarczająco
 taśma biurowa przezroczysta 12mm,0 szt,3. Mamy wystarczająco
 krem do twarzy 50-100ml,0 szt,3. Mamy wystarczająco
 mleko 1L,-12 szt.,4. Mamy nadmiar
+mleko roślinne różne rodzaje,-7 szt.,4. Mamy nadmiar
 "woda w małych opakowaniach, w tym z dziubkiem",-500 szt.,4. Mamy nadmiar
-soczki małe z rurką dla dzieci,-29 szt.,4. Mamy nadmiar
+soczki małe z dziubkiem dla dzieci,-8 szt,4. Mamy nadmiar
 soki owocowe litrowe,-7 szt.,4. Mamy nadmiar
 "herbata melisa i inne zioła (np. mięta, rumianek), herbata zielon",-25 szt.,4. Mamy nadmiar
 herbata owocowa różne rodzaje,-31 szt,4. Mamy nadmiar
@@ -71,8 +72,8 @@ kakao rozpuszczalne + czekolada rozpuszczalna,-3 szt.,4. Mamy nadmiar
 chleb krojony (nie tostowy!),-10 szt.,4. Mamy nadmiar
 chleb tostowy,-4 szt.,4. Mamy nadmiar
 kabanosy małe opakowania,-40 szt.,4. Mamy nadmiar
+parówki,-11 kg,4. Mamy nadmiar
 wędlina/kiełbasa krojona paczkowana,-23 szt.,4. Mamy nadmiar
-ser żółty krojony paczkowany,-18 kg,4. Mamy nadmiar
 pasty kanapkowe wegańskie- różne rodzaje,-2 szt.,4. Mamy nadmiar
 słoiczki dla dzieci - obiadki różne,-502 szt.,4. Mamy nadmiar
 słoiczki dla dzieci - deserki różne,-215 szt.,4. Mamy nadmiar
