@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,74,Ostatnia aktualizacja
-,,25/05/2022 17:05
+,,25/05/2022 18:25
 PRZEDMIOT,Brakuje,Priorytet
 musztarda,3 szt.,1. Pilnie potrzebne
 majonez,4 szt.,1. Pilnie potrzebne
@@ -126,7 +126,7 @@ patyczki do uszu ,-32 opak.,4. Mamy nadmiar
 pasta do zębów dla dorosłych - duże opakowania,-36 szt.,4. Mamy nadmiar
 sciereczki bawełniane jednorazowe - rolka,-1016 szt.,4. Mamy nadmiar
 chusteczki mokre dla dzieci,-600321 szt.,4. Mamy nadmiar
-żel pod prysznic travel size 35 ml,-556 szt.,4. Mamy nadmiar
+żel pod prysznic travel size 35 ml,-648 szt.,4. Mamy nadmiar
 płyn do higieny intymnej mały 20-50ml,-411 szt.,4. Mamy nadmiar
 biustonosze nowe rozmiary 70A-80A,-38 szt,4. Mamy nadmiar
 chusteczki do hig int. małe opakowania,-4 szt.,4. Mamy nadmiar
@@ -142,12 +142,12 @@ t-shirt damski M,-20 szt.,4. Mamy nadmiar
 biustonosze nowe rozmiary 70B-90B,-85 szt,4. Mamy nadmiar
 klapki wielorazowe damskie - rozm. 36-40,-180 szt,4. Mamy nadmiar
 maseczki jednorazowe,-5000 szt,4. Mamy nadmiar
-gąbka do ciała ,-150 szt,4. Mamy nadmiar
+gąbka do ciała ,-250 szt,4. Mamy nadmiar
 stopery do uszu/opaski na oczy,-900 szt.,4. Mamy nadmiar
 worki na śmieci 60L,-22 szt,4. Mamy nadmiar
 t-shirt damski XL,-40 szt,4. Mamy nadmiar
 waciki do demakijażu,-54 szt,4. Mamy nadmiar
-pasta do zębów dla dorosłych - małe opakowania,-265 szt,4. Mamy nadmiar
+pasta do zębów dla dorosłych - małe opakowania,-482 szt,4. Mamy nadmiar
 biustonosze nowe rozmiar 70C-90C,-57 szt,4. Mamy nadmiar
 "biustonosz damski sportowy nowy S,M,L, XL, XXL",-27 szt,4. Mamy nadmiar
 buty sportowe dziecięce - rozm. 23-35 nowe,-12 szt.,4. Mamy nadmiar
