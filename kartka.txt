@@ -1,8 +1,8 @@
 PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
-Liczba osób w Arenie,65,Ostatnia aktualizacja
-,,26/05/2022 19:12
+Liczba osób w Arenie,49,Ostatnia aktualizacja
+,,26/05/2022 19:34
 PRZEDMIOT,Brakuje,Priorytet
 kubeczki do ciepłych napojów papierowe/styropianowe,2900 szt.,1. Pilnie potrzebne
 kefir/jogurt naturalny pitny lub w małych kubeczkach,0 szt.,3. Mamy wystarczająco
