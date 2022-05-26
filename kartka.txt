@@ -2,11 +2,8 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,65,Ostatnia aktualizacja
-,,26/05/2022 05:51
+,,26/05/2022 09:03
 PRZEDMIOT,Brakuje,Priorytet
-musztarda,3 szt.,1. Pilnie potrzebne
-majonez,4 szt.,1. Pilnie potrzebne
-maszynki jednorazowe do golenia męskie,15 szt.,1. Pilnie potrzebne
 kefir/jogurt naturalny pitny lub w małych kubeczkach,0 szt.,3. Mamy wystarczająco
 jogurt pitny lub w małych kubeczkach różne rodzaje,0 szt.,3. Mamy wystarczająco
 soczki małe z dziubkiem dla dzieci,0 szt,3. Mamy wystarczająco
@@ -36,6 +33,7 @@ rękawice grube wielorazowe,0 szt.,3. Mamy wystarczająco
 przewijak,0 szt.,3. Mamy wystarczająco
 szelki dla kota,0 szt,3. Mamy wystarczająco
 powerbank,0 szt.,3. Mamy wystarczająco
+maszynki jednorazowe do golenia męskie,0 szt.,3. Mamy wystarczająco
 proszek do prania,0 szt.,3. Mamy wystarczająco
 nocnik dla dzieci,0 szt.,3. Mamy wystarczająco
 klapki wielorazowe dziecięce - rozm. 23-35,0 par.,3. Mamy wystarczająco
@@ -80,6 +78,8 @@ słoiczki dla dzieci - deserki różne,-215 szt.,4. Mamy nadmiar
 płatki śniadaniowe różne rodzaje,-10 szt.,4. Mamy nadmiar
 dżem,-36 szt.,4. Mamy nadmiar
 cukier 1 kg,-20 kg,4. Mamy nadmiar
+musztarda,-5 szt.,4. Mamy nadmiar
+majonez,-1 szt.,4. Mamy nadmiar
 talerzyki jednorazowe małe,-12090 szt.,4. Mamy nadmiar
 talerzyki jednorazowe duże,-1390 szt.,4. Mamy nadmiar
 widelce plastikowe,-700 szt.,4. Mamy nadmiar
