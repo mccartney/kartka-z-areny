@@ -2,8 +2,9 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,65,Ostatnia aktualizacja
-,,26/05/2022 09:03
+,,26/05/2022 14:46
 PRZEDMIOT,Brakuje,Priorytet
+kubeczki do ciepłych napojów papierowe/styropianowe,2900 szt.,1. Pilnie potrzebne
 kefir/jogurt naturalny pitny lub w małych kubeczkach,0 szt.,3. Mamy wystarczająco
 jogurt pitny lub w małych kubeczkach różne rodzaje,0 szt.,3. Mamy wystarczająco
 soczki małe z dziubkiem dla dzieci,0 szt,3. Mamy wystarczająco
@@ -87,7 +88,6 @@ widelce plastikowe,-700 szt.,4. Mamy nadmiar
 łyżeczki plastikowe,-2630 szt.,4. Mamy nadmiar
 noże plastikowe,-3479 szt.,4. Mamy nadmiar
 kubeczki do zimnych napojów plastikowe,-3100 szt.,4. Mamy nadmiar
-kubeczki do ciepłych napojów papierowe/styropianowe,-2150 szt.,4. Mamy nadmiar
 tacki papierowe jednorazowe małe prostokątne,-1600 szt.,4. Mamy nadmiar
 miski papierowe do ciepłych posiłków,-7350 szt.,4. Mamy nadmiar
 opakowania rękawiczek lateksowych M,-2 opak,4. Mamy nadmiar
