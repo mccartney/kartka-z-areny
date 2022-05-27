@@ -2,9 +2,9 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,49,Ostatnia aktualizacja
-,,26/05/2022 20:21
+,,26/05/2022 23:49
 PRZEDMIOT,Brakuje,Priorytet
-kubeczki do ciepłych napojów papierowe/styropianowe,2900 szt.,1. Pilnie potrzebne
+antyperspirant damski,15 szt,1. Pilnie potrzebne
 kefir/jogurt naturalny pitny lub w małych kubeczkach,0 szt.,3. Mamy wystarczająco
 jogurt pitny lub w małych kubeczkach różne rodzaje,0 szt.,3. Mamy wystarczająco
 soczki małe z dziubkiem dla dzieci,0 szt,3. Mamy wystarczająco
@@ -60,7 +60,7 @@ taśma biurowa przezroczysta 12mm,0 szt,3. Mamy wystarczająco
 krem do twarzy 50-100ml,0 szt,3. Mamy wystarczająco
 mleko 1L,-12 szt.,4. Mamy nadmiar
 mleko roślinne różne rodzaje,-7 szt.,4. Mamy nadmiar
-"woda w małych opakowaniach, w tym z dziubkiem",-500 szt.,4. Mamy nadmiar
+"woda w małych opakowaniach, w tym z dziubkiem",-7692 szt.,4. Mamy nadmiar
 soczki małe z rurką dla dzieci,-97 szt.,4. Mamy nadmiar
 soki owocowe litrowe,-13 szt.,4. Mamy nadmiar
 "herbata melisa i inne zioła (np. mięta, rumianek), herbata zielon",-25 szt.,4. Mamy nadmiar
@@ -155,7 +155,6 @@ buty sportowe damskie rozm. 36-40 nowe,-60 szt.,4. Mamy nadmiar
 karma dla piesełków - sucha,-34 kg,4. Mamy nadmiar
 żwirek dla kota,-40 kg,4. Mamy nadmiar
 biustonosze nowe rozmiary 70E-80G,-27 szt.,4. Mamy nadmiar
-antyperspirant damski,-28 szt,4. Mamy nadmiar
 zestaw do szycia podróżny,-1 szt.,4. Mamy nadmiar
 płyn do mycia naczyń,-3 szt,4. Mamy nadmiar
 japonki damskie 36-39,-76 szt,4. Mamy nadmiar
