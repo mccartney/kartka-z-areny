@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,49,Ostatnia aktualizacja
-,,27/05/2022 10:39
+,,27/05/2022 12:24
 PRZEDMIOT,Brakuje,Priorytet
 antyperspirant damski,15 szt,1. Pilnie potrzebne
 kefir/jogurt naturalny pitny lub w małych kubeczkach,0 szt.,3. Mamy wystarczająco
