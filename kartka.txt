@@ -2,9 +2,10 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,47,Ostatnia aktualizacja
-,,28/05/2022 19:06
+,,28/05/2022 20:10
 PRZEDMIOT,Brakuje,Priorytet
 wędlina/kiełbasa krojona paczkowana,14 szt.,1. Pilnie potrzebne
+szczotka do włosów,15 szt.,1. Pilnie potrzebne
 antyperspirant damski,10 szt,1. Pilnie potrzebne
 grzebienie,10 szt,1. Pilnie potrzebne
 soczki małe z dziubkiem dla dzieci,6 szt,2. Potrzebne
@@ -12,7 +13,6 @@ mleko 1L,0 szt.,3. Mamy wystarczająco
 jogurt pitny lub w małych kubeczkach różne rodzaje,-18 szt.,3. Mamy wystarczająco
 soczki małe z rurką dla dzieci,-4 szt.,3. Mamy wystarczająco
 chleb tostowy,0 szt.,3. Mamy wystarczająco
-pasty kanapkowe wegańskie- różne rodzaje,0 szt.,3. Mamy wystarczająco
 jabłka,-1 kg,3. Mamy wystarczająco
 banany,-1 kg,3. Mamy wystarczająco
 winogrona,-1 kg,3. Mamy wystarczająco
