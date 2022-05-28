@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,49,Ostatnia aktualizacja
-,,28/05/2022 09:08
+,,28/05/2022 11:11
 PRZEDMIOT,Brakuje,Priorytet
 mleko 1L,22 szt.,1. Pilnie potrzebne
 soczki małe z dziubkiem dla dzieci,40 szt,1. Pilnie potrzebne
@@ -19,7 +19,6 @@ ketchup łagodny,1 szt.,2. Potrzebne
 opakowania rękawiczek lateksowych S,1 opak,2. Potrzebne
 opakowania rękawiczek lateksowych M,1 opak,2. Potrzebne
 opakowania rękawiczek lateksowych L,1 opak,2. Potrzebne
-antyperspirant damski,5 szt,2. Potrzebne
 jogurt pitny lub w małych kubeczkach różne rodzaje,-18 szt.,3. Mamy wystarczająco
 jabłka,-1 kg,3. Mamy wystarczająco
 banany,-1 kg,3. Mamy wystarczająco
@@ -51,6 +50,7 @@ rajstopy damskie - różne rozmiary,0 szt,3. Mamy wystarczająco
 torby miękkie podróżne nowe/ stan bdb.,0 szt,3. Mamy wystarczająco
 "spray oczyszczający, woda morska do nosa, roztwór izotoniczny, 100 ml",0 szt,3. Mamy wystarczająco
 karma dla piesełków - puszka,0 szt,3. Mamy wystarczająco
+antyperspirant damski,0 szt,3. Mamy wystarczająco
 pianka do golenia małe opak.,-1 szt,3. Mamy wystarczająco
 grzebienie,0 szt,3. Mamy wystarczająco
 płyny do soczewek,0 szt,3. Mamy wystarczająco
@@ -106,9 +106,9 @@ maszynki jednorazowe do golenia męskie,-20 szt.,4. Mamy nadmiar
 biustonosze nowe rozmiary 70D-80D,-60 szt,4. Mamy nadmiar
 balsam do ciała mały 20-50ml,-935 szt.,4. Mamy nadmiar
 szczoteczki do zębów dla dzieci,-163 szt.,4. Mamy nadmiar
-podpaski/tampony,-1325 szt.,4. Mamy nadmiar
+podpaski/tampony,-1355 szt.,4. Mamy nadmiar
 podkładki dla dzieci/ dorosłych Seni,-288 szt.,4. Mamy nadmiar
-mydło w kostce,-54 szt.,4. Mamy nadmiar
+mydło w kostce,-56 szt.,4. Mamy nadmiar
 klapki wielorazowe dziecięce - rozm. 23-35,-3 par.,4. Mamy nadmiar
 "bielizna męska, majtki-nowe",-8 szt.,4. Mamy nadmiar
 "bielizna dziecięca, majtki- nowe",-24 szt.,4. Mamy nadmiar
