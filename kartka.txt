@@ -2,22 +2,16 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,47,Ostatnia aktualizacja
-,,28/05/2022 15:45
+,,28/05/2022 16:43
 PRZEDMIOT,Brakuje,Priorytet
-soczki małe z dziubkiem dla dzieci,40 szt,1. Pilnie potrzebne
-soki owocowe litrowe,16 szt.,1. Pilnie potrzebne
+soczki małe z dziubkiem dla dzieci,30 szt,1. Pilnie potrzebne
 wędlina/kiełbasa krojona paczkowana,17 szt.,1. Pilnie potrzebne
-soczki małe z rurką dla dzieci,6 szt.,2. Potrzebne
-chleb tostowy,2 szt.,2. Potrzebne
-pasty kanapkowe wegańskie- różne rodzaje,1 szt.,2. Potrzebne
-owsianka błyskawiczna kg (lub 20 porcjowanych),1 szt.,2. Potrzebne
-ketchup łagodny,1 szt.,2. Potrzebne
 żelki w małych opakowaniach/guma rozpuszczalna (mikroporcje pakowane oddzielnie),2 szt.,2. Potrzebne
-opakowania rękawiczek lateksowych S,1 opak,2. Potrzebne
-opakowania rękawiczek lateksowych M,1 opak,2. Potrzebne
-opakowania rękawiczek lateksowych L,1 opak,2. Potrzebne
 mleko 1L,0 szt.,3. Mamy wystarczająco
 jogurt pitny lub w małych kubeczkach różne rodzaje,-18 szt.,3. Mamy wystarczająco
+soczki małe z rurką dla dzieci,-4 szt.,3. Mamy wystarczająco
+chleb tostowy,0 szt.,3. Mamy wystarczająco
+pasty kanapkowe wegańskie- różne rodzaje,0 szt.,3. Mamy wystarczająco
 jabłka,-1 kg,3. Mamy wystarczająco
 banany,-1 kg,3. Mamy wystarczająco
 winogrona,-1 kg,3. Mamy wystarczająco
@@ -26,9 +20,11 @@ pomidory,-1 kg,3. Mamy wystarczająco
 papryka czerwona,0 kg,3. Mamy wystarczająco
 sałata lodowa/masłowa,-1 szt.,3. Mamy wystarczająco
 ogórki kiszone w wiaderkach małych,0 szt.,3. Mamy wystarczająco
+owsianka błyskawiczna kg (lub 20 porcjowanych),0 szt.,3. Mamy wystarczająco
 "sól 0,5 kg",0 szt.,3. Mamy wystarczająco
 cukier 1 kg,-2 kg,3. Mamy wystarczająco
 pieprz mała torebka,0 szt.,3. Mamy wystarczająco
+ketchup łagodny,0 szt.,3. Mamy wystarczająco
 worki na smieci 35L,0 szt.,3. Mamy wystarczająco
 rękawice grube wielorazowe,0 szt.,3. Mamy wystarczająco
 przewijak,0 szt.,3. Mamy wystarczająco
