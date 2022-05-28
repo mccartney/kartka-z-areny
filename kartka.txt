@@ -1,8 +1,8 @@
 PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
-Liczba osób w Arenie,49,Ostatnia aktualizacja
-,,28/05/2022 11:17
+Liczba osób w Arenie,47,Ostatnia aktualizacja
+,,28/05/2022 12:35
 PRZEDMIOT,Brakuje,Priorytet
 mleko 1L,22 szt.,1. Pilnie potrzebne
 soczki małe z dziubkiem dla dzieci,40 szt,1. Pilnie potrzebne
