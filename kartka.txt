@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,49,Ostatnia aktualizacja
-,,28/05/2022 11:11
+,,28/05/2022 11:17
 PRZEDMIOT,Brakuje,Priorytet
 mleko 1L,22 szt.,1. Pilnie potrzebne
 soczki małe z dziubkiem dla dzieci,40 szt,1. Pilnie potrzebne
@@ -58,7 +58,7 @@ dresy męskie spodnie XL-XXL,0 szt,3. Mamy wystarczająco
 taśma pakowa brązowa szeroka,0 szt,3. Mamy wystarczająco
 dyspenser do taśmy pakowej szerokiej,0 szt,3. Mamy wystarczająco
 taśma biurowa przezroczysta 12mm,0 szt,3. Mamy wystarczająco
-krem do twarzy 50-100ml,0 szt,3. Mamy wystarczająco
+krem do twarzy 50-100ml,-3 szt,3. Mamy wystarczająco
 mleko roślinne różne rodzaje,-7 szt.,4. Mamy nadmiar
 kefir/jogurt naturalny pitny lub w małych kubeczkach,-96 szt.,4. Mamy nadmiar
 "woda w małych opakowaniach, w tym z dziubkiem",-7300 szt.,4. Mamy nadmiar
@@ -96,7 +96,7 @@ zmywaki lub gąbki do naczyń,-64 opak.,4. Mamy nadmiar
 biustonosze nowe rozmiary 75B - 90D,-43 szt.,4. Mamy nadmiar
 mydło w płynie,-244 szt.,4. Mamy nadmiar
 baterie paluszki AAA,-102 szt.,4. Mamy nadmiar
-pieluchomajtki dla dorosłych M-L,-12 opak.,4. Mamy nadmiar
+pieluchomajtki dla dorosłych M-L,-13 opak.,4. Mamy nadmiar
 t-shirt damski L,-6 szt.,4. Mamy nadmiar
 klapki jednorazowe pod prysznic 38-46,-1706 szt.,4. Mamy nadmiar
 karma dla kotełków,-35 szt.,4. Mamy nadmiar
