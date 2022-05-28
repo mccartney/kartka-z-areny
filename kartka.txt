@@ -2,9 +2,11 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,47,Ostatnia aktualizacja
-,,28/05/2022 18:03
+,,28/05/2022 19:06
 PRZEDMIOT,Brakuje,Priorytet
 wędlina/kiełbasa krojona paczkowana,14 szt.,1. Pilnie potrzebne
+antyperspirant damski,10 szt,1. Pilnie potrzebne
+grzebienie,10 szt,1. Pilnie potrzebne
 soczki małe z dziubkiem dla dzieci,6 szt,2. Potrzebne
 mleko 1L,0 szt.,3. Mamy wystarczająco
 jogurt pitny lub w małych kubeczkach różne rodzaje,-18 szt.,3. Mamy wystarczająco
@@ -43,9 +45,7 @@ rajstopy damskie - różne rozmiary,0 szt,3. Mamy wystarczająco
 torby miękkie podróżne nowe/ stan bdb.,0 szt,3. Mamy wystarczająco
 "spray oczyszczający, woda morska do nosa, roztwór izotoniczny, 100 ml",0 szt,3. Mamy wystarczająco
 karma dla piesełków - puszka,0 szt,3. Mamy wystarczająco
-antyperspirant damski,0 szt,3. Mamy wystarczająco
 pianka do golenia małe opak.,-1 szt,3. Mamy wystarczająco
-grzebienie,0 szt,3. Mamy wystarczająco
 płyny do soczewek,0 szt,3. Mamy wystarczająco
 dresy męskie spodnie XL-XXL,0 szt,3. Mamy wystarczająco
 taśma pakowa brązowa szeroka,0 szt,3. Mamy wystarczająco
