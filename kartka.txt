@@ -2,16 +2,15 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,76,Ostatnia aktualizacja
-,,30/05/2022 18:31
+,,30/05/2022 19:56
 PRZEDMIOT,Brakuje,Priorytet
-chleb tostowy,7 szt.,1. Pilnie potrzebne
-parówki,10 kg,1. Pilnie potrzebne
 wędlina/kiełbasa krojona paczkowana,14 szt.,1. Pilnie potrzebne
 szczotka do włosów,15 szt.,1. Pilnie potrzebne
 maszynki jednorazowe do golenia damskie,15 szt,1. Pilnie potrzebne
 antyperspirant damski,15 szt,1. Pilnie potrzebne
 grzebienie,10 szt,1. Pilnie potrzebne
 soczki małe z dziubkiem dla dzieci,6 szt,2. Potrzebne
+chleb tostowy,3 szt.,2. Potrzebne
 mleko 1L,0 szt.,3. Mamy wystarczająco
 jogurt pitny lub w małych kubeczkach różne rodzaje,-18 szt.,3. Mamy wystarczająco
 soczki małe z rurką dla dzieci,-4 szt.,3. Mamy wystarczająco
@@ -66,6 +65,7 @@ kawa mielona 250 gram,-36 szt.,4. Mamy nadmiar
 kakao rozpuszczalne + czekolada rozpuszczalna,-4 szt.,4. Mamy nadmiar
 chleb krojony (nie tostowy!),-14 szt.,4. Mamy nadmiar
 kabanosy małe opakowania,-48 szt.,4. Mamy nadmiar
+parówki,-3 kg,4. Mamy nadmiar
 ser żółty krojony paczkowany,-15 kg,4. Mamy nadmiar
 filtry  do kawy rozmiar 4,-1 opak,4. Mamy nadmiar
 tubki owocowe różne (nielodówkowe),-119 szt.,4. Mamy nadmiar
