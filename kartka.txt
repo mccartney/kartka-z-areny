@@ -2,12 +2,11 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,43,Ostatnia aktualizacja
-,,31/05/2022 17:49
+,,31/05/2022 19:05
 PRZEDMIOT,Brakuje,Priorytet
 soczki małe z rurką dla dzieci,30 szt.,1. Pilnie potrzebne
 soczki małe z dziubkiem dla dzieci,30 szt,1. Pilnie potrzebne
 wędlina/kiełbasa krojona paczkowana,12 szt.,1. Pilnie potrzebne
-łyżki duże plastikowe,1300 szt.,1. Pilnie potrzebne
 antyperspirant męski,10 szt.,1. Pilnie potrzebne
 pilnik do paznokci,10 szt.,1. Pilnie potrzebne
 szczotka do włosów,11 szt.,1. Pilnie potrzebne
@@ -77,8 +76,9 @@ musztarda,-11 szt.,4. Mamy nadmiar
 majonez,-6 szt.,4. Mamy nadmiar
 batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),-74 szt.,4. Mamy nadmiar
 talerzyki jednorazowe małe,-12400 szt.,4. Mamy nadmiar
-widelce plastikowe,-3400 szt.,4. Mamy nadmiar
-noże plastikowe,-4500 szt.,4. Mamy nadmiar
+widelce plastikowe,-3698 szt.,4. Mamy nadmiar
+łyżki duże plastikowe,-638 szt.,4. Mamy nadmiar
+noże plastikowe,-4798 szt.,4. Mamy nadmiar
 tacki papierowe jednorazowe małe prostokątne,-1600 szt.,4. Mamy nadmiar
 miski papierowe do ciepłych posiłków,-7350 szt.,4. Mamy nadmiar
 Kawa inka ,-34 szt.,4. Mamy nadmiar
@@ -95,14 +95,14 @@ klapki jednorazowe pod prysznic 38-46,-1706 szt.,4. Mamy nadmiar
 karma dla kotełków,-35 szt.,4. Mamy nadmiar
 szampon do włosów travel size 30-50ml,-632 szt.,4. Mamy nadmiar
 "pampersy dziecięce/pieluchomajtki, rozm. 0-6 ",-1007 szt.,4. Mamy nadmiar
-maszynki jednorazowe do golenia męskie,-20 szt.,4. Mamy nadmiar
+maszynki jednorazowe do golenia męskie,-170 szt.,4. Mamy nadmiar
 biustonosze nowe rozmiary 70D-80D,-60 szt,4. Mamy nadmiar
 balsam do ciała mały 20-50ml,-935 szt.,4. Mamy nadmiar
 szczoteczki do zębów dla dzieci,-163 szt.,4. Mamy nadmiar
 podpaski/tampony,-1355 szt.,4. Mamy nadmiar
 podkładki dla dzieci/ dorosłych Seni,-289 szt.,4. Mamy nadmiar
 mydło w kostce,-56 szt.,4. Mamy nadmiar
-klapki wielorazowe dziecięce - rozm. 23-35,-3 par.,4. Mamy nadmiar
+klapki wielorazowe dziecięce - rozm. 23-35,-42 par.,4. Mamy nadmiar
 "bielizna męska, majtki-nowe",-8 szt.,4. Mamy nadmiar
 "bielizna dziecięca, majtki- nowe",-24 szt.,4. Mamy nadmiar
 ręcznik papierowy - rolka,-492 szt.,4. Mamy nadmiar
@@ -130,10 +130,10 @@ szczoteczki do zębów + pasta 3 gr,-399 szt.,4. Mamy nadmiar
 t-shirt damski M,-23 szt.,4. Mamy nadmiar
 żel antybakteryjny 400-500ml,-311 szt.,4. Mamy nadmiar
 biustonosze nowe rozmiary 70B-90B,-85 szt,4. Mamy nadmiar
-klapki wielorazowe damskie - rozm. 36-40,-90 szt,4. Mamy nadmiar
+klapki wielorazowe damskie - rozm. 36-40,-88 szt,4. Mamy nadmiar
 maseczki jednorazowe,-5000 szt,4. Mamy nadmiar
 maszynki jednorazowe do golenia damskie,-39 szt,4. Mamy nadmiar
-gąbka do ciała ,-250 szt,4. Mamy nadmiar
+gąbka do ciała ,-400 szt,4. Mamy nadmiar
 stopery do uszu/opaski na oczy,-900 szt.,4. Mamy nadmiar
 worki na śmieci 60L,-22 szt,4. Mamy nadmiar
 t-shirt damski XL,-40 szt,4. Mamy nadmiar
