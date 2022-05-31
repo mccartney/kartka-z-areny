@@ -1,8 +1,8 @@
 PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
-Liczba osób w Arenie,71,Ostatnia aktualizacja
-,,30/05/2022 22:34
+Liczba osób w Arenie,43,Ostatnia aktualizacja
+,,31/05/2022 05:22
 PRZEDMIOT,Brakuje,Priorytet
 jogurt pitny lub w małych kubeczkach różne rodzaje,87 szt.,1. Pilnie potrzebne
 chleb krojony (nie tostowy!),7 szt.,1. Pilnie potrzebne
