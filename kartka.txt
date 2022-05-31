@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,43,Ostatnia aktualizacja
-,,31/05/2022 16:42
+,,31/05/2022 17:49
 PRZEDMIOT,Brakuje,Priorytet
 soczki małe z rurką dla dzieci,30 szt.,1. Pilnie potrzebne
 soczki małe z dziubkiem dla dzieci,30 szt,1. Pilnie potrzebne
@@ -64,7 +64,7 @@ kawa rozpuszczalna,-24 szt.,4. Mamy nadmiar
 kawa mielona 250 gram,-36 szt.,4. Mamy nadmiar
 kakao rozpuszczalne + czekolada rozpuszczalna,-8 szt.,4. Mamy nadmiar
 kabanosy małe opakowania,-14 szt.,4. Mamy nadmiar
-parówki,-3 kg,4. Mamy nadmiar
+parówki,-11 kg,4. Mamy nadmiar
 ser żółty krojony paczkowany,-16 kg,4. Mamy nadmiar
 filtry  do kawy rozmiar 4,-1 opak,4. Mamy nadmiar
 pomidory,-17 kg,4. Mamy nadmiar
