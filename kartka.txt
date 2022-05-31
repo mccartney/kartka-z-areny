@@ -2,24 +2,22 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,43,Ostatnia aktualizacja
-,,31/05/2022 05:22
+,,31/05/2022 09:57
 PRZEDMIOT,Brakuje,Priorytet
-jogurt pitny lub w małych kubeczkach różne rodzaje,87 szt.,1. Pilnie potrzebne
 chleb krojony (nie tostowy!),7 szt.,1. Pilnie potrzebne
 wędlina/kiełbasa krojona paczkowana,12 szt.,1. Pilnie potrzebne
 antyperspirant męski,10 szt.,1. Pilnie potrzebne
 pilnik do paznokci,10 szt.,1. Pilnie potrzebne
 szczotka do włosów,13 szt.,1. Pilnie potrzebne
 grzebienie,10 szt,1. Pilnie potrzebne
-mleko 1L,12 szt.,2. Potrzebne
 soczki małe z dziubkiem dla dzieci,6 szt,2. Potrzebne
 chleb tostowy,3 szt.,2. Potrzebne
-papryka czerwona,"0,5 kg",2. Potrzebne
 soczki małe z rurką dla dzieci,-4 szt.,3. Mamy wystarczająco
 jabłka,-1 kg,3. Mamy wystarczająco
 banany,-1 kg,3. Mamy wystarczająco
 winogrona,-1 kg,3. Mamy wystarczająco
 ogórki świeże,0 kg,3. Mamy wystarczająco
+papryka czerwona,0 kg,3. Mamy wystarczająco
 sałata lodowa/masłowa,-1 szt.,3. Mamy wystarczająco
 ogórki kiszone w wiaderkach małych,0 szt.,3. Mamy wystarczająco
 słoiczki dla dzieci - obiadki różne,-2 szt.,3. Mamy wystarczająco
@@ -54,8 +52,10 @@ taśma pakowa brązowa szeroka,0 szt,3. Mamy wystarczająco
 dyspenser do taśmy pakowej szerokiej,0 szt,3. Mamy wystarczająco
 taśma biurowa przezroczysta 12mm,0 szt,3. Mamy wystarczająco
 krem do twarzy 50-100ml,-3 szt,3. Mamy wystarczająco
+mleko 1L,-18 szt.,4. Mamy nadmiar
 mleko roślinne różne rodzaje,-7 szt.,4. Mamy nadmiar
-kefir/jogurt naturalny pitny lub w małych kubeczkach,-37 szt.,4. Mamy nadmiar
+kefir/jogurt naturalny pitny lub w małych kubeczkach,-187 szt.,4. Mamy nadmiar
+jogurt pitny lub w małych kubeczkach różne rodzaje,-63 szt.,4. Mamy nadmiar
 "woda w małych opakowaniach, w tym z dziubkiem",-7300 szt.,4. Mamy nadmiar
 herbata czarna,-55 szt.,4. Mamy nadmiar
 "herbata melisa i inne zioła (np. mięta, rumianek), herbata zielon",-6 szt.,4. Mamy nadmiar
