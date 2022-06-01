@@ -2,14 +2,12 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,43,Ostatnia aktualizacja
-,,01/06/2022 12:12
+,,01/06/2022 12:39
 PRZEDMIOT,Brakuje,Priorytet
 soczki małe z rurką dla dzieci,30 szt.,1. Pilnie potrzebne
 soczki małe z dziubkiem dla dzieci,30 szt,1. Pilnie potrzebne
 wędlina/kiełbasa krojona paczkowana,12 szt.,1. Pilnie potrzebne
 pilnik do paznokci,10 szt.,1. Pilnie potrzebne
-chleb tostowy,3 szt.,2. Potrzebne
-łyżeczki plastikowe,750 szt.,2. Potrzebne
 antyperspirant męski,1 szt.,2. Potrzebne
 mleko roślinne różne rodzaje,0 szt.,3. Mamy wystarczająco
 jabłka,-1 kg,3. Mamy wystarczająco
@@ -59,6 +57,7 @@ herbata owocowa różne rodzaje,-20 szt,4. Mamy nadmiar
 kawa rozpuszczalna,-24 szt.,4. Mamy nadmiar
 kawa mielona 250 gram,-36 szt.,4. Mamy nadmiar
 kakao rozpuszczalne + czekolada rozpuszczalna,-8 szt.,4. Mamy nadmiar
+chleb tostowy,-2 szt.,4. Mamy nadmiar
 kabanosy małe opakowania,-14 szt.,4. Mamy nadmiar
 parówki,-11 kg,4. Mamy nadmiar
 ser żółty krojony paczkowany,-16 kg,4. Mamy nadmiar
@@ -71,7 +70,6 @@ owsianka błyskawiczna kg (lub 20 porcjowanych),-2 szt.,4. Mamy nadmiar
 dżem,-28 szt.,4. Mamy nadmiar
 musztarda,-11 szt.,4. Mamy nadmiar
 majonez,-6 szt.,4. Mamy nadmiar
-batoniki rózne rodzaje/cukierki/małe czekoladki (pakowane oddzielnie),-74 szt.,4. Mamy nadmiar
 talerzyki jednorazowe małe,-12400 szt.,4. Mamy nadmiar
 widelce plastikowe,-3698 szt.,4. Mamy nadmiar
 łyżki duże plastikowe,-638 szt.,4. Mamy nadmiar
