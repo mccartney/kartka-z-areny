@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,43,Ostatnia aktualizacja
-,,01/06/2022 09:06
+,,01/06/2022 11:10
 PRZEDMIOT,Brakuje,Priorytet
 soczki małe z rurką dla dzieci,30 szt.,1. Pilnie potrzebne
 soczki małe z dziubkiem dla dzieci,30 szt,1. Pilnie potrzebne
@@ -108,7 +108,7 @@ butelki dla dzieci,-8 szt.,4. Mamy nadmiar
 nosidełka dla dzieci,-4 szt,4. Mamy nadmiar
 worki na śmieci 120L,-30 opak.,4. Mamy nadmiar
 chusteczki higieniczne małe opak.,-112 szt.,4. Mamy nadmiar
-pasta do zębów dla dzieci,-85 szt.,4. Mamy nadmiar
+pasta do zębów dla dzieci,-90 szt.,4. Mamy nadmiar
 chusteczki nawilżane pakowane,-1392 szt.,4. Mamy nadmiar
 patyczki do uszu ,-32 opak.,4. Mamy nadmiar
 pasta do zębów dla dorosłych - duże opakowania,-37 szt.,4. Mamy nadmiar
