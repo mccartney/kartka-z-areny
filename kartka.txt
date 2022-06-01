@@ -2,12 +2,14 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,43,Ostatnia aktualizacja
-,,01/06/2022 12:39
+,,01/06/2022 19:02
 PRZEDMIOT,Brakuje,Priorytet
 soczki małe z rurką dla dzieci,30 szt.,1. Pilnie potrzebne
 soczki małe z dziubkiem dla dzieci,30 szt,1. Pilnie potrzebne
 wędlina/kiełbasa krojona paczkowana,12 szt.,1. Pilnie potrzebne
 pilnik do paznokci,10 szt.,1. Pilnie potrzebne
+buty sportowe męskie - rozm. 40-45 nowe,13 szt.,1. Pilnie potrzebne
+buty sportowe damskie rozm. 36-40 nowe,30 szt.,1. Pilnie potrzebne
 antyperspirant męski,1 szt.,2. Potrzebne
 mleko roślinne różne rodzaje,0 szt.,3. Mamy wystarczająco
 jabłka,-1 kg,3. Mamy wystarczająco
@@ -34,7 +36,6 @@ papier toaletowy szary /rolki do dyspenserów łaz.,-4 szt.,3. Mamy wystarczają
 biustonosz dziewczęcy sportowy nowy,0 szt.,3. Mamy wystarczająco
 zmywacz do paznokci,0 opak.,3. Mamy wystarczająco
 worki na śmieci 160L,0 opak.,3. Mamy wystarczająco
-buty sportowe męskie - rozm. 40-45 nowe,0 szt.,3. Mamy wystarczająco
 obcinacze do paznokci,-1 szt.,3. Mamy wystarczająco
 wielorazowe torby na zakupy,0 szt,3. Mamy wystarczająco
 rajstopy damskie - różne rozmiary,0 szt,3. Mamy wystarczająco
@@ -138,7 +139,6 @@ pasta do zębów dla dorosłych - małe opakowania,-483 szt,4. Mamy nadmiar
 biustonosze nowe rozmiar 70C-90C,-57 szt,4. Mamy nadmiar
 "biustonosz damski sportowy nowy S,M,L, XL, XXL",-27 szt,4. Mamy nadmiar
 buty sportowe dziecięce - rozm. 23-35 nowe,-13 szt.,4. Mamy nadmiar
-buty sportowe damskie rozm. 36-40 nowe,-60 szt.,4. Mamy nadmiar
 karma dla piesełków - sucha,-34 kg,4. Mamy nadmiar
 żwirek dla kota,-40 kg,4. Mamy nadmiar
 biustonosze nowe rozmiary 70E-80G,-27 szt.,4. Mamy nadmiar
