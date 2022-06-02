@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,43,Ostatnia aktualizacja
-,,01/06/2022 22:54
+,,02/06/2022 09:59
 PRZEDMIOT,Brakuje,Priorytet
 wędlina/kiełbasa krojona paczkowana,12 szt.,1. Pilnie potrzebne
 skarpetki damskie,30 szt.,1. Pilnie potrzebne
@@ -77,7 +77,7 @@ owsianka błyskawiczna kg (lub 20 porcjowanych),-2 szt.,4. Mamy nadmiar
 dżem,-28 szt.,4. Mamy nadmiar
 musztarda,-11 szt.,4. Mamy nadmiar
 majonez,-6 szt.,4. Mamy nadmiar
-talerzyki jednorazowe małe,-12400 szt.,4. Mamy nadmiar
+talerzyki jednorazowe małe,-12850 szt.,4. Mamy nadmiar
 widelce plastikowe,-3698 szt.,4. Mamy nadmiar
 łyżki duże plastikowe,-638 szt.,4. Mamy nadmiar
 noże plastikowe,-4798 szt.,4. Mamy nadmiar
