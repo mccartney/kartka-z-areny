@@ -2,14 +2,22 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,43,Ostatnia aktualizacja
-,,01/06/2022 19:15
+,,01/06/2022 22:54
 PRZEDMIOT,Brakuje,Priorytet
-soczki małe z rurką dla dzieci,30 szt.,1. Pilnie potrzebne
-soczki małe z dziubkiem dla dzieci,30 szt,1. Pilnie potrzebne
 wędlina/kiełbasa krojona paczkowana,12 szt.,1. Pilnie potrzebne
+skarpetki damskie,30 szt.,1. Pilnie potrzebne
+powerbank,5 szt.,1. Pilnie potrzebne
+"bielizna damska, majtki- S,M, L, XL- nowe",30 szt.,1. Pilnie potrzebne
+"bielizna męska, majtki-nowe",20 szt.,1. Pilnie potrzebne
+pomadki do ust/wazelina,10 szt.,1. Pilnie potrzebne
 pilnik do paznokci,10 szt.,1. Pilnie potrzebne
-buty sportowe męskie - rozm. 40-45 nowe,13 szt.,1. Pilnie potrzebne
-buty sportowe damskie rozm. 36-40 nowe,30 szt.,1. Pilnie potrzebne
+buty sportowe męskie - rozm. 40-45 nowe/st.bdb,20 szt.,1. Pilnie potrzebne
+rajstopy damskie - różne rozmiary,5 szt,1. Pilnie potrzebne
+torby miękkie podróżne nowe/ stan bdb.,10 szt,1. Pilnie potrzebne
+buty sportowe damskie rozm. 36-41 nowe/st.bdb,20 szt.,1. Pilnie potrzebne
+skarpety męskie,30 szt,1. Pilnie potrzebne
+skarpety dziecięce,30 szt,1. Pilnie potrzebne
+syrop wykrztuśny na kaszel dzieci i dorosli,10 szt,1. Pilnie potrzebne
 antyperspirant męski,1 szt.,2. Potrzebne
 mleko roślinne różne rodzaje,0 szt.,3. Mamy wystarczająco
 jabłka,-1 kg,3. Mamy wystarczająco
@@ -29,7 +37,6 @@ worki na smieci 35L,0 szt.,3. Mamy wystarczająco
 rękawice grube wielorazowe,0 szt.,3. Mamy wystarczająco
 przewijak,0 szt.,3. Mamy wystarczająco
 szelki dla kota,0 szt,3. Mamy wystarczająco
-powerbank,0 szt.,3. Mamy wystarczająco
 proszek do prania,0 szt.,3. Mamy wystarczająco
 nocnik dla dzieci,0 szt.,3. Mamy wystarczająco
 papier toaletowy szary /rolki do dyspenserów łaz.,-4 szt.,3. Mamy wystarczająco
@@ -38,7 +45,6 @@ zmywacz do paznokci,0 opak.,3. Mamy wystarczająco
 worki na śmieci 160L,0 opak.,3. Mamy wystarczająco
 obcinacze do paznokci,-1 szt.,3. Mamy wystarczająco
 wielorazowe torby na zakupy,0 szt,3. Mamy wystarczająco
-rajstopy damskie - różne rozmiary,0 szt,3. Mamy wystarczająco
 "spray oczyszczający, woda morska do nosa, roztwór izotoniczny, 100 ml",0 szt,3. Mamy wystarczająco
 karma dla piesełków - puszka,0 szt,3. Mamy wystarczająco
 pianka do golenia małe opak.,-1 szt,3. Mamy wystarczająco
@@ -99,7 +105,6 @@ podpaski/tampony,-1355 szt.,4. Mamy nadmiar
 podkładki dla dzieci/ dorosłych Seni,-289 szt.,4. Mamy nadmiar
 mydło w kostce,-56 szt.,4. Mamy nadmiar
 klapki wielorazowe dziecięce - rozm. 23-35,-42 par.,4. Mamy nadmiar
-"bielizna męska, majtki-nowe",-8 szt.,4. Mamy nadmiar
 "bielizna dziecięca, majtki- nowe",-24 szt.,4. Mamy nadmiar
 ręcznik papierowy - rolka,-492 szt.,4. Mamy nadmiar
 szampon do włosów 150-500ml,-147 szt.,4. Mamy nadmiar
@@ -138,7 +143,7 @@ waciki do demakijażu,-54 szt,4. Mamy nadmiar
 pasta do zębów dla dorosłych - małe opakowania,-483 szt,4. Mamy nadmiar
 biustonosze nowe rozmiar 70C-90C,-57 szt,4. Mamy nadmiar
 "biustonosz damski sportowy nowy S,M,L, XL, XXL",-27 szt,4. Mamy nadmiar
-buty sportowe dziecięce - rozm. 23-35 nowe,-13 szt.,4. Mamy nadmiar
+buty sportowe dziecięce - rozm. 23-35 nowe/st.bdb,-13 szt.,4. Mamy nadmiar
 karma dla piesełków - sucha,-34 kg,4. Mamy nadmiar
 żwirek dla kota,-40 kg,4. Mamy nadmiar
 biustonosze nowe rozmiary 70E-80G,-27 szt.,4. Mamy nadmiar
