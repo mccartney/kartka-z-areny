@@ -1,8 +1,8 @@
 PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
-Liczba osób w Arenie,25,Ostatnia aktualizacja
-,,03/06/2022 14:48
+Liczba osób w Arenie,61,Ostatnia aktualizacja
+,,03/06/2022 15:21
 PRZEDMIOT,Brakuje,Priorytet
 powerbank,5 szt.,1. Pilnie potrzebne
 "bielizna męska, majtki-nowe",20 szt.,1. Pilnie potrzebne
