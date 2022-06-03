@@ -2,10 +2,8 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,25,Ostatnia aktualizacja
-,,03/06/2022 10:36
+,,03/06/2022 13:44
 PRZEDMIOT,Brakuje,Priorytet
-chleb tostowy,9 szt.,1. Pilnie potrzebne
-wędlina/kiełbasa krojona paczkowana,12 szt.,1. Pilnie potrzebne
 skarpetki damskie,30 szt.,1. Pilnie potrzebne
 powerbank,5 szt.,1. Pilnie potrzebne
 "bielizna damska, majtki- S,M, L, XL- nowe",30 szt.,1. Pilnie potrzebne
@@ -17,6 +15,8 @@ torby miękkie podróżne nowe/ stan bdb.,10 szt,1. Pilnie potrzebne
 buty sportowe damskie rozm. 36-41 nowe/st.bdb,20 szt.,1. Pilnie potrzebne
 skarpety męskie,30 szt,1. Pilnie potrzebne
 skarpety dziecięce,30 szt,1. Pilnie potrzebne
+chleb tostowy,1 szt.,2. Potrzebne
+wędlina/kiełbasa krojona paczkowana,2 szt.,2. Potrzebne
 antyperspirant męski,1 szt.,2. Potrzebne
 mleko roślinne różne rodzaje,0 szt.,3. Mamy wystarczająco
 jabłka,-1 kg,3. Mamy wystarczająco
