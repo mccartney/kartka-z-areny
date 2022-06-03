@@ -2,8 +2,9 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,25,Ostatnia aktualizacja
-,,02/06/2022 20:56
+,,03/06/2022 09:05
 PRZEDMIOT,Brakuje,Priorytet
+chleb tostowy,9 szt.,1. Pilnie potrzebne
 wędlina/kiełbasa krojona paczkowana,12 szt.,1. Pilnie potrzebne
 skarpetki damskie,30 szt.,1. Pilnie potrzebne
 powerbank,5 szt.,1. Pilnie potrzebne
@@ -17,7 +18,6 @@ buty sportowe damskie rozm. 36-41 nowe/st.bdb,20 szt.,1. Pilnie potrzebne
 skarpety męskie,30 szt,1. Pilnie potrzebne
 skarpety dziecięce,30 szt,1. Pilnie potrzebne
 antyperspirant męski,1 szt.,2. Potrzebne
-pomadki do ust/wazelina,2 szt.,2. Potrzebne
 mleko roślinne różne rodzaje,0 szt.,3. Mamy wystarczająco
 jabłka,-1 kg,3. Mamy wystarczająco
 banany,-1 kg,3. Mamy wystarczająco
@@ -64,7 +64,6 @@ herbata owocowa różne rodzaje,-20 szt,4. Mamy nadmiar
 kawa rozpuszczalna,-24 szt.,4. Mamy nadmiar
 kawa mielona 250 gram,-36 szt.,4. Mamy nadmiar
 kakao rozpuszczalne + czekolada rozpuszczalna,-8 szt.,4. Mamy nadmiar
-chleb tostowy,-2 szt.,4. Mamy nadmiar
 kabanosy małe opakowania,-14 szt.,4. Mamy nadmiar
 parówki,-11 kg,4. Mamy nadmiar
 ser żółty krojony paczkowany,-16 kg,4. Mamy nadmiar
@@ -112,7 +111,8 @@ butelki dla dzieci,-8 szt.,4. Mamy nadmiar
 nosidełka dla dzieci,-4 szt,4. Mamy nadmiar
 worki na śmieci 120L,-30 opak.,4. Mamy nadmiar
 chusteczki higieniczne małe opak.,-112 szt.,4. Mamy nadmiar
-pasta do zębów dla dzieci,-90 szt.,4. Mamy nadmiar
+pomadki do ust/wazelina,-3 szt.,4. Mamy nadmiar
+pasta do zębów dla dzieci,-135 szt.,4. Mamy nadmiar
 chusteczki nawilżane pakowane,-1392 szt.,4. Mamy nadmiar
 patyczki do uszu ,-32 opak.,4. Mamy nadmiar
 pasta do zębów dla dorosłych - duże opakowania,-37 szt.,4. Mamy nadmiar
@@ -147,7 +147,7 @@ buty sportowe dziecięce - rozm. 23-35 nowe/st.bdb,-13 szt.,4. Mamy nadmiar
 karma dla piesełków - sucha,-34 kg,4. Mamy nadmiar
 żwirek dla kota,-40 kg,4. Mamy nadmiar
 biustonosze nowe rozmiary 70E-80G,-27 szt.,4. Mamy nadmiar
-antyperspirant damski,-15 szt,4. Mamy nadmiar
+antyperspirant damski,-17 szt,4. Mamy nadmiar
 zestaw do szycia podróżny,-1 szt.,4. Mamy nadmiar
 płyn do mycia naczyń,-3 szt,4. Mamy nadmiar
 grzebienie,-3 szt,4. Mamy nadmiar
