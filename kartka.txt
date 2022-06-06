@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,99,Ostatnia aktualizacja
-,,06/06/2022 13:37
+,,06/06/2022 16:14
 PRZEDMIOT,Brakuje,Priorytet
 parówki,10 kg,1. Pilnie potrzebne
 wędlina/kiełbasa krojona paczkowana,15 szt.,1. Pilnie potrzebne
@@ -17,7 +17,6 @@ skarpety męskie,6 szt,2. Potrzebne
 mleko roślinne różne rodzaje,0 szt.,3. Mamy wystarczająco
 jabłka,-1 kg,3. Mamy wystarczająco
 banany,-1 kg,3. Mamy wystarczająco
-winogrona,-1 kg,3. Mamy wystarczająco
 ogórki świeże,0 kg,3. Mamy wystarczająco
 papryka czerwona,0 kg,3. Mamy wystarczająco
 sałata lodowa/masłowa,-1 szt.,3. Mamy wystarczająco
@@ -66,7 +65,8 @@ kakao rozpuszczalne + czekolada rozpuszczalna,-8 szt.,4. Mamy nadmiar
 kabanosy małe opakowania,-14 szt.,4. Mamy nadmiar
 ser żółty krojony paczkowany,-16 kg,4. Mamy nadmiar
 filtry  do kawy rozmiar 4,-1 opak,4. Mamy nadmiar
-pomidory,-17 kg,4. Mamy nadmiar
+winogrona,-5 kg,4. Mamy nadmiar
+pomidory,-30 kg,4. Mamy nadmiar
 tubki owocowe różne (nielodówkowe),-119 szt.,4. Mamy nadmiar
 kaszki dla dzieci/kleiki do samodzielnego przygotowania,-13 szt.,4. Mamy nadmiar
 płatki śniadaniowe różne rodzaje,-16 szt.,4. Mamy nadmiar
