@@ -2,15 +2,17 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,99,Ostatnia aktualizacja
-,,06/06/2022 09:30
+,,06/06/2022 13:37
 PRZEDMIOT,Brakuje,Priorytet
+parówki,10 kg,1. Pilnie potrzebne
+wędlina/kiełbasa krojona paczkowana,15 szt.,1. Pilnie potrzebne
+ketchup łagodny,4 szt.,1. Pilnie potrzebne
 powerbank,5 szt.,1. Pilnie potrzebne
 "bielizna męska, majtki-nowe",20 szt.,1. Pilnie potrzebne
 buty sportowe męskie - rozm. 40-45 nowe/st.bdb,20 szt.,1. Pilnie potrzebne
 torby miękkie podróżne nowe/ stan bdb.,10 szt,1. Pilnie potrzebne
 buty sportowe damskie rozm. 36-41 nowe/st.bdb,20 szt.,1. Pilnie potrzebne
 chleb tostowy,1 szt.,2. Potrzebne
-wędlina/kiełbasa krojona paczkowana,2 szt.,2. Potrzebne
 skarpety męskie,6 szt,2. Potrzebne
 mleko roślinne różne rodzaje,0 szt.,3. Mamy wystarczająco
 jabłka,-1 kg,3. Mamy wystarczająco
@@ -24,7 +26,6 @@ słoiczki dla dzieci - obiadki różne,-2 szt.,3. Mamy wystarczająco
 "sól 0,5 kg",0 szt.,3. Mamy wystarczająco
 cukier 1 kg,-2 kg,3. Mamy wystarczająco
 pieprz mała torebka,0 szt.,3. Mamy wystarczająco
-ketchup łagodny,0 szt.,3. Mamy wystarczająco
 żelki w małych opakowaniach/guma rozpuszczalna (mikroporcje pakowane oddzielnie),-2 szt.,3. Mamy wystarczająco
 worki na smieci 35L,0 szt.,3. Mamy wystarczająco
 skarpetki damskie,-5 szt.,3. Mamy wystarczająco
@@ -63,7 +64,6 @@ kawa rozpuszczalna,-24 szt.,4. Mamy nadmiar
 kawa mielona 250 gram,-36 szt.,4. Mamy nadmiar
 kakao rozpuszczalne + czekolada rozpuszczalna,-8 szt.,4. Mamy nadmiar
 kabanosy małe opakowania,-14 szt.,4. Mamy nadmiar
-parówki,-11 kg,4. Mamy nadmiar
 ser żółty krojony paczkowany,-16 kg,4. Mamy nadmiar
 filtry  do kawy rozmiar 4,-1 opak,4. Mamy nadmiar
 pomidory,-17 kg,4. Mamy nadmiar
