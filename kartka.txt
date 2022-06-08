@@ -1,8 +1,8 @@
 PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
-Liczba osób w Arenie,82,Ostatnia aktualizacja
-,,08/06/2022 13:01
+Liczba osób w Arenie,58,Ostatnia aktualizacja
+,,08/06/2022 17:07
 PRZEDMIOT,Brakuje,Priorytet
 powerbank,5 szt.,1. Pilnie potrzebne
 buty sportowe męskie - rozm. 40-45 nowe/st.bdb,20 szt.,1. Pilnie potrzebne
