@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,62,Ostatnia aktualizacja
-,,10/06/2022 10:10
+,,10/06/2022 11:22
 PRZEDMIOT,Brakuje,Priorytet
 opakowania rękawiczek lateksowych S,2 opak,1. Pilnie potrzebne
 opakowania rękawiczek lateksowych M,2 opak,1. Pilnie potrzebne
@@ -11,6 +11,7 @@ powerbank,5 szt.,1. Pilnie potrzebne
 buty sportowe męskie - rozm. 40-45 nowe/st.bdb,20 szt.,1. Pilnie potrzebne
 torby miękkie podróżne nowe/ stan bdb.,10 szt,1. Pilnie potrzebne
 buty sportowe damskie rozm. 36-41 nowe/st.bdb,20 szt.,1. Pilnie potrzebne
+żwirek dla kota,10 kg,1. Pilnie potrzebne
 parówki,2 kg,2. Potrzebne
 wędlina/kiełbasa krojona paczkowana,5 szt.,2. Potrzebne
 "bielizna damska, majtki- S,M, L, XL- nowe",6 szt.,2. Potrzebne
@@ -147,7 +148,6 @@ biustonosze nowe rozmiar 70C-90C,-57 szt,4. Mamy nadmiar
 "biustonosz damski sportowy nowy S,M,L, XL, XXL",-27 szt,4. Mamy nadmiar
 buty sportowe dziecięce - rozm. 23-35 nowe/st.bdb,-13 szt.,4. Mamy nadmiar
 karma dla piesełków - sucha,-34 kg,4. Mamy nadmiar
-żwirek dla kota,-40 kg,4. Mamy nadmiar
 biustonosze nowe rozmiary 70E-80G,-27 szt.,4. Mamy nadmiar
 antyperspirant damski,-17 szt,4. Mamy nadmiar
 zestaw do szycia podróżny,-1 szt.,4. Mamy nadmiar
