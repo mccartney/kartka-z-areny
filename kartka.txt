@@ -2,10 +2,11 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,62,Ostatnia aktualizacja
-,,11/06/2022 12:35
+,,11/06/2022 13:26
 PRZEDMIOT,Brakuje,Priorytet
 opakowania rękawiczek lateksowych S,2 opak,1. Pilnie potrzebne
 powerbank,5 szt.,1. Pilnie potrzebne
+proszek do prania,5 szt.,1. Pilnie potrzebne
 buty sportowe męskie - rozm. 40-45 nowe/st.bdb,15 szt.,1. Pilnie potrzebne
 torby miękkie podróżne nowe/ stan bdb.,10 szt,1. Pilnie potrzebne
 buty sportowe damskie rozm. 36-41 nowe/st.bdb,14 szt.,1. Pilnie potrzebne
@@ -28,7 +29,6 @@ worki na smieci 35L,0 szt.,3. Mamy wystarczająco
 rękawice grube wielorazowe,0 szt.,3. Mamy wystarczająco
 przewijak,0 szt.,3. Mamy wystarczająco
 szelki dla kota,0 szt,3. Mamy wystarczająco
-proszek do prania,0 szt.,3. Mamy wystarczająco
 nocnik dla dzieci,0 szt.,3. Mamy wystarczająco
 "bielizna damska, majtki- S,M, L, XL- nowe",0 szt.,3. Mamy wystarczająco
 antyperspirant męski,0 szt.,3. Mamy wystarczająco
