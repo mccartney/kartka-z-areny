@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,62,Ostatnia aktualizacja
-,,13/06/2022 12:38
+,,13/06/2022 14:20
 PRZEDMIOT,Brakuje,Priorytet
 opakowania rękawiczek lateksowych S,2 opak,1. Pilnie potrzebne
 proszek do prania,4 szt.,1. Pilnie potrzebne
@@ -51,7 +51,7 @@ dyspenser do taśmy pakowej szerokiej,0 szt,3. Mamy wystarczająco
 taśma biurowa przezroczysta 12mm,0 szt,3. Mamy wystarczająco
 krem do twarzy 50-100ml,-3 szt,3. Mamy wystarczająco
 syrop wykrztuśny na kaszel dzieci i dorosli,0 szt,3. Mamy wystarczająco
-mleko 1L,-18 szt.,4. Mamy nadmiar
+mleko 1L,-60 szt.,4. Mamy nadmiar
 kefir/jogurt naturalny pitny lub w małych kubeczkach,-37 szt.,4. Mamy nadmiar
 jogurt pitny lub w małych kubeczkach różne rodzaje,-63 szt.,4. Mamy nadmiar
 "woda w małych opakowaniach, w tym z dziubkiem",-7640 szt.,4. Mamy nadmiar
@@ -63,7 +63,7 @@ kawa mielona 250 gram,-36 szt.,4. Mamy nadmiar
 kakao rozpuszczalne + czekolada rozpuszczalna,-8 szt.,4. Mamy nadmiar
 chleb tostowy,-2 szt.,4. Mamy nadmiar
 kabanosy małe opakowania,-14 szt.,4. Mamy nadmiar
-ser żółty krojony paczkowany,-16 kg,4. Mamy nadmiar
+ser żółty krojony paczkowany,-35 kg,4. Mamy nadmiar
 filtry  do kawy rozmiar 4,-1 opak,4. Mamy nadmiar
 winogrona,-5 kg,4. Mamy nadmiar
 pomidory,-30 kg,4. Mamy nadmiar
