@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,62,Ostatnia aktualizacja
-,,12/06/2022 18:21
+,,13/06/2022 08:20
 PRZEDMIOT,Brakuje,Priorytet
 opakowania rękawiczek lateksowych S,2 opak,1. Pilnie potrzebne
 proszek do prania,5 szt.,1. Pilnie potrzebne
@@ -23,7 +23,6 @@ cukier 1 kg,-2 kg,3. Mamy wystarczająco
 pieprz mała torebka,0 szt.,3. Mamy wystarczająco
 ketchup łagodny,0 szt.,3. Mamy wystarczająco
 żelki w małych opakowaniach/guma rozpuszczalna (mikroporcje pakowane oddzielnie),-2 szt.,3. Mamy wystarczająco
-opakowania rękawiczek lateksowych L,0 opak,3. Mamy wystarczająco
 worki na smieci 35L,0 szt.,3. Mamy wystarczająco
 rękawice grube wielorazowe,0 szt.,3. Mamy wystarczająco
 przewijak,0 szt.,3. Mamy wystarczająco
@@ -81,7 +80,8 @@ widelce plastikowe,-3698 szt.,4. Mamy nadmiar
 noże plastikowe,-4798 szt.,4. Mamy nadmiar
 tacki papierowe jednorazowe małe prostokątne,-1600 szt.,4. Mamy nadmiar
 miski papierowe do ciepłych posiłków,-7350 szt.,4. Mamy nadmiar
-opakowania rękawiczek lateksowych M,-2 opak,4. Mamy nadmiar
+opakowania rękawiczek lateksowych M,-5 opak,4. Mamy nadmiar
+opakowania rękawiczek lateksowych L,-3 opak,4. Mamy nadmiar
 Kawa inka ,-34 szt.,4. Mamy nadmiar
 mleko modyfikowane 0-6 miesięcy,-8 szt.,4. Mamy nadmiar
 mleko modyfikowane 6-12 m-cy,-24 szt.,4. Mamy nadmiar
