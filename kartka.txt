@@ -2,17 +2,17 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,62,Ostatnia aktualizacja
-,,13/06/2022 10:12
+,,13/06/2022 12:38
 PRZEDMIOT,Brakuje,Priorytet
 opakowania rękawiczek lateksowych S,2 opak,1. Pilnie potrzebne
 proszek do prania,4 szt.,1. Pilnie potrzebne
 buty sportowe męskie - rozm. 40-45 nowe/st.bdb,15 szt.,1. Pilnie potrzebne
 torby miękkie podróżne nowe/ stan bdb.,10 szt,1. Pilnie potrzebne
 buty sportowe damskie rozm. 36-41 nowe/st.bdb,13 szt.,1. Pilnie potrzebne
+parówki,5 kg,2. Potrzebne
+wędlina/kiełbasa krojona paczkowana,10 szt.,2. Potrzebne
 "bielizna męska, majtki-nowe",1 szt.,2. Potrzebne
 mleko roślinne różne rodzaje,0 szt.,3. Mamy wystarczająco
-parówki,0 kg,3. Mamy wystarczająco
-wędlina/kiełbasa krojona paczkowana,-2 szt.,3. Mamy wystarczająco
 jabłka,-1 kg,3. Mamy wystarczająco
 banany,-1 kg,3. Mamy wystarczająco
 ogórki świeże,0 kg,3. Mamy wystarczająco
