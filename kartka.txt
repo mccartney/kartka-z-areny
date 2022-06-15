@@ -2,18 +2,14 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,78,Ostatnia aktualizacja
-,,15/06/2022 19:13
+,,15/06/2022 20:00
 PRZEDMIOT,Brakuje,Priorytet
-mleko roślinne różne rodzaje,3 szt.,1. Pilnie potrzebne
 szampon do włosów travel size 30-50ml,100 szt.,1. Pilnie potrzebne
 maszynki jednorazowe do golenia męskie,15 szt.,1. Pilnie potrzebne
-mydło w kostce,20 szt.,1. Pilnie potrzebne
 "bielizna damska, majtki- S,M, L, XL- nowe",20 szt.,1. Pilnie potrzebne
 szampon do włosów 150-500ml,45 szt.,1. Pilnie potrzebne
 antyperspirant męski,9 szt.,1. Pilnie potrzebne
-worki na śmieci 160L,10 opak.,1. Pilnie potrzebne
 pomadki do ust/wazelina,10 szt.,1. Pilnie potrzebne
-patyczki do uszu ,7 opak.,1. Pilnie potrzebne
 płyn do higieny intymnej mały 20-50ml,20 szt.,1. Pilnie potrzebne
 buty sportowe męskie - rozm. 40-45 nowe/st.bdb,12 szt.,1. Pilnie potrzebne
 obcinacze do paznokci,6 szt.,1. Pilnie potrzebne
@@ -22,14 +18,17 @@ maszynki jednorazowe do golenia damskie,15 szt,1. Pilnie potrzebne
 t-shirt damski XL,10 szt,1. Pilnie potrzebne
 torby miękkie podróżne nowe/ stan bdb.,10 szt,1. Pilnie potrzebne
 pasta do zębów dla dorosłych - małe opakowania,50 szt,1. Pilnie potrzebne
-buty sportowe damskie rozm. 36-41 nowe/st.bdb,13 szt.,1. Pilnie potrzebne
 antyperspirant damski,15 szt,1. Pilnie potrzebne
-zestaw do szycia podróżny,5 szt.,1. Pilnie potrzebne
+zestaw do szycia podróżny,4 szt.,1. Pilnie potrzebne
 pianka do golenia małe opak.,15 szt,1. Pilnie potrzebne
 grzebienie,10 szt,1. Pilnie potrzebne
+japonki damskie 36-39,10 szt,1. Pilnie potrzebne
+dresy męskie spodnie XL-XXL,10 szt,1. Pilnie potrzebne
 krem do twarzy 50-100ml,20 szt,1. Pilnie potrzebne
 parówki,2 kg,2. Potrzebne
 worki na smieci 35L,1 szt.,2. Potrzebne
+patyczki do uszu ,2 opak.,2. Potrzebne
+mleko roślinne różne rodzaje,0 szt.,3. Mamy wystarczająco
 jabłka,-1 kg,3. Mamy wystarczająco
 banany,-1 kg,3. Mamy wystarczająco
 ogórki świeże,0 kg,3. Mamy wystarczająco
@@ -58,12 +57,11 @@ baterie paluszki AA,0 szt.,3. Mamy wystarczająco
 notatnik z długopisem zestaw,0 szt.,3. Mamy wystarczająco
 wielorazowe torby na zakupy,0 szt,3. Mamy wystarczająco
 biustonosze nowe rozmiar 70C-90C,0 szt,3. Mamy wystarczająco
-"biustonosz damski sportowy nowy S,M,L, XL, XXL",0 szt,3. Mamy wystarczająco
 "spray oczyszczający, woda morska do nosa, roztwór izotoniczny, 100 ml",0 szt,3. Mamy wystarczająco
+żwirek dla kota,0 kg,3. Mamy wystarczająco
 karma dla piesełków - puszka,0 szt,3. Mamy wystarczająco
 biustonosze nowe rozmiary 70E-80G,0 szt.,3. Mamy wystarczająco
 płyny do soczewek,-1 szt,3. Mamy wystarczająco
-dresy męskie spodnie XL-XXL,0 szt,3. Mamy wystarczająco
 taśma pakowa brązowa szeroka,0 szt,3. Mamy wystarczająco
 dyspenser do taśmy pakowej szerokiej,0 szt,3. Mamy wystarczająco
 taśma biurowa przezroczysta 12mm,0 szt,3. Mamy wystarczająco
@@ -127,6 +125,7 @@ klapki wielorazowe dziecięce - rozm. 23-35,-39 par.,4. Mamy nadmiar
 ręcznik papierowy - rolka,-560 szt.,4. Mamy nadmiar
 butelki dla dzieci,-17 szt.,4. Mamy nadmiar
 nosidełka dla dzieci,-3 szt,4. Mamy nadmiar
+worki na śmieci 160L,-10 opak.,4. Mamy nadmiar
 chusteczki higieniczne małe opak.,-110 szt.,4. Mamy nadmiar
 pasta do zębów dla dzieci,-85 szt.,4. Mamy nadmiar
 chusteczki nawilżane pakowane,-1480 szt.,4. Mamy nadmiar
@@ -141,18 +140,18 @@ szczoteczki do zębów + pasta 3 gr,-100 szt.,4. Mamy nadmiar
 t-shirt damski M,-20 szt.,4. Mamy nadmiar
 żel antybakteryjny 400-500ml,-400 szt.,4. Mamy nadmiar
 biustonosze nowe rozmiary 70B-90B,-45 szt,4. Mamy nadmiar
-klapki wielorazowe damskie - rozm. 36-40,-80 szt,4. Mamy nadmiar
+klapki wielorazowe damskie - rozm. 36-40,-70 szt,4. Mamy nadmiar
 maseczki jednorazowe,-4900 szt,4. Mamy nadmiar
 gąbka do ciała ,-280 szt,4. Mamy nadmiar
 rajstopy damskie - różne rozmiary,-2 szt,4. Mamy nadmiar
 stopery do uszu/opaski na oczy,-1000 szt.,4. Mamy nadmiar
 worki na śmieci 60L,-15 szt,4. Mamy nadmiar
 waciki do demakijażu,-490 szt,4. Mamy nadmiar
+"biustonosz damski sportowy nowy S,M,L, XL, XXL",-13 szt,4. Mamy nadmiar
 buty sportowe dziecięce - rozm. 23-35 nowe/st.bdb,-14 szt.,4. Mamy nadmiar
-karma dla piesełków - sucha,-34 kg,4. Mamy nadmiar
-żwirek dla kota,-2 kg,4. Mamy nadmiar
+buty sportowe damskie rozm. 36-41 nowe/st.bdb,-23 szt.,4. Mamy nadmiar
+karma dla piesełków - sucha,-30 kg,4. Mamy nadmiar
 płyn do mycia naczyń,-4 szt,4. Mamy nadmiar
-japonki damskie 36-39,-76 szt,4. Mamy nadmiar
 suszarka rozkładana na pranie,-1 szt,4. Mamy nadmiar
-skarpety męskie,-580 szt,4. Mamy nadmiar
-skarpety dziecięce,-8 szt,4. Mamy nadmiar
+skarpety męskie,-100 szt,4. Mamy nadmiar
+skarpety dziecięce,-70 szt,4. Mamy nadmiar
