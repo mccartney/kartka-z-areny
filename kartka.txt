@@ -1,6 +1,6 @@
 PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
-Liczba osób w Arenie,78,Ostatnia aktualizacja
+Liczba osób w Arenie,82,Ostatnia aktualizacja
 ,,14/06/2022 11:48
 #REF!,,
