@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,34,Ostatnia aktualizacja
-,,16/06/2022 19:11
+,,16/06/2022 20:16
 PRZEDMIOT,Brakuje,Priorytet
 szampon do włosów travel size 30-50ml,100 szt.,1. Pilnie potrzebne
 maszynki jednorazowe do golenia męskie,15 szt.,1. Pilnie potrzebne
@@ -14,7 +14,6 @@ buty sportowe męskie - rozm. 40-45 nowe/st.bdb,12 szt.,1. Pilnie potrzebne
 obcinacze do paznokci,6 szt.,1. Pilnie potrzebne
 szczotka do włosów,15 szt.,1. Pilnie potrzebne
 maszynki jednorazowe do golenia damskie,15 szt,1. Pilnie potrzebne
-t-shirt damski XL,10 szt,1. Pilnie potrzebne
 torby miękkie podróżne nowe/ stan bdb.,10 szt,1. Pilnie potrzebne
 pasta do zębów dla dorosłych - małe opakowania,50 szt,1. Pilnie potrzebne
 antyperspirant damski,13 szt,1. Pilnie potrzebne
@@ -146,6 +145,7 @@ gąbka do ciała ,-280 szt,4. Mamy nadmiar
 rajstopy damskie - różne rozmiary,-2 szt,4. Mamy nadmiar
 stopery do uszu/opaski na oczy,-1000 szt.,4. Mamy nadmiar
 worki na śmieci 60L,-15 szt,4. Mamy nadmiar
+t-shirt damski XL,-4 szt,4. Mamy nadmiar
 waciki do demakijażu,-490 szt,4. Mamy nadmiar
 "biustonosz damski sportowy nowy S,M,L, XL, XXL",-13 szt,4. Mamy nadmiar
 buty sportowe dziecięce - rozm. 23-35 nowe/st.bdb,-14 szt.,4. Mamy nadmiar
