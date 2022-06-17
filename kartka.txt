@@ -2,13 +2,13 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,34,Ostatnia aktualizacja
-,,16/06/2022 20:18
+,,17/06/2022 11:00
 PRZEDMIOT,Brakuje,Priorytet
-szampon do włosów travel size 30-50ml,100 szt.,1. Pilnie potrzebne
+szampon do włosów travel size 30-50ml,50 szt.,1. Pilnie potrzebne
 maszynki jednorazowe do golenia męskie,15 szt.,1. Pilnie potrzebne
-szampon do włosów 150-500ml,45 szt.,1. Pilnie potrzebne
+szampon do włosów 150-500ml,15 szt.,1. Pilnie potrzebne
 antyperspirant męski,9 szt.,1. Pilnie potrzebne
-pomadki do ust/wazelina,8 szt.,1. Pilnie potrzebne
+pomadki nawilżające do ust/wazelina,8 szt.,1. Pilnie potrzebne
 płyn do higieny intymnej mały 20-50ml,20 szt.,1. Pilnie potrzebne
 buty sportowe męskie - rozm. 40-45 nowe/st.bdb,12 szt.,1. Pilnie potrzebne
 obcinacze do paznokci,6 szt.,1. Pilnie potrzebne
@@ -24,7 +24,6 @@ japonki damskie 36-39,10 szt,1. Pilnie potrzebne
 dresy męskie spodnie XL-XXL,10 szt,1. Pilnie potrzebne
 krem do twarzy 50-100ml,20 szt,1. Pilnie potrzebne
 parówki,2 kg,2. Potrzebne
-worki na smieci 35L,1 szt.,2. Potrzebne
 "bielizna damska, majtki- S,M, L, XL- nowe",8 szt.,2. Potrzebne
 mleko roślinne różne rodzaje,0 szt.,3. Mamy wystarczająco
 jabłka,-1 kg,3. Mamy wystarczająco
@@ -36,6 +35,7 @@ ogórki kiszone w wiaderkach małych,0 szt.,3. Mamy wystarczająco
 cukier 1 kg,0 kg,3. Mamy wystarczająco
 pieprz mała torebka,0 szt.,3. Mamy wystarczająco
 biustonosze nowe rozmiary 75B - 90D,0 szt.,3. Mamy wystarczająco
+worki na smieci 35L,0 szt.,3. Mamy wystarczająco
 skarpetki damskie,-3 szt.,3. Mamy wystarczająco
 rękawice grube wielorazowe,0 szt.,3. Mamy wystarczająco
 przewijak,0 szt.,3. Mamy wystarczająco
