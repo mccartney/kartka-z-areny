@@ -2,12 +2,11 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,34,Ostatnia aktualizacja
-,,17/06/2022 11:00
+,,17/06/2022 14:50
 PRZEDMIOT,Brakuje,Priorytet
 szampon do włosów travel size 30-50ml,50 szt.,1. Pilnie potrzebne
 maszynki jednorazowe do golenia męskie,15 szt.,1. Pilnie potrzebne
 szampon do włosów 150-500ml,15 szt.,1. Pilnie potrzebne
-antyperspirant męski,9 szt.,1. Pilnie potrzebne
 pomadki nawilżające do ust/wazelina,8 szt.,1. Pilnie potrzebne
 płyn do higieny intymnej mały 20-50ml,20 szt.,1. Pilnie potrzebne
 buty sportowe męskie - rozm. 40-45 nowe/st.bdb,12 szt.,1. Pilnie potrzebne
@@ -16,7 +15,6 @@ szczotka do włosów,15 szt.,1. Pilnie potrzebne
 maszynki jednorazowe do golenia damskie,15 szt,1. Pilnie potrzebne
 torby miękkie podróżne nowe/ stan bdb.,10 szt,1. Pilnie potrzebne
 pasta do zębów dla dorosłych - małe opakowania,50 szt,1. Pilnie potrzebne
-antyperspirant damski,13 szt,1. Pilnie potrzebne
 zestaw do szycia podróżny,4 szt.,1. Pilnie potrzebne
 pianka do golenia małe opak.,13 szt,1. Pilnie potrzebne
 grzebienie,10 szt,1. Pilnie potrzebne
@@ -44,6 +42,7 @@ szelki dla kota,0 szt,3. Mamy wystarczająco
 powerbank,0 szt.,3. Mamy wystarczająco
 biustonosze nowe rozmiary 70D-80D,0 szt,3. Mamy wystarczająco
 nocnik dla dzieci,0 szt.,3. Mamy wystarczająco
+antyperspirant męski,-1 szt.,3. Mamy wystarczająco
 papier toaletowy szary /rolki do dyspenserów łaz.,-3 szt.,3. Mamy wystarczająco
 biustonosz dziewczęcy sportowy nowy,-1 szt.,3. Mamy wystarczająco
 zmywacz do paznokci,0 opak.,3. Mamy wystarczająco
@@ -151,6 +150,7 @@ waciki do demakijażu,-490 szt,4. Mamy nadmiar
 buty sportowe dziecięce - rozm. 23-35 nowe/st.bdb,-14 szt.,4. Mamy nadmiar
 buty sportowe damskie rozm. 36-41 nowe/st.bdb,-23 szt.,4. Mamy nadmiar
 karma dla piesełków - sucha,-30 kg,4. Mamy nadmiar
+antyperspirant damski,-9 szt,4. Mamy nadmiar
 płyn do mycia naczyń,-4 szt,4. Mamy nadmiar
 suszarka rozkładana na pranie,-1 szt,4. Mamy nadmiar
 skarpety męskie,-100 szt,4. Mamy nadmiar
