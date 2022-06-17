@@ -2,10 +2,10 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,34,Ostatnia aktualizacja
-,,17/06/2022 14:50
+,,17/06/2022 15:25
 PRZEDMIOT,Brakuje,Priorytet
 szampon do włosów travel size 30-50ml,50 szt.,1. Pilnie potrzebne
-maszynki jednorazowe do golenia męskie,15 szt.,1. Pilnie potrzebne
+maszynki jednorazowe do golenia męskie,11 szt.,1. Pilnie potrzebne
 szampon do włosów 150-500ml,15 szt.,1. Pilnie potrzebne
 pomadki nawilżające do ust/wazelina,8 szt.,1. Pilnie potrzebne
 płyn do higieny intymnej mały 20-50ml,20 szt.,1. Pilnie potrzebne
