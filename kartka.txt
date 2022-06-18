@@ -2,15 +2,15 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,34,Ostatnia aktualizacja
-,,17/06/2022 21:53
+,,17/06/2022 22:15
 PRZEDMIOT,Brakuje,Priorytet
 szampon do włosów travel size 30-50ml,50 szt.,1. Pilnie potrzebne
 szampon do włosów 150-500ml,15 szt.,1. Pilnie potrzebne
-płyn do higieny intymnej mały 20-50ml,20 szt.,1. Pilnie potrzebne
+płyn do higieny intymnej mały 20-50ml,18 szt.,1. Pilnie potrzebne
 buty sportowe męskie - rozm. 40-45 nowe/st.bdb,12 szt.,1. Pilnie potrzebne
 obcinacze do paznokci,6 szt.,1. Pilnie potrzebne
-szczotka do włosów,15 szt.,1. Pilnie potrzebne
-maszynki jednorazowe do golenia damskie,9 szt,1. Pilnie potrzebne
+szczotka do włosów,13 szt.,1. Pilnie potrzebne
+maszynki jednorazowe do golenia damskie,13 szt,1. Pilnie potrzebne
 torby miękkie podróżne nowe/ stan bdb.,10 szt,1. Pilnie potrzebne
 pasta do zębów dla dorosłych - małe opakowania,50 szt,1. Pilnie potrzebne
 zestaw do szycia podróżny,4 szt.,1. Pilnie potrzebne
@@ -22,7 +22,6 @@ krem do twarzy 50-100ml,20 szt,1. Pilnie potrzebne
 parówki,2 kg,2. Potrzebne
 maszynki jednorazowe do golenia męskie,5 szt.,2. Potrzebne
 "bielizna damska, majtki- S,M, L, XL- nowe",8 szt.,2. Potrzebne
-pomadki nawilżające do ust/wazelina,5 szt.,2. Potrzebne
 mleko roślinne różne rodzaje,0 szt.,3. Mamy wystarczająco
 jabłka,-1 kg,3. Mamy wystarczająco
 banany,-1 kg,3. Mamy wystarczająco
@@ -46,6 +45,7 @@ papier toaletowy szary /rolki do dyspenserów łaz.,-3 szt.,3. Mamy wystarczają
 biustonosz dziewczęcy sportowy nowy,-1 szt.,3. Mamy wystarczająco
 zmywacz do paznokci,0 opak.,3. Mamy wystarczająco
 worki na śmieci 120L,-5 opak.,3. Mamy wystarczająco
+pomadki nawilżające do ust/wazelina,0 szt.,3. Mamy wystarczająco
 pilnik do paznokci,0 szt.,3. Mamy wystarczająco
 patyczki do uszu ,0 opak.,3. Mamy wystarczająco
 żel pod prysznic travel size 35 ml,-18 szt.,3. Mamy wystarczająco
