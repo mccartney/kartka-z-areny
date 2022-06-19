@@ -2,10 +2,11 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,34,Ostatnia aktualizacja
-,,19/06/2022 15:16
+,,19/06/2022 16:56
 PRZEDMIOT,Brakuje,Priorytet
 chleb tostowy,10 szt.,1. Pilnie potrzebne
 parówki,10 kg,1. Pilnie potrzebne
+majonez,3 ,1. Pilnie potrzebne
 szampon do włosów travel size 30-50ml,50 szt.,1. Pilnie potrzebne
 szampon do włosów 150-500ml,20 szt.,1. Pilnie potrzebne
 antyperspirant męski,15 szt.,1. Pilnie potrzebne
@@ -67,7 +68,7 @@ taśma pakowa brązowa szeroka,0 szt,3. Mamy wystarczająco
 dyspenser do taśmy pakowej szerokiej,0 szt,3. Mamy wystarczająco
 taśma biurowa przezroczysta 12mm,0 szt,3. Mamy wystarczająco
 syrop wykrztuśny na kaszel dzieci i dorosli,0 szt,3. Mamy wystarczająco
-mleko 1L,-42 szt.,4. Mamy nadmiar
+mleko 1L,-49 szt.,4. Mamy nadmiar
 mleko roślinne różne rodzaje,-4 szt.,4. Mamy nadmiar
 kefir/jogurt naturalny pitny lub w małych kubeczkach,-37 szt.,4. Mamy nadmiar
 jogurt pitny lub w małych kubeczkach różne rodzaje,-63 szt.,4. Mamy nadmiar
@@ -90,9 +91,8 @@ płatki śniadaniowe różne rodzaje,-16 szt.,4. Mamy nadmiar
 owsianka błyskawiczna kg (lub 20 porcjowanych),-2 szt.,4. Mamy nadmiar
 dżem,-5 szt.,4. Mamy nadmiar
 "sól 0,5 kg",-3 szt.,4. Mamy nadmiar
-ketchup łagodny,-4 szt.,4. Mamy nadmiar
-musztarda,-15 szt.,4. Mamy nadmiar
-majonez,-2 szt.,4. Mamy nadmiar
+ketchup łagodny,-2 szt.,4. Mamy nadmiar
+musztarda,-13 szt.,4. Mamy nadmiar
 żelki w małych opakowaniach/guma rozpuszczalna (mikroporcje pakowane oddzielnie),-70 szt.,4. Mamy nadmiar
 talerzyki jednorazowe małe,-12850 szt.,4. Mamy nadmiar
 widelce plastikowe,-3698 szt.,4. Mamy nadmiar
