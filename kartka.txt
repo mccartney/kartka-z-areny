@@ -2,9 +2,8 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,34,Ostatnia aktualizacja
-,,19/06/2022 12:31
+,,19/06/2022 15:16
 PRZEDMIOT,Brakuje,Priorytet
-mleko roślinne różne rodzaje,3 szt.,1. Pilnie potrzebne
 chleb tostowy,10 szt.,1. Pilnie potrzebne
 parówki,10 kg,1. Pilnie potrzebne
 szampon do włosów travel size 30-50ml,50 szt.,1. Pilnie potrzebne
@@ -69,6 +68,7 @@ dyspenser do taśmy pakowej szerokiej,0 szt,3. Mamy wystarczająco
 taśma biurowa przezroczysta 12mm,0 szt,3. Mamy wystarczająco
 syrop wykrztuśny na kaszel dzieci i dorosli,0 szt,3. Mamy wystarczająco
 mleko 1L,-42 szt.,4. Mamy nadmiar
+mleko roślinne różne rodzaje,-4 szt.,4. Mamy nadmiar
 kefir/jogurt naturalny pitny lub w małych kubeczkach,-37 szt.,4. Mamy nadmiar
 jogurt pitny lub w małych kubeczkach różne rodzaje,-63 szt.,4. Mamy nadmiar
 "woda w małych opakowaniach, w tym z dziubkiem",-7640 szt.,4. Mamy nadmiar
