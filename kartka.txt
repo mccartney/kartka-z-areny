@@ -2,18 +2,17 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,78,Ostatnia aktualizacja
-,,20/06/2022 10:32
+,,20/06/2022 13:57
 PRZEDMIOT,Brakuje,Priorytet
 parówki,8 kg,1. Pilnie potrzebne
 wędlina/kiełbasa krojona paczkowana,18 szt.,1. Pilnie potrzebne
 szampon do włosów travel size 30-50ml,50 szt.,1. Pilnie potrzebne
 szampon do włosów 150-500ml,20 szt.,1. Pilnie potrzebne
-antyperspirant męski,15 szt.,1. Pilnie potrzebne
-pasta do zębów dla dorosłych - duże opakowania,48 szt.,1. Pilnie potrzebne
+antyperspirant męski,13 szt.,1. Pilnie potrzebne
+pasta do zębów dla dorosłych - duże opakowania,44 szt.,1. Pilnie potrzebne
 płyn do higieny intymnej mały 20-50ml,18 szt.,1. Pilnie potrzebne
 buty sportowe męskie - rozm. 40-45 nowe/st.bdb,12 szt.,1. Pilnie potrzebne
 szczotka do włosów,13 szt.,1. Pilnie potrzebne
-maszynki jednorazowe do golenia damskie,13 szt,1. Pilnie potrzebne
 torby miękkie podróżne nowe/ stan bdb.,10 szt,1. Pilnie potrzebne
 pasta do zębów dla dorosłych - małe opakowania,50 szt,1. Pilnie potrzebne
 antyperspirant damski,15 szt,1. Pilnie potrzebne
@@ -21,7 +20,7 @@ pianka do golenia małe opak.,9 szt,1. Pilnie potrzebne
 grzebienie,10 szt,1. Pilnie potrzebne
 japonki damskie 36-39,10 szt,1. Pilnie potrzebne
 dresy męskie spodnie XL-XXL,10 szt,1. Pilnie potrzebne
-krem do twarzy 50-100ml,20 szt,1. Pilnie potrzebne
+krem do twarzy 50-100ml,14 szt,1. Pilnie potrzebne
 chleb tostowy,4 szt.,2. Potrzebne
 cukier 1 kg,4 kg,2. Potrzebne
 majonez,1 ,2. Potrzebne
@@ -141,6 +140,7 @@ t-shirt damski M,-20 szt.,4. Mamy nadmiar
 biustonosze nowe rozmiary 70B-90B,-45 szt,4. Mamy nadmiar
 klapki wielorazowe damskie - rozm. 36-40,-70 szt,4. Mamy nadmiar
 maseczki jednorazowe,-4900 szt,4. Mamy nadmiar
+maszynki jednorazowe do golenia damskie,-3 szt,4. Mamy nadmiar
 gąbka do ciała ,-280 szt,4. Mamy nadmiar
 rajstopy damskie - różne rozmiary,-2 szt,4. Mamy nadmiar
 stopery do uszu/opaski na oczy,-1000 szt.,4. Mamy nadmiar
