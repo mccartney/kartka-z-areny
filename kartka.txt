@@ -1,8 +1,8 @@
 PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
-Liczba osób w Arenie,34,Ostatnia aktualizacja
-,,19/06/2022 16:56
+Liczba osób w Arenie,78,Ostatnia aktualizacja
+,,20/06/2022 05:16
 PRZEDMIOT,Brakuje,Priorytet
 chleb tostowy,10 szt.,1. Pilnie potrzebne
 parówki,10 kg,1. Pilnie potrzebne
