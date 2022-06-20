@@ -2,22 +2,16 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,102,Ostatnia aktualizacja
-,,20/06/2022 20:11
+,,20/06/2022 20:59
 PRZEDMIOT,Brakuje,Priorytet
-wędlina/kiełbasa krojona paczkowana,17 szt.,1. Pilnie potrzebne
 ser żółty krojony paczkowany,5 kg,1. Pilnie potrzebne
 szampon do włosów travel size 30-50ml,50 szt.,1. Pilnie potrzebne
-szampon do włosów 150-500ml,12 szt.,1. Pilnie potrzebne
-antyperspirant męski,13 szt.,1. Pilnie potrzebne
-pasta do zębów dla dorosłych - duże opakowania,38 szt.,1. Pilnie potrzebne
 płyn do higieny intymnej mały 20-50ml,18 szt.,1. Pilnie potrzebne
 buty sportowe męskie - rozm. 40-45 nowe/st.bdb,12 szt.,1. Pilnie potrzebne
-szczotka do włosów,13 szt.,1. Pilnie potrzebne
+szczotka do włosów,11 szt.,1. Pilnie potrzebne
 torby miękkie podróżne nowe/ stan bdb.,10 szt,1. Pilnie potrzebne
 pasta do zębów dla dorosłych - małe opakowania,50 szt,1. Pilnie potrzebne
-antyperspirant damski,15 szt,1. Pilnie potrzebne
 pianka do golenia małe opak.,9 szt,1. Pilnie potrzebne
-grzebienie,10 szt,1. Pilnie potrzebne
 japonki damskie 36-39,10 szt,1. Pilnie potrzebne
 dresy męskie spodnie XL-XXL,10 szt,1. Pilnie potrzebne
 krem do twarzy 50-100ml,12 szt,1. Pilnie potrzebne
@@ -26,8 +20,11 @@ cukier 1 kg,4 kg,2. Potrzebne
 majonez,1 ,2. Potrzebne
 maszynki jednorazowe do golenia męskie,5 szt.,2. Potrzebne
 "bielizna damska, majtki- S,M, L, XL- nowe",8 szt.,2. Potrzebne
+antyperspirant męski,7 szt.,2. Potrzebne
 pomadki nawilżające do ust/wazelina,5 szt.,2. Potrzebne
+pasta do zębów dla dorosłych - duże opakowania,15 szt.,2. Potrzebne
 buty sportowe damskie rozm. 36-41 nowe/st.bdb,1 szt.,2. Potrzebne
+grzebienie,1 szt,2. Potrzebne
 jabłka,-1 kg,3. Mamy wystarczająco
 banany,-1 kg,3. Mamy wystarczająco
 ogórki świeże,0 kg,3. Mamy wystarczająco
@@ -78,7 +75,8 @@ kawa rozpuszczalna,-24 szt.,4. Mamy nadmiar
 kawa mielona 250 gram,-10 szt.,4. Mamy nadmiar
 kakao rozpuszczalne + czekolada rozpuszczalna,-7 szt.,4. Mamy nadmiar
 kabanosy małe opakowania,-14 szt.,4. Mamy nadmiar
-parówki,-44861 kg,4. Mamy nadmiar
+parówki,"-17,6 kg",4. Mamy nadmiar
+wędlina/kiełbasa krojona paczkowana,-9 szt.,4. Mamy nadmiar
 filtry  do kawy rozmiar 4,-1 opak,4. Mamy nadmiar
 winogrona,-5 kg,4. Mamy nadmiar
 pomidory,-30 kg,4. Mamy nadmiar
@@ -122,6 +120,7 @@ klapki wielorazowe dziecięce - rozm. 23-35,-39 par.,4. Mamy nadmiar
 "bielizna męska, majtki-nowe",-36 szt.,4. Mamy nadmiar
 "bielizna dziecięca, majtki- nowe",-30 szt.,4. Mamy nadmiar
 ręcznik papierowy - rolka,-560 szt.,4. Mamy nadmiar
+szampon do włosów 150-500ml,-13 szt.,4. Mamy nadmiar
 butelki dla dzieci,-17 szt.,4. Mamy nadmiar
 nosidełka dla dzieci,-3 szt,4. Mamy nadmiar
 worki na śmieci 160L,-10 opak.,4. Mamy nadmiar
@@ -150,6 +149,7 @@ waciki do demakijażu,-490 szt,4. Mamy nadmiar
 "biustonosz damski sportowy nowy S,M,L, XL, XXL",-13 szt,4. Mamy nadmiar
 buty sportowe dziecięce - rozm. 23-35 nowe/st.bdb,-14 szt.,4. Mamy nadmiar
 karma dla piesełków - sucha,-30 kg,4. Mamy nadmiar
+antyperspirant damski,-16 szt,4. Mamy nadmiar
 płyn do mycia naczyń,-4 szt,4. Mamy nadmiar
 suszarka rozkładana na pranie,-1 szt,4. Mamy nadmiar
 skarpety męskie,-100 szt,4. Mamy nadmiar
