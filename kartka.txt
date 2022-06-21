@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,102,Ostatnia aktualizacja
-,,20/06/2022 20:59
+,,21/06/2022 09:42
 PRZEDMIOT,Brakuje,Priorytet
 ser żółty krojony paczkowany,5 kg,1. Pilnie potrzebne
 szampon do włosów travel size 30-50ml,50 szt.,1. Pilnie potrzebne
