@@ -1,8 +1,8 @@
 PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
-Liczba osób w Arenie,102,Ostatnia aktualizacja
-,,21/06/2022 19:40
+Liczba osób w Arenie,82,Ostatnia aktualizacja
+,,21/06/2022 21:46
 PRZEDMIOT,Brakuje,Priorytet
 kubeczki do zimnych napojów plastikowe,500 szt.,1. Pilnie potrzebne
 szampon do włosów travel size 30-50ml,43 szt.,1. Pilnie potrzebne
