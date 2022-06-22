@@ -2,11 +2,12 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,82,Ostatnia aktualizacja
-,,21/06/2022 21:46
+,,22/06/2022 06:25
 PRZEDMIOT,Brakuje,Priorytet
 kubeczki do zimnych napojów plastikowe,500 szt.,1. Pilnie potrzebne
 szampon do włosów travel size 30-50ml,43 szt.,1. Pilnie potrzebne
 powerbank,3 szt.,1. Pilnie potrzebne
+"bielizna damska, majtki- S,M, L, XL- nowe",20 szt.,1. Pilnie potrzebne
 żel pod prysznic travel size 35 ml,195 szt.,1. Pilnie potrzebne
 płyn do higieny intymnej mały 20-50ml,13 szt.,1. Pilnie potrzebne
 buty sportowe męskie - rozm. 40-45 nowe/st.bdb,12 szt.,1. Pilnie potrzebne
@@ -18,7 +19,6 @@ japonki damskie 36-39,10 szt,1. Pilnie potrzebne
 dresy męskie spodnie XL-XXL,10 szt,1. Pilnie potrzebne
 chleb tostowy,4 szt.,2. Potrzebne
 szczoteczki do zębów dla dzieci,4 szt.,2. Potrzebne
-"bielizna damska, majtki- S,M, L, XL- nowe",4 szt.,2. Potrzebne
 pilnik do paznokci,4 szt.,2. Potrzebne
 obcinacze do paznokci,5 szt.,2. Potrzebne
 buty sportowe damskie rozm. 36-41 nowe/st.bdb,1 szt.,2. Potrzebne
@@ -115,7 +115,7 @@ podpaski/tampony,-1300 szt.,4. Mamy nadmiar
 podkładki dla dzieci/ dorosłych Seni,-180 szt.,4. Mamy nadmiar
 klapki wielorazowe dziecięce - rozm. 23-35,-37 par.,4. Mamy nadmiar
 "bielizna męska, majtki-nowe",-36 szt.,4. Mamy nadmiar
-"bielizna dziecięca, majtki- nowe",-30 szt.,4. Mamy nadmiar
+"bielizna dziecięca, majtki- nowe",-17 szt.,4. Mamy nadmiar
 ręcznik papierowy - rolka,-560 szt.,4. Mamy nadmiar
 szampon do włosów 150-500ml,-81 szt.,4. Mamy nadmiar
 antyperspirant męski,-60 szt.,4. Mamy nadmiar
@@ -153,5 +153,5 @@ biustonosze nowe rozmiary 70E-80G,-31 szt.,4. Mamy nadmiar
 antyperspirant damski,-49 szt,4. Mamy nadmiar
 płyn do mycia naczyń,-4 szt,4. Mamy nadmiar
 suszarka rozkładana na pranie,-1 szt,4. Mamy nadmiar
-skarpety męskie,-100 szt,4. Mamy nadmiar
+skarpety męskie,-68 szt,4. Mamy nadmiar
 skarpety dziecięce,-69 szt,4. Mamy nadmiar
