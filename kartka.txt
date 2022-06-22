@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,82,Ostatnia aktualizacja
-,,22/06/2022 12:32
+,,22/06/2022 14:38
 PRZEDMIOT,Brakuje,Priorytet
 kubeczki do zimnych napojów plastikowe,500 szt.,1. Pilnie potrzebne
 szampon do włosów travel size 30-50ml,43 szt.,1. Pilnie potrzebne
@@ -32,8 +32,8 @@ sałata lodowa/masłowa,-1 szt.,3. Mamy wystarczająco
 ogórki kiszone w wiaderkach małych,0 szt.,3. Mamy wystarczająco
 cukier 1 kg,0 kg,3. Mamy wystarczająco
 pieprz mała torebka,0 szt.,3. Mamy wystarczająco
-widelce plastikowe,0 szt.,3. Mamy wystarczająco
-łyżki duże plastikowe,0 szt.,3. Mamy wystarczająco
+widelce plastikowe,-150 szt.,3. Mamy wystarczająco
+łyżki duże plastikowe,-150 szt.,3. Mamy wystarczająco
 biustonosze nowe rozmiary 75B - 90D,0 szt.,3. Mamy wystarczająco
 worki na smieci 35L,0 szt.,3. Mamy wystarczająco
 skarpetki damskie,-3 szt.,3. Mamy wystarczająco
@@ -62,14 +62,14 @@ dyspenser do taśmy pakowej szerokiej,0 szt,3. Mamy wystarczająco
 taśma biurowa przezroczysta 12mm,0 szt,3. Mamy wystarczająco
 krem do twarzy 50-100ml,0 szt,3. Mamy wystarczająco
 syrop wykrztuśny na kaszel dzieci i dorosli,0 szt,3. Mamy wystarczająco
-mleko 1L,-49 szt.,4. Mamy nadmiar
+mleko 1L,-62 szt.,4. Mamy nadmiar
 kefir/jogurt naturalny pitny lub w małych kubeczkach,-37 szt.,4. Mamy nadmiar
 jogurt pitny lub w małych kubeczkach różne rodzaje,-63 szt.,4. Mamy nadmiar
 "woda w małych opakowaniach, w tym z dziubkiem",-7640 szt.,4. Mamy nadmiar
 herbata czarna,-64 szt.,4. Mamy nadmiar
 "herbata melisa i inne zioła (np. mięta, rumianek), herbata zielon",-5 szt.,4. Mamy nadmiar
 herbata owocowa różne rodzaje,-6 szt,4. Mamy nadmiar
-kawa rozpuszczalna,-24 szt.,4. Mamy nadmiar
+kawa rozpuszczalna,-4 szt.,4. Mamy nadmiar
 kawa mielona 250 gram,-10 szt.,4. Mamy nadmiar
 kakao rozpuszczalne + czekolada rozpuszczalna,-7 szt.,4. Mamy nadmiar
 kabanosy małe opakowania,-14 szt.,4. Mamy nadmiar
@@ -83,7 +83,7 @@ tubki owocowe różne (nielodówkowe),-100 szt.,4. Mamy nadmiar
 kaszki dla dzieci/kleiki do samodzielnego przygotowania,-21 szt.,4. Mamy nadmiar
 płatki śniadaniowe różne rodzaje,-16 szt.,4. Mamy nadmiar
 owsianka błyskawiczna kg (lub 20 porcjowanych),-2 szt.,4. Mamy nadmiar
-dżem,-5 szt.,4. Mamy nadmiar
+dżem,-30 szt.,4. Mamy nadmiar
 "sól 0,5 kg",-3 szt.,4. Mamy nadmiar
 ketchup łagodny,-16 szt.,4. Mamy nadmiar
 musztarda,-17 szt.,4. Mamy nadmiar
@@ -118,7 +118,7 @@ klapki wielorazowe dziecięce - rozm. 23-35,-37 par.,4. Mamy nadmiar
 "bielizna dziecięca, majtki- nowe",-17 szt.,4. Mamy nadmiar
 ręcznik papierowy - rolka,-560 szt.,4. Mamy nadmiar
 szampon do włosów 150-500ml,-81 szt.,4. Mamy nadmiar
-antyperspirant męski,-60 szt.,4. Mamy nadmiar
+antyperspirant męski,-72 szt.,4. Mamy nadmiar
 butelki dla dzieci,-17 szt.,4. Mamy nadmiar
 nosidełka dla dzieci,-6 szt,4. Mamy nadmiar
 worki na śmieci 160L,-10 opak.,4. Mamy nadmiar
@@ -133,7 +133,7 @@ biustonosze nowe rozmiary 70A-80A,-18 szt,4. Mamy nadmiar
 chusteczki do dezynfekcji powierzchni,-85 opak.,4. Mamy nadmiar
 płyn do czyszczenia toalety,-160 opak.,4. Mamy nadmiar
 papier toaletowy /rolki,-890 szt.,4. Mamy nadmiar
-szczoteczki do zębów + pasta 3 gr,-174 szt.,4. Mamy nadmiar
+szczoteczki do zębów + pasta 3 gr,-198 szt.,4. Mamy nadmiar
 t-shirt damski M,-20 szt.,4. Mamy nadmiar
 żel antybakteryjny 400-500ml,-400 szt.,4. Mamy nadmiar
 biustonosze nowe rozmiary 70B-90B,-30 szt,4. Mamy nadmiar
