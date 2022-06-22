@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,82,Ostatnia aktualizacja
-,,22/06/2022 06:25
+,,22/06/2022 12:32
 PRZEDMIOT,Brakuje,Priorytet
 kubeczki do zimnych napojów plastikowe,500 szt.,1. Pilnie potrzebne
 szampon do włosów travel size 30-50ml,43 szt.,1. Pilnie potrzebne
@@ -126,14 +126,14 @@ chusteczki higieniczne małe opak.,-110 szt.,4. Mamy nadmiar
 pomadki nawilżające do ust/wazelina,-44 szt.,4. Mamy nadmiar
 pasta do zębów dla dzieci,-27 szt.,4. Mamy nadmiar
 chusteczki nawilżane pakowane,-1480 szt.,4. Mamy nadmiar
-pasta do zębów dla dorosłych - duże opakowania,-28 szt.,4. Mamy nadmiar
+pasta do zębów dla dorosłych - duże opakowania,-35 szt.,4. Mamy nadmiar
 sciereczki bawełniane jednorazowe - rolka,-1015 szt.,4. Mamy nadmiar
 chusteczki mokre dla dzieci,-330 szt.,4. Mamy nadmiar
 biustonosze nowe rozmiary 70A-80A,-18 szt,4. Mamy nadmiar
 chusteczki do dezynfekcji powierzchni,-85 opak.,4. Mamy nadmiar
 płyn do czyszczenia toalety,-160 opak.,4. Mamy nadmiar
 papier toaletowy /rolki,-890 szt.,4. Mamy nadmiar
-szczoteczki do zębów + pasta 3 gr,-148 szt.,4. Mamy nadmiar
+szczoteczki do zębów + pasta 3 gr,-174 szt.,4. Mamy nadmiar
 t-shirt damski M,-20 szt.,4. Mamy nadmiar
 żel antybakteryjny 400-500ml,-400 szt.,4. Mamy nadmiar
 biustonosze nowe rozmiary 70B-90B,-30 szt,4. Mamy nadmiar
