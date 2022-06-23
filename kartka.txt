@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,82,Ostatnia aktualizacja
-,,22/06/2022 14:38
+,,22/06/2022 23:53
 PRZEDMIOT,Brakuje,Priorytet
 kubeczki do zimnych napojów plastikowe,500 szt.,1. Pilnie potrzebne
 szampon do włosów travel size 30-50ml,43 szt.,1. Pilnie potrzebne
@@ -15,7 +15,6 @@ szczotka do włosów,10 szt.,1. Pilnie potrzebne
 torby miękkie podróżne nowe/ stan bdb.,10 szt,1. Pilnie potrzebne
 pasta do zębów dla dorosłych - małe opakowania,31 szt,1. Pilnie potrzebne
 pianka do golenia małe opak.,9 szt,1. Pilnie potrzebne
-japonki damskie 36-39,10 szt,1. Pilnie potrzebne
 dresy męskie spodnie XL-XXL,10 szt,1. Pilnie potrzebne
 chleb tostowy,4 szt.,2. Potrzebne
 szczoteczki do zębów dla dzieci,4 szt.,2. Potrzebne
@@ -152,6 +151,7 @@ karma dla piesełków - sucha,-30 kg,4. Mamy nadmiar
 biustonosze nowe rozmiary 70E-80G,-31 szt.,4. Mamy nadmiar
 antyperspirant damski,-49 szt,4. Mamy nadmiar
 płyn do mycia naczyń,-4 szt,4. Mamy nadmiar
+japonki damskie 36-39,-2 szt,4. Mamy nadmiar
 suszarka rozkładana na pranie,-1 szt,4. Mamy nadmiar
 skarpety męskie,-68 szt,4. Mamy nadmiar
 skarpety dziecięce,-69 szt,4. Mamy nadmiar
