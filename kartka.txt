@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,54,Ostatnia aktualizacja
-,,24/06/2022 18:52
+,,24/06/2022 20:44
 Przedmiot,Brakuje,Priorytet
 kubeczki do zimnych napojów plastikowe,500 szt.,1. Pilnie potrzebne
 worki na śmieci 160L,10 opak.,1. Pilnie potrzebne
