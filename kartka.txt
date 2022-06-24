@@ -2,12 +2,12 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,54,Ostatnia aktualizacja
-,,23/06/2022 23:12
+,,24/06/2022 07:15
 Przedmiot,Brakuje,Priorytet
 kubeczki do zimnych napojów plastikowe,500 szt.,1. Pilnie potrzebne
 worki na śmieci 120L,30 opak.,1. Pilnie potrzebne
-szczotka do włosów,10 szt.,1. Pilnie potrzebne
 chleb tostowy,4 szt.,2. Potrzebne
+szczotka do włosów,5 szt.,2. Potrzebne
 wędlina/kiełbasa krojona paczkowana,0 opak.,3. Mamy wystarczająco
 ser żółty krojony paczkowany,0 kg,3. Mamy wystarczająco
 "sól 0,5 kg",0 szt.,3. Mamy wystarczająco
