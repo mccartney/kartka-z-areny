@@ -2,9 +2,8 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,54,Ostatnia aktualizacja
-,,25/06/2022 11:04
+,,25/06/2022 11:37
 Przedmiot,Brakuje,Priorytet
-kubeczki do zimnych napojów plastikowe,500 szt.,1. Pilnie potrzebne
 worki na śmieci 160L,10 opak.,1. Pilnie potrzebne
 szczotka do włosów,5 szt.,2. Potrzebne
 wędlina/kiełbasa krojona paczkowana,0 opak.,3. Mamy wystarczająco
@@ -39,6 +38,7 @@ majonez,-15 ,4. Mamy nadmiar
 talerzyki jednorazowe małe,-12850 szt.,4. Mamy nadmiar
 noże plastikowe,-500 szt.,4. Mamy nadmiar
 talerze głębokie plastikowe do ciepłych posiłków,-2000 szt.,4. Mamy nadmiar
+kubeczki do zimnych napojów plastikowe,-100 szt.,4. Mamy nadmiar
 tacki papierowe jednorazowe małe prostokątne,-1600 szt.,4. Mamy nadmiar
 miski papierowe do ciepłych posiłków,-3000 szt.,4. Mamy nadmiar
 opakowania rękawiczek lateksowych S,-3 opak,4. Mamy nadmiar
@@ -48,7 +48,7 @@ kawa inka ,-33 szt.,4. Mamy nadmiar
 zmywaki lub gąbki do naczyń,-56 opak.,4. Mamy nadmiar
 worki na smieci 35L,-10 szt.,4. Mamy nadmiar
 t-shirt damski L-XL,-6 szt.,4. Mamy nadmiar
-proszek do prania,-7 szt.,4. Mamy nadmiar
+proszek do prania,-6 szt.,4. Mamy nadmiar
 dresy męskie spodnie L,-10 szt.,4. Mamy nadmiar
 ręcznik papierowy - rolka,-560 szt.,4. Mamy nadmiar
 szampon do włosów 150-500ml,-73 szt.,4. Mamy nadmiar
