@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,54,Ostatnia aktualizacja
-,,24/06/2022 21:37
+,,25/06/2022 11:04
 Przedmiot,Brakuje,Priorytet
 kubeczki do zimnych napojów plastikowe,500 szt.,1. Pilnie potrzebne
 worki na śmieci 160L,10 opak.,1. Pilnie potrzebne
@@ -45,7 +45,7 @@ opakowania rękawiczek lateksowych S,-3 opak,4. Mamy nadmiar
 opakowania rękawiczek lateksowych M,-6 opak,4. Mamy nadmiar
 opakowania rękawiczek lateksowych L,-2 opak,4. Mamy nadmiar
 kawa inka ,-33 szt.,4. Mamy nadmiar
-zmywaki lub gąbki do naczyń,-60 opak.,4. Mamy nadmiar
+zmywaki lub gąbki do naczyń,-56 opak.,4. Mamy nadmiar
 worki na smieci 35L,-10 szt.,4. Mamy nadmiar
 t-shirt damski L-XL,-6 szt.,4. Mamy nadmiar
 proszek do prania,-7 szt.,4. Mamy nadmiar
