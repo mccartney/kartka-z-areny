@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,54,Ostatnia aktualizacja
-,,25/06/2022 21:38
+,,25/06/2022 23:02
 Przedmiot,Brakuje,Priorytet
 worki na śmieci 160L,10 opak.,1. Pilnie potrzebne
 wędlina/kiełbasa krojona paczkowana,0 opak.,3. Mamy wystarczająco
@@ -14,9 +14,9 @@ widelce plastikowe,-150 szt.,3. Mamy wystarczająco
 skarpety damskie,-3 szt.,3. Mamy wystarczająco
 rękawice grube wielorazowe,0 szt.,3. Mamy wystarczająco
 worki na śmieci 120L,0 opak.,3. Mamy wystarczająco
-szczotka do włosów,0 szt.,3. Mamy wystarczająco
 torby miękkie podróżne nowe/ stan bdb.,0 szt,3. Mamy wystarczająco
 zestaw do szycia podróżny,0 szt.,3. Mamy wystarczająco
+grzebienie/ szczotki,0 szt,3. Mamy wystarczająco
 taśma pakowa brązowa szeroka,0 szt,3. Mamy wystarczająco
 taśma biurowa przezroczysta 12mm,0 szt,3. Mamy wystarczająco
 herbata czarna,-64 szt.,4. Mamy nadmiar
@@ -48,7 +48,7 @@ kawa inka ,-33 szt.,4. Mamy nadmiar
 zmywaki lub gąbki do naczyń,-56 opak.,4. Mamy nadmiar
 worki na smieci 35L,-10 szt.,4. Mamy nadmiar
 t-shirt damski L-XL,-6 szt.,4. Mamy nadmiar
-proszek do prania,-6 szt.,4. Mamy nadmiar
+proszek do prania,-6 kg,4. Mamy nadmiar
 dresy męskie spodnie L,-10 szt.,4. Mamy nadmiar
 ręcznik papierowy - rolka,-560 szt.,4. Mamy nadmiar
 szampon do włosów 150-500ml,-73 szt.,4. Mamy nadmiar
