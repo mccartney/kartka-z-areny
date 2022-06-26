@@ -2,10 +2,10 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,54,Ostatnia aktualizacja
-,,26/06/2022 14:10
+,,26/06/2022 14:24
 Przedmiot,Brakuje,Priorytet
 chleb tostowy,10 szt.,1. Pilnie potrzebne
-wędlina/kiełbasa krojona paczkowana,18 opak.,1. Pilnie potrzebne
+wędlina/kiełbasa krojona paczkowana,20 opak.,1. Pilnie potrzebne
 kubeczki do zimnych napojów plastikowe,500 szt.,1. Pilnie potrzebne
 opakowania rękawiczek lateksowych L,3 opak,1. Pilnie potrzebne
 parówki,5 kg,2. Potrzebne
