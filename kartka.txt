@@ -2,15 +2,16 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,54,Ostatnia aktualizacja
-,,26/06/2022 10:55
+,,26/06/2022 12:10
 Przedmiot,Brakuje,Priorytet
 kubeczki do zimnych napojów plastikowe,500 szt.,1. Pilnie potrzebne
 opakowania rękawiczek lateksowych L,3 opak,1. Pilnie potrzebne
-worki na śmieci 160L,10 opak.,1. Pilnie potrzebne
-szampon do włosów 150-500ml,5 szt.,2. Potrzebne
+parówki,5 kg,2. Potrzebne
+wędlina/kiełbasa krojona paczkowana,10 opak.,2. Potrzebne
+szampon do włosów 150-500ml,6 szt.,2. Potrzebne
+worki na śmieci 160L,5 opak.,2. Potrzebne
 obcinacze do paznokci,1 szt.,2. Potrzebne
 grzebienie/ szczotki,5 szt,2. Potrzebne
-wędlina/kiełbasa krojona paczkowana,0 opak.,3. Mamy wystarczająco
 ser żółty krojony paczkowany,0 kg,3. Mamy wystarczająco
 "sól 0,5 kg",0 szt.,3. Mamy wystarczająco
 pieprz mała torebka,0 szt.,3. Mamy wystarczająco
@@ -31,7 +32,6 @@ kawa mielona 250 gram,-10 szt.,4. Mamy nadmiar
 kakao rozpuszczalne,-7 szt.,4. Mamy nadmiar
 chleb tostowy,-5 szt.,4. Mamy nadmiar
 kabanosy małe opakowania,-50 opak.,4. Mamy nadmiar
-parówki,"-17,6 kg",4. Mamy nadmiar
 filtry  do kawy rozmiar 4,-1 opak,4. Mamy nadmiar
 płatki śniadaniowe różne rodzaje,-16 szt.,4. Mamy nadmiar
 dżem,-30 szt.,4. Mamy nadmiar
