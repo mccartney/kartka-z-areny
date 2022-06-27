@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,54,Ostatnia aktualizacja
-,,27/06/2022 10:39
+,,27/06/2022 14:14
 Przedmiot,Brakuje,Priorytet
 kawa rozpuszczalna,3 szt.,1. Pilnie potrzebne
 chleb tostowy,10 szt.,1. Pilnie potrzebne
@@ -28,7 +28,7 @@ taśma pakowa brązowa szeroka,0 szt,3. Mamy wystarczająco
 taśma biurowa przezroczysta 12mm,0 szt,3. Mamy wystarczająco
 herbata czarna,-64 szt.,4. Mamy nadmiar
 "herbata melisa i inne zioła, herbata zielona",-5 szt.,4. Mamy nadmiar
-herbata owocowa różne rodzaje,-6 szt,4. Mamy nadmiar
+herbata owocowa różne rodzaje,-266 szt,4. Mamy nadmiar
 kawa mielona 250 gram,-10 szt.,4. Mamy nadmiar
 kakao rozpuszczalne,-7 szt.,4. Mamy nadmiar
 kabanosy małe opakowania,-50 opak.,4. Mamy nadmiar
