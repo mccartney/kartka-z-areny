@@ -2,14 +2,14 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,108,Ostatnia aktualizacja
-,,27/06/2022 21:51
+,,28/06/2022 07:34
 Przedmiot,Brakuje,Priorytet
 kawa rozpuszczalna,3 szt.,1. Pilnie potrzebne
 chleb tostowy,10 szt.,1. Pilnie potrzebne
 parówki,10 kg,1. Pilnie potrzebne
 wędlina/kiełbasa krojona paczkowana,20 opak.,1. Pilnie potrzebne
 kubeczki do zimnych napojów plastikowe,500 szt.,1. Pilnie potrzebne
-opakowania rękawiczek lateksowych L,3 opak,1. Pilnie potrzebne
+opakowania rękawiczek lateksowych L,2 opak,1. Pilnie potrzebne
 maszynki jednorazowe do golenia męskie,10 szt.,1. Pilnie potrzebne
 maszynki jednorazowe do golenia damskie,10 szt,1. Pilnie potrzebne
 antyperspirant damski,10 szt,1. Pilnie potrzebne
@@ -56,7 +56,7 @@ t-shirt damski L-XL,-6 szt.,4. Mamy nadmiar
 proszek do prania,-6 kg,4. Mamy nadmiar
 dresy męskie spodnie L,-10 szt.,4. Mamy nadmiar
 ręcznik papierowy - rolka,-560 szt.,4. Mamy nadmiar
-antyperspirant męski,-5 szt.,4. Mamy nadmiar
+antyperspirant męski,-8 szt.,4. Mamy nadmiar
 zmywacz do paznokci,-1 opak.,4. Mamy nadmiar
 ściereczki bawełniane jednorazowe - rolka,-1015 szt.,4. Mamy nadmiar
 walizki na kółkach nowe/ stan bdb. / kabinówki,-5 szt.,4. Mamy nadmiar
