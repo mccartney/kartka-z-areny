@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,108,Ostatnia aktualizacja
-,,28/06/2022 12:02
+,,28/06/2022 16:12
 Przedmiot,Brakuje,Priorytet
 kawa rozpuszczalna,3 szt.,1. Pilnie potrzebne
 chleb tostowy,10 szt.,1. Pilnie potrzebne
@@ -20,7 +20,6 @@ grzebienie/ szczotki,5 szt,2. Potrzebne
 ser żółty krojony paczkowany,0 kg,3. Mamy wystarczająco
 "sól 0,5 kg",0 szt.,3. Mamy wystarczająco
 pieprz mała torebka,0 szt.,3. Mamy wystarczająco
-widelce plastikowe,-150 szt.,3. Mamy wystarczająco
 łyżki duże plastikowe,-150 szt.,3. Mamy wystarczająco
 skarpety damskie,-3 szt.,3. Mamy wystarczająco
 rękawice grube wielorazowe,0 szt.,3. Mamy wystarczająco
@@ -43,7 +42,8 @@ ketchup łagodny,-5 szt.,4. Mamy nadmiar
 musztarda,-5 szt.,4. Mamy nadmiar
 majonez,-5 ,4. Mamy nadmiar
 talerzyki jednorazowe małe,-12850 szt.,4. Mamy nadmiar
-noże plastikowe,-500 szt.,4. Mamy nadmiar
+widelce plastikowe,-2990 szt.,4. Mamy nadmiar
+noże plastikowe,-2500 szt.,4. Mamy nadmiar
 talerze głębokie plastikowe do ciepłych posiłków,-2000 szt.,4. Mamy nadmiar
 tacki papierowe jednorazowe małe prostokątne,-1600 szt.,4. Mamy nadmiar
 miski papierowe do ciepłych posiłków,-3000 szt.,4. Mamy nadmiar
