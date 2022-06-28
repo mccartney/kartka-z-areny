@@ -2,14 +2,13 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,108,Ostatnia aktualizacja
-,,28/06/2022 18:20
+,,28/06/2022 21:11
 Przedmiot,Brakuje,Priorytet
 chleb tostowy,10 szt.,1. Pilnie potrzebne
 parówki,10 kg,1. Pilnie potrzebne
 wędlina/kiełbasa krojona paczkowana,20 opak.,1. Pilnie potrzebne
 "sól 0,5 kg",5 szt.,1. Pilnie potrzebne
-opakowania rękawiczek lateksowych L,2 opak,1. Pilnie potrzebne
-maszynki jednorazowe do golenia męskie,10 szt.,1. Pilnie potrzebne
+opakowania rękawiczek lateksowych L,4 opak,1. Pilnie potrzebne
 antyperspirant damski,10 szt,1. Pilnie potrzebne
 kubeczki do zimnych napojów plastikowe,50 szt.,2. Potrzebne
 worki na śmieci 160L,5 opak.,2. Potrzebne
@@ -25,32 +24,34 @@ torby miękkie podróżne nowe/ stan bdb.,0 szt,3. Mamy wystarczająco
 zestaw do szycia podróżny,0 szt.,3. Mamy wystarczająco
 taśma pakowa brązowa szeroka,0 szt,3. Mamy wystarczająco
 taśma biurowa przezroczysta 12mm,0 szt,3. Mamy wystarczająco
+mleko 1L,-83 szt.,4. Mamy nadmiar
 herbata czarna,-75 szt.,4. Mamy nadmiar
 "herbata melisa i inne zioła, herbata zielona",-5 szt.,4. Mamy nadmiar
 herbata owocowa różne rodzaje,-316 szt,4. Mamy nadmiar
 kawa rozpuszczalna,-7 szt.,4. Mamy nadmiar
 kawa mielona 250 gram,-10 szt.,4. Mamy nadmiar
 kakao rozpuszczalne,-7 szt.,4. Mamy nadmiar
-kabanosy małe opakowania,-50 opak.,4. Mamy nadmiar
+kabanosy ,-50 opak.,4. Mamy nadmiar
 filtry  do kawy rozmiar 4,-1 opak,4. Mamy nadmiar
 płatki śniadaniowe różne rodzaje,-27 szt.,4. Mamy nadmiar
 dżem,-846 szt.,4. Mamy nadmiar
 cukier 1 kg,-10 kg,4. Mamy nadmiar
 ketchup łagodny,-5 szt.,4. Mamy nadmiar
 musztarda,-5 szt.,4. Mamy nadmiar
-majonez,-5 ,4. Mamy nadmiar
+majonez,-5 szt.,4. Mamy nadmiar
 talerzyki jednorazowe małe,-12850 szt.,4. Mamy nadmiar
 widelce plastikowe,-2990 szt.,4. Mamy nadmiar
 noże plastikowe,-4500 szt.,4. Mamy nadmiar
 talerze głębokie plastikowe do ciepłych posiłków,-2000 szt.,4. Mamy nadmiar
 tacki papierowe jednorazowe małe prostokątne,-1600 szt.,4. Mamy nadmiar
 miski papierowe do ciepłych posiłków,-6400 szt.,4. Mamy nadmiar
-opakowania rękawiczek lateksowych S,-3 opak,4. Mamy nadmiar
-opakowania rękawiczek lateksowych M,-4 opak,4. Mamy nadmiar
+opakowania rękawiczek lateksowych S,-1 opak,4. Mamy nadmiar
+opakowania rękawiczek lateksowych M,-2 opak,4. Mamy nadmiar
 kawa inka ,-33 szt.,4. Mamy nadmiar
 zmywaki lub gąbki do naczyń,-56 opak.,4. Mamy nadmiar
 worki na smieci 35L,-10 szt.,4. Mamy nadmiar
 t-shirt damski L-XL,-6 szt.,4. Mamy nadmiar
+maszynki jednorazowe do golenia męskie,-90 szt.,4. Mamy nadmiar
 proszek do prania,-6 kg,4. Mamy nadmiar
 dresy męskie spodnie L,-10 szt.,4. Mamy nadmiar
 ręcznik papierowy - rolka,-560 szt.,4. Mamy nadmiar
