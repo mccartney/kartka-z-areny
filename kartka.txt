@@ -2,28 +2,29 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,97,Ostatnia aktualizacja
-,,30/06/2022 10:21
+,,30/06/2022 11:59
 Przedmiot,Brakuje,Priorytet
 parówki,10 kg,1. Pilnie potrzebne
 wędlina/kiełbasa krojona paczkowana,20 opak.,1. Pilnie potrzebne
 opakowania rękawiczek lateksowych L,4 opak,1. Pilnie potrzebne
 opaski na oczy,10 szt.,1. Pilnie potrzebne
+grzebienie/ szczotki,14 szt,1. Pilnie potrzebne
 "sól 0,5 kg",2 szt.,2. Potrzebne
 kubeczki do zimnych napojów plastikowe,50 szt.,2. Potrzebne
 worki na śmieci 160L,5 opak.,2. Potrzebne
 obcinacze do paznokci,1 szt.,2. Potrzebne
-grzebienie/ szczotki,3 szt,2. Potrzebne
 ser żółty krojony paczkowany,0 kg,3. Mamy wystarczająco
 pieprz mała torebka,0 szt.,3. Mamy wystarczająco
 łyżki duże plastikowe,-150 szt.,3. Mamy wystarczająco
 skarpety damskie,-3 szt.,3. Mamy wystarczająco
 rękawice grube wielorazowe,0 szt.,3. Mamy wystarczająco
 worki na śmieci 120L,0 opak.,3. Mamy wystarczająco
+t-shirt damski S-M,-1 szt.,3. Mamy wystarczająco
 torby miękkie podróżne nowe/ stan bdb.,0 szt,3. Mamy wystarczająco
 taśma pakowa brązowa szeroka,0 szt,3. Mamy wystarczająco
 taśma biurowa przezroczysta 12mm,0 szt,3. Mamy wystarczająco
-mleko 1L,-83 szt.,4. Mamy nadmiar
-herbata czarna,-75 szt.,4. Mamy nadmiar
+mleko 1L,-290 szt.,4. Mamy nadmiar
+herbata czarna,-110 szt.,4. Mamy nadmiar
 "herbata melisa i inne zioła, herbata zielona",-5 szt.,4. Mamy nadmiar
 herbata owocowa różne rodzaje,-316 szt,4. Mamy nadmiar
 kawa rozpuszczalna,-5 szt.,4. Mamy nadmiar
@@ -34,7 +35,7 @@ kabanosy ,-50 opak.,4. Mamy nadmiar
 filtry  do kawy rozmiar 4,-1 opak,4. Mamy nadmiar
 płatki śniadaniowe różne rodzaje,-27 szt.,4. Mamy nadmiar
 dżem,-846 szt.,4. Mamy nadmiar
-cukier 1 kg,-10 kg,4. Mamy nadmiar
+cukier 1 kg,-150 kg,4. Mamy nadmiar
 ketchup łagodny,-5 szt.,4. Mamy nadmiar
 musztarda,-5 szt.,4. Mamy nadmiar
 majonez,-5 szt.,4. Mamy nadmiar
@@ -49,17 +50,16 @@ opakowania rękawiczek lateksowych M,-2 opak,4. Mamy nadmiar
 kawa inka ,-33 szt.,4. Mamy nadmiar
 zmywaki lub gąbki do naczyń,-56 opak.,4. Mamy nadmiar
 worki na smieci 35L,-10 szt.,4. Mamy nadmiar
-t-shirt damski L-XL,-6 szt.,4. Mamy nadmiar
+t-shirt damski L-XL,-11 szt.,4. Mamy nadmiar
 maszynki jednorazowe do golenia damskie/męskie,-90 szt.,4. Mamy nadmiar
 proszek do prania,-6 kg,4. Mamy nadmiar
 ręcznik papierowy - rolka,-560 szt.,4. Mamy nadmiar
-szampon do włosów 150-500ml,-9 szt.,4. Mamy nadmiar
+szampon do włosów 150-500ml,-849 szt.,4. Mamy nadmiar
 antyperspirant męski,-8 szt.,4. Mamy nadmiar
 ściereczki bawełniane jednorazowe - rolka,-1015 szt.,4. Mamy nadmiar
 walizki na kółkach nowe/ stan bdb. / kabinówki,-5 szt.,4. Mamy nadmiar
-t-shirt damski S-M,-20 szt.,4. Mamy nadmiar
 worki na śmieci 60L,-15 szt.,4. Mamy nadmiar
 t-shirt damski XXL,-4 szt,4. Mamy nadmiar
 antyperspirant damski,-2 szt,4. Mamy nadmiar
-skarpety męskie,-68 szt,4. Mamy nadmiar
-skarpety dziecięce,-69 szt,4. Mamy nadmiar
+skarpety męskie,-170 szt,4. Mamy nadmiar
+skarpety dziecięce,-349 szt,4. Mamy nadmiar
