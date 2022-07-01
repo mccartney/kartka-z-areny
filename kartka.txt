@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,97,Ostatnia aktualizacja
-,,30/06/2022 14:18
+,,01/07/2022 11:55
 Przedmiot,Brakuje,Priorytet
 parówki,10 kg,1. Pilnie potrzebne
 wędlina/kiełbasa krojona paczkowana,20 opak.,1. Pilnie potrzebne
@@ -13,6 +13,7 @@ grzebienie/ szczotki,14 szt,1. Pilnie potrzebne
 kubeczki do zimnych napojów plastikowe,50 szt.,2. Potrzebne
 worki na śmieci 160L,5 opak.,2. Potrzebne
 obcinacze do paznokci,1 szt.,2. Potrzebne
+antyperspirant damski,5 szt,2. Potrzebne
 ser żółty krojony paczkowany,0 kg,3. Mamy wystarczająco
 pieprz mała torebka,0 szt.,3. Mamy wystarczająco
 łyżki duże plastikowe,-150 szt.,3. Mamy wystarczająco
@@ -60,6 +61,5 @@ antyperspirant męski,-8 szt.,4. Mamy nadmiar
 walizki na kółkach nowe/ stan bdb. / kabinówki,-5 szt.,4. Mamy nadmiar
 worki na śmieci 60L,-15 szt.,4. Mamy nadmiar
 t-shirt damski XXL,-4 szt,4. Mamy nadmiar
-antyperspirant damski,-2 szt,4. Mamy nadmiar
 skarpety męskie,-170 szt,4. Mamy nadmiar
 skarpety dziecięce,-349 szt,4. Mamy nadmiar
