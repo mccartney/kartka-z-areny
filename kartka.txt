@@ -2,12 +2,13 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,57,Ostatnia aktualizacja
-,,03/07/2022 14:08
+,,03/07/2022 15:52
 Przedmiot,Brakuje,Priorytet
 wędlina/kiełbasa krojona paczkowana,14 opak.,1. Pilnie potrzebne
 opakowania rękawiczek lateksowych L,4 opak,1. Pilnie potrzebne
 parówki,"2,5 kg",2. Potrzebne
 "sól 0,5 kg",2 szt.,2. Potrzebne
+t-shirt damski L-XL,4 szt.,2. Potrzebne
 grzebienie/ szczotki,4 szt,2. Potrzebne
 ser żółty krojony paczkowany,0 kg,3. Mamy wystarczająco
 pieprz mała torebka,0 szt.,3. Mamy wystarczająco
@@ -51,10 +52,9 @@ opakowania rękawiczek lateksowych M,-2 opak,4. Mamy nadmiar
 kawa inka ,-33 szt.,4. Mamy nadmiar
 zmywaki lub gąbki do naczyń,-56 opak.,4. Mamy nadmiar
 worki na smieci 35L,-10 szt.,4. Mamy nadmiar
-t-shirt damski L-XL,-11 szt.,4. Mamy nadmiar
 maszynki jednorazowe do golenia damskie/męskie,-90 szt.,4. Mamy nadmiar
 proszek do prania,-6 kg,4. Mamy nadmiar
-ręcznik papierowy - rolka,-560 szt.,4. Mamy nadmiar
+ręcznik papierowy - rolka,-296 szt.,4. Mamy nadmiar
 szampon do włosów 150-500ml,-849 szt.,4. Mamy nadmiar
 antyperspirant męski,-8 szt.,4. Mamy nadmiar
 ściereczki bawełniane jednorazowe - rolka,-1015 szt.,4. Mamy nadmiar
