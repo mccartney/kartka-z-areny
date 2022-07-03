@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,57,Ostatnia aktualizacja
-,,02/07/2022 21:46
+,,03/07/2022 14:08
 Przedmiot,Brakuje,Priorytet
 wędlina/kiełbasa krojona paczkowana,14 opak.,1. Pilnie potrzebne
 opakowania rękawiczek lateksowych L,4 opak,1. Pilnie potrzebne
