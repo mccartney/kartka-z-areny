@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,57,Ostatnia aktualizacja
-,,03/07/2022 16:44
+,,04/07/2022 09:12
 Przedmiot,Brakuje,Priorytet
 kawa mielona 250 gram,7 szt.,1. Pilnie potrzebne
 chleb tostowy,9 szt.,1. Pilnie potrzebne
