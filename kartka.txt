@@ -2,19 +2,19 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,57,Ostatnia aktualizacja
-,,04/07/2022 09:12
+,,04/07/2022 09:39
 Przedmiot,Brakuje,Priorytet
-kawa mielona 250 gram,7 szt.,1. Pilnie potrzebne
-chleb tostowy,9 szt.,1. Pilnie potrzebne
+chleb tostowy,10 szt.,1. Pilnie potrzebne
 majonez,5 szt.,1. Pilnie potrzebne
 opakowania rękawiczek lateksowych M,5 opak,1. Pilnie potrzebne
 opakowania rękawiczek lateksowych L,5 opak,1. Pilnie potrzebne
-gąbka do ciała ,30 szt,1. Pilnie potrzebne
+gąbka do ciała ,25 szt,1. Pilnie potrzebne
 grzebienie/ szczotki,11 szt,1. Pilnie potrzebne
+kawa mielona 250 gram,5 szt.,2. Potrzebne
 kakao rozpuszczalne,1 szt.,2. Potrzebne
 parówki,3 kg,2. Potrzebne
 pieprz mała torebka,1 szt.,2. Potrzebne
-t-shirt damski L-XL,4 szt.,2. Potrzebne
+t-shirt damski L-XL,3 szt.,2. Potrzebne
 szczoteczki do zębów dla dorosłych,5 szt.,2. Potrzebne
 filtry  do kawy rozmiar 4,0 opak,3. Mamy wystarczająco
 łyżki duże plastikowe,0 szt.,3. Mamy wystarczająco
@@ -26,7 +26,6 @@ worki na śmieci 160L,0 opak.,3. Mamy wystarczająco
 worki na śmieci 120L,0 opak.,3. Mamy wystarczająco
 patyczki do uszu ,0 opak.,3. Mamy wystarczająco
 opaski na oczy,0 szt.,3. Mamy wystarczająco
-t-shirt damski S-M,-1 szt.,3. Mamy wystarczająco
 worki na śmieci 60L,0 szt.,3. Mamy wystarczająco
 torby miękkie podróżne nowe/ stan bdb.,0 szt,3. Mamy wystarczająco
 antyperspirant damski,0 szt,3. Mamy wystarczająco
@@ -63,6 +62,7 @@ antyperspirant męski,-8 szt.,4. Mamy nadmiar
 ściereczki bawełniane jednorazowe - rolka,-284 szt.,4. Mamy nadmiar
 obcinacze do paznokci,-1 szt.,4. Mamy nadmiar
 walizki na kółkach nowe/ stan bdb. / kabinówki,-5 szt.,4. Mamy nadmiar
+t-shirt damski S-M,-2 szt.,4. Mamy nadmiar
 t-shirt damski XXL,-4 szt,4. Mamy nadmiar
 szczoteczki do zębów dla dzieci,-20 szt.,4. Mamy nadmiar
 skarpety męskie,-185 szt,4. Mamy nadmiar
