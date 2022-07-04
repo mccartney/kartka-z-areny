@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,57,Ostatnia aktualizacja
-,,04/07/2022 10:42
+,,04/07/2022 14:42
 Przedmiot,Brakuje,Priorytet
 chleb tostowy,10 szt.,1. Pilnie potrzebne
 majonez,5 szt.,1. Pilnie potrzebne
@@ -14,10 +14,10 @@ kawa mielona 250 gram,5 szt.,2. Potrzebne
 kakao rozpuszczalne,1 szt.,2. Potrzebne
 parówki,3 kg,2. Potrzebne
 pieprz mała torebka,1 szt.,2. Potrzebne
+łyżki duże plastikowe,500 szt.,2. Potrzebne
 t-shirt damski L-XL,3 szt.,2. Potrzebne
 szczoteczki do zębów dla dorosłych,5 szt.,2. Potrzebne
 filtry  do kawy rozmiar 4,0 opak,3. Mamy wystarczająco
-łyżki duże plastikowe,0 szt.,3. Mamy wystarczająco
 tacki papierowe jednorazowe małe prostokątne,-50 szt.,3. Mamy wystarczająco
 miski papierowe do ciepłych posiłków,0 szt.,3. Mamy wystarczająco
 opakowania rękawiczek lateksowych S,0 opak,3. Mamy wystarczająco
