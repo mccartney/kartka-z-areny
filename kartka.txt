@@ -6,6 +6,7 @@ Liczba osób w Arenie,57,Ostatnia aktualizacja
 Przedmiot,Brakuje,Priorytet
 chleb tostowy,10 szt.,1. Pilnie potrzebne
 majonez,5 szt.,1. Pilnie potrzebne
+łyżki duże plastikowe,1500 szt.,1. Pilnie potrzebne
 opakowania rękawiczek lateksowych M,5 opak,1. Pilnie potrzebne
 opakowania rękawiczek lateksowych L,5 opak,1. Pilnie potrzebne
 pasta do zębów dla dorosłych ,16 szt.,1. Pilnie potrzebne
@@ -17,7 +18,6 @@ kawa mielona 250 gram,5 szt.,2. Potrzebne
 kakao rozpuszczalne,1 szt.,2. Potrzebne
 parówki,3 kg,2. Potrzebne
 pieprz mała torebka,1 szt.,2. Potrzebne
-łyżki duże plastikowe,500 szt.,2. Potrzebne
 t-shirt damski L-XL,3 szt.,2. Potrzebne
 żel pod prysznic 50-500ml ,15 szt.,2. Potrzebne
 grzebienie/ szczotki,5 szt,2. Potrzebne
