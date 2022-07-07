@@ -5,19 +5,17 @@ Liczba osób w Arenie,57,Ostatnia aktualizacja
 ,,05/07/2022 07:40
 Przedmiot,Brakuje,Priorytet
 parówki,7 kg,1. Pilnie potrzebne
-majonez,5 szt.,1. Pilnie potrzebne
 łyżki duże plastikowe,1500 szt.,1. Pilnie potrzebne
-pasta do zębów dla dorosłych ,18 szt.,1. Pilnie potrzebne
 zestaw do szycia podróżny,4 szt.,1. Pilnie potrzebne
 pianka do golenia ,6 szt,1. Pilnie potrzebne
 krem do twarzy 50-100ml,5 szt,1. Pilnie potrzebne
-kawa rozpuszczalna,2 szt.,2. Potrzebne
 kawa mielona 250 gram,5 szt.,2. Potrzebne
-kakao rozpuszczalne,1 szt.,2. Potrzebne
 wędlina/kiełbasa krojona paczkowana,5 opak.,2. Potrzebne
 pieprz mała torebka,1 szt.,2. Potrzebne
 t-shirt damski L-XL,3 szt.,2. Potrzebne
+pasta do zębów dla dorosłych ,10 szt.,2. Potrzebne
 żel pod prysznic 50-500ml ,15 szt.,2. Potrzebne
+kawa rozpuszczalna,0 szt.,3. Mamy wystarczająco
 filtry  do kawy rozmiar 4,0 opak,3. Mamy wystarczająco
 tacki papierowe jednorazowe małe prostokątne,-50 szt.,3. Mamy wystarczająco
 miski papierowe do ciepłych posiłków,0 szt.,3. Mamy wystarczająco
@@ -36,6 +34,7 @@ mleko 1L,-179 szt.,4. Mamy nadmiar
 herbata czarna,-100 szt.,4. Mamy nadmiar
 "herbata melisa i inne zioła, herbata zielona",-4 szt.,4. Mamy nadmiar
 herbata owocowa różne rodzaje,-310 szt,4. Mamy nadmiar
+kakao rozpuszczalne,-1 szt.,4. Mamy nadmiar
 chleb tostowy,-7 szt.,4. Mamy nadmiar
 kabanosy ,-30 opak.,4. Mamy nadmiar
 ser żółty krojony paczkowany,-7 kg,4. Mamy nadmiar
@@ -45,6 +44,7 @@ dżem,-835 szt.,4. Mamy nadmiar
 cukier 1 kg,-130 kg,4. Mamy nadmiar
 ketchup łagodny,-10 szt.,4. Mamy nadmiar
 musztarda,-23 szt.,4. Mamy nadmiar
+majonez,-1 szt.,4. Mamy nadmiar
 talerzyki jednorazowe małe,-10000 szt.,4. Mamy nadmiar
 widelce plastikowe,-600 szt.,4. Mamy nadmiar
 noże plastikowe,-1700 szt.,4. Mamy nadmiar
