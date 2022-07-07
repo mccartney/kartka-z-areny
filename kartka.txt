@@ -6,6 +6,7 @@ Liczba osób w Arenie,57,Ostatnia aktualizacja
 Przedmiot,Brakuje,Priorytet
 majonez,5 szt.,1. Pilnie potrzebne
 łyżki duże plastikowe,1500 szt.,1. Pilnie potrzebne
+pasta do zębów dla dorosłych ,18 szt.,1. Pilnie potrzebne
 zestaw do szycia podróżny,4 szt.,1. Pilnie potrzebne
 pianka do golenia ,6 szt,1. Pilnie potrzebne
 krem do twarzy 50-100ml,5 szt,1. Pilnie potrzebne
@@ -14,7 +15,6 @@ kakao rozpuszczalne,1 szt.,2. Potrzebne
 parówki,3 kg,2. Potrzebne
 pieprz mała torebka,1 szt.,2. Potrzebne
 t-shirt damski L-XL,3 szt.,2. Potrzebne
-pasta do zębów dla dorosłych ,8 szt.,2. Potrzebne
 żel pod prysznic 50-500ml ,15 szt.,2. Potrzebne
 chleb tostowy,0 szt.,3. Mamy wystarczająco
 filtry  do kawy rozmiar 4,0 opak,3. Mamy wystarczająco
