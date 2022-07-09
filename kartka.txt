@@ -6,16 +6,16 @@ Liczba osób w Arenie,57,Ostatnia aktualizacja
 Przedmiot,Brakuje,Priorytet
 parówki,"12,5 kg",1. Pilnie potrzebne
 łyżki duże plastikowe,1450 szt.,1. Pilnie potrzebne
-pasta do zębów dla dzieci,10 szt.,1. Pilnie potrzebne
-pasta do zębów dla dorosłych ,16 szt.,1. Pilnie potrzebne
+pasta do zębów dla dzieci,9 szt.,1. Pilnie potrzebne
 płyn do higieny intymnej mały 20-200ml,5 szt.,1. Pilnie potrzebne
-antyperspirant damski,10 szt,1. Pilnie potrzebne
+antyperspirant damski,8 szt,1. Pilnie potrzebne
 zestaw do szycia podróżny,3 szt.,1. Pilnie potrzebne
 wędlina/kiełbasa krojona paczkowana,3 opak.,2. Potrzebne
 t-shirt damski L-XL,3 szt.,2. Potrzebne
 antyperspirant męski,4 szt.,2. Potrzebne
+pasta do zębów dla dorosłych ,9 szt.,2. Potrzebne
 żel pod prysznic 50-500ml ,1 szt.,2. Potrzebne
-gąbka do ciała ,10 szt,2. Potrzebne
+gąbka do ciała ,6 szt,2. Potrzebne
 kawa mielona 250 gram,0 szt.,3. Mamy wystarczająco
 filtry  do kawy rozmiar 4,0 opak,3. Mamy wystarczająco
 tacki papierowe jednorazowe małe prostokątne,-50 szt.,3. Mamy wystarczająco
@@ -32,7 +32,6 @@ pianka do golenia ,0 szt,3. Mamy wystarczająco
 szczoteczki do zębów dla dzieci,-2 szt.,3. Mamy wystarczająco
 taśma pakowa brązowa szeroka,0 szt,3. Mamy wystarczająco
 taśma biurowa przezroczysta 12mm,0 szt,3. Mamy wystarczająco
-krem do twarzy 50-100ml,0 szt,3. Mamy wystarczająco
 mleko 1L,-179 szt.,4. Mamy nadmiar
 herbata czarna,-100 szt.,4. Mamy nadmiar
 "herbata melisa i inne zioła, herbata zielona",-4 szt.,4. Mamy nadmiar
@@ -62,18 +61,19 @@ zmywaki lub gąbki do naczyń,-50 opak.,4. Mamy nadmiar
 worki na smieci 35L,-10 szt.,4. Mamy nadmiar
 skarpety damskie,-185 szt.,4. Mamy nadmiar
 mydło w płynie,-9 szt.,4. Mamy nadmiar
-maszynki jednorazowe do golenia damskie/męskie,-30 szt.,4. Mamy nadmiar
+maszynki jednorazowe do golenia damskie/męskie,-40 szt.,4. Mamy nadmiar
 proszek do prania,-6 kg,4. Mamy nadmiar
 ręcznik papierowy - rolka,-296 szt.,4. Mamy nadmiar
-szampon do włosów 150-500ml,-780 szt.,4. Mamy nadmiar
+szampon do włosów 150-500ml,-789 szt.,4. Mamy nadmiar
 ściereczki bawełniane jednorazowe - rolka,-284 szt.,4. Mamy nadmiar
-obcinacze do paznokci,-1 szt.,4. Mamy nadmiar
+obcinacze do paznokci,-5 szt.,4. Mamy nadmiar
 walizki na kółkach nowe/ stan bdb. / kabinówki,-5 szt.,4. Mamy nadmiar
 szczoteczki do zębów dla dorosłych,-180 szt.,4. Mamy nadmiar
 t-shirt damski S-M,-2 szt.,4. Mamy nadmiar
 odżywki do włosów ,-3 szt,4. Mamy nadmiar
 t-shirt damski XXL,-4 szt,4. Mamy nadmiar
-grzebienie/ szczotki,-6 szt,4. Mamy nadmiar
-krem do rąk 50-100 ml,-1 szt,4. Mamy nadmiar
+grzebienie/ szczotki,-13 szt,4. Mamy nadmiar
+krem do twarzy 50-100ml,-4 szt,4. Mamy nadmiar
+krem do rąk 50-100 ml,-11 szt,4. Mamy nadmiar
 skarpety męskie,-185 szt,4. Mamy nadmiar
 skarpety dziecięce,-470 szt,4. Mamy nadmiar
