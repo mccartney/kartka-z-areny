@@ -6,6 +6,7 @@ Liczba osób w Arenie,91,Ostatnia aktualizacja
 Przedmiot,Brakuje,Priorytet
 łyżki duże plastikowe,1500 szt.,1. Pilnie potrzebne
 łyżeczki plastikowe,1850 szt.,1. Pilnie potrzebne
+kubeczki do zimnych napojów plastikowe,400 szt.,1. Pilnie potrzebne
 zestaw do szycia podróżny,3 szt.,1. Pilnie potrzebne
 maszynki jednorazowe do golenia damskie/męskie,20 szt.,1. Pilnie potrzebne
 worki na śmieci 160L,8 opak.,1. Pilnie potrzebne
@@ -43,7 +44,7 @@ ser żółty krojony paczkowany,-5 kg,4. Mamy nadmiar
 płatki śniadaniowe różne rodzaje,-25 szt.,4. Mamy nadmiar
 dżem,-835 szt.,4. Mamy nadmiar
 "sól 0,5 kg",-3 szt.,4. Mamy nadmiar
-cukier 1 kg,-130 kg,4. Mamy nadmiar
+cukier 1 kg,-120 kg,4. Mamy nadmiar
 pieprz mała torebka,-1 szt.,4. Mamy nadmiar
 ketchup łagodny,-10 szt.,4. Mamy nadmiar
 musztarda,-23 szt.,4. Mamy nadmiar
@@ -52,7 +53,6 @@ talerzyki jednorazowe małe,-10000 szt.,4. Mamy nadmiar
 widelce plastikowe,-400 szt.,4. Mamy nadmiar
 noże plastikowe,-1700 szt.,4. Mamy nadmiar
 talerze głębokie plastikowe do ciepłych posiłków,-1000 szt.,4. Mamy nadmiar
-kubeczki do zimnych napojów plastikowe,-500 szt.,4. Mamy nadmiar
 opakowania rękawiczek lateksowych M,-1 opak,4. Mamy nadmiar
 kawa inka ,-30 szt.,4. Mamy nadmiar
 skarpety męskie,-185 szt,4. Mamy nadmiar
