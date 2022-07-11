@@ -1,7 +1,7 @@
 PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
-Liczba osób w Arenie,57,Ostatnia aktualizacja
+Liczba osób w Arenie,91,Ostatnia aktualizacja
 ,,05/07/2022 07:40
 Przedmiot,Brakuje,Priorytet
 łyżki duże plastikowe,1700 szt.,1. Pilnie potrzebne
