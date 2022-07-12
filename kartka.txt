@@ -32,11 +32,11 @@ torby miękkie podróżne nowe/ stan bdb.,0 szt,3. Mamy wystarczająco
 pianka do golenia ,0 szt,3. Mamy wystarczająco
 worki na śmieci 120L,-2 opak.,3. Mamy wystarczająco
 żel pod prysznic 50-500ml ,-5 szt.,3. Mamy wystarczająco
-mleko 1L,-179 szt.,4. Mamy nadmiar
+mleko 1L,-212 szt.,4. Mamy nadmiar
 herbata czarna,-100 szt.,4. Mamy nadmiar
 "herbata melisa i inne zioła, herbata zielona",-4 szt.,4. Mamy nadmiar
 herbata owocowa różne rodzaje,-310 szt,4. Mamy nadmiar
-kawa rozpuszczalna,-1 szt.,4. Mamy nadmiar
+kawa rozpuszczalna,-25 szt.,4. Mamy nadmiar
 kakao rozpuszczalne,-1 szt.,4. Mamy nadmiar
 chleb tostowy,-7 szt.,4. Mamy nadmiar
 kabanosy ,-30 opak.,4. Mamy nadmiar
@@ -50,7 +50,7 @@ musztarda,-23 szt.,4. Mamy nadmiar
 majonez,-2 szt.,4. Mamy nadmiar
 talerzyki jednorazowe małe,-10000 szt.,4. Mamy nadmiar
 widelce plastikowe,-400 szt.,4. Mamy nadmiar
-noże plastikowe,-1700 szt.,4. Mamy nadmiar
+noże plastikowe,-2700 szt.,4. Mamy nadmiar
 talerze głębokie plastikowe do ciepłych posiłków,-1000 szt.,4. Mamy nadmiar
 opakowania rękawiczek lateksowych M,-2 opak,4. Mamy nadmiar
 opakowania rękawiczek lateksowych L,-2 opak,4. Mamy nadmiar
@@ -73,6 +73,6 @@ grzebienie/ szczotki,-10 szt,4. Mamy nadmiar
 pasta do zębów dla dorosłych ,-24 szt.,4. Mamy nadmiar
 ściereczki bawełniane jednorazowe - rolka,-284 szt.,4. Mamy nadmiar
 obcinacze do paznokci,-7 szt.,4. Mamy nadmiar
-szczoteczki do zębów dla dorosłych,-225 szt.,4. Mamy nadmiar
+szczoteczki do zębów dla dorosłych,-297 szt.,4. Mamy nadmiar
 odżywki do włosów ,-25 szt,4. Mamy nadmiar
 karma dla piesełków - sucha,-11 kg,4. Mamy nadmiar
