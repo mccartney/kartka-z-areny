@@ -21,6 +21,7 @@ wędlina/kiełbasa krojona paczkowana,5 opak.,2. Potrzebne
 opakowania rękawiczek lateksowych S,2 opak,2. Potrzebne
 worki na smieci 35L,4 opak.,2. Potrzebne
 torby miękkie podróżne nowe/ stan bdb.,1 szt,2. Potrzebne
+żel pod prysznic 50-500ml ,4 szt.,2. Potrzebne
 gąbka do ciała ,5 szt,2. Potrzebne
 szczoteczki do zębów dla dzieci,8 szt.,2. Potrzebne
 kawa mielona 250 gram,0 szt.,3. Mamy wystarczająco
@@ -31,7 +32,6 @@ miski papierowe do ciepłych posiłków,0 szt.,3. Mamy wystarczająco
 rękawice grube wielorazowe,0 szt.,3. Mamy wystarczająco
 pianka do golenia ,0 szt,3. Mamy wystarczająco
 worki na śmieci 120L,-2 opak.,3. Mamy wystarczająco
-żel pod prysznic 50-500ml ,-5 szt.,3. Mamy wystarczająco
 mleko 1L,-212 szt.,4. Mamy nadmiar
 herbata czarna,-100 szt.,4. Mamy nadmiar
 "herbata melisa i inne zioła, herbata zielona",-4 szt.,4. Mamy nadmiar
@@ -58,7 +58,7 @@ kawa inka ,-30 szt.,4. Mamy nadmiar
 skarpety męskie,-185 szt,4. Mamy nadmiar
 zmywaki lub gąbki do naczyń,-40 opak.,4. Mamy nadmiar
 skarpety damskie,-185 szt.,4. Mamy nadmiar
-mydło w płynie,-120 szt.,4. Mamy nadmiar
+mydło w płynie,-115 szt.,4. Mamy nadmiar
 skarpety dziecięce,-178 szt,4. Mamy nadmiar
 karma dla kotełków,-21 szt.,4. Mamy nadmiar
 antyperspirant damski,-8 szt,4. Mamy nadmiar
@@ -67,12 +67,12 @@ krem do twarzy 50-100ml,-20 szt,4. Mamy nadmiar
 krem do rąk 50-100 ml,-1 szt,4. Mamy nadmiar
 płyn do czyszczenia toalety,-50 opak.,4. Mamy nadmiar
 ręcznik papierowy - rolka,-296 szt.,4. Mamy nadmiar
-szampon do włosów 150-500ml,-492 szt.,4. Mamy nadmiar
+szampon do włosów 150-500ml,-385 szt.,4. Mamy nadmiar
 antyperspirant męski,-2 szt.,4. Mamy nadmiar
-grzebienie/ szczotki,-10 szt,4. Mamy nadmiar
+grzebienie/ szczotki,-5 szt,4. Mamy nadmiar
 pasta do zębów dla dorosłych ,-24 szt.,4. Mamy nadmiar
 ściereczki bawełniane jednorazowe - rolka,-284 szt.,4. Mamy nadmiar
 obcinacze do paznokci,-7 szt.,4. Mamy nadmiar
-szczoteczki do zębów dla dorosłych,-297 szt.,4. Mamy nadmiar
+szczoteczki do zębów dla dorosłych,-280 szt.,4. Mamy nadmiar
 odżywki do włosów ,-25 szt,4. Mamy nadmiar
 karma dla piesełków - sucha,-11 kg,4. Mamy nadmiar
