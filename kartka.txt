@@ -9,14 +9,10 @@ parówki,10 kg,1. Pilnie potrzebne
 łyżeczki plastikowe,1750 szt.,1. Pilnie potrzebne
 kubeczki do zimnych napojów plastikowe,400 szt.,1. Pilnie potrzebne
 zestaw do szycia podróżny,3 szt.,1. Pilnie potrzebne
-maszynki jednorazowe do golenia damskie/męskie,27 szt.,1. Pilnie potrzebne
 worki na śmieci 160L,8 opak.,1. Pilnie potrzebne
 pomadki nawilżające do ust/wazelina,8 szt.,1. Pilnie potrzebne
-pasta do zębów dla dzieci,10 szt.,1. Pilnie potrzebne
 patyczki do uszu ,9 opak.,1. Pilnie potrzebne
-opaski na oczy,10 szt.,1. Pilnie potrzebne
 walizki na kółkach nowe/ stan bdb. / kabinówki,10 szt.,1. Pilnie potrzebne
-szczoteczki do zębów dla dzieci,16 szt.,1. Pilnie potrzebne
 wędlina/kiełbasa krojona paczkowana,5 opak.,2. Potrzebne
 opakowania rękawiczek lateksowych S,2 opak,2. Potrzebne
 worki na smieci 35L,4 opak.,2. Potrzebne
@@ -28,10 +24,13 @@ kawa mielona 250 gram,0 szt.,3. Mamy wystarczająco
 ser żółty krojony paczkowany,0 kg,3. Mamy wystarczająco
 filtry  do kawy rozmiar 4,0 opak,3. Mamy wystarczająco
 tacki papierowe jednorazowe małe prostokątne,-50 szt.,3. Mamy wystarczająco
-miski papierowe do ciepłych posiłków,0 szt.,3. Mamy wystarczająco
 rękawice grube wielorazowe,0 szt.,3. Mamy wystarczająco
+maszynki jednorazowe do golenia damskie/męskie,0 szt.,3. Mamy wystarczająco
 pianka do golenia ,0 szt,3. Mamy wystarczająco
 worki na śmieci 120L,-2 opak.,3. Mamy wystarczająco
+pasta do zębów dla dzieci,0 szt.,3. Mamy wystarczająco
+opaski na oczy,0 szt.,3. Mamy wystarczająco
+szczoteczki do zębów dla dzieci,0 szt.,3. Mamy wystarczająco
 mleko 1L,-212 szt.,4. Mamy nadmiar
 herbata czarna,-100 szt.,4. Mamy nadmiar
 "herbata melisa i inne zioła, herbata zielona",-4 szt.,4. Mamy nadmiar
@@ -49,9 +48,10 @@ ketchup łagodny,-10 szt.,4. Mamy nadmiar
 musztarda,-23 szt.,4. Mamy nadmiar
 majonez,-2 szt.,4. Mamy nadmiar
 talerzyki jednorazowe małe,-10000 szt.,4. Mamy nadmiar
-widelce plastikowe,-400 szt.,4. Mamy nadmiar
+widelce plastikowe,-1400 szt.,4. Mamy nadmiar
 noże plastikowe,-2700 szt.,4. Mamy nadmiar
 talerze głębokie plastikowe do ciepłych posiłków,-1000 szt.,4. Mamy nadmiar
+miski papierowe do ciepłych posiłków,-1000 szt.,4. Mamy nadmiar
 opakowania rękawiczek lateksowych M,-2 opak,4. Mamy nadmiar
 opakowania rękawiczek lateksowych L,-2 opak,4. Mamy nadmiar
 kawa inka ,-30 szt.,4. Mamy nadmiar
