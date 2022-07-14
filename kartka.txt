@@ -28,9 +28,7 @@ rękawice grube wielorazowe,0 szt.,3. Mamy wystarczająco
 maszynki jednorazowe do golenia damskie/męskie,0 szt.,3. Mamy wystarczająco
 pianka do golenia ,0 szt,3. Mamy wystarczająco
 worki na śmieci 120L,-2 opak.,3. Mamy wystarczająco
-pasta do zębów dla dzieci,0 szt.,3. Mamy wystarczająco
 opaski na oczy,0 szt.,3. Mamy wystarczająco
-szczoteczki do zębów dla dzieci,0 szt.,3. Mamy wystarczająco
 mleko 1L,-212 szt.,4. Mamy nadmiar
 herbata czarna,-100 szt.,4. Mamy nadmiar
 "herbata melisa i inne zioła, herbata zielona",-4 szt.,4. Mamy nadmiar
@@ -70,9 +68,11 @@ ręcznik papierowy - rolka,-296 szt.,4. Mamy nadmiar
 szampon do włosów 150-500ml,-385 szt.,4. Mamy nadmiar
 antyperspirant męski,-2 szt.,4. Mamy nadmiar
 grzebienie/ szczotki,-5 szt,4. Mamy nadmiar
+pasta do zębów dla dzieci,-8 szt.,4. Mamy nadmiar
 pasta do zębów dla dorosłych ,-15 szt.,4. Mamy nadmiar
 ściereczki bawełniane jednorazowe - rolka,-284 szt.,4. Mamy nadmiar
 obcinacze do paznokci,-7 szt.,4. Mamy nadmiar
-szczoteczki do zębów dla dorosłych,-280 szt.,4. Mamy nadmiar
+szczoteczki do zębów dla dorosłych,-279 szt.,4. Mamy nadmiar
 odżywki do włosów ,-25 szt,4. Mamy nadmiar
+szczoteczki do zębów dla dzieci,-18 szt.,4. Mamy nadmiar
 karma dla piesełków - sucha,-11 kg,4. Mamy nadmiar
