@@ -4,31 +4,29 @@ Kartka z Areny - informacje o bieżących potrzebach,,
 Liczba osób w Arenie,47,Ostatnia aktualizacja
 ,,05/07/2022 07:40
 Przedmiot,Brakuje,Priorytet
-parówki,8 kg,1. Pilnie potrzebne
-łyżki duże plastikowe,1600 szt.,1. Pilnie potrzebne
-łyżeczki plastikowe,1750 szt.,1. Pilnie potrzebne
-kubeczki do zimnych napojów plastikowe,400 szt.,1. Pilnie potrzebne
 zestaw do szycia podróżny,3 szt.,1. Pilnie potrzebne
-worki na śmieci 160L,8 opak.,1. Pilnie potrzebne
 pomadki nawilżające do ust/wazelina,8 szt.,1. Pilnie potrzebne
-walizki na kółkach nowe/ stan bdb. / kabinówki,10 szt.,1. Pilnie potrzebne
 gąbka do ciała ,18 szt,1. Pilnie potrzebne
 wędlina/kiełbasa krojona paczkowana,5 opak.,2. Potrzebne
+łyżeczki plastikowe,350 szt.,2. Potrzebne
 opakowania rękawiczek lateksowych S,2 opak,2. Potrzebne
 worki na smieci 35L,4 opak.,2. Potrzebne
 maszynki jednorazowe do golenia damskie/męskie,3 szt.,2. Potrzebne
 torby miękkie podróżne nowe/ stan bdb.,1 szt,2. Potrzebne
-patyczki do uszu ,5 opak.,2. Potrzebne
 żel pod prysznic 50-500ml ,10 szt.,2. Potrzebne
 płyn do higieny intymnej mały 20-200ml,1 szt.,2. Potrzebne
 kawa mielona 250 gram,0 szt.,3. Mamy wystarczająco
 ser żółty krojony paczkowany,0 kg,3. Mamy wystarczająco
 filtry  do kawy rozmiar 4,0 opak,3. Mamy wystarczająco
+łyżki duże plastikowe,0 szt.,3. Mamy wystarczająco
+kubeczki do zimnych napojów plastikowe,0 szt.,3. Mamy wystarczająco
 tacki papierowe jednorazowe małe prostokątne,-50 szt.,3. Mamy wystarczająco
 rękawice grube wielorazowe,0 szt.,3. Mamy wystarczająco
 pianka do golenia ,0 szt,3. Mamy wystarczająco
+worki na śmieci 160L,0 opak.,3. Mamy wystarczająco
 worki na śmieci 120L,-2 opak.,3. Mamy wystarczająco
 opaski na oczy,0 szt.,3. Mamy wystarczająco
+walizki na kółkach nowe/ stan bdb. / kabinówki,0 szt.,3. Mamy wystarczająco
 mleko 1L,-212 szt.,4. Mamy nadmiar
 herbata czarna,-100 szt.,4. Mamy nadmiar
 "herbata melisa i inne zioła, herbata zielona",-4 szt.,4. Mamy nadmiar
@@ -37,6 +35,7 @@ kawa rozpuszczalna,-25 szt.,4. Mamy nadmiar
 kakao rozpuszczalne,-1 szt.,4. Mamy nadmiar
 chleb tostowy,-7 szt.,4. Mamy nadmiar
 kabanosy ,-30 opak.,4. Mamy nadmiar
+parówki,-2 kg,4. Mamy nadmiar
 płatki śniadaniowe różne rodzaje,-25 szt.,4. Mamy nadmiar
 dżem,-835 szt.,4. Mamy nadmiar
 "sól 0,5 kg",-3 szt.,4. Mamy nadmiar
@@ -69,6 +68,7 @@ szampon do włosów 150-500ml,-383 szt.,4. Mamy nadmiar
 antyperspirant męski,-2 szt.,4. Mamy nadmiar
 grzebienie/ szczotki,-5 szt,4. Mamy nadmiar
 pasta do zębów dla dzieci,-6 szt.,4. Mamy nadmiar
+patyczki do uszu ,-14 opak.,4. Mamy nadmiar
 pasta do zębów dla dorosłych ,-15 szt.,4. Mamy nadmiar
 ściereczki bawełniane jednorazowe - rolka,-284 szt.,4. Mamy nadmiar
 obcinacze do paznokci,-7 szt.,4. Mamy nadmiar
