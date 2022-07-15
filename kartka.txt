@@ -1,7 +1,7 @@
 PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
-Liczba osób w Arenie,77,Ostatnia aktualizacja
+Liczba osób w Arenie,47,Ostatnia aktualizacja
 ,,05/07/2022 07:40
 Przedmiot,Brakuje,Priorytet
 parówki,10 kg,1. Pilnie potrzebne
