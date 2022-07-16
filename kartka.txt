@@ -7,13 +7,11 @@ Przedmiot,Brakuje,Priorytet
 kawa rozpuszczalna,3 szt.,1. Pilnie potrzebne
 kawa mielona 250 gram,10 szt.,1. Pilnie potrzebne
 zestaw do szycia podróżny,3 szt.,1. Pilnie potrzebne
-pomadki nawilżające do ust/wazelina,8 szt.,1. Pilnie potrzebne
 pasta do zębów dla dorosłych ,20 szt.,1. Pilnie potrzebne
 gąbka do ciała ,23 szt,1. Pilnie potrzebne
 wędlina/kiełbasa krojona paczkowana,5 opak.,2. Potrzebne
 łyżeczki plastikowe,350 szt.,2. Potrzebne
 opakowania rękawiczek lateksowych S,2 opak,2. Potrzebne
-worki na smieci 35L,4 opak.,2. Potrzebne
 maszynki jednorazowe do golenia damskie/męskie,3 szt.,2. Potrzebne
 torby miękkie podróżne nowe/ stan bdb.,2 szt,2. Potrzebne
 antyperspirant męski,3 szt.,2. Potrzebne
@@ -25,9 +23,11 @@ filtry  do kawy rozmiar 4,0 opak,3. Mamy wystarczająco
 łyżki duże plastikowe,0 szt.,3. Mamy wystarczająco
 kubeczki do zimnych napojów plastikowe,0 szt.,3. Mamy wystarczająco
 tacki papierowe jednorazowe małe prostokątne,-50 szt.,3. Mamy wystarczająco
+worki na smieci 35L,0 opak.,3. Mamy wystarczająco
 rękawice grube wielorazowe,0 szt.,3. Mamy wystarczająco
 worki na śmieci 160L,0 opak.,3. Mamy wystarczająco
 worki na śmieci 120L,-2 opak.,3. Mamy wystarczająco
+pomadki nawilżające do ust/wazelina,0 szt.,3. Mamy wystarczająco
 opaski na oczy,0 szt.,3. Mamy wystarczająco
 walizki na kółkach nowe/ stan bdb. / kabinówki,0 szt.,3. Mamy wystarczająco
 mleko 1L,-212 szt.,4. Mamy nadmiar
