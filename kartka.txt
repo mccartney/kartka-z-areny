@@ -6,13 +6,14 @@ Liczba osób w Arenie,47,Ostatnia aktualizacja
 Przedmiot,Brakuje,Priorytet
 kawa rozpuszczalna,3 szt.,1. Pilnie potrzebne
 kawa mielona 250 gram,10 szt.,1. Pilnie potrzebne
+antyperspirant damski,8 szt,1. Pilnie potrzebne
 zestaw do szycia podróżny,3 szt.,1. Pilnie potrzebne
+maszynki jednorazowe do golenia damskie/męskie,30 szt.,1. Pilnie potrzebne
 pasta do zębów dla dorosłych ,20 szt.,1. Pilnie potrzebne
 gąbka do ciała ,23 szt,1. Pilnie potrzebne
 wędlina/kiełbasa krojona paczkowana,5 opak.,2. Potrzebne
 łyżeczki plastikowe,350 szt.,2. Potrzebne
 opakowania rękawiczek lateksowych S,2 opak,2. Potrzebne
-maszynki jednorazowe do golenia damskie/męskie,3 szt.,2. Potrzebne
 torby miękkie podróżne nowe/ stan bdb.,2 szt,2. Potrzebne
 antyperspirant męski,3 szt.,2. Potrzebne
 pianka do golenia ,1 szt,2. Potrzebne
@@ -60,7 +61,6 @@ skarpety damskie,-185 szt.,4. Mamy nadmiar
 mydło w płynie,-111 szt.,4. Mamy nadmiar
 skarpety dziecięce,-178 szt,4. Mamy nadmiar
 karma dla kotełków,-21 szt.,4. Mamy nadmiar
-antyperspirant damski,-8 szt,4. Mamy nadmiar
 proszek do prania,-37 kg,4. Mamy nadmiar
 krem do twarzy 50-100ml,-20 szt,4. Mamy nadmiar
 krem do rąk 50-100 ml,-1 szt,4. Mamy nadmiar
