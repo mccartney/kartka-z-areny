@@ -4,20 +4,19 @@ Kartka z Areny - informacje o bieżących potrzebach,,
 Liczba osób w Arenie,40,Ostatnia aktualizacja
 ,,05/07/2022 07:40
 Przedmiot,Brakuje,Priorytet
-kawa rozpuszczalna,3 szt.,1. Pilnie potrzebne
 kawa mielona 250 gram,10 szt.,1. Pilnie potrzebne
-antyperspirant damski,8 szt,1. Pilnie potrzebne
 zestaw do szycia podróżny,3 szt.,1. Pilnie potrzebne
 maszynki jednorazowe do golenia damskie/męskie,30 szt.,1. Pilnie potrzebne
-pasta do zębów dla dorosłych ,20 szt.,1. Pilnie potrzebne
+pasta do zębów dla dorosłych ,18 szt.,1. Pilnie potrzebne
 gąbka do ciała ,23 szt,1. Pilnie potrzebne
+kawa rozpuszczalna,2 szt.,2. Potrzebne
 wędlina/kiełbasa krojona paczkowana,5 opak.,2. Potrzebne
 łyżeczki plastikowe,350 szt.,2. Potrzebne
 opakowania rękawiczek lateksowych S,2 opak,2. Potrzebne
+antyperspirant damski,5 szt,2. Potrzebne
 torby miękkie podróżne nowe/ stan bdb.,3 szt,2. Potrzebne
-antyperspirant męski,3 szt.,2. Potrzebne
-pianka do golenia ,1 szt,2. Potrzebne
-żel pod prysznic 50-500ml ,15 szt.,2. Potrzebne
+antyperspirant męski,1 szt.,2. Potrzebne
+żel pod prysznic 50-500ml ,11 szt.,2. Potrzebne
 płyn do higieny intymnej mały 20-200ml,1 szt.,2. Potrzebne
 ser żółty krojony paczkowany,0 kg,3. Mamy wystarczająco
 filtry  do kawy rozmiar 4,0 opak,3. Mamy wystarczająco
@@ -67,6 +66,7 @@ krem do rąk 50-100 ml,-1 szt,4. Mamy nadmiar
 płyn do czyszczenia toalety,-50 opak.,4. Mamy nadmiar
 ręcznik papierowy - rolka,-296 szt.,4. Mamy nadmiar
 szampon do włosów 150-500ml,-382 szt.,4. Mamy nadmiar
+pianka do golenia ,-3 szt,4. Mamy nadmiar
 grzebienie/ szczotki,-3 szt,4. Mamy nadmiar
 pasta do zębów dla dzieci,-6 szt.,4. Mamy nadmiar
 patyczki do uszu ,-13 opak.,4. Mamy nadmiar
