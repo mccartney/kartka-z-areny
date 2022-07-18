@@ -4,19 +4,17 @@ Kartka z Areny - informacje o bieżących potrzebach,,
 Liczba osób w Arenie,40,Ostatnia aktualizacja
 ,,05/07/2022 07:40
 Przedmiot,Brakuje,Priorytet
-kawa mielona 250 gram,10 szt.,1. Pilnie potrzebne
 zestaw do szycia podróżny,3 szt.,1. Pilnie potrzebne
 maszynki jednorazowe do golenia damskie/męskie,30 szt.,1. Pilnie potrzebne
 pasta do zębów dla dorosłych ,18 szt.,1. Pilnie potrzebne
 gąbka do ciała ,23 szt,1. Pilnie potrzebne
-kawa rozpuszczalna,2 szt.,2. Potrzebne
+kawa mielona 250 gram,3 szt.,2. Potrzebne
 wędlina/kiełbasa krojona paczkowana,5 opak.,2. Potrzebne
 łyżeczki plastikowe,350 szt.,2. Potrzebne
 opakowania rękawiczek lateksowych S,2 opak,2. Potrzebne
 antyperspirant damski,5 szt,2. Potrzebne
 torby miękkie podróżne nowe/ stan bdb.,3 szt,2. Potrzebne
 antyperspirant męski,1 szt.,2. Potrzebne
-żel pod prysznic 50-500ml ,11 szt.,2. Potrzebne
 płyn do higieny intymnej mały 20-200ml,1 szt.,2. Potrzebne
 ser żółty krojony paczkowany,0 kg,3. Mamy wystarczająco
 filtry  do kawy rozmiar 4,0 opak,3. Mamy wystarczająco
@@ -34,6 +32,7 @@ mleko 1L,-212 szt.,4. Mamy nadmiar
 herbata czarna,-100 szt.,4. Mamy nadmiar
 "herbata melisa i inne zioła, herbata zielona",-4 szt.,4. Mamy nadmiar
 herbata owocowa różne rodzaje,-310 szt,4. Mamy nadmiar
+kawa rozpuszczalna,-14 szt.,4. Mamy nadmiar
 kakao rozpuszczalne,-1 szt.,4. Mamy nadmiar
 chleb tostowy,-7 szt.,4. Mamy nadmiar
 kabanosy ,-30 opak.,4. Mamy nadmiar
@@ -71,6 +70,7 @@ grzebienie/ szczotki,-3 szt,4. Mamy nadmiar
 pasta do zębów dla dzieci,-6 szt.,4. Mamy nadmiar
 patyczki do uszu ,-13 opak.,4. Mamy nadmiar
 ściereczki bawełniane jednorazowe - rolka,-284 szt.,4. Mamy nadmiar
+żel pod prysznic 50-500ml ,-170 szt.,4. Mamy nadmiar
 obcinacze do paznokci,-7 szt.,4. Mamy nadmiar
 szczoteczki do zębów dla dorosłych,-259 szt.,4. Mamy nadmiar
 odżywki do włosów ,-24 szt,4. Mamy nadmiar
