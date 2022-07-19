@@ -5,17 +5,13 @@ Liczba osób w Arenie,39,Ostatnia aktualizacja
 ,,05/07/2022 07:40
 Przedmiot,Brakuje,Priorytet
 zestaw do szycia podróżny,3 szt.,1. Pilnie potrzebne
-maszynki jednorazowe do golenia damskie/męskie,25 szt.,1. Pilnie potrzebne
-pasta do zębów dla dorosłych ,20 szt.,1. Pilnie potrzebne
-gąbka do ciała ,23 szt,1. Pilnie potrzebne
+płyn do higieny intymnej mały 20-200ml,5 szt.,1. Pilnie potrzebne
+gąbka do ciała ,17 szt,1. Pilnie potrzebne
 kawa mielona 250 gram,3 szt.,2. Potrzebne
 wędlina/kiełbasa krojona paczkowana,5 opak.,2. Potrzebne
 łyżeczki plastikowe,350 szt.,2. Potrzebne
 opakowania rękawiczek lateksowych S,2 opak,2. Potrzebne
-antyperspirant damski,5 szt,2. Potrzebne
 torby miękkie podróżne nowe/ stan bdb.,3 szt,2. Potrzebne
-antyperspirant męski,1 szt.,2. Potrzebne
-płyn do higieny intymnej mały 20-200ml,1 szt.,2. Potrzebne
 ser żółty krojony paczkowany,0 kg,3. Mamy wystarczająco
 filtry  do kawy rozmiar 4,0 opak,3. Mamy wystarczająco
 łyżki duże plastikowe,0 szt.,3. Mamy wystarczająco
@@ -56,19 +52,23 @@ kawa inka ,-30 szt.,4. Mamy nadmiar
 skarpety męskie,-185 szt,4. Mamy nadmiar
 zmywaki lub gąbki do naczyń,-40 opak.,4. Mamy nadmiar
 skarpety damskie,-185 szt.,4. Mamy nadmiar
-mydło w płynie,-111 szt.,4. Mamy nadmiar
+mydło w płynie,-119 szt.,4. Mamy nadmiar
 skarpety dziecięce,-178 szt,4. Mamy nadmiar
 karma dla kotełków,-21 szt.,4. Mamy nadmiar
+antyperspirant damski,-9 szt,4. Mamy nadmiar
+maszynki jednorazowe do golenia damskie/męskie,-9 szt.,4. Mamy nadmiar
 proszek do prania,-37 kg,4. Mamy nadmiar
 krem do twarzy 50-100ml,-20 szt,4. Mamy nadmiar
 krem do rąk 50-100 ml,-1 szt,4. Mamy nadmiar
 płyn do czyszczenia toalety,-50 opak.,4. Mamy nadmiar
 ręcznik papierowy - rolka,-296 szt.,4. Mamy nadmiar
 szampon do włosów 150-500ml,-382 szt.,4. Mamy nadmiar
+antyperspirant męski,-3 szt.,4. Mamy nadmiar
 pianka do golenia ,-3 szt,4. Mamy nadmiar
 grzebienie/ szczotki,-3 szt,4. Mamy nadmiar
-pasta do zębów dla dzieci,-5 szt.,4. Mamy nadmiar
+pasta do zębów dla dzieci,-23 szt.,4. Mamy nadmiar
 patyczki do uszu ,-13 opak.,4. Mamy nadmiar
+pasta do zębów dla dorosłych ,-28 szt.,4. Mamy nadmiar
 ściereczki bawełniane jednorazowe - rolka,-284 szt.,4. Mamy nadmiar
 żel pod prysznic 50-500ml ,-170 szt.,4. Mamy nadmiar
 obcinacze do paznokci,-7 szt.,4. Mamy nadmiar
