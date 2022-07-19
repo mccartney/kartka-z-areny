@@ -1,7 +1,7 @@
 PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
-Liczba osób w Arenie,40,Ostatnia aktualizacja
+Liczba osób w Arenie,39,Ostatnia aktualizacja
 ,,05/07/2022 07:40
 Przedmiot,Brakuje,Priorytet
 zestaw do szycia podróżny,3 szt.,1. Pilnie potrzebne
