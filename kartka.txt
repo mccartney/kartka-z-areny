@@ -7,12 +7,11 @@ Przedmiot,Brakuje,Priorytet
 łyżki duże plastikowe,1900 szt.,1. Pilnie potrzebne
 łyżeczki plastikowe,1900 szt.,1. Pilnie potrzebne
 zestaw do szycia podróżny,3 szt.,1. Pilnie potrzebne
-kawa mielona 250 gram,3 szt.,2. Potrzebne
 wędlina/kiełbasa krojona paczkowana,5 opak.,2. Potrzebne
 talerzyki jednorazowe małe,1000 szt.,2. Potrzebne
 opakowania rękawiczek lateksowych S,2 opak,2. Potrzebne
 torby miękkie podróżne nowe/ stan bdb.,3 szt,2. Potrzebne
-gąbka do ciała ,8 szt,2. Potrzebne
+kawa mielona 250 gram,0 szt.,3. Mamy wystarczająco
 ser żółty krojony paczkowany,0 kg,3. Mamy wystarczająco
 filtry  do kawy rozmiar 4,0 opak,3. Mamy wystarczająco
 kubeczki do zimnych napojów plastikowe,0 szt.,3. Mamy wystarczająco
@@ -25,6 +24,7 @@ worki na śmieci 120L,-2 opak.,3. Mamy wystarczająco
 pomadki nawilżające do ust/wazelina,0 szt.,3. Mamy wystarczająco
 opaski na oczy,0 szt.,3. Mamy wystarczająco
 walizki na kółkach nowe/ stan bdb. / kabinówki,0 szt.,3. Mamy wystarczająco
+gąbka do ciała ,0 szt,3. Mamy wystarczająco
 mleko 1L,-212 szt.,4. Mamy nadmiar
 herbata czarna,-100 szt.,4. Mamy nadmiar
 "herbata melisa i inne zioła, herbata zielona",-4 szt.,4. Mamy nadmiar
