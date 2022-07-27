@@ -4,21 +4,22 @@ Kartka z Areny - informacje o bieżących potrzebach,,
 Liczba osób w Arenie,58,Ostatnia aktualizacja
 ,,05/07/2022 07:40
 Przedmiot,Brakuje,Priorytet
+kawa rozpuszczalna,7 szt.,1. Pilnie potrzebne
+wędlina/kiełbasa krojona paczkowana,20 opak.,1. Pilnie potrzebne
+ser żółty krojony paczkowany,3 kg,1. Pilnie potrzebne
 łyżki duże plastikowe,1900 szt.,1. Pilnie potrzebne
 łyżeczki plastikowe,1900 szt.,1. Pilnie potrzebne
-zestaw do szycia podróżny,3 szt.,1. Pilnie potrzebne
 płyn do mycia naczyń,0 szt,1. Pilnie potrzebne
-wędlina/kiełbasa krojona paczkowana,5 opak.,2. Potrzebne
 talerzyki jednorazowe małe,1000 szt.,2. Potrzebne
 opakowania rękawiczek lateksowych S,2 opak,2. Potrzebne
-torby miękkie podróżne nowe/ stan bdb.,3 szt,2. Potrzebne
 kawa mielona 250 gram,0 szt.,3. Mamy wystarczająco
-ser żółty krojony paczkowany,0 kg,3. Mamy wystarczająco
 filtry  do kawy rozmiar 4,0 opak,3. Mamy wystarczająco
 kubeczki do zimnych napojów plastikowe,0 szt.,3. Mamy wystarczająco
 tacki papierowe jednorazowe małe prostokątne,-50 szt.,3. Mamy wystarczająco
 worki na smieci 35L,0 opak.,3. Mamy wystarczająco
 rękawice grube wielorazowe,0 szt.,3. Mamy wystarczająco
+zestaw do szycia podróżny,0 szt.,3. Mamy wystarczająco
+torby miękkie podróżne nowe/ stan bdb.,0 szt,3. Mamy wystarczająco
 pianka do golenia ,0 szt,3. Mamy wystarczająco
 worki na śmieci 160L,0 opak.,3. Mamy wystarczająco
 worki na śmieci 120L,-2 opak.,3. Mamy wystarczająco
@@ -30,7 +31,6 @@ mleko 1L,-212 szt.,4. Mamy nadmiar
 herbata czarna,-100 szt.,4. Mamy nadmiar
 "herbata melisa i inne zioła, herbata zielona",-4 szt.,4. Mamy nadmiar
 herbata owocowa różne rodzaje,-310 szt,4. Mamy nadmiar
-kawa rozpuszczalna,-14 szt.,4. Mamy nadmiar
 kakao rozpuszczalne,-1 szt.,4. Mamy nadmiar
 chleb tostowy,-7 szt.,4. Mamy nadmiar
 kabanosy ,-30 opak.,4. Mamy nadmiar
