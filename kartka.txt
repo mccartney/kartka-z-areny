@@ -4,7 +4,6 @@ Kartka z Areny - informacje o bieżących potrzebach,,
 Liczba osób w Arenie,58,Ostatnia aktualizacja
 ,,05/07/2022 07:40
 Przedmiot,Brakuje,Priorytet
-kawa rozpuszczalna,8 szt.,1. Pilnie potrzebne
 kawa mielona 250 gram,10 szt.,1. Pilnie potrzebne
 wędlina/kiełbasa krojona paczkowana,20 opak.,1. Pilnie potrzebne
 ser żółty krojony paczkowany,3 kg,1. Pilnie potrzebne
@@ -31,6 +30,7 @@ mleko 1L,-212 szt.,4. Mamy nadmiar
 herbata czarna,-100 szt.,4. Mamy nadmiar
 "herbata melisa i inne zioła, herbata zielona",-4 szt.,4. Mamy nadmiar
 herbata owocowa różne rodzaje,-310 szt,4. Mamy nadmiar
+kawa rozpuszczalna,-4 szt.,4. Mamy nadmiar
 kakao rozpuszczalne,-1 szt.,4. Mamy nadmiar
 chleb tostowy,-7 szt.,4. Mamy nadmiar
 kabanosy ,-30 opak.,4. Mamy nadmiar
@@ -62,7 +62,7 @@ proszek do prania,-37 kg,4. Mamy nadmiar
 krem do twarzy 50-100ml,-20 szt,4. Mamy nadmiar
 krem do rąk 50-100 ml,-1 szt,4. Mamy nadmiar
 płyn do czyszczenia toalety,-50 opak.,4. Mamy nadmiar
-ręcznik papierowy - rolka,-296 szt.,4. Mamy nadmiar
+ręcznik papierowy - rolka,-10 szt.,4. Mamy nadmiar
 szampon do włosów 150-500ml,-382 szt.,4. Mamy nadmiar
 antyperspirant męski,-7 szt.,4. Mamy nadmiar
 grzebienie/ szczotki,-3 szt,4. Mamy nadmiar
