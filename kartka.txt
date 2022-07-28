@@ -9,9 +9,11 @@ wędlina/kiełbasa krojona paczkowana,20 opak.,1. Pilnie potrzebne
 ser żółty krojony paczkowany,3 kg,1. Pilnie potrzebne
 łyżki duże plastikowe,1900 szt.,1. Pilnie potrzebne
 łyżeczki plastikowe,1900 szt.,1. Pilnie potrzebne
+opakowania rękawiczek lateksowych S,3 opak,1. Pilnie potrzebne
+opakowania rękawiczek lateksowych M,5 opak,1. Pilnie potrzebne
+opakowania rękawiczek lateksowych L,5 opak,1. Pilnie potrzebne
 płyn do mycia naczyń,0 szt,1. Pilnie potrzebne
 talerzyki jednorazowe małe,1000 szt.,2. Potrzebne
-opakowania rękawiczek lateksowych S,2 opak,2. Potrzebne
 filtry  do kawy rozmiar 4,0 opak,3. Mamy wystarczająco
 kubeczki do zimnych napojów plastikowe,0 szt.,3. Mamy wystarczająco
 tacki papierowe jednorazowe małe prostokątne,-50 szt.,3. Mamy wystarczająco
@@ -47,8 +49,6 @@ widelce plastikowe,-1400 szt.,4. Mamy nadmiar
 noże plastikowe,-2700 szt.,4. Mamy nadmiar
 talerze głębokie plastikowe do ciepłych posiłków,-1000 szt.,4. Mamy nadmiar
 miski papierowe do ciepłych posiłków,-1150 szt.,4. Mamy nadmiar
-opakowania rękawiczek lateksowych M,-2 opak,4. Mamy nadmiar
-opakowania rękawiczek lateksowych L,-2 opak,4. Mamy nadmiar
 kawa inka ,-30 szt.,4. Mamy nadmiar
 skarpety męskie,-185 szt,4. Mamy nadmiar
 zmywaki lub gąbki do naczyń,-40 opak.,4. Mamy nadmiar
