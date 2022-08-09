@@ -2,7 +2,7 @@ PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
 Liczba osób w Arenie,53,Ostatnia aktualizacja
-,,09/08/2022 19:03
+,,09/08/2022 19:22
 Przedmiot,Brakuje,Priorytet
 kawa rozpuszczalna,8 szt.,1. Pilnie potrzebne
 ser żółty krojony paczkowany,3 kg,1. Pilnie potrzebne
