@@ -1,7 +1,7 @@
 PRZEDMIOT,Brakuje,Priorytet
 Kartka z Areny - informacje o bieżących potrzebach,,
 ,,
-Liczba osób ,6,Ostatnia aktualizacja
+Liczba osób ,15,Ostatnia aktualizacja
 Punkt WOIK przy  ul. 6 Sierpnia 1/5,,09/08/2022 19:22
 Przedmiot,Brakuje,Priorytet
 kawa rozpuszczalna,8 szt.,1. Pilnie potrzebne
